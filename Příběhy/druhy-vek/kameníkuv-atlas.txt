@@ -2,12 +2,22 @@
 id: st:druhy-vek/kameníkuv-atlas
 nazev: Kameníkův atlas
 era: druhy-vek
-casovy_rah: -1550-03-12 až -1525-05-20
+casovy_rah: -1550-03-12 až -1519-08-10
 autor: Kronikář
 nemenny: ano
 
 Obsah:
 ČÁST I: Dětství a Probuzení
+
+ČÁST II: Cesta a Pochybnost
+
+První léta Rianova putování byla plná samoty. Lidem se vyhýbal, jejich myšlenky a emoce pro něj byly příliš chaotické, příliš ostré. Jeho společníky byly vítr, déšť a tichý šepot země, který se učil rozlišovat. Jeho mapy se plnily symboly. Zjistil, že radost krajiny často kreslí jako soustředné kruhy, zatímco starý smutek jako hluboké, rovné rýhy.
+
+Na podzim roku -1521 ho jeho cesta zavedla k místu, o kterém slýchal jen v šeptaných pověstech – k Jezeru odrazu. Očekával klid, ale to, co našel, ho téměř zničilo. Jakmile se přiblížil k jeho břehům, zaplavila ho ohlušující kakofonie myšlenek. Nebyly to jen ozvěny snů lidí, jak pravily legendy. Cítil zde myšlenky všeho: pýchu staré skály, touhu kořenů po vodě, strach zajíce, který se ukryl v rákosí. Bylo to, jako by se mu do hlavy naráz vylilo celé Prvotní moře myšlí. Tři dny ležel na břehu, neschopen pohybu, zmítán horečkou a cizími vzpomínkami. Když konečně vstal, byl pohublý a v očích měl výraz starce. Do své mapy vyznačil jezero jako černou skvrnu, symbol pro "chaos, který pohlcuje". Tato zkušenost ho navždy změnila; naučila ho pokoře před silou země.
+
+Pokračoval v cestě na jih, do neprozkoumaných hor. V létě roku -1519 mapoval odlehlé údolí, kterému dominovaly holé, větrem ošlehané skály. A tam narazil na něco, co dosud nepoznal: na ticho. Nebylo to uklidňující ticho opuštěných míst, ale tíživá, nepřirozená prázdnota. Jako by země v tomto místě zadržela dech. Všechny jeho smysly křičely varování. Cítil strach, který nepatřil jemu, ale samotné půdě pod nohama. Údolí nazval Údolím tichého strachu a do své mapy ho zakreslil jako prázdné místo, obkroužené ostnatou linií. Když se pokusil varovat pastevce v nížině pod údolím a ukázal jim mapu s prázdnotou, vysmáli se mu. "Jak můžeš zmapovat nic?" řekli a poslali ho pryč. O několik generací později se z tohoto ticha zrodil Stín, který přinesl zkázu do Dolního průsmyku. Rian byl první, kdo zaznamenal jeho příchod, ale nikdo mu nenaslouchal.
+
+Zlomený nepochopením a vyčerpaný svou cestou bloudil bez cíle, dokud ho jeho nohy nedonesly k prastarému rozcestí. Tam stál strom, jehož větve připomínaly vrásčité ruce starce. Byl to Dub paměti. Rian neslyšel jeho hlas jako Sběrač hlasů. Jen se v naprostém zoufalství opřel o jeho kmen. V tom okamžiku ho zaplavil pocit hlubokého, věčného klidu. Nebyla to zpráva, nebylo to poselství. Bylo to jen tiché, ale nezlomné ujištění, že není sám. Že paměť světa je nekonečná a jeho malý život v ní má své místo. V den 10. srpna -1519 seděl pod dubem a poprvé po letech plakal. Ne zoufalstvím, ale úlevou. Do mapy nezakreslil nic. Některé věci se zmapovat nedají. Musí se prožít. S novou, klidnější silou v srdci se vydal dál, hledat místo, kde by mohl začít své skutečné dílo.
 
 Rian se narodil na jaře roku -1550, v den, kdy se sníh na vrcholcích Tichých kopců konečně vzdal a Kamenný potok se rozvodnil. Jeho domovem byla Osada Vřesová stráň, shluk několika kamenných domů a ovčích ohrad, přitisknutých k úpatí hor tak těsně, jako by se bály samoty. Nebyla to vesnice jako Ta U tří kamenů, kde se tradovaly legendy; zdejší lidé byli tvrdí a mlčenliví a jejich jediným příběhem byl každodenní boj o přežití.
 
