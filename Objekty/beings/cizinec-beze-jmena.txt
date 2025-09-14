@@ -1,0 +1,23 @@
+
+
+
+
+id: obj:beings/cizinec-beze-jmena
+jmeno: Cizinec beze jména
+kategorie: beings
+stav: neznamy
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Tajemný poutník hledající odpovědi na ztracená jména. Jeho slova se vytrácejí z paměti svědků.
+Zásahem utišil Stín, ale cena byla vysoká.
+
+Dějiny:
+- -1200-09-12 — Pronesl nezapamatovatelná slova; Stín ustoupil, ale jména tří z družiny zmizela (viz Příběhy/druhy-vek/pochod-stinu.txt).
+
+Poznámky:
+Vztah k Nositelům hlasů nejasný; možnost, že je jedním z nich.
+
+
+

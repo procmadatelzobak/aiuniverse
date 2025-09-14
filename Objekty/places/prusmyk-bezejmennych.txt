@@ -1,0 +1,19 @@
+
+
+id: obj:places/prusmyk-bezejmennych
+jmeno: Průsmyk bezejmenných
+kategorie: places
+stav: nebezpecny
+aliasy: Dolní průsmyk
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Úzké sedlo mezi lesy, kde se myšlenky krajiny často shlukují do jediné, tíživé melodie.
+Lidé se mu vyhýbají od doby, kdy se v jeho hlubinách ztratila jména.
+
+Dějiny:
+- -1200-09-12 — Po střetu družiny se Stínem získal průsmyk nové jméno (viz Příběhy/druhy-vek/pochod-stinu.txt).
+
+Poznámky:
+Původ fenoménu „ztracených jmen“ zůstává nejasný.
+

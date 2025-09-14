@@ -1,0 +1,23 @@
+
+
+
+
+id: obj:beings/pevkyně-mlh
+jmeno: Pěvkyně mlh
+kategorie: beings
+stav: ziva (otresena)
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Žena, jejíž hlas se dokáže na okamžik spojit s písní země a zesílit ji či uklidnit.
+Zpěv ji však stojí mnoho sil.
+
+Dějiny:
+- -1200-09-10 — Pokusila se přeladit píseň lesa u průsmyku; Stín ji umlčel beze zvuku (viz Příběhy/druhy-vek/pochod-stinu.txt).
+
+Poznámky:
+Stav po události nejasný; vyžaduje následné příběhy pro upřesnění.
+
+
+

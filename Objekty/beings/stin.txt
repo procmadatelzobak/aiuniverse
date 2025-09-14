@@ -1,0 +1,22 @@
+
+
+
+id: obj:beings/stin
+jmeno: Stín
+kategorie: beings
+stav: nedefinovany
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Beztvará entita nebo zhmotnělá myšlenka krajiny, která lidem vrací jejich vlastní strachy a skryté vzpomínky.
+Působí jako negativ hlasu země: pohlcuje, přehlušuje, zamlčuje.
+
+Dějiny:
+- -1200-09-10 — Zjevil se v Dolním průsmyku a paralyzoval družinu sedmi (viz Příběhy/druhy-vek/pochod-stinu.txt).
+- -1200-09-12 — Po nezaznamenatelných slovech Cizince ustoupil do lesů (viz Příběhy/druhy-vek/pochod-stinu.txt).
+
+Poznámky:
+Nelze rozhodnout, zda je Stín bytost, nebo pouze kondenzace obav lidí a krajiny.
+
+
