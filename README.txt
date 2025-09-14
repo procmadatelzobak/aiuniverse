@@ -7,6 +7,7 @@ Složky:
 - Příběhy/   — neměnné příběhy (literární texty) zasazené do univerza.
 - Legendy/   — základní pravdy, mechaniky a popis světa (mimo konkrétní objekty).
 - Pokyny/    — závazná pravidla, checklisty a postupy pro práci (pro lidi i OpenHands).
+- timeline.txt — chronologický přehled událostí univerza.
 
 Základní pravidla:
 - Příběhy jsou neměnné po schválení. Pokud něco nesedí, upravují se Objekty.
