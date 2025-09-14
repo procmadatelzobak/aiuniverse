@@ -10,6 +10,7 @@ Co NEMÁ dělat:
 - Neprogramuje. Nepřidává skripty ani nástroje.
 - Nemění již schválené Příběhy. Vždy raději upraví Objekty.
 - Nevkládá spekulace bez opory v Příbězích nebo Legendách (nejistoty → do Poznámek objektu).
+- Nemění již schválenou časovou osu bez úpravy souvisejících Příběhů nebo Objektů.
 
 Požadavky na Pull Request:
 - PR musí obsahovat vyplněný checklist: viz PR-POKYNY.txt.

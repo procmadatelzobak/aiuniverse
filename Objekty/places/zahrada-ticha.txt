@@ -1,0 +1,16 @@
+
+id: obj:places/zahrada-ticha
+jmeno: Zahrada ticha
+kategorie: places
+stav: opustena
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Opuštěné místo, pozůstatek starého sídla, kde se hromadí jemné ozvěny a vzpomínky. Kdysi zde žila bytost zrozená z paměti, Lyra.
+
+Dějiny:
+- -1850-01-01 až -1850-12-31 — V zahradě se zrodila Lyra, Tkadlena vzpomínek. Místo bylo navštíveno mladým mužem Lianem, jehož láska změnila podstatu Lyry a způsobila chřadnutí zahrady (viz Příběhy/druhy-vek/zahrada-ticha.txt).
+
+Poznámky:
+Místo je tiché, ale ne prázdné; plné jemných ozvěn minulosti.

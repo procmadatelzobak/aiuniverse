@@ -1,0 +1,16 @@
+
+# Časová osa Univerza
+
+## První věk
+- **-3200-04-14**: Dub paměti ukázal cestu Sběrači hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
+- **-3200-04-15**: Píseň u Jezera odrazu; setkání Sběrače hlasů s vesničany (viz Příběhy/prvni-vek/pisen-u-jezera.txt). Vesničané byli svědky této události (viz Objekty/places/vesnice-u-tri-kamenu.txt).
+- **-3200-04-16**: Sběrač hlasů zmizel (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
+
+## Druhý věk
+- **-2500-06-10**: Nalezen Šeptající kámen kameníkem Kaelem (viz Objekty/things/septajici-kamen.txt).
+- **-2500-06-18**: Šeptající kámen pohřben u kořenů starého dubu (viz Objekty/things/septajici-kamen.txt, Příběhy/prvni-vek/kamenne-ozveny.txt).
+- **-1850-01-01**: Mladý muž Lian pocházel z nedaleké osady a často navštěvoval okolní lesy (viz Příběhy/druhy-vek/zahrada-ticha.txt). Lian navštívil Zahradu ticha a zamiloval se do Lyry (viz Objekty/beings/lian.txt, Objekty/places/zahrada-ticha.txt).
+- **-1850-12-31**: Lyra, utkaná z paměti Zahrady ticha, byla ovlivněna Lianovou láskou, což vedlo k proměně její podstaty a chřadnutí zahrady. Lian odešel (viz Příběhy/druhy-vek/zahrada-ticha.txt, Objekty/beings/lyra.txt, Objekty/places/zahrada-ticha.txt).
+- **-1200-09-01**: Poslové vysláni varovat okolí před Stínem v Dolním průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt).
+- **-1200-09-09**: Dub paměti varoval družinu sedmi na cestě do průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt).
+

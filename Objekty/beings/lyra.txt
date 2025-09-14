@@ -1,0 +1,18 @@
+
+
+id: obj:beings/lyra
+jmeno: Lyra
+kategorie: beings
+stav: proměnlivy (utkaná z paměti)
+aliasy: Tkadlena vzpomínek
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Bytost utkaná z ozvěn a zapomenutých vzpomínek opuštěných míst, konkrétně ze Zahrady ticha. Její podoba není stálá, ale odráží vzpomínky a city těch, kdo ji navštíví.
+
+Dějiny:
+- -1850-01-01 až -1850-12-31 — Zrodila se v Zahradě ticha z ozvěn. Byla ovlivněna láskou mladého muže Liana, což vedlo ke změně její podstaty a chřadnutí zahrady. Po Lianově odchodu zůstala v zahradě jako živoucí paměť jeho lásky (viz Příběhy/druhy-vek/zahrada-ticha.txt).
+
+Poznámky:
+Její existence je spojena s pamětí místa. Láska Liana ji přiměla k proměně, ale zároveň ji zničila jako původní bytost.
+

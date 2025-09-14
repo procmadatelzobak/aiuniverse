@@ -24,6 +24,10 @@ Pokud PR PŘIDÁVÁ/UPRAVUJE LEGENDU:
 [ ] L2) Přidán „Vztah k Příběhům/Objektům“ (vyjmenovány soubory).
 [ ] L3) Není v rozporu s Příběhy; nutné dopady řeší úprava Objektů (ne příběhů).
 
+Pokud PR PŘIDÁVÁ/UPRAVUJE ČASOVOU OSU:
+[ ] T1) Soubor timeline.txt aktualizován s novými událostmi a daty.
+[ ] T2) Všechny nové události v časové ose mají odkaz na související Příběh nebo Objekt.
+
 Formální:
 [ ] F1) Pravopis zkontrolován.
 [ ] F2) Bez duplicit/rozporů napříč soubory.

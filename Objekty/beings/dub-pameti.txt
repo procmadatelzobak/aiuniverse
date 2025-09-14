@@ -14,6 +14,7 @@ Dokáže naznačit cestu a předat útržky dávných myšlenek těm, kdo jej sl
 
 Dějiny:
 - -3200-04-14 — Ukázal cestu poutníkovi známému jako Sběrač hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
+- -1850-01-01 — Naznačil cestu k Zahradě ticha mladému muži Lianovi (viz Příběhy/druhy-vek/zahrada-ticha.txt).
 - -1200-09-09 — Varoval družinu sedmi na cestě do průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt).
 
 Poznámky:

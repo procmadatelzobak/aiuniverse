@@ -1,0 +1,19 @@
+
+
+id: obj:beings/lian
+jmeno: Lian
+kategorie: beings
+stav: zijici
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Mladý muž z nedaleké osady, který se cítil odcizený ve společnosti. Hledal klid a nacházel ho v tichých místech, kde slyšel šepot země. Jeho láska k Lyře v Zahradě ticha měla hluboký dopad na ni i na samotnou zahradu.
+
+Dějiny:
+- -1850-01-01 až -1850-12-31 — Navštívil Zahradu ticha a zamiloval se do Lyry. Jeho láska způsobila proměnu Lyry a chřadnutí zahrady. Nakonec se rozhodl odejít, aby ji nezničil, a vrátil se do své vesnice s novým pochopením světa (viz Příběhy/druhy-vek/zahrada-ticha.txt).
+
+Poznámky:
+Jeho příběh ilustruje sílu lásky a oběti, a jak může i ta nejupřímnější náklonnost mít ničivé následky, pokud není v souladu s podstatou druhého.
+
+
