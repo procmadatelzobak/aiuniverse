@@ -1,0 +1,10 @@
+
+
+RETCONY (ZMĚNY INTERPRETACE MINULOSTI)
+
+- Příběhy po schválení NEMĚNÍME.
+- Pokud příběh vyvolá potřebu upravit minulou interpretaci, PROVEĎ ÚPRAVY V OBJEKTECH.
+- Do „Dějiny“ objektu zapiš nový záznam s datem a „retcon: <důvod>“ + odkaz na příběh.
+- Legendy lze rozšiřovat; pokud vznikne rozpor, oprav Objekty (ne příběhy).
+- V PR vysvětli, co a proč se reinterpretuje.
+

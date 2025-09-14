@@ -1,0 +1,19 @@
+
+
+id: obj:places/prvotni-more-mysli
+jmeno: Prvotní moře myšlí
+kategorie: places
+stav: nemenne
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Neurčité místo či spíše stav bytí, kde se na počátku vířily všechny myšlenky Země.
+Z tohoto moře povstaly první bytosti a základní podoby krajiny.
+
+Dějiny:
+- Pradávno — Z myšlenek zdejší hloubky se zrodili Nositelé hlasů.
+
+Poznámky:
+Není jisté, zda šlo o skutečnou krajinu, nebo duševní oceán.
+

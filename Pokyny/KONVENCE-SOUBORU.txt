@@ -1,0 +1,21 @@
+
+KONVENCE PRO NÁZVY A STRUKTURU SOUBORŮ
+
+Názvy souborů:
+- malá písmena, pomlčky místo mezer: „stary-vratecny-vrba.txt“.
+- jedna entita = jeden soubor.
+
+Formát (plaintext):
+- Začni blokem METADATA: 1 řádek = 1 položka (klíč: hodnota).
+- Pak sekce (např. „Popis“, „Dějiny“, „Poznámky“).
+- Datumy jako YYYY-MM-DD; nejistoty zapiš do Poznámek.
+
+Příklad METADATA (Objekty):
+id: obj:beings/stary-vratecny-vrba
+jmeno: Starý Vratečný Vrba
+kategorie: beings
+stav: zivy
+aliasy: Elder Willow; Strážce Brodiště
+naposledy_upraveno: 2025-09-15
+
+Odkazy piš cestami v repu: Příběhy/prvni-vek/pisen-u-jezera.txt

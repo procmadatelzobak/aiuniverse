@@ -1,0 +1,21 @@
+
+
+
+id: obj:beings/dub-pameti
+jmeno: Dub paměti
+kategorie: beings
+stav: zivy
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Prastarý strom, o němž se věří, že uchovává paměť krajiny.
+Dokáže naznačit cestu a předat útržky dávných myšlenek těm, kdo jej slyší.
+
+Dějiny:
+- -3200-04-14 — Ukázal cestu poutníkovi známému jako Sběrač hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
+
+Poznámky:
+Bývá zmiňován jako nejstarší svědek okolních událostí.
+
+

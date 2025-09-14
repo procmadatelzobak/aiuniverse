@@ -1,0 +1,30 @@
+
+POVINNÝ CHECKLIST PRO KAŽDÝ PULL REQUEST
+
+[ ] 1) Shrnutí PR je jasné (co a proč).
+[ ] 2) PR je jeden logický balík.
+[ ] 3) Všechny nové soubory jsou plaintext česky, jedna věc = jeden soubor.
+
+Pokud PR PŘIDÁVÁ NOVÝ PŘÍBĚH:
+[ ] P1) Soubor v Příběhy/<éra>/<název>.txt vytvořen.
+[ ] P2) Příběh je finální a neměnný po merge.
+[ ] P3) V PR je vypsán seznam dotčených objektů (cesty v Objekty/…).
+[ ] P4) Chybějící objekty PR přidává (nebo navazuje další PR).
+[ ] P5) Časové body/stavy jsou popsány tak, aby šly propsat do objektů.
+
+Pokud PR PŘIDÁVÁ/UPRAVUJE OBJEKT:
+[ ] O1) Soubor v Objekty/<kategorie>/<nazev>.txt existuje.
+[ ] O2) V „Dějiny“ přidány záznamy s datem a stručným popisem změny.
+[ ] O3) U změn uveden odkaz na příslušný Příběh (cesta).
+[ ] O4) Nový stav neodporuje žádnému schválenému Příběhu.
+[ ] O5) Nejistoty zapsány v „Poznámky“.
+
+Pokud PR PŘIDÁVÁ/UPRAVUJE LEGENDU:
+[ ] L1) Soubor v Legendy/<téma>.txt vytvořen/aktualizován věcně.
+[ ] L2) Přidán „Vztah k Příběhům/Objektům“ (vyjmenovány soubory).
+[ ] L3) Není v rozporu s Příběhy; nutné dopady řeší úprava Objektů (ne příběhů).
+
+Formální:
+[ ] F1) Pravopis zkontrolován.
+[ ] F2) Bez duplicit/rozporů napříč soubory.
+[ ] F3) Sekce „Dopady“ v PR popisuje, co zkontrolovat a co vzniklo.

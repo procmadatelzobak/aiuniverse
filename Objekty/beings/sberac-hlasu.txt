@@ -1,0 +1,22 @@
+
+
+
+id: obj:beings/sberac-hlasu
+jmeno: Sběrač hlasů
+kategorie: beings
+stav: nezvestny
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Tajemný poutník, vyhublý, s očima plnýma barev beze jména.
+Naslouchá stromům; k jezeru jej dovedl Dub paměti.
+Je považován za Nositele hlasů.
+
+Dějiny:
+- -3200-04-15 — Dorazil do vesnice U tří kamenů, vyslechl píseň jezera a ráno zmizel (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
+
+Poznámky:
+Někdo věří, že se proměnil ve stín stromů na druhém břehu.
+
+

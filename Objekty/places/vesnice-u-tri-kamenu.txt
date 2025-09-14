@@ -1,0 +1,21 @@
+
+
+
+id: obj:places/vesnice-u-tri-kamenu
+jmeno: Vesnice U tří kamenů
+kategorie: places
+stav: obydlena
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Malá vesnice vystavěná kolem tří zvláštních kamenů, o nichž se říká, že spadly z nebe.
+Lidé zde žijí v těsném soužití s náladami krajiny.
+
+Dějiny:
+- -3200-04-15 — Vesničané byli svědky písně Jezera odrazu a setkání se Sběračem hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
+
+Poznámky:
+Původ kamenů je neznámý; místní jim připisují ochrannou moc.
+
+

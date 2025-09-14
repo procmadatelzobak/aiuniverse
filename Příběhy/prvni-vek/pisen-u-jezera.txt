@@ -1,0 +1,45 @@
+
+
+id: st:prvni-vek/pisen-u-jezera
+nazev: Píseň u jezera
+era: prvni-vek
+casovy_rah: -3200-04-15 až -3200-04-16
+autor: <tvoje_jmeno>
+nemenny: ano
+
+Obsah:
+Bylo jaro roku -3200, když mlha sestoupila k Jezeru odrazu.
+Té noci se krajina chvěla, jako by se snažila uspořádat vlastní zmatené sny.
+Jezero bylo zvláštní — hladina šeptala útržky slov, někdy radostné, jindy ostré jako střepy.
+Lidé z vesnice U tří kamenů věděli, že kdo se do vody příliš dlouho zahledí,
+ztratí kousek sám sebe a získá cizí vzpomínku.
+
+V tu dobu dorazil poutník, známý pouze jako Sběrač hlasů.
+Byl vyhublý, ale v očích mu plály barvy, které nikdo z vesničanů neuměl pojmenovat.
+Říkal, že slyší myšlenky stromů a že mu starý Dub paměti ukázal cestu sem.
+Lidé se mu smáli, ale přesto ho pozvali do kruhu ohně,
+protože vesnice se řídila starým zvykem – nikoho neodmítat pod střechou, když v noci mluví země.
+
+Poutník se posadil, mlčel a poslouchal, jak kameny v ohni praskají.
+Pak pronesl, že Jezero odrazu v tuto noc poví jinou píseň,
+píseň, která nebude jen ozvěnou cizích myšlenek,
+ale skutečným hlasem země.
+Vesničané tomu nevěřili, ale šli s ním k vodě.
+Na břehu mlčky čekali, zatímco hladina potemněla a rozčeřily ji prstence světla.
+
+A opravdu – v té chvíli zazněla píseň, kterou slyšeli všichni stejně.
+Nebyla potrhlá ani roztříštěná, byla to jasná výpověď:
+„Pamatujte, kdo jste, a noste mé myšlenky dál.“
+Pak se voda utišila a každý z přítomných cítil v sobě zvláštní klid,
+jako by měl uloženu malou jiskru, která ho už nikdy neopustí.
+
+Sběrač hlasů zmizel následujícího rána.
+Někteří tvrdili, že se proměnil ve stín stromů na druhém břehu.
+Jiní přísahali, že odešel cestou, kterou předtím nikdy nikdo neviděl.
+Ale píseň, kterou zanechal, se zpívá ve vesnici U tří kamenů dodnes.
+Kdo ji slyší, prý se mu zdají sny o minulosti,
+která není jeho vlastní, a přesto mu patří.
+
+Poznámky:
+Tento příběh zavádí Nositele hlasů (Sběrač) a „živé“ místo (Jezero odrazu).
+

@@ -1,0 +1,19 @@
+
+
+id: obj:places/jezero-odrazu
+jmeno: Jezero odrazu
+kategorie: places
+stav: trvale
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Jezero, jehož hladina šeptá myšlenky a ozvěny cizích snů.
+Dlouhé hledění do vody může člověku vzít kousek vlastní paměti a nahradit ji cizí vzpomínkou.
+
+Dějiny:
+- -3200-04-15 — Zazněla píseň slyšitelná všemi přítomnými (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
+
+Poznámky:
+Jedno z ohnisek, kde země mluví jasněji než jinde.
+
