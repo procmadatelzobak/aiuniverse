@@ -1,0 +1,21 @@
+
+
+
+id: obj:places/lom-tichych-vzdechu
+jmeno: Lom tichých vzdechů
+kategorie: places
+stav: opusteny
+aliasy: Jizva
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Starý, opuštěný lom na východ od Osady Vřesová stráň. Místo je prodchnuto hlubokým pocitem smutku a ztráty, který je vnímán citlivými jedinci.
+
+Dějiny:
+- -1540 (cca) — Rian v dětství často navštěvoval lom a vnímal jeho melancholickou atmosféru, což formovalo jeho chápání "paměti" míst (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+
+Poznámky:
+Pojmenování "Lom tichých vzdechů" pochází od Riana a odráží jeho vnímání místa. Místní obyvatelé ho znají pouze pod pragmatickým názvem "Jizva".
+
+
+

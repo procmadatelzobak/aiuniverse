@@ -1,0 +1,24 @@
+
+id: st:druhy-vek/kameníkuv-atlas
+nazev: Kameníkův atlas
+era: druhy-vek
+casovy_rah: -1550-03-12 až -1525-05-20
+autor: Kronikář
+nemenny: ano
+
+Obsah:
+ČÁST I: Dětství a Probuzení
+
+Rian se narodil na jaře roku -1550, v den, kdy se sníh na vrcholcích Tichých kopců konečně vzdal a Kamenný potok se rozvodnil. Jeho domovem byla Osada Vřesová stráň, shluk několika kamenných domů a ovčích ohrad, přitisknutých k úpatí hor tak těsně, jako by se bály samoty. Nebyla to vesnice jako Ta U tří kamenů, kde se tradovaly legendy; zdejší lidé byli tvrdí a mlčenliví a jejich jediným příběhem byl každodenní boj o přežití.
+
+Už jako dítě byl Rian jiný. Zatímco ostatní chlapci soupeřili v hodu kamenem, on sedával na břehu potoka a naslouchal. Neslyšel jen zurčení vody, ale i její nenasytný hlad po kamenech a hněvivý spěch, se kterým se drala do údolí. Jeho matka se často zlobila, že má hlavu v oblacích, ale Rian neměl hlavu v oblacích, nýbrž v zemi pod svýma nohama. Cítil její tep.
+
+Nejraději chodil do starého, opuštěného lomu na východ od osady. Místní mu říkali prostě "Jizva", ale Rian pro něj měl jiné jméno: Lom tichých vzdechů. Když se posadil na jeho okraj, cítil hluboký, zakořeněný smutek kamene, který byl vyrván z nitra hory a teď tu ležel opuštěný. Vnímal ozvěny námahy mužů, kteří zde kdysi pracovali, a tichý žal země nad jizvou, která se nikdy nezahojí.
+
+Roku -1538, když mu bylo dvanáct let, ho otec poslal do učení k tesaři Jornovi. Rian byl šikovný, jeho ruce byly přesné, ale jeho mysl byla jinde. Po večerech, při svitu lojové svíce, si kreslil. Nebyly to obrázky zvířat ani lidí. Byly to mapy. Začal s osadou a jejím nejbližším okolím. Ale jeho mapy byly pro Jorna i pro všechny ostatní nečitelné. Křivolaká čára Kamenného potoka byla hustě šrafovaná, což podle Riana znamenalo jeho "hněv". Lom tichých vzdechů byl vyznačen spirálou směřující dovnitř, symbolem pro "ztrátu a smutek". Les na severu, kterého se lidé báli, pokrývaly drobné, ostré trojúhelníky značící "strach".
+
+"K čemu je mapa, která neukazuje cestu, ale jen tvoje pocity, chlapče?" ptal se ho Jorn a kroutil hlavou. Pro Riana však jeho mapy cestu ukazovaly – ne k cíli, ale k pochopení.
+
+Roky plynuly. Rian dospěl v mlčenlivého mladého muže, jehož jedinými přáteli byly jeho mapy a pocity krajiny. Věděl, že v osadě pro něj není místo. Jeho vnímání světa bylo pro ostatní jen podivínstvím. Rozhodnutí v něm zrálo pomalu, jako semeno v zemi.
+
+Na jaře roku -1525, krátce po svých pětadvacátých narozeninách, se rozhodl. V noci sbalil svůj skromný majetek: náhradní tuniku, nůž, křesadlo a svitky pergamenu, na které nakreslil své podivné mapy. Nechal je ležet na stole v tesařově dílně. Nebyly pro ostatní. Byly jen důkazem, že se nezbláznil. Za úsvitu dne 20. května -1525 opustil Vřesovou stráň. Neohlédl se. Jeho cílem nebylo nic menšího než vytvořit atlas celého světa. Atlas, který by nezachycoval jen jeho tělo, ale i jeho duši.
