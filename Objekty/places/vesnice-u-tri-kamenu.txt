@@ -15,6 +15,9 @@ Lidé zde žijí v těsném soužití s náladami krajiny.
 Dějiny:
 - -3200-04-15 — Vesničané byli svědky písně Jezera odrazu a setkání se Sběračem hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
 
+Dějiny:
+- -1200-09-01 — Poslové vysláni varovat okolí před Stínem v Dolním průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt).
+
 Poznámky:
 Původ kamenů je neznámý; místní jim připisují ochrannou moc.
 
