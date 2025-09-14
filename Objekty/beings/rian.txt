@@ -1,0 +1,20 @@
+
+
+id: obj:beings/rian
+jmeno: Rian
+kategorie: beings
+stav: zivy
+aliasy: Kartograf pocitů
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Muž narozený se vzácnou a silnou schopností vnímat emoce a nálady krajiny. Svůj život zasvětil snaze tyto vjemy zmapovat a porozumět jim.
+
+Dějiny:
+- -1550-03-12 — Narodil se v Osadě Vřesová stráň.
+- -1538 — Nastoupil do učení k tesaři, po večerech začal tajně kreslit své první "emoční" mapy okolí.
+- -1525-05-20 — Opustil svou rodnou osadu, aby se vydal na cestu a vytvořil atlas, který by zmapoval "duši" světa (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+
+Poznámky:
+Jeho schopnost je intuitivní a vrozená. Není Nositel hlasů, ale spíše pasivní přijímač "hlasu země". Jeho mapy jsou pro běžné lidi nesrozumitelné.
+
