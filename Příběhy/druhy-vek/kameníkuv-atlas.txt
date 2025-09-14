@@ -2,7 +2,7 @@
 id: st:druhy-vek/kameníkuv-atlas
 nazev: Kameníkův atlas
 era: druhy-vek
-casovy_rah: -1550-03-12 až -1519-08-10
+casovy_rah: -1550-03-12 až -1466-12-01
 autor: Kronikář
 nemenny: ano
 
@@ -10,6 +10,8 @@ Obsah:
 ČÁST I: Dětství a Probuzení
 
 ČÁST II: Cesta a Pochybnost
+
+ČÁST III: Mistrovství a Odkaz
 
 První léta Rianova putování byla plná samoty. Lidem se vyhýbal, jejich myšlenky a emoce pro něj byly příliš chaotické, příliš ostré. Jeho společníky byly vítr, déšť a tichý šepot země, který se učil rozlišovat. Jeho mapy se plnily symboly. Zjistil, že radost krajiny často kreslí jako soustředné kruhy, zatímco starý smutek jako hluboké, rovné rýhy.
 
@@ -32,3 +34,17 @@ Roku -1538, když mu bylo dvanáct let, ho otec poslal do učení k tesaři Jorn
 Roky plynuly. Rian dospěl v mlčenlivého mladého muže, jehož jedinými přáteli byly jeho mapy a pocity krajiny. Věděl, že v osadě pro něj není místo. Jeho vnímání světa bylo pro ostatní jen podivínstvím. Rozhodnutí v něm zrálo pomalu, jako semeno v zemi.
 
 Na jaře roku -1525, krátce po svých pětadvacátých narozeninách, se rozhodl. V noci sbalil svůj skromný majetek: náhradní tuniku, nůž, křesadlo a svitky pergamenu, na které nakreslil své podivné mapy. Nechal je ležet na stole v tesařově dílně. Nebyly pro ostatní. Byly jen důkazem, že se nezbláznil. Za úsvitu dne 20. května -1525 opustil Vřesovou stráň. Neohlédl se. Jeho cílem nebylo nic menšího než vytvořit atlas celého světa. Atlas, který by nezachycoval jen jeho tělo, ale i jeho duši.
+ČÁST III: Mistrovství a Odkaz
+
+Po setkání s Dubem paměti Rian opustil myšlenku na mapování celého světa. Pochopil, že jeho úkolem není obsáhnout vše, ale dokonale porozumět jednomu místu a v něm zanechat svůj odkaz. Pět let hledal, až konečně v roce -1514 našel to, co jeho srdce poznalo jako svůj cíl: zapomenuté, bezejmenné údolí sevřené mezi třemi skalnatými vrcholy. Údolí bylo tiché, ale ne prázdné jako Údolí tichého strachu. Bylo plné ozvěn – ozvěn dávných větrů, ozvěn růstu skal a ozvěn ticha samotného. Nazval ho Údolí tichých ozvěn.
+
+Zde Rian pochopil, že pergamen a uhlík jsou příliš pomíjivé, aby zachytily věčnost. Jeho dílo musí být vytesáno do materiálu, který má paměť sám o sobě – do kamene. V údolí se nacházela mohutná, hladká skalní stěna, chráněná před nejhoršími větry. To se mělo stát jeho plátnem.
+
+Po zbytek svého života Rian pracoval. Opustil myšlenku na symboly a začal tesat samotné pocity. Hněv a sílu horských bystřin vytesal jako hluboké, divoké rýhy, které se sbíhaly a rozbíhaly. Klid a mír lesní mýtiny ztvárnil jako hladce opracované, jemně zvlněné plochy, které lákaly k doteku. Prastarý smutek země vyjádřil jako obrovské, dolů směřující oblouky, z nichž jako by kanuly kamenné slzy. Jeho dílo nebylo mapou v pravém slova smyslu. Byl to Kamenný atlas – atlas duše světa, přeložený do jazyka dláta a kamene.
+
+Nepracoval pro lidi, nehledal uznání. Pracoval v tichém dialogu se zemí. Někdy celé měsíce jen seděl a naslouchal, než udělal jediný úder. Jeho ruce zesílily a zhrubly, jeho tvář ošlehal vítr a jeho vlasy zbělely jako sníh na vrcholcích hor. Stal se součástí údolí, stejně jako skály a stromy.
+
+Rian zemřel stářím na začátku zimy roku -1466, s dlátem v ruce, opřený o své nedokončené dílo. Našel ho až po letech zbloudilý lovec, který nechápal, co vidí. Zpráva o "podivínovi, co kreslil do skal" se donesla do okolních osad, ale brzy byla zapomenuta.
+
+Jeho Kamenný atlas však zůstal. Pro většinu lidí byl jen nesrozumitelnou změťí rýh a tvarů. Ale pro ty, kteří uměli naslouchat – pro zbloudilé poutníky s citlivou duší, pro budoucí Tkalce Vzpomínek či Nositelé hlasů – se jeho dílo stalo posvátným místem. Nebylo to jen zobrazení. Samotný atlas byl nabitý emocemi, které do něj Rian vytesal. Dotknout se ho znamenalo pocítit klid, smutek i radost země. Rianův život, který začal v osamění a nepochopení, tak zanechal ve světě trvalou, hmatatelnou ozvěnu. Stal se součástí paměti, kterou se celý život snažil zmapovat.
+

@@ -1,0 +1,16 @@
+id: obj:concepts/kamenny-atlas
+jmeno: Kamenný atlas
+kategorie: concepts
+stav: trvaly
+aliasy: Atlas duše světa
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Rozsáhlé umělecké dílo vytesané do skalní stěny v Údolí tichých ozvěn kartografem pocitů Rianem. Nejedná se o mapu v tradičním smyslu, ale o fyzické ztvárnění emocí a nálad krajiny – smutku, radosti, hněvu a klidu.
+
+Dějiny:
+- -1514 až -1466 — Vytvářen Rianem jako jeho životní dílo (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+
+Poznámky:
+Atlas je pro běžné lidi nesrozumitelný. Pro bytosti citlivé na hlas země však slouží jako kronika a zdroj hlubokého porozumění. Samotné dílo je nabité emocemi, které do něj jeho tvůrce vtesal.
+

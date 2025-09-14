@@ -13,6 +13,12 @@
 - **-1540 (cca)** — Rian v dětství navštěvoval Lom tichých vzdechů a vnímal jeho melancholickou atmosféru (viz Příběhy/druhy-vek/kameníkuv-atlas.txt, Objekty/places/lom-tichych-vzdechu.txt).
 - **-1538** — Rian nastoupil do učení k tesaři Jornovi a začal kreslit své první "emoční" mapy (viz Příběhy/druhy-vek/kameníkuv-atlas.txt, Objekty/beings/rian.txt).
 - **-1525-05-20** — Rian opustil Osadu Vřesová stráň, aby vytvořil atlas světa (viz Příběhy/druhy-vek/kameníkuv-atlas.txt, Objekty/beings/rian.txt, Objekty/places/osada-vresova-stran.txt).
+- **-1521 (podzim)** — Rian zažil u Jezera odrazu přetížení svých smyslů a označil ho jako "chaos, který pohlcuje" (viz Příběhy/druhy-vek/kameníkuv-atlas.txt; Objekty/places/jezero-odrazu.txt).
+- **-1519 (léto)** — Rian zmapoval Údolí tichého strachu a zaznamenal předzvěst budoucího Stínu (viz Příběhy/druhy-vek/kameníkuv-atlas.txt; Objekty/places/udoli-ticheho-strachu.txt).
+- **-1519-08-10** — Dub paměti poskytl Rianovi klid a obnovil jeho odhodlání (viz Příběhy/druhy-vek/kameníkuv-atlas.txt; Objekty/beings/dub-pameti.txt).
+- **-1514** — Rian objevil Údolí tichých ozvěn a zahájil práci na Kamenném atlasu (viz Příběhy/druhy-vek/kameníkuv-atlas.txt; Objekty/places/udoli-tichych-ozven.txt).
+- **-1514 až -1466** — V Údolí tichých ozvěn tesal Kamenný atlas (viz Příběhy/druhy-vek/kameníkuv-atlas.txt; Objekty/concepts/kamenny-atlas.txt).
+- **-1466 (zima)** — Rian zemřel u svého nedokončeného díla (viz Příběhy/druhy-vek/kameníkuv-atlas.txt; Objekty/beings/rian.txt).
 - **-1850-01-01** — Mladý muž Lian pocházel z nedaleké osady a často navštěvoval okolní lesy (viz Příběhy/druhy-vek/zahrada-ticha.txt). Lian navštívil Zahradu ticha a zamiloval se do Lyry (viz Objekty/beings/lian.txt, Objekty/places/zahrada-ticha.txt).
 - **-1850-12-31** — Lyra, utkaná z paměti Zahrady ticha, byla ovlivněna Lianovou láskou, což vedlo k proměně její podstaty a chřadnutí zahrady. Lian odešel (viz Příběhy/druhy-vek/zahrada-ticha.txt, Objekty/beings/lyra.txt, Objekty/places/zahrada-ticha.txt).
 - **-1200-09-01** — Poslové vysláni varovat okolí před Stínem v Dolním průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt).
