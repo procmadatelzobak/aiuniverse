@@ -1,0 +1,16 @@
+id: obj:concepts/tkalci-vzpominek
+jmeno: Tkalci Vzpomínek
+kategorie: concepts
+stav: trvaly
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Společenství bytostí schopných propojovat a uchovávat vzpomínky krajiny. Jejich umění tkát z ozvěn minulosti má umožnit hlubší porozumění hlasu země.
+
+Dějiny:
+- Budoucnost — Jejich přesný původ je dosud nejasný; některé prameny je spojují s Kamenným atlasem (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+
+Poznámky:
+Zmíněni jako ti, kteří dokáží naslouchat Kamennému atlasu a číst jeho emocionální mapy.
+

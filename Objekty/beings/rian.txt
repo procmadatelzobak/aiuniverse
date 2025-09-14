@@ -1,20 +1,24 @@
-
-
 id: obj:beings/rian
 jmeno: Rian
 kategorie: beings
-stav: zivy
+stav: mrtvy
 aliasy: Kartograf pocitů
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Muž narozený se vzácnou a silnou schopností vnímat emoce a nálady krajiny. Svůj život zasvětil snaze tyto vjemy zmapovat a porozumět jim.
+Muž narozený se vzácnou a silnou schopností vnímat emoce a nálady krajiny. Svůj život zasvětil snaze tyto vjemy zmapovat a porozumět jim. Jeho životním dílem se stal Kamenný atlas.
 
 Dějiny:
 - -1550-03-12 — Narodil se v Osadě Vřesová stráň.
 - -1538 — Nastoupil do učení k tesaři, po večerech začal tajně kreslit své první "emoční" mapy okolí.
 - -1525-05-20 — Opustil svou rodnou osadu, aby se vydal na cestu a vytvořil atlas, který by zmapoval "duši" světa (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+- -1521 (podzim) — Dorazil k Jezeru odrazu, kde zažil přetížení svých smyslů (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+- -1519 (léto) — Zmapoval Údolí tichého strachu, kde jako první zaznamenal předzvěst budoucího Stínu (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+- -1519-08-10 — Našel útěchu a obnovil své odhodlání u Dubu paměti (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+- -1514 — Objevil Údolí tichých ozvěn a rozhodl se zde vytvořit své životní dílo (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+- -1514 až -1466 — Téměř padesát let pracoval na tesání Kamenného atlasu do skalní stěny (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+- -1466 (zima) — Zemřel stářím u svého nedokončeného díla (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
 
 Poznámky:
-Jeho schopnost je intuitivní a vrozená. Není Nositel hlasů, ale spíše pasivní přijímač "hlasu země". Jeho mapy jsou pro běžné lidi nesrozumitelné.
+Jeho Kamenný atlas se stal trvalou součástí paměti světa, čitelnou pro jiné bytosti citlivé na hlas země.
 

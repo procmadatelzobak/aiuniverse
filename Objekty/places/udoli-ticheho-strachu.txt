@@ -1,0 +1,16 @@
+id: obj:places/udoli-ticheho-strachu
+jmeno: Údolí tichého strachu
+kategorie: places
+stav: neklidne
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Odlehlé údolí, v němž panuje tíživé, nepřirozené ticho. Země zde působí, jako by zadržovala dech a sama se bála vlastního ozvěnu.
+
+Dějiny:
+- -1519 (léto) — Zmapoval je Rian a označil jako prázdné místo, předzvěst budoucího Stínu (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+
+Poznámky:
+O několik generací později se z tohoto ticha zrodil Stín, který přinesl zkázu do Dolního průsmyku.
+
