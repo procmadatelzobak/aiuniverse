@@ -1,0 +1,62 @@
+
+id: st:druhy-vek/pochod-stinu
+nazev: Pochod stínů
+era: druhy-vek
+casovy_rah: -1200-09-01 až -1200-09-12
+autor: <tvoje_jmeno>
+nemenny: ano
+
+Obsah:
+Bylo to v Druhém věku, kdy krajina kolem Dolního průsmyku přestala být tichá. 
+Lesy, které dříve šeptaly jen útržky snů, začaly zpívat stejnou melodii, den co den, 
+jako by se myšlenky země uzavřely do jediné, neodbytné písně. 
+Melodie byla smutná, táhlá a stále hlasitější. 
+Vesničané říkali, že ji slyší i v kostech a ve spánku.
+
+Na začátku září přišli poslové z vesnice U tří kamenů, nesli zprávu: 
+u průsmyku se pohybuje něco, co nemá tvář ani jméno. 
+Říkali mu jen Stín, protože každý, kdo se na něj podíval, 
+viděl v něm vlastní obavy a vzpomínky, které chtěl skrýt. 
+Nikdo si nebyl jistý, zda jde o bytost, nebo o zhmotnělou myšlenku krajiny.
+
+Do průsmyku se vydala družina sedmi: 
+tři pastýři, dva lovci, žena zvaná Pěvkyně mlh a cizinec, 
+který tvrdil, že hledá odpovědi na ztracená jména. 
+Šli nocí a zjistili, že píseň lesa se proměnila ve varování. 
+Dub paměti, který stál na rozcestí, praskal v každé větvi, 
+a i když neměl lidský hlas, bylo jasné, že je nabádá k opatrnosti.
+
+Družina dorazila do průsmyku desátého dne měsíce. 
+Tam stál Stín — nehybný, ale přesto se zdálo, 
+že každý pohled do jeho temnoty zanechává na lidech stopu. 
+Pastýř Vadel uviděl v jeho obrysu tvář své mrtvé sestry 
+a padl na kolena, neschopen pohybu. 
+Lovci se snažili napnout luky, ale ruce se jim třásly, 
+jako by tahali za struny cizí vůle.
+
+Pěvkyně mlh předstoupila a začala zpívat. 
+Její hlas se spojil s melodií lesa a na okamžik se zdálo, 
+že píseň země a píseň člověka se prolnuly. 
+Stín se roztřásl, rozvlnil, jako by ztrácel svůj tvar. 
+Ale pak zařval beze zvuku — a zpěvaččin hlas umlkl. 
+Byla stržena k zemi a oči jí zůstaly otevřené, nehybné.
+
+Cizinec, jehož jméno nikdo neznal, přistoupil k padlé ženě 
+a pronesl slova, která si nikdo z družiny nepamatoval, 
+protože okamžitě zmizela z paměti všech přítomných. 
+Stín se stáhl, rozplynul mezi stromy, a píseň lesa se utišila. 
+Ale s ní zmizela i jména tří z družiny — 
+lidé na ně hleděli, znali jejich tváře, 
+ale nedokázali vyslovit, kdo to je.
+
+Družina se vrátila z průsmyku menší, než vyrazila. 
+Někteří byli fyzicky přítomní, ale bezejmenní, 
+což je v zemi, kde vše nese paměť a hlas, 
+horší než smrt. 
+Od té doby se Dolní průsmyk jmenuje Průsmyk bezejmenných, 
+a nikdo jím neprojde, aniž by s sebou nesl obavu, 
+že ztratí kus vlastní identity.
+
+Poznámky:
+Tento příběh zavádí fenomén Stínu (beztvaré entity spjaté s obavami), 
+Pěvkyni mlh (postava), Dolní/Průsmyk bezejmenných (místo) a motiv „ztracených jmen“.
