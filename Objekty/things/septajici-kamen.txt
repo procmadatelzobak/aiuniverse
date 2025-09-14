@@ -1,0 +1,23 @@
+
+
+
+id: obj:things/septajici-kamen
+jmeno: Šeptající kámen
+kategorie: things
+stav: ztraceny (pohřbený)
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Hladký, tmavý kámen neznámého původu, který na dotek vydává tiché, melodické tóny a šepot. Jeho přítomnost způsobuje postupnou ztrátu paměti u lidí v okolí, jako by pohlcoval jejich myšlenky a vzpomínky.
+
+Dějiny:
+
+-2500-06-10 — Nalezen kameníkem Kaelem v lomu poblíž Vesnice U tří kamenů.
+
+-2500-06-18 — Pohřben u kořenů starého dubu na radu bylinkářky Elary, která získala vizi od Dubu paměti (viz Příběhy/prvni-vek/kamenne-ozveny.txt).
+
+Poznámky:
+Původ kamene je nejasný. Může se jednat o úlomek z Prvotního moře myšlí nebo o zhmotnělou myšlenku krajiny s negativním účinkem, podobně jako pozdější Stín. Jeho vliv na paměť naznačuje spojitost se základními mechanikami světa.
+
+
