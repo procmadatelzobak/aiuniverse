@@ -1,0 +1,15 @@
+id: obj:places/vyprahle-plane-zapomneni
+jmeno: Vyprahlé pláně zapomnění
+kategorie: places
+stav: trvaly
+aliasy: —
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Rozlehlá, nehostinná oblast popraskané hlíny a slaných jezer, která odděluje Srdce starého světa od Východních anomálií, jako je Kráter rezonance. Zdejší země jako by aktivně odmítala nést paměť. Cesty se zde ztrácejí a vzpomínky blednou.
+
+Dějiny:
+- Pradávno — Vznikly jako součást geografie světa.
+
+Poznámky:
+Jejich schopnost mazat paměť může být přirozenou protiváhou místům s vysokou koncentrací ozvěn, jako je Jezero odrazu nebo Silencia. Putování přes ně je nebezpečné nejen fyzicky, ale i pro mysl.
