@@ -6,7 +6,13 @@ aliasy: —
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Vládnoucí kasta v Silencii, potomci zakladatele Vorina. Mají vyvinutou schopnost interpretovat chaos ozvěn z Paměťových krystalů a číst tak minulost s absolutní přesností. Sídlí ve Spirále Ticha.
+Dědičná vládnoucí kasta Silencie, sídlící v akusticky mrtvé Spirále Ticha na vrcholu kráteru.
+Jejich moc je odvozena z jejich monopolu na interpretaci minulosti,
+kterou čtou z chaotického šumu Paměťových krystalů.
+Vystupují jako neomylní soudci, jejichž "absolutní pravda" udržuje rigidní společenský řád.
+Celá jejich mocenská struktura je však postavena na záměrné lži – interpretaci zakládajícího zločinu (Prvotní Ozvěny) jako vznešené "Oběti".
+Když Elianova Píseň Ticha změnila charakter této základní rezonance, narušila čistotu jejich zdroje
+a tím nezvratně podlomila jejich autoritu, neboť pravda se stala komplexnější a otevřená interpretaci.
 
 Dějiny:
 - -1650 až -1308 — Vládli v Silencii jako soudci a strážci "absolutní pravdy" (viz Příběhy/druhy-vek/mesto-ozven.txt).

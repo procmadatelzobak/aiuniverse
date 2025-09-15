@@ -6,7 +6,12 @@ aliasy: —
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Prastarý strom, o němž se věří, že uchovává paměť krajiny. Dokáže naznačit cestu a předat útržky dávných myšlenek těm, kdo jej slyší.
+Prastará, vnímající bytost v podobě obrovského dubu, který slouží jako živý archiv a maják v paměti světa.
+Není jen stromem, ale uzlem, v němž se sbíhají a uchovávají ozvěny minulosti.
+Jeho komunikace je přizpůsobena tomu, kdo naslouchá: Sběrači hlasů ukázal jasnou cestu,
+Rianovi poskytl tichou, emocionální útěchu a družinu jdoucí vstříc Stínu varoval fyzickými projevy neklidu.
+Není ani dobrý, ani zlý; je ztělesněním paměti – nestranný, ale hluboký.
+Jeho přítomnost představuje stabilitu a kontinuitu v proměnlivém a často chaotickém světě.
 
 Dějiny:
 - -3200-04-14 — Ukázal cestu poutníkovi známému jako Sběrač hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt).

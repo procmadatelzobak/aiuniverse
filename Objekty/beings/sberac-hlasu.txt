@@ -9,9 +9,13 @@ aliasy: —
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Tajemný poutník, vyhublý, s očima plnýma barev beze jména.
-Naslouchá stromům; k jezeru jej dovedl Dub paměti.
-Je považován za Nositele hlasů.
+Tajemný poutník považovaný za jednoho z Nositelů hlasů, bytostí zrozených z prvotních myšlenek Země.
+Jeho fyzická podoba je sotva znatelná – vyhublý, s očima plnýma nepojmenovatelných barev.
+Jeho vnímání přesahuje lidské smysly; slyší myšlenky stromů a rozumí paměti krajiny.
+Jeho role není aktivní tvorba, ale spíše role katalyzátoru.
+U Jezera odrazu jeho přítomnost neztvořila Píseň rovnováhy, ale zesílila a odemkla ji pro ostatní,
+čímž umožnil dočasnou harmonii stvořenou Eamonem, aby byla slyšena všemi.
+Jeho náhlé zmizení je typické pro Nositelé hlasů, kteří přicházejí a odcházejí jako myšlenky samy.
 
 Dějiny:
 - -3200-04-15 — Dorazil do vesnice U tří kamenů, vyslechl píseň jezera a ráno zmizel (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
