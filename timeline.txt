@@ -6,8 +6,8 @@
 - **-4470 (cca)** — Strážce Lorin se pokusil jezero vyléčit, ale jeho mysl byla pohlcena (viz Příběhy/prvni-vek/jezerni-hlubina.txt; Objekty/beings/lorin.txt; Objekty/places/jezero-odrazu.txt).
 - **-4451 (cca)** — Eamon vytesal Rezonanční mísu z kamene Lomu tichých vzdechů (viz Příběhy/prvni-vek/jezerni-hlubina.txt; Objekty/things/rezonancni-misa.txt; Objekty/places/lom-tichych-vzdechu.txt).
 - **-4450 (cca)** — Eamon vytvořil Píseň rovnováhy u Jezera odrazu (viz Příběhy/prvni-vek/jezerni-hlubina.txt; Objekty/beings/eamon.txt; Objekty/concepts/strazci-jezera.txt; Objekty/things/rezonancni-misa.txt; Objekty/places/jezero-odrazu.txt).
-- **-3200-04-14**: Dub paměti ukázal cestu Sběrači hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
-- **-3200-04-15**: Píseň u Jezera odrazu; setkání Sběrače hlasů s vesničany (viz Příběhy/prvni-vek/pisen-u-jezera.txt). Vesničané byli svědky této události (viz Objekty/places/vesnice-u-tri-kamenu.txt).
+- **-3200-04-14**: Dub paměti ukázal cestu Sběrači hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt; Objekty/beings/dub-pameti.txt; Objekty/beings/sberac-hlasu.txt).
+- **-3200-04-15**: Píseň u Jezera odrazu; setkání Sběrače hlasů s vesničany (viz Příběhy/prvni-vek/pisen-u-jezera.txt; Objekty/beings/sberac-hlasu.txt; Objekty/places/jezero-odrazu.txt). Vesničané byli svědky této události (viz Objekty/places/vesnice-u-tri-kamenu.txt).
 - **-3200-04-16**: Sběrač hlasů zmizel (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
 
 ## Druhý věk
@@ -16,7 +16,7 @@
 - **-2750 (cca)** — Hodiny odhalily nevěru Kaelana, což vedlo k rozkolu v osadě na Větrném vrchu (viz Příběhy/druhy-vek/hodiny-sepotu.txt; Objekty/things/slunecni-hodiny-sepotu.txt; Objekty/beings/lyra-z-vetrneho-vrchu.txt; Objekty/beings/kaelan.txt; Objekty/places/vetrny-vrch.txt).
 - **-2200 (cca)** — Sluneční hodiny šepotů upadly v zapomnění a osada na Větrném vrchu zanikla (viz Příběhy/druhy-vek/hodiny-sepotu.txt; Objekty/things/slunecni-hodiny-sepotu.txt; Objekty/places/vetrny-vrch.txt).
 - **-2500-06-10**: Nalezen Šeptající kámen kameníkem Kaelem (viz Objekty/things/septajici-kamen.txt).
-- **-2500-06-18**: Šeptající kámen pohřben u kořenů starého dubu (viz Objekty/things/septajici-kamen.txt, Příběhy/prvni-vek/kamenne-ozveny.txt).
+- **-2500-06-18**: Šeptající kámen pohřben u kořenů starého dubu v Lesu šepotů (viz Objekty/things/septajici-kamen.txt, Příběhy/prvni-vek/kamenne-ozveny.txt; Objekty/places/les-sepotu.txt).
 - **-1850-01-01**: Mladý muž Lian pocházel z nedaleké osady a často navštěvoval okolní lesy (viz Příběhy/druhy-vek/zahrada-ticha.txt). Lian navštívil Zahradu ticha a zamiloval se do Lyry (viz Objekty/beings/lian.txt, Objekty/places/zahrada-ticha.txt).
 - **-1850-12-31**: Lyra, utkaná z paměti Zahrady ticha, byla ovlivněna Lianovou láskou, což vedlo k proměně její podstaty a chřadnutí zahrady. Lian odešel (viz Příběhy/druhy-vek/zahrada-ticha.txt, Objekty/beings/lyra.txt, Objekty/places/zahrada-ticha.txt).
 - **-1650 (cca)** — Vorin a uprchlíci založili Silencii v Kráteru rezonance (viz Příběhy/druhy-vek/mesto-ozven.txt; Objekty/places/krater-rezonance-silencia.txt; Objekty/beings/vorin.txt).
@@ -33,5 +33,7 @@
 - **-1466 (zima)** — Rian zemřel u svého nedokončeného díla (viz Příběhy/druhy-vek/kameníkuv-atlas.txt; Objekty/beings/rian.txt).
 - **-1308 (cca)** — V Dně Silencie se narodil Elian, hluchý chlapec vnímající Prvotní Ozvěnu (viz Příběhy/druhy-vek/mesto-ozven.txt; Objekty/beings/elian.txt; Objekty/places/krater-rezonance-silencia.txt).
 - **-1280 (cca)** — Elian vystoupal do Spirály Ticha a Písní Ticha změnil rezonanci Prvotní Ozvěny, čímž oslabil vládu Naslouchačů (viz Příběhy/druhy-vek/mesto-ozven.txt; Objekty/beings/elian.txt; Objekty/concepts/naslouchaci.txt; Objekty/concepts/prvotni-ozvena.txt).
-- **-1200-09-01** — Poslové vysláni varovat okolí před Stínem v Dolním průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt).
-- **-1200-09-09** — Dub paměti varoval družinu sedmi na cestě do průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt).
+- **-1200-09-01** — Poslové z Vesnice U tří kamenů varovali okolí před Stínem v Dolním průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt; Objekty/places/vesnice-u-tri-kamenu.txt; Objekty/beings/stin.txt; Objekty/places/prusmyk-bezejmennych.txt).
+- **-1200-09-09** — Dub paměti varoval družinu sedmi na cestě k Dolnímu průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt; Objekty/beings/dub-pameti.txt; Objekty/places/prusmyk-bezejmennych.txt).
+- **-1200-09-10** — Pěvkyně mlh se pokusila přeladit píseň lesa, ale Stín ji umlčel (viz Příběhy/druhy-vek/pochod-stinu.txt; Objekty/beings/pevkyně-mlh.txt; Objekty/beings/stin.txt; Objekty/places/prusmyk-bezejmennych.txt).
+- **-1200-09-12** — Cizinec beze jména pronesl slova, která se nedají zapamatovat; Stín ustoupil a Dolní průsmyk se stal Průsmykem bezejmenných (viz Příběhy/druhy-vek/pochod-stinu.txt; Objekty/beings/cizinec-beze-jmena.txt; Objekty/beings/stin.txt; Objekty/places/prusmyk-bezejmennych.txt).
