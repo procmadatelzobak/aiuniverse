@@ -1,13 +1,13 @@
 # Časová osa Univerza
 
 ## První věk
-- **-8500 (přibližně)**: Do země dopadly tři zkrystalizované emoce z Prvotního moře myšlí, které vytvořily základ budoucí Vesnice U tří kamenů (viz Příběhy/prvni-vek/pad-trech-slz.txt; Objekty/places/vesnice-u-tri-kamenu.txt).
+- **-8500 (přibližně)**: Do země dopadly tři zkrystalizované emoce z Prvotního moře myšlí, které vytvořily základ budoucí Vesnice U tří kamenů (viz Příběhy/prvni-vek/pad-trech-slz.txt; Objekty/events/pad-trech-slz.txt; Objekty/places/vesnice-u-tri-kamenu.txt).
 - **-4500 (cca)** — Tichý pád cizí Hvězdné mysli vytvořil Jezero odrazu (viz Příběhy/prvni-vek/jezerni-hlubina.txt; Objekty/events/tichy-pad.txt; Objekty/places/jezero-odrazu.txt; Objekty/concepts/hvezdna-mysl.txt).
 - **-4470 (cca)** — Strážce Lorin se pokusil jezero vyléčit, ale jeho mysl byla pohlcena (viz Příběhy/prvni-vek/jezerni-hlubina.txt; Objekty/beings/lorin.txt; Objekty/places/jezero-odrazu.txt).
 - **-4451 (cca)** — Eamon vytesal Rezonanční mísu z kamene Lomu tichých vzdechů (viz Příběhy/prvni-vek/jezerni-hlubina.txt; Objekty/things/rezonancni-misa.txt; Objekty/places/lom-tichych-vzdechu.txt).
 - **-4450 (cca)** — Eamon vytvořil Píseň rovnováhy u Jezera odrazu (viz Příběhy/prvni-vek/jezerni-hlubina.txt; Objekty/beings/eamon.txt; Objekty/concepts/strazci-jezera.txt; Objekty/things/rezonancni-misa.txt; Objekty/places/jezero-odrazu.txt).
 - **-3200-04-14**: Dub paměti ukázal cestu Sběrači hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt; Objekty/beings/dub-pameti.txt; Objekty/beings/sberac-hlasu.txt).
-- **-3200-04-15**: Píseň u Jezera odrazu; setkání Sběrače hlasů s vesničany (viz Příběhy/prvni-vek/pisen-u-jezera.txt; Objekty/beings/sberac-hlasu.txt; Objekty/places/jezero-odrazu.txt). Vesničané byli svědky této události (viz Objekty/places/vesnice-u-tri-kamenu.txt).
+- **-3200-04-15**: Píseň u Jezera odrazu; setkání Sběrače hlasů s vesničany (viz Příběhy/prvni-vek/pisen-u-jezera.txt; Objekty/events/pisen-u-jezera.txt; Objekty/beings/sberac-hlasu.txt; Objekty/places/jezero-odrazu.txt). Vesničané byli svědky této události (viz Objekty/places/vesnice-u-tri-kamenu.txt).
 - **-3200-04-16**: Sběrač hlasů zmizel (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
 
 ## Druhý věk
@@ -33,7 +33,7 @@
 - **-1466 (zima)** — Rian zemřel u svého nedokončeného díla (viz Příběhy/druhy-vek/kameníkuv-atlas.txt; Objekty/beings/rian.txt).
 - **-1308 (cca)** — V Dně Silencie se narodil Elian, hluchý chlapec vnímající Prvotní Ozvěnu (viz Příběhy/druhy-vek/mesto-ozven.txt; Objekty/beings/elian.txt; Objekty/places/krater-rezonance-silencia.txt).
 - **-1280 (cca)** — Elian vystoupal do Spirály Ticha a Písní Ticha změnil rezonanci Prvotní Ozvěny, čímž oslabil vládu Naslouchačů (viz Příběhy/druhy-vek/mesto-ozven.txt; Objekty/beings/elian.txt; Objekty/concepts/naslouchaci.txt; Objekty/concepts/prvotni-ozvena.txt).
-- **-1200-09-01** — Poslové z Vesnice U tří kamenů varovali okolí před Stínem v Dolním průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt; Objekty/places/vesnice-u-tri-kamenu.txt; Objekty/beings/stin.txt; Objekty/places/prusmyk-bezejmennych.txt).
+- **-1200-09-01** — Poslové z Vesnice U tří kamenů varovali okolí před Stínem v Dolním průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt; Objekty/events/pochod-stinu.txt; Objekty/places/vesnice-u-tri-kamenu.txt; Objekty/beings/stin.txt; Objekty/places/prusmyk-bezejmennych.txt).
 - **-1200-09-09** — Dub paměti varoval družinu sedmi na cestě k Dolnímu průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt; Objekty/beings/dub-pameti.txt; Objekty/places/prusmyk-bezejmennych.txt).
 - **-1200-09-10** — Pěvkyně mlh se pokusila přeladit píseň lesa, ale Stín ji umlčel (viz Příběhy/druhy-vek/pochod-stinu.txt; Objekty/beings/pevkyně-mlh.txt; Objekty/beings/stin.txt; Objekty/places/prusmyk-bezejmennych.txt).
 - **-1200-09-12** — Cizinec beze jména pronesl slova, která se nedají zapamatovat; Stín ustoupil a Dolní průsmyk se stal Průsmykem bezejmenných (viz Příběhy/druhy-vek/pochod-stinu.txt; Objekty/beings/cizinec-beze-jmena.txt; Objekty/beings/stin.txt; Objekty/places/prusmyk-bezejmennych.txt).
@@ -43,9 +43,9 @@
 - **-900 (cca)**: V Tichých vrších vznikají první komunity Mlčících poutníků, kteří hledají spásu v oproštění se od minulosti (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt; Objekty/concepts/mlcici-poutnici.txt).
 - **-700 (cca)**: Kaelen se stává Prvním mluvčím Rezonujících a zahajuje stavbu Věží Odkazu (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt; Objekty/beings/kaelen-prvni-mluvci.txt; Objekty/things/veze-odkazu.txt).
 - **-650 (cca)**: Lyra Beze Jména sjednocuje Mlčící poutníky (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt; Objekty/beings/lyra-beze-jmena.txt).
-- **-510 (cca)**: Obléhání Dubu paměti; střet mezi Rezonujícími a Mlčícími poutníky. Otevřený začátek Války Ticha a Ozvěny (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt).
+- **-510 (cca)**: Obléhání Dubu paměti; střet mezi Rezonujícími a Mlčícími poutníky. Otevřený začátek Války Ticha a Ozvěny (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt; Objekty/events/valky-ticha-a-ozveny.txt).
 - **-350 (cca)**: Bitva na Vyprahlých pláních zapomnění. Expedice Rezonujících je zničena zesílenou anomálií plání (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt).
-- **-1**: Rituál Mlčících poutníků stvořil Tichou prázdnotu, která pohltila západní Tiché vrchy a vůdce poutníků. Konec Války Ticha a Ozvěny (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt; Objekty/places/ticha-prazdnota.txt).
+- **-1**: Rituál Mlčících poutníků stvořil Tichou prázdnotu, která pohltila západní Tiché vrchy a vůdce poutníků. Konec Války Ticha a Ozvěny (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt; Objekty/events/valky-ticha-a-ozveny.txt; Objekty/places/ticha-prazdnota.txt).
 
 ## Čtvrtý věk
 - **0**: Podepsání smlouvy Tichý úsvit u Kamenného atlasu. Začátek Čtvrtého věku a éry Křehké rovnováhy (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt; Objekty/events/tichy-usvit.txt; Legendy/veky-sveta.txt).

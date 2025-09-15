@@ -1,0 +1,15 @@
+id: obj:events/pad-trech-slz
+jmeno: Pád tří slz
+kategorie: events
+stav: uskutecneny
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Kosmický jev z úsvitu Prvního věku, při němž tři zkrystalizované emoce – Žal, Radost a Úžas – dopadly na zem a proměnily se v tři kameny. Kolem nich později vyrostla Vesnice U tří kamenů.
+
+Dějiny:
+- -8500 (přibližně) — Tři slzy z Prvotního moře myšlí dopadly a staly se Kamenem žalu, Kamenem radosti a Kamenem úžasu (viz Příběhy/prvni-vek/pad-trech-slz.txt; Objekty/things/kamen-zalu.txt; Objekty/things/kamen-radosti.txt; Objekty/things/kamen-uzasu.txt; Objekty/places/vesnice-u-tri-kamenu.txt).
+
+Poznámky:
+Tato událost je prvním známým projevem krystalizovaných emocí na povrchu světa.

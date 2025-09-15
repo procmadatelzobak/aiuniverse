@@ -1,0 +1,15 @@
+id: obj:events/pisen-u-jezera
+jmeno: Píseň u jezera
+kategorie: events
+stav: uskutecneny
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Krátký okamžik, kdy Sběrač hlasů u Jezera odrazu vyvolal harmonickou píseň slyšitelnou všem přítomným. Událost vnesla do vesničanů klid a stala se základem jejich úcty k hlasům země.
+
+Dějiny:
+- -3200-04-15 — Sběrač hlasů a obyvatelé Vesnice U tří kamenů společně naslouchali písni Jezera odrazu (viz Příběhy/prvni-vek/pisen-u-jezera.txt; Objekty/beings/sberac-hlasu.txt; Objekty/places/jezero-odrazu.txt; Objekty/places/vesnice-u-tri-kamenu.txt).
+
+Poznámky:
+Píseň je v tradici vesnice zpívána dodnes jako připomínka společné paměti.

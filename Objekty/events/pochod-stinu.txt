@@ -1,0 +1,15 @@
+id: obj:events/pochod-stinu
+jmeno: Pochod stínu
+kategorie: events
+stav: uskutecneny
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Výprava sedmi odvážných z Vesnice U tří kamenů do Dolního průsmyku, kde se střetli se Stínem – beztvarou entitou zrozenou z obav. Setkání vedlo k přejmenování místa na Průsmyk bezejmenných.
+
+Dějiny:
+- -1200-09-01 až -1200-09-12 — Družina sedmi čelila Stínu; Pěvkyně mlh padla a Cizinec beze jména pronesl zapomenutá slova, která entitu zahnal (viz Příběhy/druhy-vek/pochod-stinu.txt; Objekty/beings/stin.txt; Objekty/beings/pevkyně-mlh.txt; Objekty/beings/cizinec-beze-jmena.txt; Objekty/places/prusmyk-bezejmennych.txt).
+
+Poznámky:
+Průsmykem bezejmenných prochází jen ti, kteří přijmou riziko ztráty části své identity.
