@@ -1,0 +1,15 @@
+id: obj:events/tichy-pad
+jmeno: Tichý pád
+kategorie: events
+stav: uskutecneny
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Kosmická událost na počátku Prvního věku, při které se cizí, Hvězdná mysl, zřítila na Zem. Dopad nebyl fyzický, ale mentální – vlna ticha, která probořila realitu a vytvořila "ránu" ve vědomí světa.
+
+Dějiny:
+- První věk (dávno) — V místě dopadu vytryskla paměť Země a vzniklo Jezero odrazu (viz Příběhy/prvni-vek/jezerni-hlubina.txt).
+
+Poznámky:
+Tato událost je prapůvodem neklidu Jezera odrazu.

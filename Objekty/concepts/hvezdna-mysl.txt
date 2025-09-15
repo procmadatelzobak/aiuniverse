@@ -1,0 +1,16 @@
+id: obj:concepts/hvezdna-mysl
+jmeno: Hvězdná mysl
+kategorie: concepts
+stav: trvaly (uvězněný)
+aliasy: Cizí vědomí, Utopenec
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Prastaré, cizí vědomí z kosmické prázdnoty, které se v dávných dobách zřítilo na Zem. Jeho podstata je založena na logice a matematické struktuře, je v přímém rozporu s organickým, chaotickým vědomím Země.
+
+Dějiny:
+- První věk (dávno) — Dopadlo na zem v události známé jako Tichý pád a vytvořilo tak Jezero odrazu.
+- -4450 (cca) — Eamon navázal první smysluplný kontakt s tímto vědomím a dočasně ho zharmonizoval s pamětí Země (viz Příběhy/prvni-vek/jezerni-hlubina.txt).
+
+Poznámky:
+Jeho "šepot" tvoří základní, disharmonickou složku chaosu v Jezeře odrazu. Jeho bolest pramení z neschopnosti komunikovat a z uvěznění v konečném světě.

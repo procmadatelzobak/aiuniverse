@@ -1,0 +1,16 @@
+id: obj:concepts/strazci-jezera
+jmeno: Strážci jezera
+kategorie: concepts
+stav: zanikly
+aliasy: Ladiči
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Prastarý rod lidí žijící na březích Jezera odrazu, jejichž posláním bylo naslouchat jeho chaosu a nacházet v něm momenty harmonie. Pomocí meditace a rituálů dokázali na krátkou dobu utišit jeho nejdivočejší šepoty.
+
+Dějiny:
+- První věk — Po staletí střežili okolí Jezera odrazu.
+- -4450 (cca) — Eamon, poslední velký Strážce, provedl svůj čin a rod postupně vymizel, protože jezero se na dlouhou dobu zklidnilo (viz Příběhy/prvni-vek/jezerni-hlubina.txt).
+
+Poznámky:
+Jejich znalosti byly předávány ústně a v zašifrovaných svitcích.
