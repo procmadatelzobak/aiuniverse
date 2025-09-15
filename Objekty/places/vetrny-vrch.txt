@@ -6,7 +6,7 @@ aliasy: —
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Holý, větrem ošlehaný kopec, na kterém stojí Sluneční hodiny šepotů. Místo má silnou atmosféru a je z něj výhled do širokého okolí.
+Izolovaný, holý kopec, neustále bičovaný větrem, strategicky vybraný Alwinem pro stavbu Slunečních hodin šepotů. Díky své poloze, která nabízí nerušený výhled na oblohu od úsvitu do soumraku, se stal ideálním místem pro dílo závislé na slunci a stínu. Na čas byl centrem malé osady, která žila a soudila se podle pravdy odhalované hodinami. Po rozpadu této komunity se místo proměnilo, stalo se opuštěným a obávaným vrchem, o němž se vyprávěly pověry. Dnes je to především místo ticha a zapomnění, které nabízí klid těm, kdo již nehledají odpovědi.
 
 Dějiny:
 - -2800 (cca) — Zvolen Alwinem jako místo pro stavbu Slunečních hodin (viz Příběhy/druhy-vek/hodiny-sepotu.txt).
