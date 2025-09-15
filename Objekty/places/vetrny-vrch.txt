@@ -1,0 +1,16 @@
+id: obj:places/vetrny-vrch
+jmeno: Větrný vrch
+kategorie: places
+stav: opusteny
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Holý, větrem ošlehaný kopec, na kterém stojí Sluneční hodiny šepotů. Místo má silnou atmosféru a je z něj výhled do širokého okolí.
+
+Dějiny:
+- -2800 (cca) — Zvolen Alwinem jako místo pro stavbu Slunečních hodin (viz Příběhy/druhy-vek/hodiny-sepotu.txt).
+- -2790 až -2200 (cca) — Existovala zde malá osada, která prosperovala a následně zanikla kvůli vlivu hodin (viz Příběhy/druhy-vek/hodiny-sepotu.txt).
+
+Poznámky:
+Po zániku osady se místo stalo předmětem pověr a lidé se mu vyhýbali.

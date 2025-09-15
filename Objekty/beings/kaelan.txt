@@ -1,0 +1,15 @@
+id: obj:beings/kaelan
+jmeno: Kaelan
+kategorie: beings
+stav: mrtvy
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Mladý lovec z osady na Větrném vrchu, milý Lyry.
+
+Dějiny:
+- -2750 (cca) — Jeho nevěra byla odhalena Slunečními hodinami šepotů, což vedlo k rozkolu v komunitě (viz Příběhy/druhy-vek/hodiny-sepotu.txt).
+
+Poznámky:
+Jeho jméno je podobné obchodníkovi Kaelenovi, který vlastnil Flétnu z kosti zimy, ale jedná se o jinou osobu z jiné doby.
