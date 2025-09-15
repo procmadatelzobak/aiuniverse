@@ -1,0 +1,53 @@
+id: lg:mapa-cest-a-ozven
+nazev: Mapa cest a ozvěn
+kategorie: legendy
+stav: ziva (neustale doplňovana)
+
+Popis:
+Tento dokument není přesným zobrazením světa, ale sbírkou ověřených vědomostí o vztazích mezi známými místy. Je to mapa pro duši, ne pro nohy. Vzdálenosti jsou relativní a cesty jsou definovány pamětí a náladou krajiny.
+
+---
+
+### Oblast: Srdce starého světa (Oblast rovnováhy)
+
+Místa, kde je hlas země nejstarší, nejčitelnější a v relativní harmonii. Krajina je zde mírná, ale plná hluboké paměti a prastarých sil.
+
+**Klíčová místa:**
+- Objekty/places/vesnice-u-tri-kamenu.txt
+- Objekty/places/jezero-odrazu.txt
+- Objekty/beings/dub-pameti.txt
+- Objekty/places/vetrny-vrch.txt
+- Objekty/places/lom-tichych-vzdechu.txt
+- Objekty/places/osada-vresova-stran.txt
+
+**Propojení:**
+- Z **Vesnice U tří kamenů** k **Jezeru odrazu** je to půl dne chůze na východ. Cesta vede přes Tichý luh a míjí úpatí **Větrného vrchu**.
+- **Dub paměti** stojí na strategickém rozcestí. Odtud lze za jeden den dojít na jih k **Jezeru odrazu** nebo za dva dny na sever k **Průsmyku bezejmenných**. Je považován za bránu mezi Srdcem světa a Tichým severem.
+- **Osada Vřesová stráň**, kde se narodil Rian, leží několik dní cesty na západ od Vesnice U tří kamenů. Je to izolované místo, stranou hlavních cest. **Lom tichých vzdechů** se nachází v její blízkosti.
+
+---
+
+### Oblast: Tichý sever (Oblast zkoušek)
+
+Kraje na sever od Srdce světa, kde je země drsnější, chladnější a její hlas je často tichý, nebezpečný nebo zcela nepřítomný.
+
+**Klíčová místa:**
+- Objekty/places/prusmyk-bezejmennych.txt
+- Objekty/places/tiche-vrchy.txt
+- Objekty/places/udoli-ticheho-strachu.txt
+
+**Propojení:**
+- **Průsmyk bezejmenných** je jediná známá bezpečná cesta do **Tichých vrchů**. Průchod trvá dva dny a je mentálně vyčerpávající.
+- **Údolí ticheho strachu**, předzvěst Stínu, leží hluboko v horách, tři dny cesty od Průsmyku, v oblasti, které se i horalé vyhýbají.
+
+---
+
+### Oblast: Východní anomálie (Oblast extrémů)
+
+Izolované a podivné kraje na dalekém východě, kde jsou pravidla světa pokřivena do extrémů a kam nevedou žádné známé cesty.
+
+**Klíčová místa:**
+- (Zatím neintegrováno) Objekty/places/krater-rezonance-silencia.txt
+
+**Propojení:**
+- Cesta do **Kráteru rezonance** je téměř neznámá. Staré legendy mluví o týdnech putování přes vyprahlé pláně, které leží na východ od Srdce světa. Neexistuje přímé spojení s Tichým severem.

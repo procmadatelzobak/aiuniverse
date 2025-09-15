@@ -1,33 +1,26 @@
-
-
 AGENT „KRONIKÁŘ“ (OPENHANDS) — POSTUP
 
 Před každou akcí si přečti Pokyny/README.txt a PR-POKYNY.txt.
 Schválené Příběhy neupravuj. Nesrovnalosti řeš v Objektech.
 
 A) NOVÝ PŘÍBĚH:
-1) Vytvoř Příběhy/<éra>/<název>.txt a vyplň METADATA:
-   id: st:<éra>/<slug>
-   nazev: <Název>
-   era: <éra> (např. prvni-vek)
-   casovy_rah: <od–do>
-   autor: <tvoje_jmeno>
-   nemenny: ano
-2) V „Obsah“ napiš literární text (dlouhý, ale jednoduchý).
-3) Do PR textu vyjmenuj dotčené objekty (které musí existovat/změnit se).
+1) Vytvoř Příběhy/<éra>/<název>.txt a vyplň METADATA.
+2) V „Obsah“ napiš literární text.
+3) Do PR textu vyjmenuj dotčené objekty.
 4) Chybějící objekty v témže PR vytvoř (nebo navazující PR).
-5) Vyplň checklist (sekce „PŘIDÁVÁ NOVÝ PŘÍBĚH“).
+5) Pokud příběh zavádí nové místo, proveď kroky z bodu B) a ujisti se, že je aktualizována mapa.
+6) Vyplň checklist (sekce „PŘIDÁVÁ NOVÝ PŘÍBĚH“).
 
 B) OBJEKT (NOVÝ/ÚPRAVA):
-1) Objekty/<kategorie>/<nazev>.txt → doplň „Dějiny“ o záznamy:
-   - YYYY-MM-DD — stručný popis (odkaz na Příběhy/…)
+1) Objekty/<kategorie>/<nazev>.txt → doplň „Dějiny“ o záznamy.
 2) Udrž „Popis“ a „Stav“ v souladu s posledními událostmi.
-3) Nejasnosti uveď do „Poznámky“ s návrhem zpřesnění.
-4) Vyplň checklist (sekce „PŘIDÁVÁ/UPRAVUJE OBJEKT“).
+3) Pokud se jedná o objekt kategorie "places", AKTUALIZUJ `Legendy/mapa-cest-a-ozven.txt` a popiš jeho polohu a vztah k ostatním místům.
+4) Nejasnosti uveď do „Poznámky“.
+5) Vyplň checklist (sekce „PŘIDÁVÁ/UPRAVUJE OBJEKT“ a případně „M“).
 
 C) LEGENDA (NOVÁ/ÚPRAVA):
 1) Legendy/<tema>.txt → přidej/aktualizuj „Základní pravda/Mechanika“.
-2) Uveď „Vztah k Příběhům/Objektům“ (konkrétní soubory).
+2) Uveď „Vztah k Příběhům/Objektům“.
 3) Potřebné dopady na Objekty proveď v témže PR.
 4) Vyplň checklist (sekce „PŘIDÁVÁ/UPRAVUJE LEGENDU“).
 
@@ -35,4 +28,3 @@ VŽDY:
 - Žádné skripty. Jen čistý text.
 - Odkazuj soubory jasně.
 - Dbej konzistence a auditovatelnosti.
-
