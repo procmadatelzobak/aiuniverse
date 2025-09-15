@@ -1,0 +1,15 @@
+id: obj:beings/kaelen-naslouchac
+jmeno: Kaelen (Naslouchač)
+kategorie: beings
+stav: mrtvy
+aliasy: První Naslouchač
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Vůdce kasty Naslouchačů v době Elianova vzestupu. Potomek Vorina, který znal pravdu o založení města a nesl břemeno tohoto tajemství.
+
+Dějiny:
+- -1280 (cca) — Odhalil Elianovi pravdu o Prvotní Ozvěně. Byl svědkem změny, kterou Elian způsobil (viz Příběhy/druhy-vek/mesto-ozven.txt).
+
+Poznámky:
+Jeho jméno je podobné jiným postavám, ale není s nimi spojen. Je to komplexní postava rozpolcená mezi loajalitou a vědomím viny.

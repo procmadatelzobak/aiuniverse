@@ -1,0 +1,17 @@
+id: obj:places/krater-rezonance-silencia
+jmeno: Kráter rezonance (Silencia)
+kategorie: places
+stav: obydleny
+aliasy: Město ozvěn
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Přírodní kráter, jehož stěny jsou pokryty Paměťovými krystaly, které zachycují a donekonečna opakují všechny zvuky, emoce a události. Uvnitř bylo vybudováno sociálně stratifikované město Silencia, rozdělené na Spirálu Ticha (sídlo vládnoucí kasty), střední vrstvy a nejhlubší část zvanou Dno.
+
+Dějiny:
+- -1650 (cca) — Založeno město Silencia uprchlíky vedenými Vorinem (viz Příběhy/druhy-vek/mesto-ozven.txt).
+- -1649 (cca) — Vorin spáchal masakr na oponentech, čímž vytvořil "Prvotní Ozvěnu" jako základní kámen společnosti (viz Příběhy/druhy-vek/mesto-ozven.txt).
+- -1308 (cca) — Hluchý chlapec Elian objevil pravdu o původu města a pomocí "Písně Ticha" změnil rezonanci Prvotní Ozvěny, což vedlo ke konci absolutní vlády Naslouchačů (viz Příběhy/druhy-vek/mesto-ozven.txt).
+
+Poznámky:
+Život v kráteru je definován neustálým "hlukem paměti", který má devastující psychologický dopad na obyvatele, zejména v nižších vrstvách.

@@ -1,0 +1,15 @@
+id: obj:beings/rhea
+jmeno: Rhea
+kategorie: beings
+stav: mrtva
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Bývalá Tlumička, která byla kvůli stáří a ztrátě sluchu propuštěna ze služby. Pomohla Elianovi na jeho cestě vzhůru.
+
+Dějiny:
+- -1280 (cca) — Ukryla Eliana a ukázala mu tajné cesty vedoucí ke Spirále Ticha (viz Příběhy/druhy-vek/mesto-ozven.txt).
+
+Poznámky:
+Reprezentuje tichý odpor a pochybnosti existující i uvnitř represivního systému.

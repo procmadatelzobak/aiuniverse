@@ -1,0 +1,16 @@
+id: obj:beings/vorin
+jmeno: Vorin
+kategorie: beings
+stav: mrtvy
+aliasy: Zakladatel
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Charismatický, ale pragmatický vizionář, který přivedl uprchlíky do Kráteru rezonance a založil město Silencia.
+
+Dějiny:
+- -1650 (cca) — Založil Silencii (viz Příběhy/druhy-vek/mesto-ozven.txt).
+- -1649 (cca) — Aby sjednotil své lidi a vytvořil společný základ pro společnost, povraždil oponenty a jejich rodiny, čímž stvořil Prvotní Ozvěnu (viz Příběhy/druhy-vek/mesto-ozven.txt).
+
+Poznámky:
+Jeho postava ztělesňuje konflikt mezi ideálem spravedlivé společnosti a krutými prostředky použitými k jejímu dosažení.

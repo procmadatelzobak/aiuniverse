@@ -1,0 +1,16 @@
+id: obj:concepts/prvotni-ozvena
+jmeno: Prvotní Ozvěna
+kategorie: concepts
+stav: trvaly (změněný)
+aliasy: Ozvěna Oběti; Ozvěna Zločinu
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Nejstarší a nejmocnější rezonance v Silencii. Je to mentální a emoční otisk masakru, který spáchal zakladatel Vorin, aby sjednotil své lidi. Její neustálá vibrace bolesti a zrady je skutečným zdrojem šílenství ve městě.
+
+Dějiny:
+- -1649 (cca) — Vznikla jako důsledek Vorinova činu.
+- -1280 (cca) — Její charakter byl změněn "Písní Ticha", kterou inicioval Elian. Z ozvěny zločinu se stalo rekviem a památka (viz Příběhy/druhy-vek/mesto-ozven.txt).
+
+Poznámky:
+Naslouchači ji interpretovali jako "Oběť", aby legitimizovali svou moc.
