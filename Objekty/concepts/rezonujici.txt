@@ -1,0 +1,19 @@
+id: obj:concepts/rezonujici
+jmeno: Rezonující
+kategorie: concepts
+stav: reformovany (Šedí svědkové)
+aliasy: Strážci Paměti
+naposledy_upraveno: 2025-09-17
+
+Popis:
+Společensko-filozofické hnutí, které se zrodilo v Silencii na počátku Třetího věku. Jejich základní dogma tvrdilo, že paměť je posvátná a zapomnění je největší hřích. Usilovali o vytvoření dokonalého archivu všech událostí, myšlenek a pocitů, aby se lidstvo mohlo poučit z minulosti a předejít opakování chyb. V pozdějších fázích se jejich ideologie zradikalizovala a jejich snaha o "záchranu" paměti se stala agresivní a totalitní.
+
+Dějiny:
+- cca -950 — Vznik filozofie v reformované Silencii, inspirované proměnou Prvotní Ozvěny (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt).
+- cca -700 — Pod vedením Kaelena, Prvního mluvčího, začali stavět Věže Odkazu.
+- cca -510 — Neúspěšné Obléhání Dubu paměti, počátek otevřeného konfliktu s Mlčícími poutníky.
+- cca -350 — Katastrofální porážka na Vyprahlých pláních zapomnění.
+- 0 — Po vzniku Tiché prázdnoty podepsali Tichý úsvit a jejich radikální frakce zanikla. Umírnění členové se stali součástí Šedých svědků.
+
+Poznámky:
+Jejich technologie fokusovaných ozvěn a Paměťových krystalů byla z velké části zničena nebo zapečetěna po válce.

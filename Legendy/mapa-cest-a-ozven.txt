@@ -25,24 +25,27 @@ Jádro známých zemí, definované klidným tokem řeky Tiché vlny. Krajina je
 **Propojení a geografie:**
 Hlavní tepnou regionu je řeka **Tichá vlna**, která teče ze severu na jih. Na jejím západním břehu, v úrodné nížině, leží **Vesnice U tří kamenů**, chráněná silou svých prastarých artefaktů. Z vesnice vede cesta na jihovýchod, která po půldenní chůzi překračuje Tichou vlnu přes Starý brod a stoupá k **Větrnému vrchu**, na jehož vrcholu tiše chátrají Sluneční hodiny šepotů a kde lze nalézt pozůstatky zaniklé osady.
 
-Dále na východ od Větrného vrchu se země vlní a klesá k **Jezeru odrazu**, jehož chaotické šepoty jsou slyšet na míle daleko. Vody jezera jsou kalné a plné protichůdných vzpomínek.
+Dále na východ od Větrného vrchu se země vlní a klesá k **Jezero odrazu**, jehož chaotické šepoty jsou slyšet na míle daleko. Vody jezera jsou kalné a plné protichůdných vzpomínek.
 
 Severně od Vesnice, na dohled od řeky, se tyčí prastarý **Dub paměti** na strategickém rozcestí. Cesta na sever od něj vstupuje do hlubokého **Lese šepotů**, jehož koruny neustále šeptají. Odtud je to dva dny cesty k Průsmyku bezejmenných. Cesta na západ od Dubu paměti vede do izolovanější a drsnější krajiny, kde se nachází **Osada Vřesová stráň**. Blízko ní leží jizva v zemi známá jako **Lom tichých vzdechů**, jehož smutek dodnes rezonuje krajinou.
 
 ---
 
-### Oblast 2: Tichý sever (Oblast zkoušek)
+### Oblast 2: Tichý sever (Oblast zkoušek a Jizvy)
 
-Kraje za Lesem šepotů, kde země stoupá do strmého a chladného pohoří **Tiché vrchy**. Hlas země je zde často potlačený, nebezpečně tichý nebo zcela nepřítomný. Je to místo zkoušek pro ty, kdo hledají hranice ticha.
+Kraje za Lesem šepotů, kde země stoupá do strmého a chladného pohoří **Tiché vrchy**. Hlas země je zde často potlačený, nebezpečně tichý nebo zcela nepřítomný. Je to místo zkoušek pro ty, kdo hledají hranice ticha. Tato oblast byla navždy poznamenána Válkami Ticha a Ozvěny.
 
 **Klíčová místa:**
 - Objekty/places/prusmyk-bezejmennych.txt
 - Objekty/places/tiche-vrchy.txt
 - Objekty/places/udoli-ticheho-strachu.txt
 - Objekty/places/hvozd-zadrzeneho-dechu.txt
+- Objekty/places/ticha-prazdnota.txt (nově)
 
 **Propojení a geografie:**
 Jediná známá cesta do Tichých vrchů vede přes **Průsmyk bezejmenných**, nebezpečné sedlo, kde se člověk může ztratit nejen fyzicky, ale i duševně. Za průsmykem se rozkládá pustá, skalnatá krajina Tichých vrchů. Hluboko v tomto pohoří, tři dny namáhavé cesty od Průsmyku, se skrývá **Údolí tichého strachu**, místo nepřirozené prázdnoty. Toto údolí je obklopeno **Hvozdem Zadrženého Dechu**, jehož tíživá atmosféra slouží jako přirozená bariéra. Zde také pramení řeka Tichá vlna.
+
+Západní část pohoří Tiché vrchy již neexistuje. Byla nahrazena **Tichou prázdnotou**, dírou v samotné realitě. Její okraje tvoří novou, nepřekročitelnou západní hranici známého světa. Vzdálenost od Průsmyku bezejmenných k nejbližšímu okraji Prázdnoty se odhaduje na sedm dní cesty nebezpečným terénem, ale nikdo se neodvažuje ji přesně mapovat.
 
 ---
 

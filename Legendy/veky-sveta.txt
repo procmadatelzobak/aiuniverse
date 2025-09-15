@@ -1,0 +1,61 @@
+id: lg:veky-sveta
+nazev: Věky světa
+kategorie: legendy
+stav: ziva
+
+Popis:
+Historie světa se dělí do čtyř velkých epoch, známých jako Věky. Každý věk je definován povahou dominantních sil a událostí, které formovaly tvář země a mysl jejích obyvatel. Přechody mezi věky nejsou ostré, ale představují dlouhá období transformace.
+
+---
+
+### První věk: Věk Mýtů (cca -10000 až -3000)
+
+**Charakteristika:** Formativní epocha, kdy svět byl mladý a tvárný. Principy Sedmy byly aktivní a jejich projevy byly přímé a často kataklyzmatické. Hranice mezi fyzickým a metafyzickým byla tenká. V tomto věku se odehrály události, které položily základy světa, jak jej známe.
+
+**Klíčové události:**
+- Zrození světa z Prvotního moře myšlí.
+- Pád Tří slz, který dal vzniknout Vesnici U tří kamenů.
+- Tichý pád Hvězdné mysli a vznik Jezera odrazu.
+- Čin Eamona a stvoření Písně rovnováhy.
+
+---
+
+### Druhý věk: Věk Smrtelníků (cca -3000 až -1000)
+
+**Charakteristika:** Epocha, kdy se Sedma stáhla do pozadí a hlavními aktéry se stali smrtelníci. Lidé a další bytosti začali budovat civilizace, tvořit mocné artefakty a zanechávat trvalé jizvy v krajině i její paměti. Byl to věk velkých činů, ale i velkých omylů, poháněných pýchou a touhou po poznání.
+
+**Klíčové události:**
+- Vznik osad jako Silencia a osada na Větrném vrchu.
+- Stavba Slunečních hodin šepotů a stvoření Kamenného atlasu.
+- Pochod Stínu a přejmenování Průsmyku bezejmenných.
+- Elianova Píseň ticha, která změnila společnost v Silencii.
+
+---
+
+### Třetí věk: Věk Rozkolu (cca -1000 až 0)
+
+**Charakteristika:** Doba ideologického konfliktu, známá jako **Války Ticha a Ozvěny**. Dvě velké frakce, Rezonující a Mlčící poutníci, dovedly fundamentální principy světa do extrémů. Rezonující usilovali o absolutní zachování paměti, zatímco Mlčící hledali spásu v jejím vymazání. Tento konflikt zpustošil rozsáhlé části světa a skončil kataklyzmatem, které navždy změnilo geografii i filozofii jeho obyvatel.
+
+**Klíčové události:**
+- Vzestup Rezonujících ze Silencie a Mlčících poutníků z Tichých vrchů.
+- Obléhání Dubu paměti.
+- Bitva na Vyprahlých pláních zapomnění.
+- Vytvoření Tiché prázdnoty.
+
+---
+
+### Čtvrtý věk: Věk Křehké rovnováhy (0 až současnost)
+
+**Charakteristika:** Současná epocha, která začala po podepsání **Tichého úsvitu**, smlouvy, která ukončila Války Ticha a Ozvěny. Je to doba obnovy, hledání nové rovnováhy mezi pamětí a zapomněním. Svět nese hluboké jizvy z minulého věku a strach z opakování extrémů je všudypřítomný. Objevují se nové filozofie, které se snaží integrovat oba principy, jako například Šedí svědkové.
+
+**Klíčové události:**
+- Podepsání Tichého úsvitu u paty Kamenného atlasu.
+- Pomalé osidlování oblastí zničených válkou.
+
+---
+Vztah k Příběhům/Objektům:
+Tato legenda poskytuje časový rámec pro všechny existující i budoucí příběhy a objekty.
+- Příběhy/prvni-vek/*
+- Příběhy/druhy-vek/*
+- Příběhy/treti-vek/valky-ticha-a-ozveny.txt
+- timeline.txt
