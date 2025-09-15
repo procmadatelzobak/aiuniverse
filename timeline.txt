@@ -1,6 +1,7 @@
 # Časová osa Univerza
 
 ## První věk
+- **-8500 (přibližně)**: Do země dopadly tři zkrystalizované emoce z Prvotního moře myšlí, které vytvořily základ budoucí Vesnice U tří kamenů (viz Příběhy/prvni-vek/pad-trech-slz.txt; Objekty/places/vesnice-u-tri-kamenu.txt).
 - **-3200-04-14**: Dub paměti ukázal cestu Sběrači hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
 - **-3200-04-15**: Píseň u Jezera odrazu; setkání Sběrače hlasů s vesničany (viz Příběhy/prvni-vek/pisen-u-jezera.txt). Vesničané byli svědky této události (viz Objekty/places/vesnice-u-tri-kamenu.txt).
 - **-3200-04-16**: Sběrač hlasů zmizel (viz Příběhy/prvni-vek/pisen-u-jezera.txt).

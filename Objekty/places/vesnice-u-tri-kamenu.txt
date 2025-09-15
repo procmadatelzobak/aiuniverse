@@ -6,11 +6,12 @@ aliasy: —
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Malá vesnice vystavěná kolem tří zvláštních kamenů, o nichž se říká, že spadly z nebe. Lidé zde žijí v těsném soužití s náladami krajiny.
+Malá vesnice vystavěná kolem tří zvláštních, prastarých kamenů. Každý z kamenů vyzařuje jinou, subtilní atmosféru a ovlivňuje své nejbližší okolí. Lidé zde žijí v těsném soužití s náladami krajiny.
 
 Dějiny:
+- -8500 (přibližně) — Do země dopadly tři zkrystalizované emoce z Prvotního moře myšlí, které vytvořily základ budoucí osady (viz Příběhy/prvni-vek/pad-trech-slz.txt).
 - -3200-04-15 — Vesničané byli svědky písně Jezera odrazu a setkání se Sběračem hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
 - -1200-09-01 — Poslové vysláni varovat okolí před Stínem v Dolním průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt).
 
 Poznámky:
-Původ kamenů je neznámý; místní jim připisují ochrannou moc.
+Příběh "Pád tří slz" potvrzuje původ kamenů a vysvětluje jejich ochrannou moc, kterou jim místní připisují. Jedná se o Kámen žalu, Kámen radosti a Kámen úžasu.
