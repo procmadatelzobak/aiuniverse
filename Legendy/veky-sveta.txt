@@ -58,4 +58,5 @@ Tato legenda poskytuje časový rámec pro všechny existující i budoucí př�
 - Příběhy/prvni-vek/*
 - Příběhy/druhy-vek/*
 - Příběhy/treti-vek/valky-ticha-a-ozveny.txt
+- Příběhy/ctvrty-vek/tichy-usvit.txt
 - timeline.txt

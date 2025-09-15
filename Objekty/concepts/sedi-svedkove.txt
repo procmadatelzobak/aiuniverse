@@ -3,6 +3,7 @@ jmeno: Šedí svědkové
 kategorie: concepts
 stav: aktivni
 aliasy: Tkalci Vzpomínek (dříve)
+
 naposledy_upraveno: 2025-09-19
 
 Popis:
@@ -14,4 +15,7 @@ Dějiny:
 
 Poznámky:
 Jejich sídlo je v Údolí tichých ozvěn, kde střeží Kamenný atlas, svůj nejposvátnější text.
+
+
+naposledy_upraveno: 2025-09-18
 
