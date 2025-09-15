@@ -1,0 +1,17 @@
+
+id: obj:concepts/sochar
+jmeno: Sochař
+kategorie: concepts
+stav: trvaly
+aliasy: Princip Formy
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Jeden ze Sedmy, prvotní princip formy, stability a trvalosti. Jeho myšlenka dala světu pevné základy, pohoří a strukturu kamene. Jeho vliv je nejsilnější v horách a prastarých skalách. Je patronem stavitelů a těch, kdo hledají řád.
+
+Dějiny:
+- Úsvit času — Zrodil se z Prvotního moře myšlí jako jeden ze Sedmy (viz Legendy/legenda-o-sedmi.txt).
+
+Poznámky:
+Jeho negativním projevem je stagnace. Rianova schopnost cítit zemi je považována za jeho dar.
+

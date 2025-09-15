@@ -1,0 +1,17 @@
+
+id: obj:concepts/mlcici
+jmeno: Mlčící
+kategorie: concepts
+stav: trvaly
+aliasy: Princip Absence
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Jeden ze Sedmy, prvotní princip ticha, tajemství, hloubky a klidu. Vytvořil prostor, ve kterém může vše ostatní existovat. Je patronem mystiků a strážců tajemství.
+
+Dějiny:
+- Úsvit času — Zrodil se z Prvotního moře myšlí jako jeden ze Sedmy (viz Legendy/legenda-o-sedmi.txt).
+
+Poznámky:
+Jeho stínem je prázdnota a zoufalství. Stín, který se zrodil v Údolí tichého strachu, je považován za jeho pokřivený, nepřátelský projev.
+
