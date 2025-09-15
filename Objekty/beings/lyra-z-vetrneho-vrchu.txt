@@ -1,0 +1,15 @@
+id: obj:beings/lyra-z-vetrneho-vrchu
+jmeno: Lyra (z Větrného vrchu)
+kategorie: beings
+stav: mrtva
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Mladá žena žijící v osadě na Větrném vrchu v době největší slávy Slunečních hodin.
+
+Dějiny:
+- -2750 (cca) — Zeptala se hodin na osud svého milého Kaelana. Odhalení jeho nevěry se stalo katalyzátorem pro úpadek osady (viz Příběhy/druhy-vek/hodiny-sepotu.txt).
+
+Poznámky:
+Jméno "Lyra" se v tomto období a oblasti vyskytuje opakovaně. Tato Lyra není spojena s Tkalcem Vzpomínek z příběhu "Zahrada ticha".

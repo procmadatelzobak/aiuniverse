@@ -7,6 +7,10 @@
 - **-3200-04-16**: Sběrač hlasů zmizel (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
 
 ## Druhý věk
+- **-2810 (cca)** — Alwin nasbíral kameny u Jezera odrazu pro budoucí Sluneční hodiny šepotů (viz Příběhy/druhy-vek/hodiny-sepotu.txt; Objekty/beings/alwin.txt; Objekty/things/slunecni-hodiny-sepotu.txt; Objekty/places/jezero-odrazu.txt).
+- **-2800 (cca)** — Alwin postavil Sluneční hodiny šepotů na Větrném vrchu z kamene jezera (viz Příběhy/druhy-vek/hodiny-sepotu.txt; Objekty/beings/alwin.txt; Objekty/things/slunecni-hodiny-sepotu.txt; Objekty/places/vetrny-vrch.txt).
+- **-2750 (cca)** — Hodiny odhalily nevěru Kaelana, což vedlo k rozkolu v osadě na Větrném vrchu (viz Příběhy/druhy-vek/hodiny-sepotu.txt; Objekty/things/slunecni-hodiny-sepotu.txt; Objekty/beings/lyra-z-vetrneho-vrchu.txt; Objekty/beings/kaelan.txt; Objekty/places/vetrny-vrch.txt).
+- **-2200 (cca)** — Sluneční hodiny šepotů upadly v zapomnění a osada na Větrném vrchu zanikla (viz Příběhy/druhy-vek/hodiny-sepotu.txt; Objekty/things/slunecni-hodiny-sepotu.txt; Objekty/places/vetrny-vrch.txt).
 - **-2500-06-10**: Nalezen Šeptající kámen kameníkem Kaelem (viz Objekty/things/septajici-kamen.txt).
 - **-2500-06-18**: Šeptající kámen pohřben u kořenů starého dubu (viz Objekty/things/septajici-kamen.txt, Příběhy/prvni-vek/kamenne-ozveny.txt).
 - **-1850-01-01**: Mladý muž Lian pocházel z nedaleké osady a často navštěvoval okolní lesy (viz Příběhy/druhy-vek/zahrada-ticha.txt). Lian navštívil Zahradu ticha a zamiloval se do Lyry (viz Objekty/beings/lian.txt, Objekty/places/zahrada-ticha.txt).

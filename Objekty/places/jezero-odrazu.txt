@@ -10,6 +10,7 @@ Jezero, jehož hladina šeptá myšlenky a ozvěny cizích snů. Dlouhé hleděn
 
 Dějiny:
 - -3200-04-15 — Zazněla píseň slyšitelná všemi přítomnými (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
+- -2810 (cca) — Stavitel Alwin zde nasbíral kameny pro stavbu gnómonu Slunečních hodin šepotů. Kameny nasály sílu a paměť jezera (viz Příběhy/druhy-vek/hodiny-sepotu.txt).
 - -1521 (podzim) — Poutník Rian zde zažil přetížení svých smyslů, když vnímal nejen lidské myšlenky, ale i myšlenky celé okolní krajiny (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
 
 Poznámky:

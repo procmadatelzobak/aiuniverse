@@ -1,0 +1,15 @@
+id: obj:beings/alwin
+jmeno: Alwin
+kategorie: beings
+stav: mrtvy
+aliasy: Stavitel hodin
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Stavitel a hvězdář z raného Druhého věku, který toužil po řádu a trvalé pravdě ve světě plném pomíjivých pocitů. Tvůrce Slunečních hodin šepotů.
+
+Dějiny:
+- -2800 (cca) — Dokončil své životní dílo, Sluneční hodiny šepotů, na Větrném vrchu (viz Příběhy/druhy-vek/hodiny-sepotu.txt).
+
+Poznámky:
+Jeho touha po absolutní pravdě vedla ke stvoření mocného, ale nebezpečného artefaktu.

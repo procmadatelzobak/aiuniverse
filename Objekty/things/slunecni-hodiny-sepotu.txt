@@ -1,0 +1,18 @@
+id: obj:things/slunecni-hodiny-sepotu
+jmeno: Sluneční hodiny šepotů
+kategorie: things
+stav: existuje (opuštěné)
+aliasy: Zrcadlo pravdy
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Prastaré sluneční hodiny postavené na Větrném vrchu. Jejich gnómon (ukazatel) je vytesán z kamene pocházejícího od Jezera odrazu. Hodiny neukazují čas, ale odhalují skryté pravdy, vzpomínky a emoce v podobě mihotavých obrazů ve svém stínu. Ciferník je tvořen dvanácti symboly představujícími stavy mysli a osudu.
+
+Dějiny:
+- -2800 (cca) — Postaveny stavitelem a hvězdářem Alwinem na Větrném vrchu (viz Příběhy/druhy-vek/hodiny-sepotu.txt).
+- -2790 (cca) — Staly se centrem komunity, která je využívala k řešení sporů a hledání odpovědí (viz Příběhy/druhy-vek/hodiny-sepotu.txt).
+- -2750 (cca) — Odhalily bolestivou pravdu o nevěře, což vedlo k rozpadu důvěry v osadě. Lidé se jich začali bát a přestali je používat (viz Příběhy/druhy-vek/hodiny-sepotu.txt).
+- -2200 (cca) — Po zániku osady na Větrném vrchu upadly v zapomnění (viz Příběhy/druhy-vek/hodiny-sepotu.txt).
+
+Poznámky:
+Dar hodin je dvousečný. Odhalují absolutní pravdu bez ohledu na důsledky. Jejich účel se časem proměnil z nástroje pravdy na místo tichého smíření pro ty, kdo už nic nehledají.
