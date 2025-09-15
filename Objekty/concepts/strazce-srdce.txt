@@ -1,0 +1,17 @@
+
+id: obj:concepts/strazce-srdce
+jmeno: Strážce srdce
+kategorie: concepts
+stav: trvaly
+aliasy: Princip Cítění
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Jeden ze Sedmy, prvotní princip citu, vášně a emocí. Je to síla lásky, hněvu, odvahy i oběti. Je patronem milenců, bojovníků a revolucionářů.
+
+Dějiny:
+- Úsvit času — Zrodil se z Prvotního moře myšlí jako jeden ze Sedmy (viz Legendy/legenda-o-sedmi.txt).
+
+Poznámky:
+Jeho nejčistším projevem byl Pád Tří slz. Eamonova oběť u Jezera odrazu je považována za jeho projev.
+

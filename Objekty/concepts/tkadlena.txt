@@ -1,0 +1,17 @@
+
+id: obj:concepts/tkadlena
+jmeno: Tkadlena
+kategorie: concepts
+stav: trvaly
+aliasy: Princip Spojitosti
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Jeden ze Sedmy, prvotní princip propojení, vztahů a osudu. Její neviditelná vlákna tvoří cesty, po kterých putují myšlenky a ozvěny, a propojují osudy všech bytostí a míst.
+
+Dějiny:
+- Úsvit času — Zrodila se z Prvotního moře myšlí jako jedna ze Sedmy (viz Legendy/legenda-o-sedmi.txt).
+
+Poznámky:
+Její nebezpečí spočívá v manipulaci a fatalismu. Sluneční hodiny šepotů jsou nástrojem, který nebezpečně odhaluje její dílo.
+

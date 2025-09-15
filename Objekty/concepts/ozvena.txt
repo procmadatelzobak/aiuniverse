@@ -1,0 +1,17 @@
+
+id: obj:concepts/ozvena
+jmeno: Ozvěna
+kategorie: concepts
+stav: trvaly
+aliasy: Princip Výrazu
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Jeden ze Sedmy, prvotní princip projevu, komunikace a zvuku. Darovala světu hlas, hudbu a touhu po sdílení. Je patronkou pěvců, básníků a Nositelů hlasů.
+
+Dějiny:
+- Úsvit času — Zrodila se z Prvotního moře myšlí jako jedna ze Sedmy (viz Legendy/legenda-o-sedmi.txt).
+
+Poznámky:
+Jejím rizikem je lež a kakofonie. Kráter rezonance v Silencii je místem, kde byl její dar pokřiven.
+

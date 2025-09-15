@@ -1,0 +1,17 @@
+
+id: obj:concepts/zahradnik
+jmeno: Zahradník
+kategorie: concepts
+stav: trvaly
+aliasy: Princip Života
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Jeden ze Sedmy, prvotní princip života, růstu a cykličnosti. Vdechl světu život, nechal vyrašit první semena a řídí rytmus ročních období. Je patronem léčitelů a zemědělců.
+
+Dějiny:
+- Úsvit času — Zrodil se z Prvotního moře myšlí jako jeden ze Sedmy (viz Legendy/legenda-o-sedmi.txt).
+
+Poznámky:
+Jeho stínem je nekontrolovatelný, dusivý růst. Dub paměti je považován za jedno z jeho nejmoudřejších dětí.
+

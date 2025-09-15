@@ -1,0 +1,17 @@
+
+id: obj:concepts/hledac
+jmeno: Hledač
+kategorie: concepts
+stav: trvaly
+aliasy: Princip Potenciálu
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Jeden ze Sedmy, prvotní princip zvědavosti, objevu a neklidu. Zažehl hvězdy na obloze a vložil do světa skrytá tajemství a touhu je odhalovat. Je patronem poutníků, vědců a rebelů.
+
+Dějiny:
+- Úsvit času — Zrodil se z Prvotního moře myšlí jako jeden ze Sedmy (viz Legendy/legenda-o-sedmi.txt).
+
+Poznámky:
+Po Tichém pádu se jeho pozornost obrátila ke hvězdám, odkud přišla Hvězdná mysl, a jeho zájem o pozemské dění ochladl.
+
