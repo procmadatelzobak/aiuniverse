@@ -1,13 +1,15 @@
 
 POKYNY PRO TVORBU A REVIEW (PRO LIDI I PRO OPENHANDS)
 
+Repo obsahuje pomocný skript `export.sh` pro sloučení textů do tří souborů.
+
 Co má OpenHands dělat:
 1) Tvořit nové Příběhy (neměnné), případně k nim přidat/aktualizovat Objekty.
 2) Přidávat nové Objekty nebo rozšiřovat jejich „Dějiny“ (stav, milníky).
 3) Dopisovat Legendy (základní pravdy, mechaniky, slovník pojmů).
 
 Co NEMÁ dělat:
-- Neprogramuje. Nepřidává skripty ani nástroje.
+- Neprogramuje. Kromě existujícího `export.sh` nepřidává další skripty ani nástroje.
 - Nemění již schválené Příběhy. Vždy raději upraví Objekty.
 - Nevkládá spekulace bez opory v Příbězích nebo Legendách (nejistoty → do Poznámek objektu).
 - Nemění již schválenou časovou osu bez úpravy souvisejících Příběhů nebo Objektů.
