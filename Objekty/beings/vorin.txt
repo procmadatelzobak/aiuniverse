@@ -6,7 +6,7 @@ aliasy: Zakladatel
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Charismatický, ale pragmatický vizionář, který přivedl uprchlíky do Kráteru rezonance a založil město Silencia.
+Zakladatel a první vládce Silencie, postava ztělesňující tragický rozpor mezi vznešeným ideálem a krutými prostředky. Byl to vizionář, který své lidi zachránil před zkázou a v Kráteru rezonance spatřil příležitost k vytvoření dokonalé společnosti založené na absolutní pravdě. Zároveň byl chladným pragmatikem, který věřil, že cíl světí prostředky. Aby sjednotil rozpolcenou komunitu, spáchal chladnokrevný masakr na svých oponentech, čímž stvořil Prvotní Ozvěnu – společné trauma, které se stalo základním kamenem jeho města. Je zároveň spasitelem i prvním tyranem Silencie.
 
 Dějiny:
 - -1650 (cca) — Založil Silencii (viz Příběhy/druhy-vek/mesto-ozven.txt).

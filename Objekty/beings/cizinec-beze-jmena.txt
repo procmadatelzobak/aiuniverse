@@ -10,8 +10,7 @@ aliasy: —
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Tajemný poutník hledající odpovědi na ztracená jména. Jeho slova se vytrácejí z paměti svědků.
-Zásahem utišil Stín, ale cena byla vysoká.
+Záhadný poutník, jehož samotná podstata je spjata s fundamentálními koncepty paměti a identity. Jeho nejvýraznějším rysem je moc nad vzpomínkami – slova, která pronese, se okamžitě vytrácejí z paměti svědků, což naznačuje, že nepatří do běžného řádu světa. Jeho zásah proti Stínu v Průsmyku bezejmenných nebyl prostým kouzlem, ale spíše transakcí na metafyzické úrovni: utišil entitu zhmotněného strachu za cenu vymazání identity (jmen) několika lidí. Jeho motivace a původ jsou neznámé, ale je zjevně bytostí s hlubokým vlivem na samotnou strukturu reality.
 
 Dějiny:
 - -1200-09-12 — Pronesl nezapamatovatelná slova; Stín ustoupil, ale jména tří z družiny zmizela (viz Příběhy/druhy-vek/pochod-stinu.txt).

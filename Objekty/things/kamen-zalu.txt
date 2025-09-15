@@ -6,7 +6,7 @@ aliasy: První slza
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Jeden ze tří kamenů ve Vesnici U tří kamenů. Je tmavý a na dotek chladný. Jeho okolí je prostoupeno tichou, melancholickou atmosférou.
+Jeden ze tří základních kamenů Vesnice U tří kamenů. Není to obyčejný kámen, ale zkrystalizovaná esence Žalu, která jako jedna ze tří "slz" dopadla na zem z Prvotního moře myšlí. Je na dotek chladný a v jeho okolí je trvale chladněji a padá zde těžší rosa. Jeho vliv není aktivně zlý, ale navozuje stav tiché, hluboké melancholie a introspekce. Je připomínkou prapůvodního smutku, který je součástí světa.
 
 Dějiny:
 - -8500 (přibližně) — Vznikl zkrystalizováním emoce Žalu z Prvotního moře myšlí a dopadl na zem (viz Příběhy/prvni-vek/pad-trech-slz.txt).
