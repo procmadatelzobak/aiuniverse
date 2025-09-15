@@ -3,14 +3,19 @@ jmeno: Šedí svědkové
 kategorie: concepts
 stav: aktivni
 aliasy: Tkalci Vzpomínek (dříve)
-naposledy_upraveno: 2025-09-18
+
+naposledy_upraveno: 2025-09-19
 
 Popis:
-Řád filozofů, historiků a strážců, který vznikl na počátku Čtvrtého věku. Jsou následovníky původních Tkalců Vzpomínek, ale jejich role se po Válkách Ticha a Ozvěny změnila. Jejich ústředním principem je Křehká rovnováha: uznávají nutnost paměti pro poučení a identity, ale zároveň i potřebu ticha a zapomnění pro odpuštění a uzdravení. Slouží jako neutrální arbitři a strážci, kteří brání opakování extrémů minulosti.
+Řád filozofů, historiků a strážců, který vznikl na počátku Čtvrtého věku. ... Jejich ústředním principem je Křehká rovnováha: uznávají nutnost paměti pro poučení a identity, ale zároveň i potřebu ticha a zapomnění pro odpuštění a uzdravení. Slouží jako neutrální arbitri a strážci, kteří brání opakování extrémů minulosti. Po událostech u Posledního bdění se jejich role rozšířila i na aktivní obranu reality proti existenciálním hrozbám jako je Šepot prázdnoty.
 
 Dějiny:
-- Pradávno — Jejich přesný původ je dosud nejasný; některé prameny je spojují s bytostmi citlivými na Kamenný atlas (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
-- 0 — Formálně vznikli z Tkalců Vzpomínek a umírněných zbytků Rezonujících a Mlčících poutníků během události Tichý úsvit (viz Příběhy/ctvrty-vek/tichy-usvit.txt).
+- 0 — Formálně vznikli z Tkalců Vzpomínek a umírněných zbytků Rezonujících a Mlčících poutníků během události Tichý úsvit (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt).
+- +82 — Události v Posledním bdění vedly k vytvoření nové doktríny "Aktivní rovnováhy" a zřízení permanentních stráží na okraji Tiché prázdnoty (viz Příběhy/ctvrty-vek/sepot-v-prazdnote.txt).
 
 Poznámky:
 Jejich sídlo je v Údolí tichých ozvěn, kde střeží Kamenný atlas, svůj nejposvátnější text.
+
+
+naposledy_upraveno: 2025-09-18
+

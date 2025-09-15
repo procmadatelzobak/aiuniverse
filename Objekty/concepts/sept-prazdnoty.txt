@@ -1,0 +1,16 @@
+id: obj:concepts/sept-prazdnoty
+jmeno: Šepot prázdnoty
+kategorie: concepts
+stav: aktivni (lokálně omezený)
+aliasy: Odmazávání
+naposledy_upraveno: 2025-09-19
+
+Popis:
+Jemný, ale extrémně nebezpečný projev Tiché prázdnoty. Není to zvuk ani viditelná síla, ale proces "odmazávání" existence. Tento fenomén postupně odstraňuje objekty, myšlenky, vzpomínky a nakonec i živé bytosti z reality. Jeho postup je plíživý; oběti si často neuvědomují, co bylo ztraceno, cítí jen rostoucí zmatek a prázdnotu.
+
+Dějiny:
+- +82 — Poprvé masivněji zaznamenán ve stanici Poslední bdění. Byl zastaven a "ukotven" Lianem, který vytvořil bariéru založenou na obětované, smysluplné vzpomínce (viz Příběhy/ctvrty-vek/sepot-v-prazdnote.txt).
+
+Poznámky:
+Šepot je považován za přirozenou "erozi", kterou Prázdnota působí na realitu. Předpokládá se, že podél celého okraje Prázdnoty mohou existovat další, menší "průsaky".
+
