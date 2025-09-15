@@ -6,7 +6,13 @@ aliasy: Tichý revolucionář
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Hluchý chlapec z nejnižší vrstvy Silencie. Jeho hluchota ho chránila před hlukem paměti, ale umožnila mu vnímat hluboké, fundamentální vibrace kráteru, včetně Prvotní Ozvěny.
+Hluchý chlapec narozený v nejnižší a nejhlučnější vrstvě Silencie, zvané Dno. Jeho postižení se
+stalo jeho největším darem; chránilo ho před ohlušujícím chaosem povrchových ozvěn a umožnilo mu
+vnímat svět skrze hluboké, fundamentální vibrace kráteru. Naučil se cítit strukturu a tep města, a
+jako jediný dokázal jasně identifikovat Prvotní Ozvěnu – základní tón bolesti, na kterém byla
+Silencia postavena. Jeho cesta nebyla vzpourou hluku, ale ticha. Aniž by pronesl slovo, inicioval
+Píseň Ticha, která změnila rezonanci města a rozbila moc Naslouchačů. Stal se tak symbolem toho, že
+skutečné naslouchání nevyžaduje uši, ale srdce.
 
 Dějiny:
 - -1308 (cca) — Narodil se v Dně Silencie (viz Příběhy/druhy-vek/mesto-ozven.txt).
