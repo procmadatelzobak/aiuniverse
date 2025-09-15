@@ -1,6 +1,3 @@
-
-
-
 id: obj:beings/dub-pameti
 jmeno: Dub paměti
 kategorie: beings
@@ -9,16 +6,12 @@ aliasy: —
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Prastarý strom, o němž se věří, že uchovává paměť krajiny.
-Dokáže naznačit cestu a předat útržky dávných myšlenek těm, kdo jej slyší.
+Prastarý strom, o němž se věří, že uchovává paměť krajiny. Dokáže naznačit cestu a předat útržky dávných myšlenek těm, kdo jej slyší.
 
 Dějiny:
 - -3200-04-14 — Ukázal cestu poutníkovi známému jako Sběrač hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
-- -1850-01-01 — Naznačil cestu k Zahradě ticha mladému muži Lianovi (viz Příběhy/druhy-vek/zahrada-ticha.txt).
-- -1519-08-10 — Utěšil Riana a obnovil jeho odhodlání (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+- -1519-08-10 — Poskytl tichou útěchu a obnovil odhodlání poutníkovi Rianovi, aniž by promluvil (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
 - -1200-09-09 — Varoval družinu sedmi na cestě do průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt).
 
 Poznámky:
-Bývá zmiňován jako nejstarší svědek okolních událostí.
-
-
+Bývá zmiňován jako nejstarší svědek okolních událostí. Jeho interakce nemusí být vždy verbální; někdy poskytuje jen pocit sounáležitosti.
