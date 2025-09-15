@@ -1,4 +1,3 @@
-
 POVINNÝ CHECKLIST PRO KAŽDÝ PULL REQUEST
 
 [ ] 1) Shrnutí PR je jasné (co a proč).
@@ -22,11 +21,11 @@ Pokud PR PŘIDÁVÁ/UPRAVUJE OBJEKT:
 Pokud PR PŘIDÁVÁ/UPRAVUJE LEGENDU:
 [ ] L1) Soubor v Legendy/<téma>.txt vytvořen/aktualizován věcně.
 [ ] L2) Přidán „Vztah k Příběhům/Objektům“ (vyjmenovány soubory).
-[ ] L3) Není v rozporu s Příběhy; nutné dopady řeší úprava Objektů (ne příběhů).
+[ ] L3) Není v rozporu s Příběhy; nutné dopady řeší úprava Objektů.
 
-Pokud PR PŘIDÁVÁ/UPRAVUJE ČASOVOU OSU:
-[ ] T1) Soubor timeline.txt aktualizován s novými událostmi a daty.
-[ ] T2) Všechny nové události v časové ose mají odkaz na související Příběh nebo Objekt.
+Pokud PR PŘIDÁVÁ/UPRAVUJE LOKACI (objekt kategorie "places"):
+[ ] M1) Soubor `Legendy/mapa-cest-a-ozven.txt` byl aktualizován o novou lokaci.
+[ ] M2) V mapě byl popsán vztah nové lokace k nejbližšímu známému místu.
 
 Formální:
 [ ] F1) Pravopis zkontrolován.
