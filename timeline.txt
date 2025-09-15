@@ -1,4 +1,3 @@
-
 # Časová osa Univerza
 
 ## První věk
@@ -9,6 +8,8 @@
 ## Druhý věk
 - **-2500-06-10**: Nalezen Šeptající kámen kameníkem Kaelem (viz Objekty/things/septajici-kamen.txt).
 - **-2500-06-18**: Šeptající kámen pohřben u kořenů starého dubu (viz Objekty/things/septajici-kamen.txt, Příběhy/prvni-vek/kamenne-ozveny.txt).
+- **-1850-01-01**: Mladý muž Lian pocházel z nedaleké osady a často navštěvoval okolní lesy (viz Příběhy/druhy-vek/zahrada-ticha.txt). Lian navštívil Zahradu ticha a zamiloval se do Lyry (viz Objekty/beings/lian.txt, Objekty/places/zahrada-ticha.txt).
+- **-1850-12-31**: Lyra, utkaná z paměti Zahrady ticha, byla ovlivněna Lianovou láskou, což vedlo k proměně její podstaty a chřadnutí zahrady. Lian odešel (viz Příběhy/druhy-vek/zahrada-ticha.txt, Objekty/beings/lyra.txt, Objekty/places/zahrada-ticha.txt).
 - **-1550-03-12** — Narodil se Rian v Osadě Vřesová stráň (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
 - **-1540 (cca)** — Rian v dětství navštěvoval Lom tichých vzdechů a vnímal jeho melancholickou atmosféru (viz Příběhy/druhy-vek/kameníkuv-atlas.txt, Objekty/places/lom-tichych-vzdechu.txt).
 - **-1538** — Rian nastoupil do učení k tesaři Jornovi a začal kreslit své první "emoční" mapy (viz Příběhy/druhy-vek/kameníkuv-atlas.txt, Objekty/beings/rian.txt).
@@ -19,8 +20,5 @@
 - **-1514** — Rian objevil Údolí tichých ozvěn a zahájil práci na Kamenném atlasu (viz Příběhy/druhy-vek/kameníkuv-atlas.txt; Objekty/places/udoli-tichych-ozven.txt).
 - **-1514 až -1466** — V Údolí tichých ozvěn tesal Kamenný atlas (viz Příběhy/druhy-vek/kameníkuv-atlas.txt; Objekty/concepts/kamenny-atlas.txt).
 - **-1466 (zima)** — Rian zemřel u svého nedokončeného díla (viz Příběhy/druhy-vek/kameníkuv-atlas.txt; Objekty/beings/rian.txt).
-- **-1850-01-01** — Mladý muž Lian pocházel z nedaleké osady a často navštěvoval okolní lesy (viz Příběhy/druhy-vek/zahrada-ticha.txt). Lian navštívil Zahradu ticha a zamiloval se do Lyry (viz Objekty/beings/lian.txt, Objekty/places/zahrada-ticha.txt).
-- **-1850-12-31** — Lyra, utkaná z paměti Zahrady ticha, byla ovlivněna Lianovou láskou, což vedlo k proměně její podstaty a chřadnutí zahrady. Lian odešel (viz Příběhy/druhy-vek/zahrada-ticha.txt, Objekty/beings/lyra.txt, Objekty/places/zahrada-ticha.txt).
 - **-1200-09-01** — Poslové vysláni varovat okolí před Stínem v Dolním průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt).
 - **-1200-09-09** — Dub paměti varoval družinu sedmi na cestě do průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt).
-

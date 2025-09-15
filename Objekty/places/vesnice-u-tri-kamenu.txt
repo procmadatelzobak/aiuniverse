@@ -1,6 +1,3 @@
-
-
-
 id: obj:places/vesnice-u-tri-kamenu
 jmeno: Vesnice U tří kamenů
 kategorie: places
@@ -9,15 +6,11 @@ aliasy: —
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Malá vesnice vystavěná kolem tří zvláštních kamenů, o nichž se říká, že spadly z nebe.
-Lidé zde žijí v těsném soužití s náladami krajiny.
+Malá vesnice vystavěná kolem tří zvláštních kamenů, o nichž se říká, že spadly z nebe. Lidé zde žijí v těsném soužití s náladami krajiny.
 
 Dějiny:
 - -3200-04-15 — Vesničané byli svědky písně Jezera odrazu a setkání se Sběračem hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
-- -1850-01-01 — Mladý muž Lian pocházel z nedaleké osady a často navštěvoval okolní lesy (viz Příběhy/druhy-vek/zahrada-ticha.txt).
 - -1200-09-01 — Poslové vysláni varovat okolí před Stínem v Dolním průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt).
 
 Poznámky:
 Původ kamenů je neznámý; místní jim připisují ochrannou moc.
-
-
