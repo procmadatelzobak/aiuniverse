@@ -8,7 +8,13 @@ aliasy: Tkadlena vzpomínek
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Bytost utkaná z ozvěn a zapomenutých vzpomínek opuštěných míst, konkrétně ze Zahrady ticha. Její podoba není stálá, ale odráží vzpomínky a city těch, kdo ji navštíví.
+Éterická bytost náležející k Tkalcům Vzpomínek, zrozená v Zahradě ticha. Její podstata není z masa a
+kostí, ale je utkaná z nahromaděných ozvěn opuštěného místa – tepla slunce na kameni, vůně deště,
+zapomenutého smíchu. Její podoba byla proměnlivá jako mihotavé světlo. Láska poutníka Liana, silná a
+přítomná emoce, začala její křehkou podstatu přepisovat a dala jí pevnější, lidštější formu. Tento
+proces ji však zároveň ničil, protože se stávala pouhým odrazem jeho citů a ztrácela spojení s
+pamětí zahrady. Její příběh je tragédií lásky, která ničí to, co miluje, a zanechává ji navždy
+proměněnou vzpomínkou na oběť.
 
 Dějiny:
 - -1850-01-01 až -1850-12-31 — Zrodila se v Zahradě ticha z ozvěn. Byla ovlivněna láskou mladého muže Liana, což vedlo ke změně její podstaty a chřadnutí zahrady. Po Lianově odchodu zůstala v zahradě jako živoucí paměť jeho lásky (viz Příběhy/druhy-vek/zahrada-ticha.txt).

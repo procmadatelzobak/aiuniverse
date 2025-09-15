@@ -9,8 +9,12 @@ aliasy: —
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Beztvará entita nebo zhmotnělá myšlenka krajiny, která lidem vrací jejich vlastní strachy a skryté vzpomínky.
-Působí jako negativ hlasu země: pohlcuje, přehlušuje, zamlčuje.
+Amorfní entita, která se zrodila z nepřirozeného ticha a nahromaděného strachu v Údolí tichého
+strachu. Není ani tak bytostí, jako spíše zhmotnělou negativní myšlenkou krajiny. Nemá vlastní tvář,
+místo toho funguje jako zrcadlo, které každému, kdo se na něj podívá, ukáže jeho nejhorší obavy a
+skryté, potlačované vzpomínky. Jeho přítomnost paralyzuje a umlčuje – přehlušuje píseň země a
+nahrazuje ji ohlušujícím vnitřním strachem oběti. Jeho ústup po zásahu Cizince beze jména stál cenu
+ztracených jmen, což naznačuje, že jakákoliv interakce s ním narušuje samotnou podstatu identity.
 
 Dějiny:
 - -1200-09-10 — Zjevil se v Dolním průsmyku a paralyzoval družinu sedmi (viz Příběhy/druhy-vek/pochod-stinu.txt).
