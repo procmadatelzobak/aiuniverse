@@ -8,7 +8,7 @@ aliasy: —
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Mladý muž z nedaleké osady, který se cítil odcizený ve společnosti. Hledal klid a nacházel ho v tichých místech, kde slyšel šepot země. Jeho láska k Lyře v Zahradě ticha měla hluboký dopad na ni i na samotnou zahradu.
+Mladý muž, který se cítil cizincem ve společnosti, protože na rozdíl od ostatních vnímal tichý šepot země a nálady krajiny. V Lyře, bytosti utkané ze vzpomínek, našel ztělesnění klidu a sounáležitosti, které celý život hledal. Jeho láska však byla silnou, živoucí a přítomnou emocí, která začala přepisovat a ničit Lyřinu křehkou podstatu založenou na ozvěnách minulosti. Jeho největším činem byla oběť zrozená z pravé lásky: opustil ji, aby ji zachránil před sebou samým. Tato zkušenost ho proměnila a umožnila mu najít své místo ve světě, kde se stal mostem mezi lidmi a tichým hlasem země.
 
 Dějiny:
 - -1850-01-01 až -1850-12-31 — Navštívil Zahradu ticha a zamiloval se do Lyry. Jeho láska způsobila proměnu Lyry a chřadnutí zahrady. Nakonec se rozhodl odejít, aby ji nezničil, a vrátil se do své vesnice s novým pochopením světa (viz Příběhy/druhy-vek/zahrada-ticha.txt).
