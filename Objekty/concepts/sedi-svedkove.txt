@@ -1,0 +1,16 @@
+id: obj:concepts/sedi-svedkove
+jmeno: Šedí svědkové
+kategorie: concepts
+stav: aktivni
+aliasy: Tkalci Vzpomínek (dříve)
+naposledy_upraveno: 2025-09-18
+
+Popis:
+Řád filozofů, historiků a strážců, který vznikl na počátku Čtvrtého věku. Jsou následovníky původních Tkalců Vzpomínek, ale jejich role se po Válkách Ticha a Ozvěny změnila. Jejich ústředním principem je Křehká rovnováha: uznávají nutnost paměti pro poučení a identity, ale zároveň i potřebu ticha a zapomnění pro odpuštění a uzdravení. Slouží jako neutrální arbitři a strážci, kteří brání opakování extrémů minulosti.
+
+Dějiny:
+- Pradávno — Jejich přesný původ je dosud nejasný; některé prameny je spojují s bytostmi citlivými na Kamenný atlas (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+- 0 — Formálně vznikli z Tkalců Vzpomínek a umírněných zbytků Rezonujících a Mlčících poutníků během události Tichý úsvit (viz Příběhy/ctvrty-vek/tichy-usvit.txt).
+
+Poznámky:
+Jejich sídlo je v Údolí tichých ozvěn, kde střeží Kamenný atlas, svůj nejposvátnější text.

@@ -3,13 +3,14 @@ jmeno: Tichá prázdnota
 kategorie: places
 stav: trvala (díra v realitě)
 aliasy: Jizva ticha
-naposledy_upraveno: 2025-09-17
+naposledy_upraveno: 2025-09-18
 
 Popis:
 Absolutní nicota, která nahradila západní část Tichých vrchů. Není to místo, ale absence místa. V Prázdnotě neexistuje hmota, čas, prostor ani paměť. Její okraje jsou nestabilní a pohlcují světlo i zvuk. Jakákoliv bytost, která se přiblíží příliš blízko, je nevratně vymazána z existence. Je největší jizvou na tváři světa a trvalou připomínkou následků Války Ticha a Ozvěny.
 
 Dějiny:
 - -1 — Vznikla jako důsledek nezdařeného rituálu Mlčících poutníků vedených Lyrou Beze Jména (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt).
+- 0 — Její hrozba přiměla přeživší k uzavření Tichého úsvitu, od té doby je na jejích okrajích držena stráž Šedých svědků (viz Příběhy/ctvrty-vek/tichy-usvit.txt).
 
 Poznámky:
 Je považována za nejnebezpečnější místo na světě. Šedí svědkové udržují stálou stráž na jejích okrajích, aby varovali neopatrné poutníky.

@@ -1,0 +1,15 @@
+id: obj:beings/elara-prvni-svedek
+jmeno: Elara, První svědek
+kategorie: beings
+stav: ziva
+aliasy: Svědek Prázdnoty
+naposledy_upraveno: 2025-09-18
+
+Popis:
+Přeživší rituálu, který stvořil Tichou prázdnotu. Po zániku vedení Mlčících poutníků se stala jejich neformální zástupkyní. Není vůdkyní, ale svědkem – živoucí připomínkou nebezpečí extrému ticha. Její přítomnost je tichá a její duše nese trvalé jizvy z pohledu do nicoty. Byla jednou ze tří klíčových postav při uzavření dohody Tichého úsvitu.
+
+Dějiny:
+- 0 — Zastupovala přeživší Mlčících poutníků při podpisu Tichého úsvitu u Kamenného atlasu a stala se první, kdo přijal novou filozofii Šedých svědků (viz Příběhy/ctvrty-vek/tichy-usvit.txt).
+
+Poznámky:
+Její jméno je pravděpodobně přijaté. Její původní identita byla, stejně jako u mnoha Mlčících poutníků, zapomenuta nebo odložena.
