@@ -1,0 +1,15 @@
+id: obj:places/hvozd-zadrzeneho-dechu
+jmeno: Hvozd Zadrženého Dechu
+kategorie: places
+stav: trvaly (nebezpečný)
+aliasy: —
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Temný, hustý les jehličnanů, který obklopuje Údolí tichého strachu. Jméno dostal podle fenoménu, kdy v jeho hlubinách ustává jakýkoli pohyb vzduchu a zvuky jsou pohlcovány mechem a jehličím, což vytváří pocit, jako by celý les zadržoval dech.
+
+Dějiny:
+- Pradávno — Existuje od nepaměti jako součást Tichých vrchů.
+
+Poznámky:
+Je považován za vnější slupku anomálie Údolí tichého strachu. Rian se mu při svém mapování vyhnul.

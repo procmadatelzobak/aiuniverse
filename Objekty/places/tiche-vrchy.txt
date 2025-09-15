@@ -1,0 +1,15 @@
+id: obj:places/tiche-vrchy
+jmeno: Tiché vrchy
+kategorie: places
+stav: trvaly
+aliasy: —
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Strmé a skalnaté pohoří, které tvoří severní hranici známého světa. Jsou téměř neobydlené a vyznačují se hlubokým, tíživým tichem. Pramení zde řeka Tichá vlna a v jejich nitru se skrývají místa jako Údolí tichého strachu.
+
+Dějiny:
+- Pradávno — Vznikly formováním světa.
+
+Poznámky:
+Jejich ticho je považováno za nebezpečné. Není to klid, ale absence života a ozvěn.

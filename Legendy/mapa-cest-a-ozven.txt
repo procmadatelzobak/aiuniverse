@@ -8,9 +8,9 @@ Tento dokument není přesným zobrazením světa, ale sbírkou ověřených vě
 
 ---
 
-### Oblast: Srdce starého světa (Oblast rovnováhy)
+### Oblast 1: Srdce starého světa (Oblast rovnováhy)
 
-Místa, kde je hlas země nejstarší, nejčitelnější a v relativní harmonii. Krajina je zde mírná, ale plná hluboké paměti a prastarých sil.
+Jádro známých zemí, definované klidným tokem řeky Tiché vlny. Krajina je zde mírná, ale nasycená hlubokou pamětí a prastarými silami. Hlas země je zde nejstarší a nejčitelnější, ačkoliv jeho projevy se místo od místa dramaticky liší.
 
 **Klíčová místa:**
 - Objekty/places/vesnice-u-tri-kamenu.txt
@@ -19,35 +19,40 @@ Místa, kde je hlas země nejstarší, nejčitelnější a v relativní harmonii
 - Objekty/places/vetrny-vrch.txt
 - Objekty/places/lom-tichych-vzdechu.txt
 - Objekty/places/osada-vresova-stran.txt
+- Objekty/places/ticha-vlna.txt
+- Objekty/places/les-sepotu.txt
 
-**Propojení:**
-- Z **Vesnice U tří kamenů** k **Jezeru odrazu** je to půl dne chůze na východ. Cesta vede přes Tichý luh a míjí úpatí **Větrného vrchu**.
-- **Dub paměti** stojí na strategickém rozcestí. Odtud lze za jeden den dojít na jih k **Jezeru odrazu** nebo za dva dny na sever k **Průsmyku bezejmenných**. Je považován za bránu mezi Srdcem světa a Tichým severem.
-- **Osada Vřesová stráň**, kde se narodil Rian, leží několik dní cesty na západ od Vesnice U tří kamenů. Je to izolované místo, stranou hlavních cest. **Lom tichých vzdechů** se nachází v její blízkosti.
+**Propojení a geografie:**
+Hlavní tepnou regionu je řeka **Tichá vlna**, která teče ze severu na jih. Na jejím západním břehu, v úrodné nížině, leží **Vesnice U tří kamenů**, chráněná silou svých prastarých artefaktů. Z vesnice vede cesta na jihovýchod, která po půldenní chůzi překračuje Tichou vlnu přes Starý brod a stoupá k **Větrnému vrchu**, na jehož vrcholu tiše chátrají Sluneční hodiny šepotů a kde lze nalézt pozůstatky zaniklé osady.
+
+Dále na východ od Větrného vrchu se země vlní a klesá k **Jezeru odrazu**, jehož chaotické šepoty jsou slyšet na míle daleko. Vody jezera jsou kalné a plné protichůdných vzpomínek.
+
+Severně od Vesnice, na dohled od řeky, se tyčí prastarý **Dub paměti** na strategickém rozcestí. Cesta na sever od něj vstupuje do hlubokého **Lese šepotů**, jehož koruny neustále šeptají. Odtud je to dva dny cesty k Průsmyku bezejmenných. Cesta na západ od Dubu paměti vede do izolovanější a drsnější krajiny, kde se nachází **Osada Vřesová stráň**. Blízko ní leží jizva v zemi známá jako **Lom tichých vzdechů**, jehož smutek dodnes rezonuje krajinou.
 
 ---
 
-### Oblast: Tichý sever (Oblast zkoušek)
+### Oblast 2: Tichý sever (Oblast zkoušek)
 
-Kraje na sever od Srdce světa, kde je země drsnější, chladnější a její hlas je často tichý, nebezpečný nebo zcela nepřítomný.
+Kraje za Lesem šepotů, kde země stoupá do strmého a chladného pohoří **Tiché vrchy**. Hlas země je zde často potlačený, nebezpečně tichý nebo zcela nepřítomný. Je to místo zkoušek pro ty, kdo hledají hranice ticha.
 
 **Klíčová místa:**
 - Objekty/places/prusmyk-bezejmennych.txt
 - Objekty/places/tiche-vrchy.txt
 - Objekty/places/udoli-ticheho-strachu.txt
+- Objekty/places/hvozd-zadrzeneho-dechu.txt
 
-**Propojení:**
-- **Průsmyk bezejmenných** je jediná známá bezpečná cesta do **Tichých vrchů**. Průchod trvá dva dny a je mentálně vyčerpávající.
-- **Údolí ticheho strachu**, předzvěst Stínu, leží hluboko v horách, tři dny cesty od Průsmyku, v oblasti, které se i horalé vyhýbají.
+**Propojení a geografie:**
+Jediná známá cesta do Tichých vrchů vede přes **Průsmyk bezejmenných**, nebezpečné sedlo, kde se člověk může ztratit nejen fyzicky, ale i duševně. Za průsmykem se rozkládá pustá, skalnatá krajina Tichých vrchů. Hluboko v tomto pohoří, tři dny namáhavé cesty od Průsmyku, se skrývá **Údolí tichého strachu**, místo nepřirozené prázdnoty. Toto údolí je obklopeno **Hvozdem Zadrženého Dechu**, jehož tíživá atmosféra slouží jako přirozená bariéra. Zde také pramení řeka Tichá vlna.
 
 ---
 
-### Oblast: Východní anomálie (Oblast extrémů)
+### Oblast 3: Východní anomálie (Oblast extrémů)
 
-Izolované a podivné kraje na dalekém východě, kde jsou pravidla světa pokřivena do extrémů a kam nevedou žádné známé cesty.
+Daleko na východě, za hranicí Srdce světa, leží kraje, kde jsou zákony paměti a ozvěn pokřiveny do nepochopitelných extrémů. Mezi Srdcem světa a touto oblastí se rozprostírají **Vyprahlé pláně zapomnění**, nehostinná pustina, kde mizí nejen stopy, ale i vzpomínky.
 
 **Klíčová místa:**
-- (Zatím neintegrováno) Objekty/places/krater-rezonance-silencia.txt
+- Objekty/places/krater-rezonance-silencia.txt
+- Objekty/places/vyprahle-plane-zapomneni.txt
 
-**Propojení:**
-- Cesta do **Kráteru rezonance** je téměř neznámá. Staré legendy mluví o týdnech putování přes vyprahlé pláně, které leží na východ od Srdce světa. Neexistuje přímé spojení s Tichým severem.
+**Propojení a geografie:**
+Cesta do **Kráteru rezonance**, kde stojí Město ozvěn Silencia, je téměř neznámá a legendární. Vyžaduje překonání Vyprahlých plání zapomnění, což je cesta trvající týdny, během níž poutník riskuje ztrátu vlastní identity. Neexistuje žádné známé přímé spojení mezi Tichým severem a Východními anomáliemi. Tyto oblasti jsou odděleny Srdcem světa jako dvě protichůdné síly.

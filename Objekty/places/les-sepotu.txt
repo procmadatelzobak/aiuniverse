@@ -1,0 +1,16 @@
+id: obj:places/les-sepotu
+jmeno: Les šepotů
+kategorie: places
+stav: trvaly
+aliasy: —
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Rozsáhlý, prastarý les, který se rozkládá mezi Dubem paměti a úpatím Tichých vrchů. Je známý tím, že vítr v jeho korunách zní jako tichý šepot, i když panuje naprosté bezvětří. Stromy jsou zde neobvykle staré a jejich kořeny jsou hluboce propleteny s pamětí země.
+
+Dějiny:
+- Pradávno — Existuje od nepaměti.
+- -2500-06-18 — Předpokládá se, že právě zde, u kořenů jednoho ze starých dubů, byl pohřben Šeptající kámen (viz Příběhy/prvni-vek/kamenne-ozveny.txt).
+
+Poznámky:
+Šepot nemusí být jen dílem větru, ale může jít o skutečné ozvěny myšlenek, které stromy za věky nasály.

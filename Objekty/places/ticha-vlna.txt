@@ -1,0 +1,15 @@
+id: obj:places/ticha-vlna
+jmeno: Tichá vlna
+kategorie: places
+stav: trvaly
+aliasy: Řeka ticha
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Hlavní řeka protékající Srdcem starého světa. Pramení v Tichých vrších na severu a její vody jsou charakteristické nezvyklým klidem. Říká se, že nenesou téměř žádné ozvěny a její proud je sotva slyšitelný. Tvoří přirozenou osu regionu.
+
+Dějiny:
+- Pradávno — Vznikla jako součást geografie světa.
+
+Poznámky:
+Její klid může souviset s blízkostí Tichých vrchů a Údolí tichého strachu, odkud pramení. Mohla by mít uklidňující vliv na krajinu, kterou protéká.
