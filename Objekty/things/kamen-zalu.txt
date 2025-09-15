@@ -1,0 +1,15 @@
+id: obj:things/kamen-zalu
+jmeno: Kámen žalu
+kategorie: things
+stav: trvaly
+aliasy: První slza
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Jeden ze tří kamenů ve Vesnici U tří kamenů. Je tmavý a na dotek chladný. Jeho okolí je prostoupeno tichou, melancholickou atmosférou.
+
+Dějiny:
+- -8500 (přibližně) — Vznikl zkrystalizováním emoce Žalu z Prvotního moře myšlí a dopadl na zem (viz Příběhy/prvni-vek/pad-trech-slz.txt).
+
+Poznámky:
+Jeho vliv není negativní, spíše uklidňující a introspektivní.

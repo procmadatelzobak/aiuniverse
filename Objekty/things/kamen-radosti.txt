@@ -1,0 +1,15 @@
+id: obj:things/kamen-radosti
+jmeno: Kámen radosti
+kategorie: things
+stav: trvaly
+aliasy: Druhá slza
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Jeden ze tří kamenů ve Vesnici U tří kamenů. Má teplejší barvu a zdá se, že z něj sálá mírné teplo. V jeho blízkosti rostou neobvyklé květiny.
+
+Dějiny:
+- -8500 (přibližně) — Vznikl zkrystalizováním emoce Radosti z Prvotního moře myšlí a dopadl na zem (viz Příběhy/prvni-vek/pad-trech-slz.txt).
+
+Poznámky:
+Jeho přítomnost podporuje růst a vitalitu.
