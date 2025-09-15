@@ -6,7 +6,7 @@ aliasy: Stavitel hodin
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Stavitel a hvězdář z raného Druhého věku, který toužil po řádu a trvalé pravdě ve světě plném pomíjivých pocitů. Tvůrce Slunečních hodin šepotů.
+Stavitel a hvězdář z raného Druhého věku, hluboce znepokojený pomíjivostí lidské paměti a ohebností pravdy. Jeho životním cílem bylo stvořit nástroj, který by do světa plného neuchopitelných pocitů vnesl absolutní, neměnný řád. Tato touha ho vedla ke stavbě Slunečních hodin šepotů na Větrném vrchu. Ačkoliv byl mistrem řádu, nepochopil, že některé pravdy jsou příliš kruté a že jeho vynález, stvořený pro harmonii, přinese do komunity rozkol a strach.
 
 Dějiny:
 - -2800 (cca) — Dokončil své životní dílo, Sluneční hodiny šepotů, na Větrném vrchu (viz Příběhy/druhy-vek/hodiny-sepotu.txt).
