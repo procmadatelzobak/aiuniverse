@@ -3,7 +3,7 @@ jmeno: Kaelen, První mluvčí
 kategorie: beings
 stav: mrtvy
 aliasy: Archivář světa
-naposledy_upraveno: 2025-09-17
+naposledy_upraveno: 2025-09-18
 
 Popis:
 Poslední velký vůdce Rezonujících a hlavní strůjce Války Ticha a Ozvěny. Byl charismatický a brilantní myslitel, potomek rodu Naslouchačů ze Silencie. Jeho vize o světě bez zapomnění ho dohnala k extrémům. Přestože byl zodpovědný za desetiletí konfliktu, byl to také on, kdo po kataklyzmatu Tiché prázdnoty uznal svou chybu a inicioval mírová jednání.
@@ -12,5 +12,5 @@ Dějiny:
 - cca -750 — Narodil se v Silencii.
 - cca -700 — Stal se Prvním mluvčím a zahájil program výstavby Věží Odkazu.
 - -350 — Těsně unikl zkáze na Vyprahlých pláních zapomnění.
-- 0 — Podepsal Tichý úsvit u Kamenného atlasu a rozpustil řád Rezonujících (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt).
+- 0 — Podepsal Tichý úsvit u Kamenného atlasu, čímž přijal novou filozofii rovnováhy a rozpustil řád Rezonujících (viz Příběhy/ctvrty-vek/tichy-usvit.txt).
 - +25 — Zemřel stářím v Údolí tichých ozvěn, kde strávil zbytek života jako tichý strážce Atlasu.

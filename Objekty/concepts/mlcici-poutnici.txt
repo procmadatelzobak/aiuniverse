@@ -3,7 +3,7 @@ jmeno: Mlčící poutníci
 kategorie: concepts
 stav: zanikly (vůdci pohlceni)
 aliasy: Děti Ticha
-naposledy_upraveno: 2025-09-17
+naposledy_upraveno: 2025-09-18
 
 Popis:
 Volné společenství mystiků, přeživších a filozofů, kteří se zformovali v severních a západních oblastech. Jejich víra stála na přesvědčení, že lpění na paměti je zdrojem veškerého utrpení. Jejich cílem bylo dosažení vnitřního ticha a oproštění se od minulosti. Praktikovali meditativní techniky k utišení mysli a v extrémních případech i k vymazávání ozvěn z krajiny. Jejich radikální křídlo vidělo v paměti samotné zlo, které je třeba zničit.
@@ -13,7 +13,8 @@ Dějiny:
 - cca -650 — Sjednoceni pod vedením Lyry Beze Jména.
 - cca -510 — Úspěšně ubránili Dub paměti před Rezonujícími.
 - cca -350 — Zvítězili v Bitvě na Vyprahlých pláních zapomnění díky zesílení přirozené anomálie místa.
-- -1 — Vůdci frakce a jejich nejmocnější členové byli pohlceni při rituálu, který stvořil Tichou prázdnotu (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt). Přeživší podepsali Tichý úsvit.
+- -1 — Vůdci frakce a jejich nejmocnější členové byli pohlceni při rituálu, který stvořil Tichou prázdnotu (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt).
+- 0 — Zbývající poutníci vedení Elarou podepsali Tichý úsvit u Kamenného atlasu a stali se součástí Šedých svědků (viz Příběhy/ctvrty-vek/tichy-usvit.txt).
 
 Poznámky:
 Jejich odkaz je vnímán s velkou opatrností. Dokázali, že snaha o absolutní ticho je stejně nebezpečná jako snaha o absolutní paměť.

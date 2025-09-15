@@ -3,7 +3,7 @@ jmeno: Kamenný atlas
 kategorie: concepts
 stav: trvaly
 aliasy: Atlas duše světa
-naposledy_upraveno: 2025-09-15
+naposledy_upraveno: 2025-09-18
 
 Popis:
 Monumentální dílo kartografa Riana, vytesané do skalní stěny v Údolí tichých ozvěn.
@@ -18,7 +18,8 @@ ale jako svatyně k prožití a pochopení samotné podstaty světa.
 
 Dějiny:
 - -1514 až -1466 — Vytvářen Rianem jako jeho životní dílo (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+- 0 — Stal se místem uzavření Tichého úsvitu, který zahájil Čtvrtý věk (viz Příběhy/ctvrty-vek/tichy-usvit.txt).
 
 Poznámky:
-Atlas je pro běžné lidi nesrozumitelný. Pro bytosti citlivé na hlas země však slouží jako kronika a zdroj hlubokého porozumění. Samotné dílo je nabité emocemi, které do něj jeho tvůrce vtesal.
-
+Atlas je pro běžné lidi nesrozumitelný. Pro bytosti citlivé na hlas země však slouží jako kronika a zdroj hlubokého porozumění.
+Samotné dílo je nabité emocemi, které do něj jeho tvůrce vtesal.
