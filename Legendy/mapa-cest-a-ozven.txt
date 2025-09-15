@@ -41,11 +41,12 @@ Kraje za Lesem šepotů, kde země stoupá do strmého a chladného pohoří **T
 - Objekty/places/udoli-ticheho-strachu.txt
 - Objekty/places/hvozd-zadrzeneho-dechu.txt
 - Objekty/places/ticha-prazdnota.txt (nově)
+- Objekty/places/posledni-bdeni.txt
 
 **Propojení a geografie:**
 Jediná známá cesta do Tichých vrchů vede přes **Průsmyk bezejmenných**, nebezpečné sedlo, kde se člověk může ztratit nejen fyzicky, ale i duševně. Za průsmykem se rozkládá pustá, skalnatá krajina Tichých vrchů. Hluboko v tomto pohoří, tři dny namáhavé cesty od Průsmyku, se skrývá **Údolí tichého strachu**, místo nepřirozené prázdnoty. Toto údolí je obklopeno **Hvozdem Zadrženého Dechu**, jehož tíživá atmosféra slouží jako přirozená bariéra. Zde také pramení řeka Tichá vlna.
 
-Západní část pohoří Tiché vrchy již neexistuje. Byla nahrazena **Tichou prázdnotou**, dírou v samotné realitě. Její okraje tvoří novou, nepřekročitelnou západní hranici známého světa. Vzdálenost od Průsmyku bezejmenných k nejbližšímu okraji Prázdnoty se odhaduje na sedm dní cesty nebezpečným terénem, ale nikdo se neodvažuje ji přesně mapovat.
+Západní část pohoří Tiché vrchy již neexistuje. Byla nahrazena **Tichou prázdnotou**, dírou v samotné realitě. Její okraje tvoří novou, nepřekročitelnou západní hranici známého světa. Vzdálenost od Průsmyku bezejmenných k nejbližšímu okraji Prázdnoty se odhaduje na sedm dní cesty nebezpečným terénem, ale nikdo se neodvažuje ji přesně mapovat. Na tomto okraji se nachází několik malých pozorovacích stanic Šedých svědků, z nichž nejznámější a nejvzdálenější je **Poslední bdění**.
 
 ---
 
@@ -59,3 +60,4 @@ Daleko na východě, za hranicí Srdce světa, leží kraje, kde jsou zákony pa
 
 **Propojení a geografie:**
 Cesta do **Kráteru rezonance**, kde stojí Město ozvěn Silencia, je téměř neznámá a legendární. Vyžaduje překonání Vyprahlých plání zapomnění, což je cesta trvající týdny, během níž poutník riskuje ztrátu vlastní identity. Neexistuje žádné známé přímé spojení mezi Tichým severem a Východními anomáliemi. Tyto oblasti jsou odděleny Srdcem světa jako dvě protichůdné síly.
+

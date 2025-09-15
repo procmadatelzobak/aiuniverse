@@ -1,0 +1,18 @@
+id: obj:beings/lian-sedy-svedek
+jmeno: Lian (Šedý svědek)
+kategorie: beings
+stav: zivy (poznamenaný)
+aliasy: Strážce Jeskyně, Kotva
+naposledy_upraveno: 2025-09-19
+
+Popis:
+Mladý a talentovaný člen řádu Šedých svědků, narozený v éře Křehké rovnováhy. Proslul svým činem u Posledního bdění, kde zastavil šíření anomálie známé jako Šepot prázdnoty. Aby toho dosáhl, obětoval svou nejsilnější vzpomínku, čímž ji vytesal do kamene jako "kotvu" a vytvořil tak bariéru z významu, kterou Prázdnota nedokáže překonat.
+
+Dějiny:
+- cca +60 — Narodil se v blízkosti Údolí tichých ozvěn.
+- +82 — Byl vyslán do stanice Poslední bdění. Objevil povahu Šepotu prázdnoty a zastavil jej za cenu ztráty části svých vzpomínek (viz Příběhy/ctvrty-vek/sepot-v-prazdnote.txt).
+- +83 až současnost — Zůstává v Posledním bdění jako jeho tichý strážce a expert na projevy Prázdnoty.
+
+Poznámky:
+Jeho čin se stal v řádu legendou a základem pro novou doktrínu "Aktivní rovnováhy" – myšlenky, že rovnováhu je třeba nejen sledovat, ale i aktivně bránit, často za cenu osobní oběti.
+

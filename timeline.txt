@@ -49,3 +49,5 @@
 
 ## Čtvrtý věk
 - **0**: Podepsání smlouvy Tichý úsvit u Kamenného atlasu. Začátek Čtvrtého věku a éry Křehké rovnováhy (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt; Objekty/events/tichy-usvit.txt; Legendy/veky-sveta.txt).
+- **+82**: Šedý svědek Lian zastavil anomálii Šepotu prázdnoty u stanice Poslední bdění za cenu obětování části své paměti. Událost vede ke změně doktríny řádu (viz Příběhy/ctvrty-vek/sepot-v-prazdnote.txt; Objekty/beings/lian-sedy-svedek.txt).
+
