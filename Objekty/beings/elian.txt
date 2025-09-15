@@ -1,0 +1,16 @@
+id: obj:beings/elian
+jmeno: Elian
+kategorie: beings
+stav: mrtvy
+aliasy: Tichý revolucionář
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Hluchý chlapec z nejnižší vrstvy Silencie. Jeho hluchota ho chránila před hlukem paměti, ale umožnila mu vnímat hluboké, fundamentální vibrace kráteru, včetně Prvotní Ozvěny.
+
+Dějiny:
+- -1308 (cca) — Narodil se v Dně Silencie (viz Příběhy/druhy-vek/mesto-ozven.txt).
+- -1280 (cca) — Vystoupal do Spirály Ticha, odhalil pravdu o založení města a inicioval "Píseň Ticha", která změnila rezonanci Prvotní Ozvěny a tím i celou společnost (viz Příběhy/druhy-vek/mesto-ozven.txt).
+
+Poznámky:
+Jeho schopnost není magickým darem, ale důsledkem jeho postižení, které mu umožnilo vnímat svět jinak.

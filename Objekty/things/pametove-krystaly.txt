@@ -1,0 +1,16 @@
+id: obj:things/pametove-krystaly
+jmeno: Paměťové krystaly
+kategorie: things
+stav: trvaly
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Mléčně bílé, duté krystaly pokrývající stěny Kráteru rezonance. Mají přirozenou schopnost zachytit a donekonečna opakovat nejen zvukové vlny, ale i mentální a emoční otisky událostí.
+
+Dějiny:
+- Bezčasí — Vznikly jako přírodní anomálie spojená s Prvotním mořem myšlí.
+- -1650 (cca) — Staly se základem fungování společnosti v Silencii (viz Příběhy/druhy-vek/mesto-ozven.txt).
+
+Poznámky:
+Jsou dokonalou, ale neselektivní kronikou. Jejich rezonance je pro většinu lidí zdrojem utrpení.

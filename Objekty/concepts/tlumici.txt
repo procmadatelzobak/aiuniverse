@@ -1,0 +1,15 @@
+id: obj:concepts/tlumici
+jmeno: Tlumiči
+kategorie: concepts
+stav: existuje
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Strážní a pořádková síla v Silencii, zejména v nejhlučnější části zvané Dno. Nosí pláště z materiálu pohlcujícího zvuk a jejich úkolem je potlačovat jakékoliv silné emoce, aby nevytvářely nové, silné ozvěny.
+
+Dějiny:
+- Druhý věk — Udržovali represivní řád v nižších vrstvách Silencie (viz Příběhy/druhy-vek/mesto-ozven.txt).
+
+Poznámky:
+Symbolizují snahu o kontrolu chaosu potlačováním přirozených projevů života.

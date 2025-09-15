@@ -1,0 +1,15 @@
+id: obj:beings/lyra-ze-dna
+jmeno: Lyra (ze Dna)
+kategorie: beings
+stav: mrtva
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Dívka z nejnižší vrstvy Silencie (Dna), přítelkyně a ochránkyně Eliana. Byla těžce zasažena "ozvěnovým šílenstvím".
+
+Dějiny:
+- -1300 (cca) — Byla Elianovou motivací k jeho cestě vzhůru (viz Příběhy/druhy-vek/mesto-ozven.txt).
+
+Poznámky:
+Její jméno je dalším příkladem opakujícího se jména "Lyra" v této éře. Není spojena s ostatními postavami tohoto jména.

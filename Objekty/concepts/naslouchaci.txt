@@ -1,0 +1,16 @@
+id: obj:concepts/naslouchaci
+jmeno: Naslouchači
+kategorie: concepts
+stav: existuje (moc oslabena)
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Vládnoucí kasta v Silencii, potomci zakladatele Vorina. Mají vyvinutou schopnost interpretovat chaos ozvěn z Paměťových krystalů a číst tak minulost s absolutní přesností. Sídlí ve Spirále Ticha.
+
+Dějiny:
+- -1650 až -1308 — Vládli v Silencii jako soudci a strážci "absolutní pravdy" (viz Příběhy/druhy-vek/mesto-ozven.txt).
+- -1280 (cca) — Jejich moc byla podlomena, když Elian změnil rezonanci Prvotní Ozvěny, čímž narušil čistotu jejich "zdroje pravdy" (viz Příběhy/druhy-vek/mesto-ozven.txt).
+
+Poznámky:
+Jejich vláda byla postavena na utajení zločinu, na kterém bylo město založeno.
