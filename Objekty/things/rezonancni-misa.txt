@@ -1,0 +1,16 @@
+id: obj:things/rezonancni-misa
+jmeno: Rezonanční mísa
+kategorie: things
+stav: neznamy
+aliasy: Ladička duše
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Nástroj vytesaný Eamonem z kamene pocházejícího z Lomu tichých vzdechů. Mísa nevydává slyšitelný zvuk, ale produkuje hlubokou vibraci ticha a klidu, která dokáže vytvořit "ostrov" mentálního klidu uprostřed chaosu.
+
+Dějiny:
+- -4451 (cca) — Vytvořena Eamonem po roce studia kamene v Lomu tichých vzdechů.
+- -4450 (cca) — Použita Eamonem k sestupu do vědomí Jezera odrazu a k vytvoření Písně rovnováhy (viz Příběhy/prvni-vek/jezerni-hlubina.txt).
+
+Poznámky:
+Je to klíčový artefakt, který umožnil největší čin rodu Strážců jezera. Jeho další osud je neznámý.

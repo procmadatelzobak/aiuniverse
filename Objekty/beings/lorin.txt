@@ -1,0 +1,15 @@
+id: obj:beings/lorin
+jmeno: Lorin
+kategorie: beings
+stav: mrtvy (mysl ztracena)
+aliasy: —
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Nadaný Strážce jezera z Prvního věku, děd Eamona. Byl schopen vnímat nejjemnější nuance v šepotu světa. Jeho pýcha a touha vyléčit Jezero odrazu ho vedly k pokusu o přímý sestup do jeho vědomí.
+
+Dějiny:
+- -4470 (cca) — Pokusil se mentálně sestoupit do hlubin Jezera odrazu. Jeho mysl byla roztříštěna chaosem Hvězdné mysli a stal se živoucí ozvěnou jezerní tragédie (viz Příběhy/prvni-vek/jezerni-hlubina.txt).
+
+Poznámky:
+Jeho osud sloužil jako varování a zároveň motivace pro jeho vnuka Eamona.

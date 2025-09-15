@@ -1,17 +1,20 @@
 id: obj:places/jezero-odrazu
 jmeno: Jezero odrazu
 kategorie: places
-stav: trvale
-aliasy: —
+stav: trvale (proměnlivý chaos)
+aliasy: Rána světa
 naposledy_upraveno: 2025-09-15
 
 Popis:
-Jezero, jehož hladina šeptá myšlenky a ozvěny cizích snů. Dlouhé hledění do vody může člověku vzít kousek vlastní paměti a nahradit ji cizí vzpomínkou.
+Prastaré jezero, které vzniklo jako "rána" ve vědomí světa po dopadu cizí, Hvězdné mysli (událost Tichý pád). Jeho voda je prosycena pamětí Země, která se snaží zahojit tuto jizvu. Šepot jezera je chaotickou směsicí myšlenek krajiny, snů živých tvorů a především zmateného vědomí utopené Hvězdné mysli.
 
 Dějiny:
-- -3200-04-15 — Zazněla píseň slyšitelná všemi přítomnými (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
-- -2810 (cca) — Stavitel Alwin zde nasbíral kameny pro stavbu gnómonu Slunečních hodin šepotů. Kameny nasály sílu a paměť jezera (viz Příběhy/druhy-vek/hodiny-sepotu.txt).
-- -1521 (podzim) — Poutník Rian zde zažil přetížení svých smyslů, když vnímal nejen lidské myšlenky, ale i myšlenky celé okolní krajiny (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+- První věk (dávno) — Vzniklo následkem Tichého pádu. Na jeho březích se usídlil rod Strážců jezera.
+- -4470 (cca) — Strážce Lorin se pokusil jezero vyléčit, ale jeho mysl byla pohlcena.
+- -4450 (cca) — Strážce Eamon úspěšně sestoupil do jeho hlubin a stvořil "Píseň rovnováhy", která jezero na dlouhý čas zklidnila (viz Příběhy/prvni-vek/jezerni-hlubina.txt).
+- -3200-04-15 — Píseň rovnováhy znovu zazněla, když ji svou přítomností zesílil Sběrač hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
+- -2810 (cca) — Stavitel Alwin zde nasbíral kameny pro stavbu Slunečních hodin šepotů.
+- -1521 (podzim) — Poutník Rian zde zažil přetížení svých smyslů.
 
 Poznámky:
-Jedno z ohnisek, kde země mluví jasněji než jinde. Rianova zkušenost naznačuje, že jezero odráží nejen lidské, ale veškeré vědomí.
+Stav jezera je nestabilní. Období klidu se střídají s obdobími chaosu v závislosti na vnějších vlivech a vnitřní rovnováze. "Píseň u jezera" nebyla přirozeností jezera, ale dočasnou harmonií vytvořenou Eamonem.

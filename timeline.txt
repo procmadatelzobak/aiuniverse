@@ -2,6 +2,10 @@
 
 ## První věk
 - **-8500 (přibližně)**: Do země dopadly tři zkrystalizované emoce z Prvotního moře myšlí, které vytvořily základ budoucí Vesnice U tří kamenů (viz Příběhy/prvni-vek/pad-trech-slz.txt; Objekty/places/vesnice-u-tri-kamenu.txt).
+- **-4500 (cca)** — Tichý pád cizí Hvězdné mysli vytvořil Jezero odrazu (viz Příběhy/prvni-vek/jezerni-hlubina.txt; Objekty/events/tichy-pad.txt; Objekty/places/jezero-odrazu.txt; Objekty/concepts/hvezdna-mysl.txt).
+- **-4470 (cca)** — Strážce Lorin se pokusil jezero vyléčit, ale jeho mysl byla pohlcena (viz Příběhy/prvni-vek/jezerni-hlubina.txt; Objekty/beings/lorin.txt; Objekty/places/jezero-odrazu.txt).
+- **-4451 (cca)** — Eamon vytesal Rezonanční mísu z kamene Lomu tichých vzdechů (viz Příběhy/prvni-vek/jezerni-hlubina.txt; Objekty/things/rezonancni-misa.txt; Objekty/places/lom-tichych-vzdechu.txt).
+- **-4450 (cca)** — Eamon vytvořil Píseň rovnováhy u Jezera odrazu (viz Příběhy/prvni-vek/jezerni-hlubina.txt; Objekty/beings/eamon.txt; Objekty/concepts/strazci-jezera.txt; Objekty/things/rezonancni-misa.txt; Objekty/places/jezero-odrazu.txt).
 - **-3200-04-14**: Dub paměti ukázal cestu Sběrači hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
 - **-3200-04-15**: Píseň u Jezera odrazu; setkání Sběrače hlasů s vesničany (viz Příběhy/prvni-vek/pisen-u-jezera.txt). Vesničané byli svědky této události (viz Objekty/places/vesnice-u-tri-kamenu.txt).
 - **-3200-04-16**: Sběrač hlasů zmizel (viz Příběhy/prvni-vek/pisen-u-jezera.txt).

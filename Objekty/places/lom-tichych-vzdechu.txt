@@ -1,6 +1,3 @@
-
-
-
 id: obj:places/lom-tichych-vzdechu
 jmeno: Lom tichých vzdechů
 kategorie: places
@@ -12,10 +9,8 @@ Popis:
 Starý, opuštěný lom na východ od Osady Vřesová stráň. Místo je prodchnuto hlubokým pocitem smutku a ztráty, který je vnímán citlivými jedinci.
 
 Dějiny:
+- -4451 (cca) — Posloužil jako zdroj materiálu pro Eamona, který z jeho kamene vytesal Rezonanční mísu. Ticho lomu bylo klíčem k utišení chaosu Jezera odrazu (viz Příběhy/prvni-vek/jezerni-hlubina.txt).
 - -1540 (cca) — Rian v dětství často navštěvoval lom a vnímal jeho melancholickou atmosféru, což formovalo jeho chápání "paměti" míst (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
 
 Poznámky:
 Pojmenování "Lom tichých vzdechů" pochází od Riana a odráží jeho vnímání místa. Místní obyvatelé ho znají pouze pod pragmatickým názvem "Jizva".
-
-
-

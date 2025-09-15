@@ -1,0 +1,15 @@
+id: obj:beings/eamon
+jmeno: Eamon
+kategorie: beings
+stav: mrtvy
+aliasy: Ladič ticha
+naposledy_upraveno: 2025-09-15
+
+Popis:
+Poslední velký Strážce jezera z Prvního věku. Z lásky ke svému dědovi Lorinovi se odhodlal dokončit jeho dílo. S pomocí Rezonanční mísy dokázal sestoupit do vědomí Jezera odrazu a vytvořit dočasnou harmonii.
+
+Dějiny:
+- -4450 (cca) — Sestoupil do mentální hlubiny Jezera odrazu. Použil Rezonanční mísu a vlastní cit jako most mezi Hvězdnou myslí a vědomím Země, čímž stvořil "Píseň rovnováhy" – harmonii, kterou o 1250 let později slyšel Sběrač hlasů (viz Příběhy/prvni-vek/jezerni-hlubina.txt).
+
+Poznámky:
+Jeho čin byl aktem oběti; ztratil část svých vzpomínek, ale přinesl jezeru a svému dědovi mír.
