@@ -1,0 +1,17 @@
+id: obj:beings/lyra-beze-jmena
+jmeno: Lyra Beze Jména
+kategorie: beings
+stav: ztracena (pohlcena Prázdnotou)
+aliasy: Tichá vůdkyně
+naposledy_upraveno: 2025-09-17
+
+Popis:
+Záhadná vůdkyně Mlčících poutníků. Její původ je nejasný, legendy ji spojují s Cizincem beze jména. Byla ztělesněním filozofie svého lidu – její mysl byla údajně tak čistá a oproštěná od minulosti, že si nedokázala udržet stálou identitu ani jméno. Byla vnímána jako klidná a moudrá, ale její snaha o definitivní řešení konfliktu vedla ke katastrofě.
+
+Dějiny:
+- Neznámo — Objevila se v Tichých vrších.
+- cca -650 — Sjednotila roztříštěné komunity Mlčících poutníků.
+- -1 — Vedla rituál, který stvořil Tichou prázdnotu, a byla při něm pohlcena spolu se svými následovníky (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt).
+
+Poznámky:
+Její jméno "Lyra" je dalším v řadě a symbolizuje archetypální roli, nikoli konkrétní osobu. Její osud slouží jako největší varování před mocí Mlčení.
