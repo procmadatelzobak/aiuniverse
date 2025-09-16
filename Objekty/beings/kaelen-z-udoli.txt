@@ -3,7 +3,7 @@ jmeno: Kaelen z Údolí
 kategorie: beings
 stav: zivy
 aliasy: —
-naposledy_upraveno: 2025-09-19
+naposledy_upraveno: 2025-09-16
 
 Popis:
 Mladý a idealistický akolyta řádu Šedých svědků, který vyrostl v Údolí tichých ozvěn. Je hluboce sečtělý v historii a legendách Věků, se zvláštním zaměřením na hrdinské činy minulosti. Má výjimečný cit pro Kamenný atlas, který nevnímá jen jako historický artefakt, ale jako živoucí text. Ačkoliv je teoreticky velmi zdatný, postrádá praktické zkušenosti se světem mimo bezpečí údolí.
@@ -11,6 +11,7 @@ Mladý a idealistický akolyta řádu Šedých svědků, který vyrostl v Údol�
 Dějiny:
 - cca +195 — Narodil se v Údolí tichých ozvěn.
 - +215 (jaro) — Jako učeň Mistra Eliana se stává svědkem zpráv o zhoršující se situaci na hranici Tiché prázdnoty (viz Příběhy/jizva-ticha/1/1.txt).
+- +215 (jaro) — Poté, co mu je odepřena účast v oficiální expedici, objeví v posledních zprávách z Posledního bdění skryté varování. Rozhodne se neuposlechnout rozkazy a vydá se tajně po stopách expedice na sever (viz Příběhy/jizva-ticha/1/2.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jmen významných postav minulosti (Kaelen, První mluvčí; kameník Kael; lovec Kaelan), což může symbolizovat tíhu dědictví, které nese.

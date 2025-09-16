@@ -1,0 +1,17 @@
+id: obj:beings/rhea-seda-svedkyne
+jmeno: Rhea (Šedá svědkyně)
+kategorie: beings
+stav: ziva
+aliasy: Rhea Hraničářka
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Zkušená členka řádu Šedých svědků a bývalá velitelka stráží na hranici s Tichou prázdnotou. Je to pragmatická a strohá žena, zvyklá na drsné podmínky a neustálý psychický tlak. Má hluboké, praktické znalosti o projevech Prázdnoty, ale postrádá Kaelenovu teoretickou a filozofickou hloubku. Její přístup je založen na přežití a zadržování hrozby, ne na jejím pochopení.
+
+Dějiny:
+- +165 (cca) — Narodila se.
+- +185 až +210 — Sloužila na pozorovacích stanicích na severní hranici.
+- +215 (jaro) — Je jmenována vůdkyní expedice tří Šedých svědků, vyslané k Poslednímu bdění, aby prošetřila původ nové anomálie (viz Příběhy/jizva-ticha/1/2.txt).
+
+Poznámky:
+Její jméno je ozvěnou jmen jiných postav (Rhea, pomocnice Eliana ze Silencie; Rhea, vůdkyně přeživších v Posledním bdění v příběhu o Lianovi), což může být tradice v řádu nebo ozvěna samotného světa.
