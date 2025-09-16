@@ -16,6 +16,7 @@ Jádro známých zemí, definované klidným tokem řeky Tiché vlny. Krajina je
 - Objekty/places/vesnice-u-tri-kamenu.txt
 - Objekty/places/jezero-odrazu.txt
 - Objekty/beings/dub-pameti.txt
+- Objekty/places/udoli-linych-vetru.txt
 - Objekty/places/vetrny-vrch.txt
 - Objekty/places/lom-tichych-vzdechu.txt
 - Objekty/places/osada-vresova-stran.txt
@@ -25,6 +26,7 @@ Jádro známých zemí, definované klidným tokem řeky Tiché vlny. Krajina je
 **Propojení a geografie:**
 Hlavní tepnou regionu je řeka **Tichá vlna**, která teče ze severu na jih. Na jejím západním břehu, v úrodné nížině, leží **Vesnice U tří kamenů**, chráněná silou svých prastarých artefaktů. Z vesnice vede cesta na jihovýchod, která po půldenní chůzi překračuje Tichou vlnu přes Starý brod a stoupá k **Větrnému vrchu**, na jehož vrcholu tiše chátrají Sluneční hodiny šepotů a kde lze nalézt pozůstatky zaniklé osady.
 
+Jižně od Dubu paměti se cesta stáčí do **Údolí líných větrů**, kde se proudění vzduchu téměř zastaví a mechem porostlé menhiry šeptají první slova světa. Ticho údolí připravuje poutníky na střet s chaosem jezera a vede k přirozenému brodu přes Tichou vlnu.
 Dále na východ od Větrného vrchu se země vlní a klesá k **Jezero odrazu**, jehož chaotické šepoty jsou slyšet na míle daleko. Vody jezera jsou kalné a plné protichůdných vzpomínek.
 
 Severně od Vesnice, na dohled od řeky, se tyčí prastarý **Dub paměti** na strategickém rozcestí. Cesta na sever od něj vstupuje do hlubokého **Lese šepotů**, jehož koruny neustále šeptají. Odtud je to dva dny cesty k Průsmyku bezejmenných. Cesta na západ od Dubu paměti vede do izolovanější a drsnější krajiny, kde se nachází **Osada Vřesová stráň**. Blízko ní leží jizva v zemi známá jako **Lom tichých vzdechů**, jehož smutek dodnes rezonuje krajinou.

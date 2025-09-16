@@ -22,6 +22,7 @@ Dějiny:
 - +215 (jaro) — Na jižním okraji Lesa šepotů přijímá vedení Eamona z Břehů, lovce vyslaného Mistrem Elianem. Získává jistotu, že jejich varování musí být doručeno do Údolí, a přijímá odpovědnost vést družinu domů (viz Příběhy/jizva-ticha/1/10.txt; Objekty/beings/eamon-z-brehu.txt).
 - +215 (jaro) — Pod vedením Eamona z Břehů doráží k Dubu paměti, který představuje první bezpečné útočiště na jejich cestě (viz Příběhy/jizva-ticha/1/11.txt).
 - +215 (jaro) — U Dubu paměti prožívá individuální vizi/zkušenost, která mu/jí pomáhá uzdravit se a pochopit hlubší souvislosti krize. Společně s ostatními dochází k rozhodnutí pokračovat k Jezeru odrazu (viz Příběhy/jizva-ticha/1/12.txt).
+- +215 (jaro) — Putuje od Dubu paměti k Jezeru odrazu. Během cesty je konfrontován/a s chaotickým vlivem jezera, který narušuje sny a emoce (viz Příběhy/jizva-ticha/1/13.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jmen významných postav minulosti (Kaelen, První mluvčí; kameník Kael; lovec Kaelan), což může symbolizovat tíhu dědictví, které nese.
