@@ -1,0 +1,19 @@
+id: obj:places/udoli-linych-vetru
+jmeno: Údolí líných větrů
+kategorie: places
+stav: trvale
+aliasy: —
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Široká kotlina ležící mezi Dubem paměti a Jezerem odrazu. Vzduch se zde téměř nepohybuje a celé údolí působí, jako by v něm
+vítr přicházel do klidného spánku. Je poseto starými menhiry porostlými mechem, o nichž se traduje, že uchovávají ozvěny prvních
+slov světa.
+
+Dějiny:
+- +215 (jaro) — Eamon z Břehů vede společenstvo Jizvy Ticha skrze údolí při cestě k Jezeru odrazu. Místo slouží jako tichá
+  předsíň k chaotickému vlivu jezera (viz Příběhy/jizva-ticha/1/13.txt).
+
+Poznámky:
+Údolí funguje jako mentální přechod mezi stabilitou Dubu paměti a bouří Jezera odrazu. Klid jeho větrů může poskytovat úlevu
+cestovatelům, kteří přicházejí z oblastí zasažených Prázdnotou.
