@@ -28,7 +28,7 @@ Hlavní tepnou regionu je řeka **Tichá vlna**, která teče ze severu na jih. 
 Dále na východ od Větrného vrchu se země vlní a klesá k **Jezero odrazu**, jehož chaotické šepoty jsou slyšet na míle daleko. Vody jezera jsou kalné a plné protichůdných vzpomínek.
 
 Severně od Vesnice, na dohled od řeky, se tyčí prastarý **Dub paměti** na strategickém rozcestí. Cesta na sever od něj vstupuje do hlubokého **Lese šepotů**, jehož koruny neustále šeptají. Odtud je to dva dny cesty k Průsmyku bezejmenných. Cesta na západ od Dubu paměti vede do izolovanější a drsnější krajiny, kde se nachází **Osada Vřesová stráň**. Blízko ní leží jizva v zemi známá jako **Lom tichých vzdechů**, jehož smutek dodnes rezonuje krajinou.
-Od jara roku +215 jsou šepoty Lesa protkány "falešnými ozvěnami", které poutníky matou obrazy a vůněmi cizích míst; průchod vyžaduje zkušené svědky schopné rozlišit pravé stopy od podvržených (viz Příběhy/jizva-ticha/1/3.txt).
+Od jara roku +215 jsou šepoty Lesa protkány "falešnými ozvěnami", které poutníky matou obrazy a vůněmi cizích míst; průchod vyžaduje zkušené svědky schopné rozlišit pravé stopy od podvržených (viz Příběhy/jizva-ticha/1/3.txt). V jižních mýtinách se tyto ozvěny shlukují do plně imerzivních pastí, které lze rozbít jen kombinací Lyřina naslouchání tichu a Kaelenovy faktické kotvy reality (viz Příběhy/jizva-ticha/1/9.txt; Objekty/concepts/falesne-ozveny.txt).
 
 ---
 
