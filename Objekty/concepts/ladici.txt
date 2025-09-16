@@ -20,6 +20,8 @@ Vorin je určen jako "ucho pro hvězdy", Lyra jako "ucho pro zemi" a Kaelen jako
 
 +215 (jaro) — Ladiči zahajují první pokus o rekonstrukci Písně rovnováhy. První fáze (izolace pramenů) je úspěšná, ale druhá fáze (jejich propojení skrze Kaelena) selhává a ukazuje se být mnohem nebezpečnější, než předpokládali (viz Příběhy/jizva-ticha/2/1.txt).
 
++215 (jaro) — První pokus o rekonstrukci Písně je násilně přerušen. Ladiči se dozvídají o Rezonanční míse a stanovují nový cíl: nalézt Lom tichých vzdechů a vytvořit nástroj, který umožní bezpečný sestup (viz Příběhy/jizva-ticha/2/2.txt).
+
 Poznámky:
 Jejich pokus je nesmírně nebezpečný a jeho výsledek nejistý. Představuje první
 aktivní, ofenzivní krok proti hrozbě z Tiché prázdnoty.

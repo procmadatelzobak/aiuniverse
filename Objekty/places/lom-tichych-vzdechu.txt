@@ -11,6 +11,7 @@ Starý, opuštěný lom, který je víc než jen jizvou v krajině; je to místo
 Dějiny:
 - -4451 (cca) — Posloužil jako zdroj materiálu pro Eamona, který z jeho kamene vytesal Rezonanční mísu. Ticho lomu bylo klíčem k utišení chaosu Jezera odrazu (viz Příběhy/prvni-vek/jezerni-hlubina.txt).
 - -1540 (cca) — Rian v dětství často navštěvoval lom a vnímal jeho melancholickou atmosféru, což formovalo jeho chápání "paměti" míst (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+- +215 (jaro) — Po neúspěchu u Jezera odrazu se lom stává novým cílem novodobých Ladičů, kteří doufají, že zde najdou materiál pro vytvoření nové Rezonanční mísy (viz Příběhy/jizva-ticha/2/2.txt).
 
 Poznámky:
 Pojmenování "Lom tichých vzdechů" pochází od Riana a odráží jeho vnímání místa. Místní obyvatelé ho znají pouze pod pragmatickým názvem "Jizva".

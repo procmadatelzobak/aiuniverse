@@ -1,7 +1,7 @@
 id: obj:things/rezonancni-misa
 jmeno: Rezonanční mísa
 kategorie: things
-stav: neznamy
+stav: ztraceny
 aliasy: Ladička duše
 naposledy_upraveno: 2025-09-15
 
@@ -11,6 +11,7 @@ Unikátní artefakt, který Strážce Eamon vytesal, aby mohl bezpečně sestoup
 Dějiny:
 - -4451 (cca) — Vytvořena Eamonem po roce studia kamene v Lomu tichých vzdechů.
 - -4450 (cca) — Použita Eamonem k sestupu do vědomí Jezera odrazu a k vytvoření Písně rovnováhy (viz Příběhy/prvni-vek/jezerni-hlubina.txt).
+- +215 (jaro) — Novodobí Ladiči si uvědomí, že mísa je chybějícím nástrojem jejich plánu na rekonstrukci Písně rovnováhy. Její nalezení nebo znovuvytvoření se stává jejich novým cílem (viz Příběhy/jizva-ticha/2/2.txt).
 
 Poznámky:
-Je to klíčový artefakt, který umožnil největší čin rodu Strážců jezera. Jeho další osud je neznámý.
+Je to klíčový artefakt, který umožnil největší čin rodu Strážců jezera. Její osud je neznámý, předpokládá se, že byla pohřbena se svým tvůrcem.
