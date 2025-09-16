@@ -1,21 +1,17 @@
-
-
-
 id: obj:places/osada-vresova-stran
 jmeno: Osada Vřesová stráň
 kategorie: places
 stav: obydlena
 aliasy: —
-naposledy_upraveno: 2025-09-15
+naposledy_upraveno: 2025-09-26
 
 Popis:
-Malá, izolovaná osada v podhůří Tichých kopců, soustředěná kolem chovu ovcí a drobného řemesla. Obyvatelé jsou známí svou mlčenlivostí a pragmatismem.
+Malá, izolovaná osada v podhůří Tichých kopců, soustředěná kolem chovu ovcí a drobného řemesla. Obyvatelé jsou známí svou mlčenlivostí a pragmatismem. Osada stojí na západním okraji Lomu tichých vzdechů; Kamenný potok jí poskytuje vodu a zároveň připomíná, že krajina kolem nese hluboké emocionální jizvy.
 
 Dějiny:
 - -1550-03-12 — Narodil se zde Rian, budoucí kartograf pocitů.
 - -1525-05-20 — Rian opustil osadu a vydal se na cesty (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+- +215 (jaro) — Skupina Ladičů, vedená Kaelenem a Eamonem, dorazí do osady poté, co nalezli blízký Lom tichých vzdechů. Hledají zde útočiště a zdroje pro svůj další úkol (viz Příběhy/jizva-ticha/2/4.txt).
 
 Poznámky:
-Osada leží daleko od hlavních cest a center dění. Její obyvatelé mají jen malé pochopení pro abstraktní koncepty, jako je "hlas země".
-
-
+Osada leží daleko od hlavních cest a center dění. Její obyvatelé mají jen malé pochopení pro abstraktní koncepty, jako je „hlas země“.
