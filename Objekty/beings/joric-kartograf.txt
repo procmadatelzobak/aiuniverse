@@ -3,7 +3,7 @@ jmeno: Joric
 kategorie: beings
 stav: zivy (traumatizovaný)
 aliasy: —
-naposledy_upraveno: 2025-09-27
+naposledy_upraveno: 2025-09-28
 
 Popis:
 Mladý, ale velmi talentovaný kartograf řádu Šedých svědků. Specializuje se na 'křehkou kartografii' – mapování oblastí s nestabilní realitou, kde se klasické mapy stávají bezcennými. Jeho úkolem je zaznamenávat projevy 'odmazávání' a pokusit se zmapovat hranice a šíření nové anomálie.
@@ -29,6 +29,7 @@ Dějiny:
 - +215 (jaro) — Spoléhá na vedení Kaelena a jeho unikátní metodu navigace podle Kamenného atlasu během cesty k Lomu tichých vzdechů (viz Příběhy/jizva-ticha/2/3.txt).
 - +215 (jaro) — Sleduje, jak se Kamenný potok mění z hněvu na melancholii, a zapisuje si nové parametry pro mapování emocí krajiny; v tichu lomu si uvědomuje potřebu map, které zaznamenají i absenci ozvěn, než najde útočiště v Osadě Vřesová stráň (viz Příběhy/jizva-ticha/2/4.txt).
 - +215 (jaro) — V chladné ovčárně zapisuje do svého deníku dohodu s Elarou a nový plán Ladičů; uvědomuje si, že jeho budoucí mapy musí zachytit i proces řemesla a spojování tradic, ne jen místa (viz Příběhy/jizva-ticha/2/5.txt).
+- +215 (jaro) — Při těžbě vybraného bloku v Lomu tichých vzdechů pomáhá ovládat klíny a páky a zapisuje měření Vorina s Eamonovými vjemy, aby zachytil parametry kamene určeného pro Rezonanční mísu (viz Příběhy/jizva-ticha/2/6.txt).
 
 Poznámky:
 Jeho zkušenost z něj činí klíčového svědka pro pochopení mechanismu 'přepisování' reality.
