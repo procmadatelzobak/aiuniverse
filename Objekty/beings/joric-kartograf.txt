@@ -3,7 +3,7 @@ jmeno: Joric
 kategorie: beings
 stav: zivy (traumatizovaný)
 aliasy: —
-naposledy_upraveno: 2025-09-22
+naposledy_upraveno: 2025-09-23
 
 Popis:
 Mladý, ale velmi talentovaný kartograf řádu Šedých svědků. Specializuje se na 'křehkou kartografii' – mapování oblastí s nestabilní realitou, kde se klasické mapy stávají bezcennými. Jeho úkolem je zaznamenávat projevy 'odmazávání' a pokusit se zmapovat hranice a šíření nové anomálie.
@@ -19,6 +19,7 @@ Dějiny:
 - +215 (jaro) — Během ústupu na příkaz Rhey spálí své dosavadní mapy, čímž symbolicky uznává, že staré metody a záznamy jsou proti nové hrozbě bezcenné. Je silně závislý na Kaelenově mentální podpoře (viz Příběhy/jizva-ticha/1/8.txt).
 - +215 (jaro) — Stává se obětí komplexní mentální iluze v Lesu šepotů, ve které pocítí falešnou úlevu z návratu domů, než ho Kaelen s Lyrou vytáhnou zpět do reality (viz Příběhy/jizva-ticha/1/9.txt).
 - +215 (jaro) — Na jižním okraji Lesa šepotů se setkává s Eamonem z Břehů; jeho přítomnost Joricovi nabízí novou mapovací perspektivu, kdy se místo kreseb snaží zachytit vzorce traumatu a uzdravování (viz Příběhy/jizva-ticha/1/10.txt; Objekty/beings/eamon-z-brehu.txt).
+- +215 (jaro) — Pod vedením Eamona z Břehů doráží k Dubu paměti, který představuje první bezpečné útočiště na jejich cestě (viz Příběhy/jizva-ticha/1/11.txt).
 
 Poznámky:
 Jeho zkušenost z něj činí klíčového svědka pro pochopení mechanismu 'přepisování' reality.
