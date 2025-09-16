@@ -3,7 +3,7 @@ jmeno: Dub paměti
 kategorie: beings
 stav: zivy
 aliasy: —
-naposledy_upraveno: 2025-09-23
+naposledy_upraveno: 2025-09-24
 
 Popis:
 Prastará, vnímající bytost v podobě obrovského dubu, který slouží jako živý archiv a maják v paměti světa.
@@ -18,6 +18,7 @@ Dějiny:
 - -1519-08-10 — Poskytl tichou útěchu a obnovil odhodlání poutníkovi Rianovi, aniž by promluvil (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
 - -1200-09-09 — Varoval družinu sedmi na cestě do průsmyku (viz Příběhy/druhy-vek/pochod-stinu.txt).
 - +215 (jaro) — Skupina vedená Eamonem z Břehů, nesoucí zprávu o hrozbě z Tiché prázdnoty, přichází ke stromu hledat radu a útočiště (viz Příběhy/jizva-ticha/1/11.txt).
+- +215 (jaro) — Strom komunikuje s každým členem skupiny individuálně. Poskytne jim mentální uzdravení a klíčové vize, které jim pomohou pochopit povahu Hlasu Nicoty jako formy nerovnováhy. Nepřímo je nasměruje k jejich dalšímu cíli: Jezeru odrazu (viz Příběhy/jizva-ticha/1/12.txt).
 
 Poznámky:
 Bývá zmiňován jako nejstarší svědek okolních událostí. Jeho interakce nemusí být vždy verbální; někdy poskytuje jen pocit sounáležitosti.
