@@ -1,0 +1,16 @@
+id: obj:concepts/vymazani
+jmeno: Vymazaní
+kategorie: concepts
+stav: aktivni
+aliasy: Prázdné schránky, Tiché loutky
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Živé bytosti, jejichž mysl, vzpomínky a osobnost byly kompletně pohlceny a "odmazány" Hlasem Nicoty. Nejsou mrtví, ale ani živí v pravém slova smyslu. Jejich těla fungují dál, ale jsou jen prázdnými schránkami, které slouží jako pasivní nosiče a fokusátory pro vliv Prázdnoty. Nejsou vědomě nepřátelští, ale jejich pouhá přítomnost aktivně narušuje a přepisuje realitu v jejich okolí. Jejich dotek nebo soustředěná pozornost může způsobit rychlou a katastrofickou ztrátu paměti a identity.
+
+Dějiny:
++215 (jaro) — Poprvé se s nimi setkává expedice Šedých svědků v Ukotvené jeskyni u Posledního bdění. Jde o jednoho z bývalých strážců stanice (viz Příběhy/jizva-ticha/1/7.txt).
+
+Poznámky:
+Jsou tragickým ztělesněním konečného vítězství Prázdnoty nad existencí. Není známo, zda je jejich stav vratný.
+

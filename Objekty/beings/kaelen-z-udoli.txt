@@ -16,6 +16,7 @@ Dějiny:
 - +215 (jaro) — Dostihne expedici u Průsmyku bezejmenných a varuje ji před 'falešnými ozvěnami'. Své znalosti prokáže, když zachrání Jorica před pohlcením falešnou identitou tím, že použije sdílenou vzpomínku na Kamenný atlas jako mentální kotvu. Získává neochotný respekt Rhey (viz Příběhy/jizva-ticha/1/4.txt).
 - +215 (jaro) — Po vstupu do Tichých vrchů čelí konfrontaci s Dětmi Ticha. Jeho "hlučná" mysl přiměje stopařku Lyru, aby opustila izolovanou komunitu a přidala se k expedici; zároveň se ke skupině připojuje archivář Vorin ze Silencie, který potvrzuje Kaelenova podezření o šířící se logické korupci (viz Příběhy/jizva-ticha/1/5.txt).
 - +215 (jaro) — Během přechodu Křičícího hřebenu spolupracuje s Lyrou a použije své znalosti a sílu paměti, aby ochránil Jorica. Tento čin upevní jeho roli ve skupině a odhalí synergii mezi jeho a Lyřinými schopnostmi (viz Příběhy/jizva-ticha/1/6.txt).
+- +215 (jaro) — Vstupuje do Ukotvené jeskyně, kde se střetává s "Vymazaným" a odhaluje zkorumpovaný původ anomálie. Je nucen k ústupu poté, co Orin utrpí existenciální zranění (viz Příběhy/jizva-ticha/1/7.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jmen významných postav minulosti (Kaelen, První mluvčí; kameník Kael; lovec Kaelan), což může symbolizovat tíhu dědictví, které nese.

@@ -1,12 +1,12 @@
 id: obj:beings/orin-stopar
 jmeno: Orin
 kategorie: beings
-stav: zivy
+stav: zivy (narušený)
 aliasy: Tichý Orin
 naposledy_upraveno: 2025-09-16
 
 Popis:
-Stopař a lovec řádu Šedých svědků. Je to mlčenlivý muž, který většinu svého života strávil sám v divočině obklopující Údolí tichých ozvěn. Dokáže číst stopy a znamení v krajině s neuvěřitelnou přesností a je expertem na přežití v nehostinných Tichých vrších. Jeho schopnosti jsou čistě praktické, založené na pozorování a zkušenosti.
+Stopař a lovec řádu Šedých svědků. Je to mlčenlivý muž, který většinu svého života strávil sám v divočině obklopující Údolí tichých ozvěn. Dokáže číst stopy a znamení v krajině s neuvěřitelnou přesností a je expertem na přežití v nehostinných Tichých vrších. Jeho schopnosti jsou čistě praktické, založené na pozorování a zkušenosti. Kontakt s Hlasem Nicoty zanechal trvalé narušení jeho kinestetické paměti a vztahu k vlastnímu tělu.
 
 Dějiny:
 - +175 (cca) — Narodil se mimo Údolí a k řádu se přidal v dospělosti.
@@ -15,6 +15,7 @@ Dějiny:
 - +215 (jaro) — U Průsmyku bezejmenných stojí po boku Rhey, když falešná ozvěna přepíše Joricovu identitu. Pomáhá ho uzemnit a potvrzuje Kaelenovo varování (viz Příběhy/jizva-ticha/1/4.txt).
 - +215 (jaro) — V Tichých vrších jako první vycítí nepřirozenou absenci vjemů, která je dovede k Dětem Ticha. Přijímá Lyru jako průvodkyni expedice, i když její přítomnost ohrožuje jeho instinkt držet se tradic řádu (viz Příběhy/jizva-ticha/1/5.txt).
 - +215 (jaro) — Překonává psychicky náročný Křičící hřeben, kde je svědkem plné síly anomálie a spolupráce Lyry a Kaelena (viz Příběhy/jizva-ticha/1/6.txt).
+- +215 (jaro) — Během konfrontace s "Vymazaným" v Ukotvené jeskyni se fyzicky dotkne této entity, aby ochránil Kaelena. Kontakt způsobí, že je část jeho identity, konkrétně kinestetická paměť a pocit vlastnictví svého těla, "odmazána". Zůstává fyzicky zdatný, ale trpí formou disociace (viz Příběhy/jizva-ticha/1/7.txt).
 
 Poznámky:
-Jeho role ve společenstvu bude později z velké části zastoupena Eamonem z Břehů, což může vést k zajímavé dynamice nebo tragickému osudu.
+Jeho role ve společenstvu bude později z velké části zastoupena Eamonem z Břehů, což může vést k zajímavé dynamice nebo tragickému osudu. Jeho zranění není fyzické, ale existenciální, což ho činí zranitelným a nepředvídatelným.

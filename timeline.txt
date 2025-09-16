@@ -60,5 +60,6 @@
 
 - **+215 (jaro)**: Za Průsmykem bezejmenných narazí expedice na izolované Děti Ticha. Lyra se rozhodne vést Šedé svědky dál na sever a archivář Vorin ze Silencie potvrzuje, že anomálie zasahuje i paměťové krystaly (viz Příběhy/jizva-ticha/1/5.txt; Objekty/concepts/deti-ticha.txt; Objekty/beings/lyra-z-tichych-vrchu.txt; Objekty/beings/vorin-ze-silencie.txt; Objekty/concepts/sedi-svedkove.txt; Objekty/places/tiche-vrchy.txt).
 - **+215 (jaro)**: Expedice překonává Křičící hřeben, mentálně ničivou bariéru jižně od Posledního bdění. Lyra a Kaelen společně chrání Jorica před zhroucením a svědkové poprvé vidí, že stanice se mění v epicentrum anomálie (viz Příběhy/jizva-ticha/1/6.txt; Objekty/places/krici-hreben.txt; Objekty/places/posledni-bdeni.txt; Objekty/beings/lyra-z-tichych-vrchu.txt; Objekty/beings/kaelen-z-udoli.txt; Objekty/beings/joric-kartograf.txt; Objekty/beings/rhea-seda-svedkyne.txt; Objekty/beings/orin-stopar.txt; Objekty/beings/vorin-ze-silencie.txt).
+- **+215 (jaro)**: Expedice vstupuje do Ukotvené jeskyně u Posledního bdění. Odhalí, že Lianova kotva paměti byla unesena Hlasem Nicoty a proměněna v rezonátor falešných ozvěn, který střeží Vymazaný strážce. Orin při zásahu utrpí existenciální zranění (viz Příběhy/jizva-ticha/1/7.txt; Objekty/things/ukotvena-jeskyne.txt; Objekty/concepts/vymazani.txt; Objekty/beings/orin-stopar.txt).
 
 

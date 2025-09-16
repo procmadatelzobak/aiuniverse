@@ -12,6 +12,7 @@ Dějiny:
 - +194 (cca) — Narodila se v Osadě tichého stínu v Tichých vrších.
 - +215 (jaro) — Setkává se s expedicí Šedých svědků a Vorinem ze Silencie. Navzdory vůli vůdce své komunity se rozhodne je vést dál na sever, aby pochopila povahu hrozby, která ohrožuje i její lid (viz Příběhy/jizva-ticha/1/5.txt).
 - +215 (jaro) — Vede spojenou skupinu přes Tiché vrchy. Své jedinečné schopnosti prokáže při překonávání Křičícího hřebenu, kde navigací skrze "tiché stezky" v mentální bouři ochrání skupinu před nejhoršími dopady (viz Příběhy/jizva-ticha/1/6.txt).
+- +215 (jaro) — V Ukotvené jeskyni čelí "Vymazanému" a koordinuje ústup expedice poté, co zjistí, že Lianova kotva byla unesena a zneužita Hlasem Nicoty (viz Příběhy/jizva-ticha/1/7.txt).
 
 Poznámky:
 Její jméno je další v řadě jmen "Lyra", což může symbolizovat archetypální roli, kterou tyto postavy v různých érách hrají. Její schopnosti jsou přímým protikladem Kaelenových, založených na paměti a ozvěnách.
