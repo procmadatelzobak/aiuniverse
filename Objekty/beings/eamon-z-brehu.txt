@@ -3,7 +3,7 @@ jmeno: Eamon z Břehů
 kategorie: beings
 stav: zivy
 aliasy: Strážce, Lovec
-naposledy_upraveno: 2025-09-24
+naposledy_upraveno: 2025-09-25
 
 Popis:
 Drsný samotář a poslední známý potomek prastarého rodu Strážců jezera. Nežije v žádné osadě, ale putuje Srdcem starého světa jako tichý ochránce divokých a zapomenutých míst. Má hluboké, instinktivní spojení se zemí a jejími tvory. Je mistrem přežití, stopování a tichého boje. Ačkoliv není oficiálním členem Šedých svědků, udržuje s jejich vedením volný kontakt a občas pro ně plní úkoly v divočině.
@@ -15,6 +15,7 @@ Dějiny:
 - +215 (jaro) — U Dubu paměti prožívá individuální vizi/zkušenost, která mu/jí pomáhá uzdravit se a pochopit hlubší souvislosti krize. Společně s ostatními dochází k rozhodnutí pokračovat k Jezeru odrazu (viz Příběhy/jizva-ticha/1/12.txt).
 - +215 (jaro) — Putuje od Dubu paměti k Jezeru odrazu. Během cesty je konfrontován/a s chaotickým vlivem jezera, který narušuje sny a emoce (viz Příběhy/jizva-ticha/1/13.txt).
 - +215 (jaro) — Na březích Jezera odrazu vede družinu první lekcí mentální disciplíny svých předků. Učí je naslouchat tichu mezi ozvěnami a společně s nimi zaslechne první fragment Písně rovnováhy po staletích (viz Příběhy/jizva-ticha/1/14.txt).
+- +215 (jaro) — Na březích Jezera odrazu přijímá specifickou roli v rámci plánu na rekonstrukci Písně rovnováhy, čímž se formálně stává jedním z novodobých "Ladičů". Tímto rozhodnutím končí první fáze jejich cesty (viz Příběhy/jizva-ticha/1/15.txt).
 
 Poznámky:
 Jeho jméno je poctou Eamonovi, legendárnímu Strážci jezera, který stvořil Píseň rovnováhy. Představuje čtvrtého klíčového člena "Společenstva Jizvy".
