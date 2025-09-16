@@ -13,6 +13,7 @@ Dějiny:
 - +82 — Události v Posledním bdění vedly k vytvoření nové doktríny "Aktivní rovnováhy" a zřízení permanentních stráží na okraji Tiché prázdnoty (viz Příběhy/ctvrty-vek/sepot-v-prazdnote.txt).
 - +215 (jaro) — Řád čelí narůstající anomálii na hranicích Tiché prázdnoty, kde Lianova kotva selhává, a rozhoduje o vyslání průzkumné expedice (viz Příběhy/jizva-ticha/1/1.txt).
 - +215 (jaro) — Expedici tvoří Rhea, Orin a Joric; akolyta Kaelen řád neposlechne a vydává se za nimi, aby varoval před falešnou ozvěnou, již odhalil ve zprávách (viz Příběhy/jizva-ticha/1/2.txt; Objekty/beings/rhea-seda-svedkyne.txt; Objekty/beings/orin-stopar.txt; Objekty/beings/joric-kartograf.txt; Objekty/beings/kaelen-z-udoli.txt).
+- +215 (jaro) — Po překonání Průsmyku bezejmenných navazují Šedí svědkové křehké spojenectví s izolovanými Dětmi Ticha a přijímají pomoc archiváře Vorina ze Silencie, čímž rozšiřují svou misi o spolupráci mimo vlastní řád (viz Příběhy/jizva-ticha/1/5.txt; Objekty/concepts/deti-ticha.txt; Objekty/beings/vorin-ze-silencie.txt).
 
 Poznámky:
 Jejich sídlo je v Údolí tichých ozvěn, kde střeží Kamenný atlas, svůj nejposvátnější text.

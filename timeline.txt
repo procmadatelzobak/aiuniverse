@@ -58,4 +58,6 @@
   Objekty/beings/rhea-seda-svedkyne.txt; Objekty/beings/joric-kartograf.txt;
   Objekty/places/prusmyk-bezejmennych.txt).
 
+- **+215 (jaro)**: Za Průsmykem bezejmenných narazí expedice na izolované Děti Ticha. Lyra se rozhodne vést Šedé svědky dál na sever a archivář Vorin ze Silencie potvrzuje, že anomálie zasahuje i paměťové krystaly (viz Příběhy/jizva-ticha/1/5.txt; Objekty/concepts/deti-ticha.txt; Objekty/beings/lyra-z-tichych-vrchu.txt; Objekty/beings/vorin-ze-silencie.txt; Objekty/concepts/sedi-svedkove.txt; Objekty/places/tiche-vrchy.txt).
+
 

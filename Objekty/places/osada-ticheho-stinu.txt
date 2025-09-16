@@ -1,0 +1,16 @@
+id: obj:places/osada-ticheho-stinu
+jmeno: Osada tichého stínu
+kategorie: places
+stav: obydlena
+aliasy: —
+naposledy_upraveno: 2025-09-19
+
+Popis:
+Skryté a izolované sídlo Dětí Ticha v srdci Tichých vrchů. Není to tradiční vesnice, spíše shluk obydlí vytesaných do skalní stěny a maskovaných tak, aby co nejvíce splývaly s okolím. Cílem její architektury je zanechávat co nejmenší stopu a ozvěnu v paměti krajiny. Život zde je tichý, prostý a řídí se přísnými pravidly k udržení duševního i zvukového klidu.
+
+Dějiny:
+Počátek 4. věku — Založena přeživšími Mlčících poutníků.
++215 (jaro) — Stává se dějištěm setkání expedice Šedých svědků s Dětmi Ticha (viz Příběhy/jizva-ticha/1/5.txt).
+
+Poznámky:
+Přesná poloha osady je neznámá a je pravděpodobně chráněna přirozenými i umělými prostředky, aby se zabránilo jejímu odhalení.
