@@ -1,0 +1,17 @@
+id: obj:things/ukotvena-jeskyne
+jmeno: Ukotvená jeskyně
+kategorie: things
+stav: zkorumpovaná (aktivní zdroj anomálie)
+aliasy: Lianova jeskyně
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Malá jeskyně u paty věže Posledního bdění, jejíž stěny nesou vytesaný příběh – obětovanou vzpomínku Šedého svědka Liana. Původně sloužila jako mentální "kotva" a bariéra, která neutralizovala Šepot prázdnoty. Po více než sto letech byla tato kotva přemožena a zkorumpována Hlasem Nicoty. Jeskyně se stala inverzí svého původního účelu: nyní funguje jako rezonátor a zesilovač "falešných ozvěn", který aktivně šíří lživou, přepsanou verzi reality do světa.
+
+Dějiny:
++82 — Vytvořena obětí Šedého svědka Liana, který do jejích stěn vytesal svou nejsilnější vzpomínku a zastavil tak Šepot prázdnoty (viz Příběhy/ctvrty-vek/sepot-v-prazdnote.txt).
++215 (jaro) — Expedice Šedých svědků zjišťuje, že vytesaný příběh v jeskyni byl znetvořen a jeskyně se stala epicentrem anomálie. Je střežena "Vymazanou" bytostí (viz Příběhy/jizva-ticha/1/7.txt).
+
+Poznámky:
+Jeskyně je nyní jedním z nejnebezpečnějších míst na světě, aktivně přepisuje realitu a paměť.
+

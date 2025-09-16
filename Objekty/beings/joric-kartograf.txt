@@ -15,6 +15,7 @@ Dějiny:
 - +215 (jaro) — V Průsmyku bezejmenných se stává první obětí nové formy útoku Hlasu Nicoty. Jeho identita je dočasně přepsána falešnou vzpomínkou. Z tohoto stavu ho vysvobodí Kaelen. Tato událost ho hluboce traumatizuje, ale zároveň mu poskytne jedinečný vhled do povahy hrozby (viz Příběhy/jizva-ticha/1/4.txt).
 - +215 (jaro) — V Tichých vrších je konfrontován Dětmi Ticha, kteří jejich přítomnost vnímají jako rušivý hluk. Vorin ze Silencie potvrzuje, že anomálie narušuje i paměťové krystaly, což Joricovi poskytuje širší rámec pro mapování šíření hrozby (viz Příběhy/jizva-ticha/1/5.txt).
 - +215 (jaro) — Překonává psychicky náročný Křičící hřeben, kde je svědkem plné síly anomálie a spolupráce Lyry a Kaelena (viz Příběhy/jizva-ticha/1/6.txt).
+- +215 (jaro) — V Ukotvené jeskyni vidí, jak je Lianova kotva přepsána, a uvědomuje si nemožnost klasického mapování v prostředí aktivně přepisované reality. Ústup je pro něj traumatickou připomínkou křehkosti paměti (viz Příběhy/jizva-ticha/1/7.txt).
 
 Poznámky:
 Jeho zkušenost z něj činí klíčového svědka pro pochopení mechanismu 'přepisování' reality.

@@ -13,6 +13,7 @@ Dějiny:
 - +82 — Stala se ohniskem anomálie známé jako Šepot prázdnoty. Událost byla zastavena obětí Šedého svědka Liana (viz Příběhy/ctvrty-vek/sepot-v-prazdnote.txt).
 - +215 (jaro) — Zprávy ze stanice se stávají nesrozumitelnými a chaotickými, což naznačuje selhávání Lianovy kotvy a novou formu aktivity z Tiché prázdnoty. Rhea vede expedici Šedých svědků (s Orinem a Joricem), aby zjistila příčinu, zatímco akolyta Kaelen se rozhodne skupinu tajně následovat (viz Příběhy/jizva-ticha/1/1.txt; Příběhy/jizva-ticha/1/2.txt; Objekty/beings/rhea-seda-svedkyne.txt; Objekty/beings/orin-stopar.txt; Objekty/beings/joric-kartograf.txt; Objekty/beings/kaelen-z-udoli.txt).
 - +215 (jaro) — Expedice Šedých svědků dorazí na dohled stanice a vizuálně potvrdí, že se stala epicentrem anomálie narušující realitu (viz Příběhy/jizva-ticha/1/6.txt).
+- +215 (jaro) — Expedice proniká do Ukotvené jeskyně na úpatí věže a zjišťuje, že Lianova kotva byla unesena Hlasem Nicoty a proměněna v rezonátor falešných ozvěn. Lokalita je bráněna "Vymazaným" strážcem (viz Příběhy/jizva-ticha/1/7.txt; Objekty/things/ukotvena-jeskyne.txt; Objekty/concepts/vymazani.txt).
 
 Poznámky:
-Ukotvená jeskyně, vytvořená Lianem, se nachází v bezprostřední blízkosti věže a je pravděpodobně přímo zasažena anomálií.
+Ukotvená jeskyně, původně kotva vytvořená Lianem, je nyní aktivním zdrojem anomálie; viz Objekty/things/ukotvena-jeskyne.txt.

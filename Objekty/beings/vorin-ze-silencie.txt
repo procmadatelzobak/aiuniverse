@@ -12,6 +12,7 @@ Dějiny:
 - +170 (cca) — Narodil se v Silencii.
 - +215 (jaro) — Sám se vydává na cestu ze Silencie, aby prozkoumal zdroj anomálie, která narušuje ozvěny v Paměťových krystalech jeho města. Jeho stopa ho zavede do Tichých vrchů, kde se setkává s expedicí Šedých svědků a Lyrou. Rozhodne se k nim připojit (viz Příběhy/jizva-ticha/1/5.txt).
 - +215 (jaro) — Překonává psychicky náročný Křičící hřeben, kde je svědkem plné síly anomálie a spolupráce Lyry a Kaelena (viz Příběhy/jizva-ticha/1/6.txt).
+- +215 (jaro) — V Ukotvené jeskyni analyzuje zkorumpovanou Lianovu kotvu a identifikuje "Vymazané" jako parazitickou projekci Prázdnoty, což zásadně mění jeho vědecké chápání hrozby (viz Příběhy/jizva-ticha/1/7.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jména Vorina, zakladatele Silencie, což odráží jeho hluboké spojení s historií a dědictvím města.
