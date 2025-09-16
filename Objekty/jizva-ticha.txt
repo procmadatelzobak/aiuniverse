@@ -1,0 +1,24 @@
+id: obj:jizva-ticha
+jmeno: Jizva Ticha (Trilogie)
+kategorie: meta
+stav: probiha
+aliasy: —
+naposledy_upraveno: 2025-09-24
+
+Popis:
+Epická trilogie popisující události Čtvrtého věku, konkrétně krizi spojenou se sílící hrozbou z Tiché prázdnoty a zrodem Hlasu Nicoty. Děj sleduje putování nesourodé skupiny hrdinů, kteří se snaží pochopit a zastavit tuto novou formu "odmazávání" reality.
+
+Knihy:
+
+Kniha První: Šepot na hranici — Popisuje odhalení hrozby, sestavení společenstva a jejich nebezpečnou cestu ze severu k Dubu paměti.
+
+Kniha Druhá: Atlas duše (plánováno)
+
+Kniha Třetí: Píseň rovnováhy (plánováno)
+
+Dějiny:
+
+- +215 (jaro) — Kniha První, Kapitola 12: Skupina dorazí k Dubu paměti, kde získá klíčové informace a nasměrování k Jezeru odrazu. Tím končí první velká fáze jejich cesty – útěk – a začíná fáze aktivního hledání řešení (viz Příběhy/jizva-ticha/1/12.txt).
+
+Poznámky:
+Tento meta objekt slouží ke sledování hlavního dějového oblouku trilogie.

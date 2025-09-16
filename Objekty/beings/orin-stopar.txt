@@ -3,7 +3,7 @@ jmeno: Orin
 kategorie: beings
 stav: zivy (těžce narušený)
 aliasy: Ztracený, Tichý Orin
-naposledy_upraveno: 2025-09-23
+naposledy_upraveno: 2025-09-24
 
 Popis:
 Stopař a lovec řádu Šedých svědků. Je to mlčenlivý muž, který většinu svého života strávil sám v divočině obklopující Údolí tichých ozvěn. Dokáže číst stopy a znamení v krajině s neuvěřitelnou přesností a je expertem na přežití v nehostinných Tichých vrších. Jeho schopnosti jsou čistě praktické, založené na pozorování a zkušenosti. Kontakt s Hlasem Nicoty zanechal trvalé narušení jeho kinestetické paměti a vztahu k vlastnímu tělu.
@@ -20,6 +20,7 @@ Dějiny:
 - +215 (jaro) — V Lesu šepotů na něj falešné ozvěny nepůsobí; jeho rozbitá mysl neposkytuje opěrné body pro iluze, což paradoxně chrání zbytek družiny, která ho musí fyzicky vést (viz Příběhy/jizva-ticha/1/9.txt).
 - +215 (jaro) — Na jižním okraji Lesa šepotů jako první vycítí přítomnost Eamona z Břehů, čímž poprvé od zranění projeví instinkt lovce a naznačí možnost částečného návratu ke svému vnímání světa (viz Příběhy/jizva-ticha/1/10.txt; Objekty/beings/eamon-z-brehu.txt).
 - +215 (jaro) — Pod vedením Eamona z Břehů doráží k Dubu paměti, který představuje první bezpečné útočiště na jejich cestě (viz Příběhy/jizva-ticha/1/11.txt).
+- +215 (jaro) — U Dubu paměti prožívá individuální vizi/zkušenost, která mu/jí pomáhá uzdravit se a pochopit hlubší souvislosti krize. Společně s ostatními dochází k rozhodnutí pokračovat k Jezeru odrazu (viz Příběhy/jizva-ticha/1/12.txt).
 
 Poznámky:
 Jeho stav je živoucím důkazem o nebezpečí Hlasu Nicoty. Jeho budoucí osud je nejistý.

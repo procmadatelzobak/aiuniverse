@@ -3,7 +3,7 @@ jmeno: Hvězdná mysl
 kategorie: concepts
 stav: trvaly (uvězněný)
 aliasy: Cizí vědomí, Utopenec
-naposledy_upraveno: 2025-09-15
+naposledy_upraveno: 2025-09-24
 
 Popis:
 Prastaré, nebiologické vědomí pocházející z kosmické prázdnoty.
@@ -12,11 +12,12 @@ Je založena na chladné, čisté logice, geometrických strukturách a matemati
 Jeho příchod (Tichý pád) vytvořil v duši světa ránu, kterou se paměť Země snaží zahojit vznikem Jezera odrazu.
 Jeho "bolest" není emocí v lidském smyslu, ale spíše stavem permanentního logického paradoxu –
 bytost stvořená pro nekonečnou, uspořádanou prázdnotu je uvězněna v konečném, neuspořádaném světě.
-Tvoří základní, disharmonický tón v šepotu jezera.
+Tvoří základní, disharmonický tón v šepotu jezera. Vize Kaelena z Údolí skrze Dub paměti ji popsala jako dokonalý, nekonečný krystal logiky, který trpí uvězněním v chaotickém světě – jeho bolest je bolestí rovnice bez řešení (viz Příběhy/jizva-ticha/1/12.txt).
 
 Dějiny:
 - První věk (dávno) — Dopadlo na zem v události známé jako Tichý pád a vytvořilo tak Jezero odrazu.
 - -4450 (cca) — Eamon navázal první smysluplný kontakt s tímto vědomím a dočasně ho zharmonizoval s pamětí Země (viz Příběhy/prvni-vek/jezerni-hlubina.txt).
+- +215 (jaro) — Prostřednictvím Dubu paměti sdílí s Kaelenem z Údolí ozvěnu své bolesti a logické povahy, čímž poskytuje nové vodítko k obnovení rovnováhy (viz Příběhy/jizva-ticha/1/12.txt).
 
 Poznámky:
 Jeho "šepot" tvoří základní, disharmonickou složku chaosu v Jezeře odrazu. Jeho bolest pramení z neschopnosti komunikovat a z uvěznění v konečném světě.
