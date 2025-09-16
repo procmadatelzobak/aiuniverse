@@ -1,0 +1,35 @@
+id: st:jizva-ticha/1/8
+nazev: Zlomená mapa
+era: ctvrty-vek
+casovy_rah: +215 (jaro)
+autor: Kronikář
+nemenny: ano
+
+Obsah:
+Ústup byl chaotický. Nebyl to taktický ústup vojáků, ale zběsilý útěk raněných zvířat. Tlak v zádech, který cítili, nebyl jen z představivosti. Ticho kotliny za nimi se zdálo natahovat, plížit se v jejich stopách, lačné po dalších vzpomínkách, které by mohlo pozřít.
+
+Nejtěžší bylo sledovat Orina. Stopař kráčel s mechanickou přesností, jeho tělo stále reagovalo na terén s lehkostí, která byla výsledkem celoživotního tréninku. Ale jeho mysl byla jinde. Občas se zastavil a zvedl ruku, kterou už nepovažoval za svou, a zkoumal ji s dětskou zvědavostí. Už se nepokoušel stopovat. Už nehleděl na obzor. Díval se dovnitř, do trhliny, která se otevřela v jeho vnímání sebe sama. Přestal mluvit. Jeho ticho už nebylo tichem lovce, ale tichem prázdného pokoje.
+
+Zpátky u Křičícího hřebenu se zastavili. Před nimi se tyčila hradba mentálního utrpení.
+"Neprojdeme," řekl Joric, hlas se mu třásl. "Ne s Orinem v tomhle stavu. A já... já to znovu nezvládnu."
+
+Rhea se otočila. Zmizela z ní veškerá arogance i skepse. Její tvář byla tvrdá, ale její oči, když pohlédla na své dva zlomené muže, byly plné bolesti a odhodlání. "Mise skončila," prohlásila a její slova padla do mrtvého ticha s konečnou platností. "Úkol už není prozkoumat. Úkol je přežít a donést varování. Joricu, všechny mapy, co jsi nakreslil, jsou teď bezcenné. Spalte je. Zbytečná paměť je jen zátěž."
+
+Joric na ni vytřeštil oči, ale pak pomalu přikývl a začal ze své brašny vytahovat pergameny.
+
+"Vorine," pokračovala Rhea a otočila se na archiváře. "Vaše přístroje. Jsou k něčemu?"
+"Jsou nefunkční," odpověděl Vorin. "Ale data, která jsem nasbíral... jsou neocenitelná. Dokumentují rozpad reality."
+"Dobře," přikývla Rhea. "Budete je chránit vlastním životem."
+
+Pak se její pohled zastavil na Lyeře a Kaelenovi. "Vy dva. Vy jste naše nová mapa. Lyro, ty najdeš nejtišší cestu přes tenhle pekelný kopec. Kaelene, ty nás ostatní udržíš pohromadě. Použij ty svoje příběhy, svoje kotvy. Nedovol, aby se někdo z nás ztratil. Rozumíte?"
+
+Bylo to poprvé, co někomu svěřila velení. Přiznání, že její zkušenost tady nestačí.
+
+Přechod zpátky přes hřeben byl jiný. Předtím to byla zkouška odvahy. Teď to byl zoufalý závod s časem. Lyra je vedla bez zaváhání. Už nehledala nejbezpečnější cestu, ale tu nejrychlejší. Zdálo se, že tančí na hraně mentální bouře, vždy jen o krok před nejhorší vlnou strachu.
+
+Kaelen kráčel uprostřed skupiny, jeho hlas byl tichý, ale stálý. Nevyprávěl hrdinské eposy. Mluvil o prostých, hmatatelných věcech. Popisoval vůni pečeného chleba v pekárně v Údolí. Vzpomínal na pocit třísky pod nehtem, když se jako učeň poprvé učil vázat knihy. Líčil přesný tvar a váhu kamenů z potoka, ze kterých stavěli zdi. Vytvářel kolem nich bublinu konkrétní, nezpochybnitelné reality, která je chránila před abstraktním křikem země.
+
+Když konečně sestoupili na jižní stranu, slunce už zapadalo. Stáli na okraji Lesa šepotů a dívali se zpět na Tiché vrchy, které se barvily do krvavě rudé. Byli pohmoždění, vyčerpaní a zlomení. Ale byli naživu. A nesli v sobě pravdu, která byla mnohem děsivější než jakákoli legenda.
+
+"Co teď?" zašeptal Joric.
+Rhea se dívala na jih, směrem k neviditelnému Údolí. "Teď se z nás stávají poslové. Musíme varovat Údolí. Svět musí vědět, že jizva se otevřela. A že se nenaučila jen šeptat. Naučila se lhát."
