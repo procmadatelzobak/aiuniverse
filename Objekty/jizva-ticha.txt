@@ -23,6 +23,7 @@ Dějiny:
 - +215 (jaro) — Kniha První, Kapitola 14: Eamon učí družinu první lekci mentální disciplíny u Jezera odrazu. Společně zaslechnou krátký, čistý tón – první fragment Písně rovnováhy po staletích, což potvrzuje, že jejich cíl je dosažitelný (viz Příběhy/jizva-ticha/1/14.txt).
 - +215 (jaro) — Kniha První, Kapitola 15: Skupina pod Eamonovým vedením formuluje plán, jak se pokusit rekonstruovat Píseň rovnováhy. Rozdělí si role pro nebezpečný mentální "sestup" do vědomí Jezera odrazu s cílem izolovat tři základní prameny písně. Tím končí první kniha trilogie, Šepot na hranici. (viz Příběhy/jizva-ticha/1/15.txt).
 - +215 (jaro) — Kniha Druhá, Kapitola 1: Společenstvo zahajuje mentální "sestup" u Jezera odrazu. Vorin úspěšně izoluje logický vzorec Hvězdné mysli a Lyra hluboký tep paměti země. Kaelen se pokusí sloužit jako most mezi těmito dvěma prameny, ale jejich nesourodost ho téměř zničí (viz Příběhy/jizva-ticha/2/1.txt).
+- +215 (jaro) — Kniha Druhá, Kapitola 2: Pokus je násilně přerušen, aby byl Kaelen zachráněn. Eamon odhaluje existenci a nutnost Rezonanční mísy. Společenstvo přijímá nový cíl: cestu k Lomu tichých vzdechů a vytvoření nástroje, který umožní bezpečný sestup (viz Příběhy/jizva-ticha/2/2.txt).
 
 Poznámky:
 Tento meta objekt slouží ke sledování hlavního dějového oblouku trilogie.
