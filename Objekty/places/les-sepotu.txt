@@ -3,15 +3,16 @@ jmeno: Les šepotů
 kategorie: places
 stav: trvaly (narušený)
 aliasy: —
-naposledy_upraveno: 2025-09-16
+naposledy_upraveno: 2025-09-21
 
 Popis:
-Rozsáhlý, prastarý les, který se rozkládá mezi Dubem paměti a úpatím Tichých vrchů. Je známý tím, že vítr v jeho korunách zní jako tichý šepot, i když panuje naprosté bezvětří. Stromy jsou zde neobvykle staré a jejich kořeny jsou hluboce propleteny s pamětí země. Vlivem šířící se anomálie z Tiché prázdnoty se však jeho šepot stává zmateným a nespolehlivým, propleteným "falešnými ozvěnami" – vzpomínkami na události, které se nikdy nestaly.
+Rozsáhlý, prastarý les, který se rozkládá mezi Dubem paměti a úpatím Tichých vrchů. Je známý tím, že vítr v jeho korunách zní jako tichý šepot, i když panuje naprosté bezvětří. Stromy jsou zde neobvykle staré a jejich kořeny jsou hluboce propleteny s pamětí země. Vlivem šířící se anomálie z Tiché prázdnoty se však jeho šepot stává zmateným a nespolehlivým, propleteným "falešnými ozvěnami" – vzpomínkami na události, které se nikdy nestaly. V hlubších částech lesa jsou tyto falešné ozvěny schopny se shlukovat a vytvářet nebezpečné, plně imerzivní iluze.
 
 Dějiny:
 - Pradávno — Existuje od nepaměti.
 - -2500-06-18 — Předpokládá se, že právě zde, u kořenů jednoho ze starých dubů, byl pohřben Šeptající kámen (viz Příběhy/prvni-vek/kamenne-ozveny.txt).
 - +215 (jaro) — Šepoty v lese jsou kontaminovány "falešnými ozvěnami", což je prvním hmatatelným důkazem šíření vlivu Hlasu Nicoty daleko na jih od hranic Tiché prázdnoty (viz Příběhy/jizva-ticha/1/3.txt).
+- +215 (jaro) — Skupina vedená Lyrou a Kaelenem čelí v lese sofistikované mentální pasti (iluzi návratu domů), což potvrzuje, že Hlas Nicoty je schopen cílených a inteligentních útoků (viz Příběhy/jizva-ticha/1/9.txt).
 
 Poznámky:
 Narušení paměti lesa představuje vážné nebezpečí pro poutníky, kteří se spoléhají na hlas země jako na průvodce.

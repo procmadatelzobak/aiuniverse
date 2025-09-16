@@ -1,0 +1,18 @@
+id: obj:concepts/falesne-ozveny
+jmeno: Falešné ozvěny
+kategorie: concepts
+stav: aktivni
+aliasy: Ozvěny bez zdroje
+naposledy_upraveno: 2025-09-21
+
+Popis:
+Specifický projev Hlasu Nicoty. Nejde o pouhé "odmazávání" paměti, ale o její aktivní přepisování a kontaminaci. Falešné ozvěny jsou myšlenky, vzpomínky nebo celé smyslové vjemy (zvuky, pachy, obrazy), které jsou Hlasem Nicoty vkládány do paměti krajiny nebo přímo do mysli živých bytostí. Tyto ozvěny nemají žádný reálný původ v historii světa. Jejich účelem je mást, dezorientovat, vytvářet psychické pasti a oslabovat spojení jedince s realitou, čímž ho činí zranitelnějším vůči "odmazávání".
+
+Dějiny:
+
++215 (jaro) — Poprvé masivně zaznamenány Kaelenem v Lesu šepotů. Zpočátku působí jako náhodné, nesmyslné vjemy (viz Příběhy/jizva-ticha/1/3.txt).
+
++215 (jaro) — V hlubinách Lesa šepotů se projevují v mnohem sofistikovanější a nebezpečnější formě, schopné vytvářet komplexní, cílené iluze (viz Příběhy/jizva-ticha/1/9.txt).
+
+Poznámky:
+Lyra z Tichých vrchů je schopna je odhalit díky absenci "stopy ticha", která následuje po každé skutečné ozvěně.
