@@ -1,0 +1,17 @@
+id: obj:beings/elian-mistr
+jmeno: Elian (Mistr)
+kategorie: beings
+stav: zivy
+aliasy: Starý Elian
+naposledy_upraveno: 2025-09-19
+
+Popis:
+Starý a respektovaný Mistr v řádu Šedých svědků. V mládí sloužil na pozorovacích stanicích u Tiché prázdnoty, a proto má hluboké, praktické pochopení pro nebezpečí, které představuje. Je mentorem mladého Kaelena, vůči jehož idealismu je často skeptický a pragmatický. Věří v Křehkou rovnováhu ne jako v cíl, ale jako v neustálý, vyčerpávající boj.
+
+Dějiny:
+- cca +140 — Narodil se.
+- cca +160 — Sloužil na hraničních stanicích u Tiché prázdnoty.
+- +215 (jaro) — Jako jeden z vůdčích členů rady rozhoduje o vyslání expedice k Poslednímu bdění v reakci na selhávání Lianovy kotvy (viz Příběhy/jizva-ticha/1/1.txt).
+
+Poznámky:
+Jeho jméno je poctou Elianovi, Tichému revolucionáři ze Silencie, což odráží tradici Šedých svědků uctívat postavy, které nalezly rovnováhu.
