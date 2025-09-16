@@ -1,17 +1,18 @@
 id: obj:places/posledni-bdeni
 jmeno: Poslední bdění
 kategorie: places
-stav: kontakt ztracen (ohrožena)
-aliasy: Věž na konci světa
-naposledy_upraveno: 2025-09-19
+stav: epicentrum anomálie (aktivně nepřátelské)
+aliasy: Věž na konci světa, Trhlina
+naposledy_upraveno: 2025-09-16
 
 Popis:
-Nejizolovanější pozorovací stanice Šedých svědků, umístěná jen půl dne cesty od okraje Tiché prázdnoty. Skládá se z jediné kamenné věže a několika malých obydlí. Místo je charakteristické extrémním chladem, řídkým vzduchem a psychickým tlakem plynoucím z blízkosti Prázdnoty. Je považováno za nejtěžší a nejnebezpečnější služební místo v řádu.
+Nejizolovanější pozorovací stanice Šedých svědků, umístěná jen půl dne cesty od okraje Tiché prázdnoty. Skládá se z jediné kamenné věže a několika malých obydlí. Místo je charakteristické extrémním chladem, řídkým vzduchem a psychickým tlakem plynoucím z blízkosti Prázdnoty. V současnosti je stanice a její nejbližší okolí ohniskem masivní poruchy reality. Vzduch se zde tetelí, obrysy reality jsou nestabilní a fyzikální zákony, jako je pohyb stínů, jsou narušeny. Je zjevné, že se nejedná jen o místo ovlivněné Prázdnotou, ale o bod, odkud se anomálie aktivně šíří.
 
 Dějiny:
 - cca +20 — Založena řádem Šedých svědků jako součást sítě pozorovatelen.
 - +82 — Stala se ohniskem anomálie známé jako Šepot prázdnoty. Událost byla zastavena obětí Šedého svědka Liana (viz Příběhy/ctvrty-vek/sepot-v-prazdnote.txt).
 - +215 (jaro) — Zprávy ze stanice se stávají nesrozumitelnými a chaotickými, což naznačuje selhávání Lianovy kotvy a novou formu aktivity z Tiché prázdnoty. Rhea vede expedici Šedých svědků (s Orinem a Joricem), aby zjistila příčinu, zatímco akolyta Kaelen se rozhodne skupinu tajně následovat (viz Příběhy/jizva-ticha/1/1.txt; Příběhy/jizva-ticha/1/2.txt; Objekty/beings/rhea-seda-svedkyne.txt; Objekty/beings/orin-stopar.txt; Objekty/beings/joric-kartograf.txt; Objekty/beings/kaelen-z-udoli.txt).
+- +215 (jaro) — Expedice Šedých svědků dorazí na dohled stanice a vizuálně potvrdí, že se stala epicentrem anomálie narušující realitu (viz Příběhy/jizva-ticha/1/6.txt).
 
 Poznámky:
-Poblíž stanice se nachází tzv. "Ukotvená jeskyně", jejíž stěny nesou Lianův vytesaný příběh a která sloužila jako permanentní bariéra proti Šepotu. Její současný stav je neznámý.
+Ukotvená jeskyně, vytvořená Lianem, se nachází v bezprostřední blízkosti věže a je pravděpodobně přímo zasažena anomálií.

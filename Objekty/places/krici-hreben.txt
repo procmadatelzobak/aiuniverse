@@ -1,0 +1,16 @@
+id: obj:places/krici-hreben
+jmeno: Křičící hřeben
+kategorie: places
+stav: trvaly (nebezpečný)
+aliasy: Hřeben tichého strachu
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Dlouhý, holý skalní hřeben v Tichých vrších, ležící jižně od Posledního bdění. Hřeben je geologicky nestabilní a je známý pro svou anomálii: vítr, který se přes něj převaluje, je absolutně tichý. Ticho však není prázdné. Je vyplněno ohlušujícím mentálním "křikem" – zhmotněnou emocí strachu a bolesti samotné země, která reaguje na blízkost Tiché prázdnoty a jejího vlivu.
+
+Dějiny:
+- Pradávno — Existuje jako součást Tichých vrchů. Jeho anomálie se pravděpodobně zrodila nebo zesílila po vzniku Tiché prázdnoty.
+- +215 (jaro) — Expedice Šedých svědků a jejich společníci byli nuceni hřeben překročit. Zkušenost byla extrémně psychicky náročná a posloužila jako zkouška jejich schopností. Lyra a Kaelen zde poprvé spojili své síly, aby ochránili Jorica před mentálním útokem (viz Příběhy/jizva-ticha/1/6.txt).
+
+Poznámky:
+Hřeben slouží jako přirozená bariéra, chránící jižní země před nejhoršími projevy anomálie v okolí Posledního bdění.
