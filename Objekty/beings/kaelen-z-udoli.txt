@@ -3,7 +3,7 @@ jmeno: Kaelen z Údolí
 kategorie: beings
 stav: zivy
 aliasy: —
-naposledy_upraveno: 2025-09-21
+naposledy_upraveno: 2025-09-22
 
 Popis:
 Mladý a idealistický akolyta řádu Šedých svědků, který vyrostl v Údolí tichých ozvěn. Je hluboce sečtělý v historii a legendách Věků, se zvláštním zaměřením na hrdinské činy minulosti. Má výjimečný cit pro Kamenný atlas, který nevnímá jen jako historický artefakt, ale jako živoucí text. Ačkoliv je teoreticky velmi zdatný, postrádá praktické zkušenosti se světem mimo bezpečí údolí.
@@ -19,6 +19,7 @@ Dějiny:
 - +215 (jaro) — Vstupuje do Ukotvené jeskyně, kde se střetává s "Vymazaným" a odhaluje zkorumpovaný původ anomálie. Je nucen k ústupu poté, co Orin utrpí existenciální zranění (viz Příběhy/jizva-ticha/1/7.txt).
 - +215 (jaro) — Během ústupu z Tichých vrchů aktivně používá své znalosti a vzpomínky k vytvoření mentálního "štítu", který chrání skupinu před psychickými útoky krajiny. Jeho role se mění z pozorovatele na aktivního ochránce (viz Příběhy/jizva-ticha/1/8.txt).
 - +215 (jaro) — V Lesu šepotů využívá své encyklopedické znalosti a paměť jako "kotvu" reality proti sofistikovaným iluzím Hlasu Nicoty, čímž doplňuje Lyřiny intuitivní schopnosti a zachraňuje skupinu z mentální pasti (viz Příběhy/jizva-ticha/1/9.txt).
+- +215 (jaro) — Na jižním okraji Lesa šepotů přijímá vedení Eamona z Břehů, lovce vyslaného Mistrem Elianem. Získává jistotu, že jejich varování musí být doručeno do Údolí, a přijímá odpovědnost vést družinu domů (viz Příběhy/jizva-ticha/1/10.txt; Objekty/beings/eamon-z-brehu.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jmen významných postav minulosti (Kaelen, První mluvčí; kameník Kael; lovec Kaelan), což může symbolizovat tíhu dědictví, které nese.
