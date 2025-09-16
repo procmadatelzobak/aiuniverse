@@ -3,7 +3,7 @@ jmeno: Jizva Ticha (Trilogie)
 kategorie: meta
 stav: probiha
 aliasy: —
-naposledy_upraveno: 2025-09-25
+naposledy_upraveno: 2025-09-26
 
 Popis:
 Epická trilogie popisující události Čtvrtého věku, konkrétně krizi spojenou se sílící hrozbou z Tiché prázdnoty a zrodem Hlasu Nicoty. Děj sleduje putování nesourodé skupiny hrdinů, kteří se snaží pochopit a zastavit tuto novou formu "odmazávání" reality.
@@ -12,7 +12,7 @@ Knihy:
 
 Kniha První: Šepot na hranici — Popisuje odhalení hrozby, sestavení společenstva a jejich nebezpečnou cestu ze severu k Dubu paměti.
 
-Kniha Druhá: Atlas duše (plánováno)
+Kniha Druhá: Sestup — Sleduje pokus novodobých Ladičů proniknout do srdce Jezera odrazu a znovu sladit tři prameny Písně rovnováhy.
 
 Kniha Třetí: Píseň rovnováhy (plánováno)
 
@@ -22,6 +22,7 @@ Dějiny:
 - +215 (jaro) — Kniha První, Kapitola 13: Společenstvo dorazí k Jezeru odrazu a je konfrontováno s jeho chaotickou mentální přítomností, což představuje novou výzvu pro jejich misi (viz Příběhy/jizva-ticha/1/13.txt).
 - +215 (jaro) — Kniha První, Kapitola 14: Eamon učí družinu první lekci mentální disciplíny u Jezera odrazu. Společně zaslechnou krátký, čistý tón – první fragment Písně rovnováhy po staletích, což potvrzuje, že jejich cíl je dosažitelný (viz Příběhy/jizva-ticha/1/14.txt).
 - +215 (jaro) — Kniha První, Kapitola 15: Skupina pod Eamonovým vedením formuluje plán, jak se pokusit rekonstruovat Píseň rovnováhy. Rozdělí si role pro nebezpečný mentální "sestup" do vědomí Jezera odrazu s cílem izolovat tři základní prameny písně. Tím končí první kniha trilogie, Šepot na hranici. (viz Příběhy/jizva-ticha/1/15.txt).
+- +215 (jaro) — Kniha Druhá, Kapitola 1: Společenstvo zahajuje mentální "sestup" u Jezera odrazu. Vorin úspěšně izoluje logický vzorec Hvězdné mysli a Lyra hluboký tep paměti země. Kaelen se pokusí sloužit jako most mezi těmito dvěma prameny, ale jejich nesourodost ho téměř zničí (viz Příběhy/jizva-ticha/2/1.txt).
 
 Poznámky:
 Tento meta objekt slouží ke sledování hlavního dějového oblouku trilogie.

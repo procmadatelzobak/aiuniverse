@@ -3,7 +3,7 @@ jmeno: Ladiči (novodobí)
 kategorie: concepts
 stav: formuje se
 aliasy: Společenstvo Jizvy
-naposledy_upraveno: 2025-09-25
+naposledy_upraveno: 2025-09-26
 
 Popis:
 Neformální označení pro skupinu hrdinů (Kaelen, Lyra, Vorin, Eamon, Rhea, Joric,
@@ -17,6 +17,8 @@ Dějiny:
 +215 (jaro) — Skupina se zformuje na březích Jezera odrazu a přijímá svůj úkol.
 Vorin je určen jako "ucho pro hvězdy", Lyra jako "ucho pro zemi" a Kaelen jako
 "srdce" operace (viz Příběhy/jizva-ticha/1/15.txt).
+
++215 (jaro) — Ladiči zahajují první pokus o rekonstrukci Písně rovnováhy. První fáze (izolace pramenů) je úspěšná, ale druhá fáze (jejich propojení skrze Kaelena) selhává a ukazuje se být mnohem nebezpečnější, než předpokládali (viz Příběhy/jizva-ticha/2/1.txt).
 
 Poznámky:
 Jejich pokus je nesmírně nebezpečný a jeho výsledek nejistý. Představuje první

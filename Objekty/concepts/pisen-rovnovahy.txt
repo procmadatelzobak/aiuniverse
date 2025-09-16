@@ -1,0 +1,18 @@
+id: obj:concepts/pisen-rovnovahy
+jmeno: Píseň rovnováhy
+kategorie: concepts
+stav: neexistuje (ozvěna přežívá)
+aliasy: Trojzvuk
+naposledy_upraveno: 2025-09-26
+
+Popis:
+Legendární harmonie stvořená Strážcem Eamonem u Jezera odrazu. Nejedná se o slyšitelnou píseň, ale o dokonalou rezonanci mezi třemi fundamentálními, ale protichůdnými principy: chladnou, sterilní logikou Hvězdné mysli; chaotickou, organickou pamětí Země; a lidským citem (láskou a obětí), který slouží jako most. Tato harmonie dokázala na tisíciletí utišit chaos Jezera odrazu. Původní Píseň již neexistuje, ale její slabá, prchavá ozvěna stále přetrvává v hlubinách jezera.
+
+Dějiny:
+
+- -4450 (cca) — Eamon stvořil Píseň a zklidnil jezero (viz Příběhy/prvni-vek/jezerni-hlubina.txt).
+- -3200-04-15 — Píseň byla znovu dočasně zesílena přítomností Sběrače hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
+- +215 (jaro) — Skupina novodobých Ladičů se pokouší Píseň znovu vytvořit jako zbraň proti Hlasu Nicoty (viz Příběhy/jizva-ticha/2/1.txt).
+
+Poznámky:
+Píseň není lék, který zničí nerovnováhu, ale harmonie, která jí dává smysl a místo ve struktuře reality. Její vytvoření vyžaduje obrovskou mentální sílu a osobní oběť.
