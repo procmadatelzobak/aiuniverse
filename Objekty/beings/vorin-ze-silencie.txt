@@ -3,7 +3,7 @@ jmeno: Vorin ze Silencie
 kategorie: beings
 stav: zivy
 aliasy: Archivář
-naposledy_upraveno: 2025-09-27
+naposledy_upraveno: 2025-09-28
 
 Popis:
 Historik, archivář a vědec z města Silencia. Je členem reformovaného řádu Naslouchačů. Je to chladný pragmatik a skeptik, který věří v data, měření a zaznamenaná fakta. Hrozbu z Tiché prázdnoty nevnímá mysticky, ale jako "informační anomálii" nebo "logickou korupci", která ohrožuje integritu zaznamenané historie. K řešení problémů přistupuje analyticky a spoléhá se na technologii a znalosti svých předků.
@@ -26,6 +26,7 @@ Dějiny:
 - +215 (jaro) — Spoléhá na vedení Kaelena a jeho unikátní metodu navigace podle Kamenného atlasu během cesty k Lomu tichých vzdechů (viz Příběhy/jizva-ticha/2/3.txt).
 - +215 (jaro) — V Lomu tichých vzdechů pozoruje, že jeho přístroje téměř mlčí, a formuluje teorii kamene jako dokonalého mentálního filtru; v Osadě Vřesová stráň začíná plánovat, jak jeho poznatky využít pro stavbu nové Rezonanční mísy (viz Příběhy/jizva-ticha/2/4.txt).
 - +215 (jaro) — Vystupuje jako vyjednavač s Elarou, nabízí silenské jehly i techniky tvarování kamene a spolu s Eamonem definuje postup, jak spojit jejich tradice do nové Rezonanční mísy (viz Příběhy/jizva-ticha/2/5.txt).
+- +215 (jaro) — V Lomu tichých vzdechů se zpočátku střetává jeho vědecký přístup s Eamonovou intuicí. Nakonec jsou nuceni spolupracovat a úspěšně nacházejí a získávají surový blok kamene pro Rezonanční mísu, čímž položí základ pro svou budoucí spolupráci (viz Příběhy/jizva-ticha/2/6.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jména Vorina, zakladatele Silencie, což odráží jeho hluboké spojení s historií a dědictvím města.

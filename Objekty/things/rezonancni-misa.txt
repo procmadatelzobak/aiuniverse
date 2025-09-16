@@ -3,7 +3,7 @@ jmeno: Rezonanční mísa
 kategorie: things
 stav: ztraceny
 aliasy: Ladička duše
-naposledy_upraveno: 2025-09-27
+naposledy_upraveno: 2025-09-28
 
 Popis:
 Unikátní artefakt, který Strážce Eamon vytesal, aby mohl bezpečně sestoupit do mentálních hlubin Jezera odrazu. Je vyrobena z jediného bloku kamene z Lomu tichých vzdechů, materiálu, který v sobě nese esenci ticha a ztráty a pohlcuje cizí myšlenky. Mísa při úderu nevydává slyšitelný zvuk, ale tvoří hlubokou, vnitřní vibraci klidu. Tato rezonance funguje jako mentální kotva, která dokáže v mysli uživatele vytvořit "ostrov ticha" a ochránit ho před pohlcením chaotickými ozvěnami. Byla klíčovým nástrojem, který Eamonovi umožnil stvořit Píseň rovnováhy.
@@ -13,6 +13,7 @@ Dějiny:
 - -4450 (cca) — Použita Eamonem k sestupu do vědomí Jezera odrazu a k vytvoření Písně rovnováhy (viz Příběhy/prvni-vek/jezerni-hlubina.txt).
 - +215 (jaro) — Novodobí Ladiči si uvědomí, že mísa je chybějícím nástrojem jejich plánu na rekonstrukci Písně rovnováhy. Její nalezení nebo znovuvytvoření se stává jejich novým cílem (viz Příběhy/jizva-ticha/2/2.txt).
 - +215 (jaro) — Ve staré ovčárně Osady Vřesová stráň Vorin ze Silencie a Eamon z Břehů spojí své znalosti, aby naplánovali, jak Rezonanční mísu znovu vytesat z kamene lomu a obnovit její léčivou rezonanci (viz Příběhy/jizva-ticha/2/5.txt; Objekty/beings/vorin-ze-silencie.txt; Objekty/beings/eamon-z-brehu.txt; Objekty/places/osada-vresova-stran.txt).
+- +215 (jaro) — Ve vybrané stěně Lomu tichých vzdechů Vorin s Eamonem, vedení Kaelenovým vhledem a potvrzeními Lyry, vylomí dokonalý blok kamene, z něhož má být nová mísa vytvořena; zajišťují tak základní materiál pro její obnovu (viz Příběhy/jizva-ticha/2/6.txt).
 
 Poznámky:
 Je to klíčový artefakt, který umožnil největší čin rodu Strážců jezera. Její osud je neznámý, předpokládá se, že byla pohřbena se svým tvůrcem.
