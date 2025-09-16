@@ -1,22 +1,17 @@
 id: obj:concepts/naslouchaci
 jmeno: Naslouchači
 kategorie: concepts
-stav: existuje (moc oslabena)
+stav: existuje (moc oslabena, reformována)
 aliasy: —
-naposledy_upraveno: 2025-09-15
+naposledy_upraveno: 2025-09-19
 
 Popis:
-Dědičná vládnoucí kasta Silencie, sídlící v akusticky mrtvé Spirále Ticha na vrcholu kráteru.
-Jejich moc je odvozena z jejich monopolu na interpretaci minulosti,
-kterou čtou z chaotického šumu Paměťových krystalů.
-Vystupují jako neomylní soudci, jejichž "absolutní pravda" udržuje rigidní společenský řád.
-Celá jejich mocenská struktura je však postavena na záměrné lži – interpretaci zakládajícího zločinu (Prvotní Ozvěny) jako vznešené "Oběti".
-Když Elianova Píseň Ticha změnila charakter této základní rezonance, narušila čistotu jejich zdroje
-a tím nezvratně podlomila jejich autoritu, neboť pravda se stala komplexnější a otevřená interpretaci.
+Dědičná vládnoucí kasta Silencie, sídlící v akusticky mrtvé Spirále Ticha na vrcholu kráteru. Jejich moc je odvozena z jejich monopolu na interpretaci minulosti, kterou čtou z chaotického šumu Paměťových krystalů. Vystupují jako neomylní soudci, jejichž "absolutní pravda" udržuje rigidní společenský řád. Celá jejich mocenská struktura je však postavena na záměrné lži – interpretaci zakládajícího zločinu (Prvotní Ozvěny) jako vznešené "Oběti". Když Elianova Píseň Ticha změnila charakter této základní rezonance, narušila čistotu jejich zdroje a tím nezvratně podlomila jejich autoritu, neboť pravda se stala komplexnější a otevřená interpretaci. V následujících stoletích část Naslouchačů přijala reformu, která se soustředí spíše na archivaci a analýzu než na absolutní soudnictví.
 
 Dějiny:
 - -1650 až -1308 — Vládli v Silencii jako soudci a strážci "absolutní pravdy" (viz Příběhy/druhy-vek/mesto-ozven.txt).
 - -1280 (cca) — Jejich moc byla podlomena, když Elian změnil rezonanci Prvotní Ozvěny, čímž narušil čistotu jejich "zdroje pravdy" (viz Příběhy/druhy-vek/mesto-ozven.txt).
+- +215 (jaro) — Archivář Vorin ze Silencie představuje reformovanou frakci Naslouchačů zaměřenou na vědecké studium anomálií a spolupracuje se Šedými svědky v Tichých vrších (viz Příběhy/jizva-ticha/1/5.txt; Objekty/beings/vorin-ze-silencie.txt).
 
 Poznámky:
 Jejich vláda byla postavena na utajení zločinu, na kterém bylo město založeno.

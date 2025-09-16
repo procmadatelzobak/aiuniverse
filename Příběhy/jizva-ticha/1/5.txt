@@ -1,0 +1,31 @@
+id: st:jizva-ticha/1/5
+nazev: Děti Ticha
+era: ctvrty-vek
+casovy_rah: +215 (jaro)
+autor: Kronikář
+nemenny: ano
+
+Obsah:
+Když vyšli z Průsmyku bezejmenných, krajina se nezlepšila. Naopak. Vstoupili do Tichých vrchů a svět jako by ztratil barvu. Tráva byla řídká a šedivá, skály holé a ostré jako zuby šelem a obloha měla vybledlý, vodový odstín modré. Nejhorší však bylo ticho. Nebylo to klidné ticho Údolí tichých ozvěn. Bylo to agresivní, hladové ticho. Ticho, které pohlcovalo zvuky. Zvuk jejich kroků na kamení byl tlumený a krátký, jako by ho země okamžitě vsakovala.
+Skupina se změnila. Rhea už nepochodovala vpředu jako generál, ale pohybovala se s napjatou ostražitostí lovce. Orin byl ještě tišší než obvykle, jeho oči neustále těkaly po obzoru. Joric kráčel jako ve snu, občas se zastavil a zmateně se díval na svůj kompas, jehož střelka se líně otáčela bez cíle. Kaelen byl nyní přijat do jejich středu. Rhea s ním mluvila jako s rovným, i když v jejím hlase byl stále slyšet nádech nedůvěry.
+"Tady začíná země, kterou nemáme na mapách," řekla mu druhý den po opuštění průsmyku. "Naše hlídky sem nechodí. Říká se, že zdejší ticho je nakažlivé."
+"Je to víc než jen ticho," odpověděl Kaelen a ukázal na malý shluk zakrslých bříz opodál. Vypadaly normálně, ale jejich listy se ve větru ani nehnuly. Byly naprosto nehybné, jako by byly vytesané z kamene. "Je to... stagnace. Absence pohybu, absence změny. To je jeho vliv."
+Jak postupovali dál na sever, anomálie byly stále častější. Našli potok, jehož voda tekla bez jediného zvuku. Objevili kruh kamenů, které na dotek nebyly chladné ani teplé; neměly žádnou teplotu, jako by existovaly mimo fyzikální zákony.
+Třetího dne je našli. Orin byl první, kdo se zastavil. Zvedl ruku a celá skupina ztuhla.
+"Co je?" zašeptala Rhea.
+"Nevím," odpověděl Orin. "Necítím nic. A to je špatně. Vždycky něco cítím. Vítr. Zvíře. Strach. Tady... není nic."
+V tu chvíli se zpoza skal a z prohlubní v zemi tiše vynořily postavy. Bylo jich nejméně tucet. Pohybovaly se s naprostou tichostí, jejich šaty z šedé a hnědé kůže dokonale splývaly s okolím. Byli ozbrojeni luky a krátkými oštěpy. V jejich čele stál starý muž s vlasy bílými jako sníh a očima tmavýma a hlubokýma jako studny.
+"Dost," řekl stařec. Jeho hlas nebyl hlasitý, ale v tom mrtvém tichu zněl jako úder zvonu. "Přinášíte s sebou hluk. Hluk myšlenek, hluk vzpomínek. Váš svět sem nepatří."
+Rhea udělala krok vpřed, ruce viditelně prázdné. "Jsme Šedí svědkové. Jsme na misi z Údolí tichých ozvěn."
+Stařec se pohrdavě usmál. "Svědkové rovnováhy? Vaše rovnováha je jen hlučný kompromis. My jsme Děti Ticha. Potomci těch, kteří pochopili pravdu. A vy jste narušili náš klid."
+V řadě lovců stála mladá žena. Byla štíhlá a vysoká, vlasy měla spletené do dlouhého, tmavého copu. Její tvář byla bez výrazu, ale její oči, šedé jako bouřková obloha, nespočívaly na Rhee ani na ozbrojeném Orinovi. Byly upřené na Kaelena.
+"On," řekla tiše. "Jeho mysl křičí. Plná jmen a příběhů. Jako roj včel."
+Kaelen sebou trhl, jako by ho její slova fyzicky zasáhla.
+Než mohl stařec odpovědět, z východu se ozval zvuk. Zvuk kroků, unavených, ale odhodlaných. Všechny hlavy se otočily tím směrem. Zpoza skalního výběžku se vynořila osamělá postava. Byl to muž středního věku, oblečený v praktickém, ale opotřebovaném cestovním oděvu. Na zádech měl těžkou brašnu plnou svitků a u pasu mu viselo několik podivných mosazných přístrojů.
+"Fascinující," řekl muž, když spatřil obě skupiny. Jeho pohled byl ostrý a analytický. "Koncentrace informační anomálie se v tomto bodě prudce zvyšuje. Předpokládal jsem, že tu najdu epicentrum, ne místní obyvatele a... delegaci Šedých svědků."
+"Kdo jsi?" zavrčela Rhea.
+"Jmenuji se Vorin. Archivář ze Silencie," představil se muž. "A sleduji stopu. Ne stopu ve sněhu, ale stopu logické korupce, která se šíří z Tiché prázdnoty. Zdá se, že nás všechny přivedla na stejné místo."
+Stařec z Dětí Ticha pozvedl oštěp. "Pryč. Všichni. Vezměte si svou logiku a svou rovnováhu a nechte nás být!"
+"Už je pozdě, otče," ozvala se znovu ta mladá žena. Poprvé vystoupila z řady. Její pohled se stále upíral na Kaelena, ale její slova byla určena starci. "Neslyšíš to? Ten falešný tón v tichu? Sílí už celé měsíce. Není to ticho, které hledáme. Je to prázdnota, která požírá. Oni neutíkají před hlukem. Oni ho pronásledují. Musím vědět proč."
+Stařec se na ni podíval, v jeho očích byl záblesk hněvu, ale i respektu. Nakonec pomalu sklonil oštěp. "Lyro," řekl varovně. "Jejich cesta je cestou bolesti."
+"Naše cesta je cestou samoty," odpověděla Lyra. "A ta nás teď neochrání." Otočila se k Rhee. "Povedu vás. Ale ne proto, že vám věřím. Ale protože nepřítel, kterého hledáte, je i můj. A já mu chci rozumět, než nás všechny vymaže."

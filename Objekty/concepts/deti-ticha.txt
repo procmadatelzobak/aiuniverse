@@ -1,0 +1,16 @@
+id: obj:concepts/deti-ticha
+jmeno: Děti Ticha
+kategorie: concepts
+stav: existuje (izolovaná)
+aliasy: —
+naposledy_upraveno: 2025-09-19
+
+Popis:
+Malá, izolovaná komunita žijící v odlehlých částech Tichých vrchů. Jsou to potomci přeživších, umírněných Mlčících poutníků, kteří nepodlehli pohlcení Tichou prázdnotou. Jejich filozofie je stále založena na hledání vnitřního ticha a oproštění se od minulosti, ale je méně radikální. Žijí v ústraní, vyhýbají se kontaktu s vnějším světem, který považují za "hlučný", a nesou hluboký pocit viny a odpovědnosti za katastrofu, kterou způsobili jejich předci.
+
+Dějiny:
+0 — Vznikli z trosek řádu Mlčících poutníků po Tichém úsvitu. Odmítli se připojit k Šedým svědkům a stáhli se do izolace.
++215 (jaro) — Konfrontují expedici Šedých svědků. Mladá lovkyně Lyra se rozhodne opustit komunitu a připojit se k expedici (viz Příběhy/jizva-ticha/1/5.txt).
+
+Poznámky:
+Jejich sídlo, Osada tichého stínu, je pravděpodobně postaveno tak, aby minimalizovalo svou "ozvěnu" v krajině.
