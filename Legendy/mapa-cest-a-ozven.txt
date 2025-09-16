@@ -42,12 +42,17 @@ Kraje za Lesem šepotů, kde země stoupá do strmého a chladného pohoří **T
 - Objekty/places/udoli-ticheho-strachu.txt
 - Objekty/places/hvozd-zadrzeneho-dechu.txt
 - Objekty/places/ticha-prazdnota.txt (nově)
+- Objekty/places/krici-hreben.txt (nově)
 - Objekty/places/posledni-bdeni.txt
 
 **Propojení a geografie:**
 Jediná známá cesta do Tichých vrchů vede přes **Průsmyk bezejmenných**, nebezpečné sedlo, kde se člověk může ztratit nejen fyzicky, ale i duševně. Za průsmykem se rozkládá pustá, skalnatá krajina Tichých vrchů. Hluboko v tomto pohoří, tři dny namáhavé cesty od Průsmyku, se skrývá **Údolí tichého strachu**, místo nepřirozené prázdnoty. Toto údolí je obklopeno **Hvozdem Zadrženého Dechu**, jehož tíživá atmosféra slouží jako přirozená bariéra. Zde také pramení řeka Tichá vlna.
 
+V severních výběžcích pohoří se nachází **Křičící hřeben**, holý skalní hřbet ležící jižně od Posledního bdění. Vítr nad ním je zcela němý, ale v hlavách poutníků zanechává jekot zhmotněného strachu země. Přechod vyžaduje psychickou přípravu a spojení několika myslí. Teprve za tímto hřebenem se otevírá výhled na samotnou stanici.
+
 Západní část pohoří Tiché vrchy již neexistuje. Byla nahrazena **Tichou prázdnotou**, dírou v samotné realitě. Její okraje tvoří novou, nepřekročitelnou západní hranici známého světa. Vzdálenost od Průsmyku bezejmenných k nejbližšímu okraji Prázdnoty se odhaduje na sedm dní cesty nebezpečným terénem, ale nikdo se neodvažuje ji přesně mapovat. Na tomto okraji se nachází několik malých pozorovacích stanic Šedých svědků, z nichž nejznámější a nejvzdálenější je **Poslední bdění**. Roku +215 se zprávy z této stanice začaly rozpadat v nesouvislé fragmenty a nakonec umlkly, což naznačuje, že Lianova kotva může selhávat.
+
+V roce +215 (jaro) svědkové z dálky zaznamenali, že okolí stanice se proměnilo v epicentrum narušení reality. Stín věže zamrzl v nečekané poloze a samotná struktura se rozmazává, jako by ji někdo vymazával z kamene do prázdna.
 
 ---
 

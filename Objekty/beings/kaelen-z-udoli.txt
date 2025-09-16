@@ -3,7 +3,7 @@ jmeno: Kaelen z Údolí
 kategorie: beings
 stav: zivy
 aliasy: —
-naposledy_upraveno: 2025-09-19
+naposledy_upraveno: 2025-09-16
 
 Popis:
 Mladý a idealistický akolyta řádu Šedých svědků, který vyrostl v Údolí tichých ozvěn. Je hluboce sečtělý v historii a legendách Věků, se zvláštním zaměřením na hrdinské činy minulosti. Má výjimečný cit pro Kamenný atlas, který nevnímá jen jako historický artefakt, ale jako živoucí text. Ačkoliv je teoreticky velmi zdatný, postrádá praktické zkušenosti se světem mimo bezpečí údolí.
@@ -15,6 +15,7 @@ Dějiny:
 - +215 (jaro) — Vstupuje do Lesa šepotů. Poprvé se setkává s projevem 'falešných ozvěn' a uvědomuje si, že vliv Prázdnoty sahá dál, než se předpokládalo. Zažívá první letmý dotek 'odmazávání' (viz Příběhy/jizva-ticha/1/3.txt).
 - +215 (jaro) — Dostihne expedici u Průsmyku bezejmenných a varuje ji před 'falešnými ozvěnami'. Své znalosti prokáže, když zachrání Jorica před pohlcením falešnou identitou tím, že použije sdílenou vzpomínku na Kamenný atlas jako mentální kotvu. Získává neochotný respekt Rhey (viz Příběhy/jizva-ticha/1/4.txt).
 - +215 (jaro) — Po vstupu do Tichých vrchů čelí konfrontaci s Dětmi Ticha. Jeho "hlučná" mysl přiměje stopařku Lyru, aby opustila izolovanou komunitu a přidala se k expedici; zároveň se ke skupině připojuje archivář Vorin ze Silencie, který potvrzuje Kaelenova podezření o šířící se logické korupci (viz Příběhy/jizva-ticha/1/5.txt).
+- +215 (jaro) — Během přechodu Křičícího hřebenu spolupracuje s Lyrou a použije své znalosti a sílu paměti, aby ochránil Jorica. Tento čin upevní jeho roli ve skupině a odhalí synergii mezi jeho a Lyřinými schopnostmi (viz Příběhy/jizva-ticha/1/6.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jmen významných postav minulosti (Kaelen, První mluvčí; kameník Kael; lovec Kaelan), což může symbolizovat tíhu dědictví, které nese.
