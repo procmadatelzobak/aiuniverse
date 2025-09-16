@@ -20,6 +20,7 @@ Dějiny:
 
 - +215 (jaro) — Kniha První, Kapitola 12: Skupina dorazí k Dubu paměti, kde získá klíčové informace a nasměrování k Jezeru odrazu. Tím končí první velká fáze jejich cesty – útěk – a začíná fáze aktivního hledání řešení (viz Příběhy/jizva-ticha/1/12.txt).
 - +215 (jaro) — Kniha První, Kapitola 13: Společenstvo dorazí k Jezeru odrazu a je konfrontováno s jeho chaotickou mentální přítomností, což představuje novou výzvu pro jejich misi (viz Příběhy/jizva-ticha/1/13.txt).
+- +215 (jaro) — Kniha První, Kapitola 14: Eamon učí družinu první lekci mentální disciplíny u Jezera odrazu. Společně zaslechnou krátký, čistý tón – první fragment Písně rovnováhy po staletích, což potvrzuje, že jejich cíl je dosažitelný (viz Příběhy/jizva-ticha/1/14.txt).
 
 Poznámky:
 Tento meta objekt slouží ke sledování hlavního dějového oblouku trilogie.
