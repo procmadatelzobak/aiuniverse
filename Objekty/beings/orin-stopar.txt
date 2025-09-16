@@ -6,12 +6,19 @@ aliasy: Tichý Orin
 naposledy_upraveno: 2025-09-16
 
 Popis:
-Stopař a lovec řádu Šedých svědků. Je to mlčenlivý muž, který většinu svého života strávil sám v divočině obklopující Údolí tichých ozvěn. Dokáže číst stopy a znamení v krajině s neuvěřitelnou přesností a je expertem na přežití v nehostinných Tichých vrších. Jeho schopnosti jsou čistě praktické, založené na pozorování a zkušenosti.
+Stopař a lovec řádu Šedých svědků. Je to mlčenlivý muž, který většinu svého života strávil sám v
+divočině obklopující Údolí tichých ozvěn. Dokáže číst stopy a znamení v krajině s neuvěřitelnou
+přesností a je expertem na přežití v nehostinných Tichých vrších. Jeho schopnosti jsou čistě
+praktické, založené na pozorování a zkušenosti.
 
 Dějiny:
 - +175 (cca) — Narodil se mimo Údolí a k řádu se přidal v dospělosti.
-- +215 (jaro) — Je vybrán jako člen expedice k Poslednímu bdění díky svým jedinečným stopařským schopnostem (viz Příběhy/jizva-ticha/1/2.txt).
+- +215 (jaro) — Je vybrán jako člen expedice k Poslednímu bdění díky svým jedinečným stopařským
+  schopnostem (viz Příběhy/jizva-ticha/1/2.txt).
 - +215 (jaro) — Prochází s expedicí Lesem šepotů (viz Příběhy/jizva-ticha/1/3.txt).
+- +215 (jaro) — U Průsmyku bezejmenných stojí po boku Rhey, když falešná ozvěna přepíše Joricovu
+  identitu. Pomáhá ho uzemnit a potvrzuje Kaelenovo varování (viz Příběhy/jizva-ticha/1/4.txt).
 
 Poznámky:
-Jeho role ve společenstvu bude později z velké části zastoupena Eamonem z Břehů, což může vést k zajímavé dynamice nebo tragickému osudu.
+Jeho role ve společenstvu bude později z velké části zastoupena Eamonem z Břehů, což může vést k
+zajímavé dynamice nebo tragickému osudu.

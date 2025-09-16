@@ -1,19 +1,24 @@
-
-
 id: obj:places/prusmyk-bezejmennych
 jmeno: Průsmyk bezejmenných
 kategorie: places
-stav: nebezpecny
-aliasy: Dolní průsmyk
-naposledy_upraveno: 2025-09-15
+stav: nebezpecny (aktivně nepřátelský)
+aliasy: Dolní průsmyk, Průsmyk falešných jmen
+naposledy_upraveno: 2025-09-16
 
 Popis:
-Úzké sedlo mezi lesy, kde se myšlenky krajiny často shlukují do jediné, tíživé melodie.
-Lidé se mu vyhýbají od doby, kdy se v jeho hlubinách ztratila jména.
+Úzké sedlo mezi lesy, kde se myšlenky krajiny často shlukují do jediné, tíživé melodie. Původní
+anomálie tohoto místa způsobovala u poutníků ztrátu identity a vzpomínek, především jejich jmen.
+Vlivem Hlasu Nicoty se však tato anomálie zhoršila. Průsmyk nyní nejen aktivně "odmazává"
+identitu, ale nahrazuje ji silnými, falešnými ozvěnami – cizími osobnostmi a vzpomínkami, které
+mohou dočasně přepsat mysl oběti.
 
 Dějiny:
-- -1200-09-12 — Po střetu družiny se Stínem získal průsmyk nové jméno (viz Příběhy/druhy-vek/pochod-stinu.txt).
+- -1200-09-12 — Po střetu družiny se Stínem získal průsmyk nové jméno (viz
+  Příběhy/druhy-vek/pochod-stinu.txt).
+- +215 (jaro) — Expedice Šedých svědků zjišťuje, že anomálie průsmyku byla zesílena a zkažena
+  Hlasem Nicoty. Kartograf Joric je dočasně pohlcen falešnou identitou a je zachráněn Kaelenem,
+  který použije sdílenou pravdivou vzpomínku jako kotvu (viz Příběhy/jizva-ticha/1/4.txt).
 
 Poznámky:
-Původ fenoménu „ztracených jmen“ zůstává nejasný.
-
+Místo se stalo ještě nebezpečnějším. Už nejde jen o riziko ztráty paměti, ale o dočasnou ztrátu
+sebe sama ve prospěch cizího příběhu.

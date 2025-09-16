@@ -52,5 +52,10 @@
 - **+82**: Šedý svědek Lian zastavil anomálii Šepotu prázdnoty u stanice Poslední bdění za cenu obětování části své paměti. Událost vede ke změně doktríny řádu (viz Příběhy/ctvrty-vek/sepot-v-prazdnote.txt; Objekty/beings/lian-sedy-svedek.txt).
 - **+215 (jaro)**: Zprávy z Posledního bdění naznačují selhávání Lianovy kotvy a novou, aktivnější hrozbu z Tiché prázdnoty. Šedí svědkové vysílají expedici (Rhea, Orin, Joric). Mladý akolyta Kaelen se k nim tajně připojuje (viz Příběhy/jizva-ticha/1/1.txt; Příběhy/jizva-ticha/1/2.txt; Objekty/beings/rhea-seda-svedkyne.txt; Objekty/beings/orin-stopar.txt; Objekty/beings/joric-kartograf.txt; Objekty/beings/kaelen-z-udoli.txt; Objekty/beings/elian-mistr.txt; Objekty/places/posledni-bdeni.txt; Objekty/concepts/sedi-svedkove.txt).
 - **+215 (jaro)**: Kaelen sleduje expedici až do Lesa šepotů, kde se potvrzuje kontaminace paměti lesa "falešnými ozvěnami" a poprvé je zaznamenán přímý dotek odmazávání mimo bezprostřední hranici Tiché prázdnoty (viz Příběhy/jizva-ticha/1/3.txt; Objekty/beings/kaelen-z-udoli.txt; Objekty/places/les-sepotu.txt).
+- **+215 (jaro)**: Expedice Šedých svědků vstupuje do Průsmyku bezejmenných. Joricovu mysl krátce
+  přepíše falešná ozvěna a Kaelen ho vrací sdílenou vzpomínkou na Kamenný atlas, čímž si získá
+  Rheyinu důvěru (viz Příběhy/jizva-ticha/1/4.txt; Objekty/beings/kaelen-z-udoli.txt;
+  Objekty/beings/rhea-seda-svedkyne.txt; Objekty/beings/joric-kartograf.txt;
+  Objekty/places/prusmyk-bezejmennych.txt).
 
 
