@@ -1,7 +1,7 @@
 id: obj:places/posledni-bdeni
 jmeno: Poslední bdění
 kategorie: places
-stav: obydlena (nebezpečná)
+stav: kontakt ztracen (ohrožena)
 aliasy: Věž na konci světa
 naposledy_upraveno: 2025-09-19
 
@@ -11,7 +11,7 @@ Nejizolovanější pozorovací stanice Šedých svědků, umístěná jen půl d
 Dějiny:
 - cca +20 — Založena řádem Šedých svědků jako součást sítě pozorovatelen.
 - +82 — Stala se ohniskem anomálie známé jako Šepot prázdnoty. Událost byla zastavena obětí Šedého svědka Liana (viz Příběhy/ctvrty-vek/sepot-v-prazdnote.txt).
+- +215 — Zprávy ze stanice se stávají nesrozumitelnými a chaotickými, což naznačuje selhávání Lianovy kotvy a novou formu aktivity z Tiché prázdnoty. Kontakt je nakonec ztracen (viz Příběhy/jizva-ticha/1/1.txt).
 
 Poznámky:
-Poblíž stanice se nyní nachází tzv. "Ukotvená jeskyně", jejíž stěny nesou Lianův vytesaný příběh a která slouží jako permanentní bariéra proti Šepotu.
-
+Poblíž stanice se nachází tzv. "Ukotvená jeskyně", jejíž stěny nesou Lianův vytesaný příběh a která sloužila jako permanentní bariéra proti Šepotu. Její současný stav je neznámý.

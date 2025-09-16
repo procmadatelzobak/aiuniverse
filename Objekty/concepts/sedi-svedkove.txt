@@ -3,19 +3,15 @@ jmeno: Šedí svědkové
 kategorie: concepts
 stav: aktivni
 aliasy: Tkalci Vzpomínek (dříve)
-
 naposledy_upraveno: 2025-09-19
 
 Popis:
-Řád filozofů, historiků a strážců, který vznikl na počátku Čtvrtého věku. ... Jejich ústředním principem je Křehká rovnováha: uznávají nutnost paměti pro poučení a identity, ale zároveň i potřebu ticha a zapomnění pro odpuštění a uzdravení. Slouží jako neutrální arbitri a strážci, kteří brání opakování extrémů minulosti. Po událostech u Posledního bdění se jejich role rozšířila i na aktivní obranu reality proti existenciálním hrozbám jako je Šepot prázdnoty.
+Řád filozofů, historiků a strážců, který vznikl na počátku Čtvrtého věku jako kompromis mezi extrémy Války Ticha a Ozvěny. Navazuje na tradici Tkalců Vzpomínek a na umírněné frakce Rezonujících i Mlčících poutníků. Jejich ústředním principem je Křehká rovnováha: uznávají nutnost paměti pro poučení a identitu, ale zároveň i potřebu ticha a zapomnění pro odpuštění a uzdravení. Slouží jako neutrální arbitři a strážci, kteří brání opakování extrémů minulosti. Po událostech u Posledního bdění se jejich role rozšířila i na aktivní obranu reality proti existenciálním hrozbám, jako je Šepot prázdnoty. Po více než dvou stoletích relativního klidu čelí řád nové, nepochopené hrozbě z Tiché prázdnoty.
 
 Dějiny:
 - 0 — Formálně vznikli z Tkalců Vzpomínek a umírněných zbytků Rezonujících a Mlčících poutníků během události Tichý úsvit (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt).
 - +82 — Události v Posledním bdění vedly k vytvoření nové doktríny "Aktivní rovnováhy" a zřízení permanentních stráží na okraji Tiché prázdnoty (viz Příběhy/ctvrty-vek/sepot-v-prazdnote.txt).
+- +215 — Řád čelí narůstající anomálii na hranicích Tiché prázdnoty, kde Lianova kotva selhává, a rozhoduje o vyslání průzkumné expedice (viz Příběhy/jizva-ticha/1/1.txt).
 
 Poznámky:
 Jejich sídlo je v Údolí tichých ozvěn, kde střeží Kamenný atlas, svůj nejposvátnější text.
-
-
-naposledy_upraveno: 2025-09-18
-
