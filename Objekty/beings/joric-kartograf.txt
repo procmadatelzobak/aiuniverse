@@ -1,0 +1,16 @@
+id: obj:beings/joric-kartograf
+jmeno: Joric
+kategorie: beings
+stav: zivy
+aliasy: —
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Mladý, ale velmi talentovaný kartograf řádu Šedých svědků. Specializuje se na "křehkou kartografii" – mapování oblastí s nestabilní realitou, kde se klasické mapy stávají bezcennými. Jeho úkolem je zaznamenávat projevy "odmazávání" a pokusit se zmapovat hranice a šíření nové anomálie.
+
+Dějiny:
+- +190 (cca) — Narodil se.
+- +215 (jaro) — Je vybrán jako třetí člen expedice k Poslednímu bdění (viz Příběhy/jizva-ticha/1/2.txt).
+
+Poznámky:
+Jeho dovednosti mohou být klíčové pro pochopení povahy Hlasu Nicoty.

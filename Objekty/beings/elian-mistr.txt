@@ -12,6 +12,7 @@ Dějiny:
 - cca +140 — Narodil se.
 - cca +160 — Sloužil na hraničních stanicích u Tiché prázdnoty.
 - +215 (jaro) — Jako jeden z vůdčích členů rady rozhoduje o vyslání expedice k Poslednímu bdění v reakci na selhávání Lianovy kotvy (viz Příběhy/jizva-ticha/1/1.txt).
+- +215 (jaro) — Odmítá Kaelenovi účast v expedici, svěří mu archivaci posledních zpráv z Posledního bdění a tím nevědomky podnítí jeho tajný odchod (viz Příběhy/jizva-ticha/1/2.txt).
 
 Poznámky:
 Jeho jméno je poctou Elianovi, Tichému revolucionáři ze Silencie, což odráží tradici Šedých svědků uctívat postavy, které nalezly rovnováhu.
