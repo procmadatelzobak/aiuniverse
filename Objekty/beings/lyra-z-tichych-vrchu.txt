@@ -3,7 +3,7 @@ jmeno: Lyra z Tichých vrchů
 kategorie: beings
 stav: ziva
 aliasy: Dítě Ticha
-naposledy_upraveno: 2025-09-26
+naposledy_upraveno: 2025-09-27
 
 Popis:
 Mladá lovkyně a stopařka z izolované komunity potomků Mlčících poutníků, kteří žijí v Tichých vrších. Nese v sobě dědictví a vinu svých předků. Je tichá, nedůvěřivá a pragmatická. Má vrozenou a jedinečnou schopnost vnímat anomálie spojené s Tichem a Prázdnotou – "slyší" Hlas Nicoty jako falešný, rušivý tón v harmonii světa a dokáže vycítit místa, kde byla realita "odmazána".
@@ -25,6 +25,7 @@ Dějiny:
 - +215 (jaro) — První pokus o rekonstrukci Písně je násilně přerušen. Dozvídá se o existenci Rezonanční mísy a přijímá nový cíl cesty k Lomu tichých vzdechů (viz Příběhy/jizva-ticha/2/2.txt).
 - +215 (jaro) — Stává se klíčovou oporou pro mentálně narušeného Kaelena. Používá svou schopnost ovládat a vnímat ticho k jeho stabilizaci a uzemnění, čímž mu umožňuje fungovat jako navigátor (viz Příběhy/jizva-ticha/2/3.txt).
 - +215 (jaro) — Když družina dorazí k Lomu tichých vzdechů, rozpozná v krajině přetrvávající žal a potvrzuje, že kámen je vhodný pro tlumení ozvěn; zároveň vede Kaelena do Osady Vřesová stráň, aby mohl v bezpečí zůstat ukotven v realitě (viz Příběhy/jizva-ticha/2/4.txt).
+- +215 (jaro) — Ve Vřesové stráni drží Ladiče při zemi pragmatickým tichem osady a podporuje Kaelena, aby naslouchal rozhovoru Vorina s Eamonem; přijímá, že spojení jejich tradic je cestou k nové Rezonanční míse (viz Příběhy/jizva-ticha/2/5.txt).
 
 Poznámky:
 Její jméno je další v řadě jmen "Lyra", což může symbolizovat archetypální roli, kterou tyto postavy v různých érách hrají. Její schopnosti jsou přímým protikladem Kaelenových, založených na paměti a ozvěnách.

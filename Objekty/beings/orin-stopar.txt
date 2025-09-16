@@ -3,7 +3,7 @@ jmeno: Orin
 kategorie: beings
 stav: zivy (těžce narušený)
 aliasy: Ztracený, Tichý Orin
-naposledy_upraveno: 2025-09-26
+naposledy_upraveno: 2025-09-27
 
 Popis:
 Stopař a lovec řádu Šedých svědků. Je to mlčenlivý muž, který většinu svého života strávil sám v divočině obklopující Údolí tichých ozvěn. Dokáže číst stopy a znamení v krajině s neuvěřitelnou přesností a je expertem na přežití v nehostinných Tichých vrších. Jeho schopnosti jsou čistě praktické, založené na pozorování a zkušenosti. Kontakt s Hlasem Nicoty zanechal trvalé narušení jeho kinestetické paměti a vztahu k vlastnímu tělu.
@@ -28,6 +28,7 @@ Dějiny:
 - +215 (jaro) — První pokus o rekonstrukci Písně je násilně přerušen. Dozvídá se o existenci Rezonanční mísy a přijímá nový cíl cesty k Lomu tichých vzdechů (viz Příběhy/jizva-ticha/2/2.txt).
 - +215 (jaro) — Spoléhá na vedení Kaelena a jeho unikátní metodu navigace podle Kamenného atlasu během cesty k Lomu tichých vzdechů (viz Příběhy/jizva-ticha/2/3.txt).
 - +215 (jaro) — V prostředí Lomu tichých vzdechů jeho tělo znovu nachází staré reflexy; hlína a kámen mu připomínají dávné tréninky a umožní mu kráčet stabilněji, než se v Osadě Vřesová stráň zhroutí k odpočinku (viz Příběhy/jizva-ticha/2/4.txt).
+- +215 (jaro) — V tichu staré ovčárny se jeho vyčerpané tělo poprvé od útěku z Posledního bdění zcela uvolní; zatímco ostatní plánují novou Rezonanční mísu, Orinův spánek v kameni a hlíně drží družinu při realitě prostých věcí (viz Příběhy/jizva-ticha/2/5.txt).
 
 Poznámky:
 Jeho stav je živoucím důkazem o nebezpečí Hlasu Nicoty. Jeho budoucí osud je nejistý.

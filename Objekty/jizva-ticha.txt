@@ -3,7 +3,7 @@ jmeno: Jizva Ticha (Trilogie)
 kategorie: meta
 stav: probiha
 aliasy: —
-naposledy_upraveno: 2025-09-26
+naposledy_upraveno: 2025-09-27
 
 Popis:
 Epická trilogie popisující události Čtvrtého věku, konkrétně krizi spojenou se sílící hrozbou z Tiché prázdnoty a zrodem Hlasu Nicoty. Děj sleduje putování nesourodé skupiny hrdinů, kteří se snaží pochopit a zastavit tuto novou formu "odmazávání" reality.
@@ -26,6 +26,7 @@ Dějiny:
 - +215 (jaro) — Kniha Druhá, Kapitola 2: Pokus je násilně přerušen, aby byl Kaelen zachráněn. Eamon odhaluje existenci a nutnost Rezonanční mísy. Společenstvo přijímá nový cíl: cestu k Lomu tichých vzdechů a vytvoření nástroje, který umožní bezpečný sestup (viz Příběhy/jizva-ticha/2/2.txt).
 - +215 (jaro) — Kniha Druhá, Kapitola 3: Skupina se vydává na západ k Lomu tichých vzdechů. Jako mapu používají kopii Kamenného atlasu, přičemž Kaelen, podporovaný Lyrou, slouží jako navigátor skrze "krajinu pocitů" (viz Příběhy/jizva-ticha/2/3.txt).
 - +215 (jaro) — Kniha Druhá, Kapitola 4: Družina sleduje Kamenný potok do Lomu tichých vzdechů, kde kámen pohlcující ozvěny stabilizuje Kaelena a skupina nachází útočiště v Osadě Vřesová stráň (viz Příběhy/jizva-ticha/2/4.txt).
+- +215 (jaro) — Kniha Druhá, Kapitola 5: Ve Vřesové stráni vyjednají Ladiči s Elarou útočiště ve staré ovčárně, obchodují silenské jehly za zásoby a plánují vytvoření nové Rezonanční mísy spojením Vorinových znalostí Silencie a Eamonova dědictví Strážců jezera (viz Příběhy/jizva-ticha/2/5.txt).
 
 Poznámky:
 Tento meta objekt slouží ke sledování hlavního dějového oblouku trilogie.

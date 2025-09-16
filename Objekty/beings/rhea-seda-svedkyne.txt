@@ -3,7 +3,7 @@ jmeno: Rhea (Šedá svědkyně)
 kategorie: beings
 stav: ziva
 aliasy: Rhea Hraničářka
-naposledy_upraveno: 2025-09-26
+naposledy_upraveno: 2025-09-27
 
 Popis:
 Zkušená členka řádu Šedých svědků a bývalá velitelka stráží na hranici s Tichou prázdnotou. Je to pragmatická a strohá žena, zvyklá na drsné podmínky a neustálý psychický tlak. Má hluboké, praktické znalosti o projevech Prázdnoty, ale postrádá Kaelenovu teoretickou a filozofickou hloubku. Její přístup je založen na přežití a zadržování hrozby, ne na jejím pochopení.
@@ -29,6 +29,7 @@ Dějiny:
 - +215 (jaro) — První pokus o rekonstrukci Písně je násilně přerušen. Dozvídá se o existenci Rezonanční mísy a přijímá nový cíl cesty k Lomu tichých vzdechů (viz Příběhy/jizva-ticha/2/2.txt).
 - +215 (jaro) — Spoléhá na vedení Kaelena a jeho unikátní metodu navigace podle Kamenného atlasu během cesty k Lomu tichých vzdechů (viz Příběhy/jizva-ticha/2/3.txt).
 - +215 (jaro) — V Lomu tichých vzdechů zkoumá stopy dávné těžby a přijímá, že pohlcující ticho kamene může sloužit jako štít proti chaosu; v Osadě Vřesová stráň plánuje další kroky a zajišťuje družině odpočinek (viz Příběhy/jizva-ticha/2/4.txt).
+- +215 (jaro) — Ve staré ovčárně otevírá praktickou otázku, kdo dokáže vytesat mentální ladičku; její dotaz spustí debatu, která spojí Vorinovy a Eamonovy tradice do plánu na novou Rezonanční mísu (viz Příběhy/jizva-ticha/2/5.txt).
 
 Poznámky:
 Její jméno je ozvěnou jmen jiných postav (Rhea, pomocnice Eliana ze Silencie; Rhea, vůdkyně přeživších v Posledním bdění v příběhu o Lianovi), což může být tradice v řádu nebo ozvěna samotného světa.
