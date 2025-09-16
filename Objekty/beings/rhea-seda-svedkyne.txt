@@ -3,7 +3,7 @@ jmeno: Rhea (Šedá svědkyně)
 kategorie: beings
 stav: ziva
 aliasy: Rhea Hraničářka
-naposledy_upraveno: 2025-09-22
+naposledy_upraveno: 2025-09-23
 
 Popis:
 Zkušená členka řádu Šedých svědků a bývalá velitelka stráží na hranici s Tichou prázdnotou. Je to pragmatická a strohá žena, zvyklá na drsné podmínky a neustálý psychický tlak. Má hluboké, praktické znalosti o projevech Prázdnoty, ale postrádá Kaelenovu teoretickou a filozofickou hloubku. Její přístup je založen na přežití a zadržování hrozby, ne na jejím pochopení.
@@ -20,6 +20,7 @@ Dějiny:
 - +215 (jaro) — Po katastrofálním průzkumu u Posledního bdění a zranění Orina oficiálně ukončuje průzkumnou misi. Její nový cíl je přežití a doručení varování do Údolí tichých ozvěn. Plně uznává jedinečné schopnosti Lyry a Kaelena a svěřuje jim klíčové role během ústupu (viz Příběhy/jizva-ticha/1/8.txt).
 - +215 (jaro) — Stává se obětí komplexní mentální iluze v Lesu šepotů, ze které je vytržena díky zásahu Lyry a Kaelena, což prohlubuje její chápání sofistikovanosti hrozby (viz Příběhy/jizva-ticha/1/9.txt).
 - +215 (jaro) — Na jižním okraji Lesa šepotů přijímá pomoc Eamona z Břehů. Předává mu velení nad cestou zpět k Dubu paměti, zatímco si udržuje taktickou kontrolu nad družinou (viz Příběhy/jizva-ticha/1/10.txt; Objekty/beings/eamon-z-brehu.txt).
+- +215 (jaro) — Pod vedením Eamona z Břehů doráží k Dubu paměti, který představuje první bezpečné útočiště na jejich cestě (viz Příběhy/jizva-ticha/1/11.txt).
 
 Poznámky:
 Její jméno je ozvěnou jmen jiných postav (Rhea, pomocnice Eliana ze Silencie; Rhea, vůdkyně přeživších v Posledním bdění v příběhu o Lianovi), což může být tradice v řádu nebo ozvěna samotného světa.

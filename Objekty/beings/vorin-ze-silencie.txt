@@ -3,7 +3,7 @@ jmeno: Vorin ze Silencie
 kategorie: beings
 stav: zivy
 aliasy: Archivář
-naposledy_upraveno: 2025-09-22
+naposledy_upraveno: 2025-09-23
 
 Popis:
 Historik, archivář a vědec z města Silencia. Je členem reformovaného řádu Naslouchačů. Je to chladný pragmatik a skeptik, který věří v data, měření a zaznamenaná fakta. Hrozbu z Tiché prázdnoty nevnímá mysticky, ale jako "informační anomálii" nebo "logickou korupci", která ohrožuje integritu zaznamenané historie. K řešení problémů přistupuje analyticky a spoléhá se na technologii a znalosti svých předků.
@@ -16,6 +16,7 @@ Dějiny:
 - +215 (jaro) — Během ústupu z Tichých vrchů chrání své přístroje a shromážděná data jako zásadní důkaz rozpadu reality, čímž potvrzuje svou nepostradatelnost pro přežití i budoucí varování (viz Příběhy/jizva-ticha/1/8.txt).
 - +215 (jaro) — Analyzuje projevy sofistikovaných falešných ozvěn v Lesu šepotů a dokumentuje synergii Lyřina instinktu s Kaelenovou metodickou kotvou reality, čímž rozšiřuje své chápání kognitivní obrany (viz Příběhy/jizva-ticha/1/9.txt).
 - +215 (jaro) — Na jižním okraji Lesa šepotů verifikuje data o příchodu Eamona z Břehů a přizpůsobuje své přístroje jeho stopařským metodám, aby zaznamenaly návrat družiny k Dubu paměti (viz Příběhy/jizva-ticha/1/10.txt; Objekty/beings/eamon-z-brehu.txt).
+- +215 (jaro) — Pod vedením Eamona z Břehů doráží k Dubu paměti, který představuje první bezpečné útočiště na jejich cestě (viz Příběhy/jizva-ticha/1/11.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jména Vorina, zakladatele Silencie, což odráží jeho hluboké spojení s historií a dědictvím města.
