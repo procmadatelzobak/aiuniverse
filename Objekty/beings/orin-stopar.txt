@@ -1,8 +1,8 @@
 id: obj:beings/orin-stopar
 jmeno: Orin
 kategorie: beings
-stav: zivy (narušený)
-aliasy: Tichý Orin
+stav: zivy (těžce narušený)
+aliasy: Ztracený, Tichý Orin
 naposledy_upraveno: 2025-09-16
 
 Popis:
@@ -16,6 +16,7 @@ Dějiny:
 - +215 (jaro) — V Tichých vrších jako první vycítí nepřirozenou absenci vjemů, která je dovede k Dětem Ticha. Přijímá Lyru jako průvodkyni expedice, i když její přítomnost ohrožuje jeho instinkt držet se tradic řádu (viz Příběhy/jizva-ticha/1/5.txt).
 - +215 (jaro) — Překonává psychicky náročný Křičící hřeben, kde je svědkem plné síly anomálie a spolupráce Lyry a Kaelena (viz Příběhy/jizva-ticha/1/6.txt).
 - +215 (jaro) — Během konfrontace s "Vymazaným" v Ukotvené jeskyni se fyzicky dotkne této entity, aby ochránil Kaelena. Kontakt způsobí, že je část jeho identity, konkrétně kinestetická paměť a pocit vlastnictví svého těla, "odmazána". Zůstává fyzicky zdatný, ale trpí formou disociace (viz Příběhy/jizva-ticha/1/7.txt).
+- +215 (jaro) — Po střetu upadá do téměř katatonického stavu, ztrácí řeč a schopnost orientace. Zůstává závislý na ochraně a vedení zbytku skupiny během ústupu z Tichých vrchů (viz Příběhy/jizva-ticha/1/8.txt).
 
 Poznámky:
-Jeho role ve společenstvu bude později z velké části zastoupena Eamonem z Břehů, což může vést k zajímavé dynamice nebo tragickému osudu. Jeho zranění není fyzické, ale existenciální, což ho činí zranitelným a nepředvídatelným.
+Jeho stav je živoucím důkazem o nebezpečí Hlasu Nicoty. Jeho budoucí osud je nejistý.
