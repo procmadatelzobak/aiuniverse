@@ -3,7 +3,7 @@ jmeno: Kaelen z Údolí
 kategorie: beings
 stav: zivy (těžce narušený)
 aliasy: —
-naposledy_upraveno: 2025-09-26
+naposledy_upraveno: 2025-09-27
 
 Popis:
 Mladý a idealistický akolyta řádu Šedých svědků, který vyrostl v Údolí tichých ozvěn. Je hluboce sečtělý v historii a legendách Věků, se zvláštním zaměřením na hrdinské činy minulosti. Má výjimečný cit pro Kamenný atlas, který nevnímá jen jako historický artefakt, ale jako živoucí text. Ačkoliv je teoreticky velmi zdatný, postrádá praktické zkušenosti se světem mimo bezpečí údolí.
@@ -29,6 +29,7 @@ Dějiny:
 - +215 (jaro) — Během prvního pokusu o rekonstrukci Písně rovnováhy se jeho mysl stává bojištěm mezi logikou Hvězdné mysli a chaosem paměti Země. Eamonův zásah mu zachrání život, ale Kaelen zůstává mentálně zjizvený, s útržky obou cizích vědomí rezonujícími v jeho vlastní mysli (viz Příběhy/jizva-ticha/2/2.txt).
 - +215 (jaro) — Během cesty k Lomu tichých vzdechů využívá svou kopii Kamenného atlasu a své narušené napojení na ozvěny jako navigační nástroj. Spoléhá se na Rianovy zaznamenané emoce, aby vedl skupinu krajinou. Tento úkol mu pomáhá stabilizovat jeho vlastní roztříštěnou mysl (viz Příběhy/jizva-ticha/2/3.txt).
 - +215 (jaro) — Dorazí s družinou k Lomu tichých vzdechů, kde pohlcující ticho kamene poprvé utiší chaos v jeho hlavě; Kamenný potok mu poslouží jako poslední vodítko a v Osadě Vřesová stráň získá dočasné útočiště pro další plánování (viz Příběhy/jizva-ticha/2/4.txt).
+- +215 (jaro) — Ve staré ovčárně ve Vřesové stráni poprvé jasně vysloví potřebu spojit Vorinovy silenské techniky s Eamonovou tradicí Strážců jezera; pomáhá tak zrodit plán na novou Rezonanční mísu a znovu najde směr své role "mostu" (viz Příběhy/jizva-ticha/2/5.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jmen významných postav minulosti (Kaelen, První mluvčí; kameník Kael; lovec Kaelan), což může symbolizovat tíhu dědictví, které nese.
