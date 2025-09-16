@@ -12,6 +12,7 @@ Dějiny:
 - +165 (cca) — Narodila se.
 - +185 až +210 — Sloužila na pozorovacích stanicích na severní hranici.
 - +215 (jaro) — Je jmenována vůdkyní expedice tří Šedých svědků, vyslané k Poslednímu bdění, aby prošetřila původ nové anomálie (viz Příběhy/jizva-ticha/1/2.txt).
+- +215 (jaro) — Vede expedici přes Les šepotů (viz Příběhy/jizva-ticha/1/3.txt).
 
 Poznámky:
 Její jméno je ozvěnou jmen jiných postav (Rhea, pomocnice Eliana ze Silencie; Rhea, vůdkyně přeživších v Posledním bdění v příběhu o Lianovi), což může být tradice v řádu nebo ozvěna samotného světa.
