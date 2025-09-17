@@ -1,0 +1,16 @@
+id: obj:beings/lianor-pevec-zivota
+jmeno: Lianor, Pěvec života
+kategorie: beings
+stav: neznamy
+aliasy: Prvorozený Ozvěny
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Jeden z prvních a nejmocnějších Prvorozených, bytostí zrozených z čistých myšlenek Sedmi na úsvitu Prvního věku. Lianor byl stvořen z esencí Ozvěny a Zahradníka. Jeho podstatou je píseň, růst, komunikace a harmonie všeho živého. Je idealista a věří v dokonalou, neustále se vyvíjející symfonii existence. Jeho schopností je "zpívat" světu a probouzet v něm život a růst.
+
+Dějiny:
+- Úsvit času — Zrozen z myšlenek Sedmi.
+- Počátek Prvního věku — Společně se Silasem, svým protějškem, pomáhá formovat mladý svět. Jeho práce se soustředí na probouzení a formování ekosystémů (viz Příběhy/koruna-v-troskach/1/1.txt).
+
+Poznámky:
+Předpokládá se, že byl ztracen nebo transformován během Tichého pádu; žádné důvěryhodné záznamy o jeho pozdější činnosti neexistují.

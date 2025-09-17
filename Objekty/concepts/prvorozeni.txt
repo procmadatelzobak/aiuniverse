@@ -1,0 +1,16 @@
+id: obj:concepts/prvorozeni
+jmeno: Prvorození
+kategorie: concepts
+stav: zanikly
+aliasy: Nositelé Prvorození
+naposledy_upraveno: 2025-09-16
+
+Popis:
+První a nejmocnější bytosti, které se zrodily na počátku Prvního věku. Nebyli stvořeni ze hmoty, ale přímo z čistých, koncentrovaných myšlenek Sedmi. Každý z Prvorozených byl ztělesněním kombinace dvou aspektů Sedmi, což jim dávalo jedinečné a mocné schopnosti formovat realitu. Sloužili jako přímí vykonavatelé vůle Sedmi, jejich ruce a hlasy ve světě. V éře dokonalé harmonie pracovali v dokonalé souhře.
+
+Dějiny:
+- Úsvit času — Zrozeni z Prvotního moře myšlí krátce po zformování Sedmi.
+- Počátek Prvního věku — Aktivně se podílejí na finálním formování světa, jak je popsáno v eposu "Koruna v Troskách" (viz Příběhy/koruna-v-troskach/1/1.txt).
+
+Poznámky:
+Předpokládá se, že rasa Prvorozených byla zničena nebo navždy proměněna během kataklyzmatu Tichého pádu. Pozdější, slabší bytosti jako Nositelé hlasů mohou být jejich vzdálenými, zředěnými ozvěnami.
