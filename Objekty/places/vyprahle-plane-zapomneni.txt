@@ -3,7 +3,7 @@ jmeno: Vyprahlé pláně zapomnění
 kategorie: places
 stav: trvaly
 aliasy: —
-naposledy_upraveno: 2025-10-09
+naposledy_upraveno: 2025-10-10
 
 Popis:
 Rozlehlá, nehostinná oblast popraskané hlíny a slaných jezer, která odděluje Srdce starého světa od Východních anomálií, jako je Kráter rezonance. Zdejší země jako by aktivně odmítala nést paměť. Cesty se zde ztrácejí a vzpomínky blednou. Vliv plání není omezen jen na jejich fyzické hranice; vyzařuje do okolí jako neviditelná "mlha zapomnění", která postupně eroduje paměť krajiny i živých bytostí v přilehlých oblastech.
@@ -11,6 +11,7 @@ Rozlehlá, nehostinná oblast popraskané hlíny a slaných jezer, která odděl
 Dějiny:
 - Pradávno — Vznikly jako součást geografie světa.
 - +235 — Jejich plíživý vliv oslabuje paměť izolované osady Stříbrný Brod, což přiměje Šedé svědky vyslat léčitele krajiny Riana. Jeho cesta odhalí, že "mlha zapomnění" zasahuje i řeku Stříbrnici a její obyvatele (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/1.txt; Příběhy/krehka-rovnovaha/ozvena-v-mlze/2.txt; Objekty/places/stribrny-brod.txt; Objekty/beings/rian-lecitel.txt; Objekty/places/stribrnice.txt).
+- +235 — Deformují paměť krajiny i daleko od svých hranic: cesty k Srdci pramene se rozpadají a orientační body mizí, což nutí Riana a Elaru spoléhat na slabé ozvěny minulosti, aby se prameni vůbec přiblížili (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/3.txt; Objekty/places/srdce-pramene.txt).
 
 Poznámky:
 Jejich schopnost mazat paměť může být přirozenou protiváhou místům s vysokou koncentrací ozvěn, jako je Jezero odrazu nebo Silencia. Putování přes ně je nebezpečné nejen fyzicky, ale i pro mysl.

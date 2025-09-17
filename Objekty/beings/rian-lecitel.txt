@@ -3,7 +3,7 @@ jmeno: Rian (Léčitel krajiny)
 kategorie: beings
 stav: zivy
 aliasy: —
-naposledy_upraveno: 2025-10-09
+naposledy_upraveno: 2025-10-10
 
 Popis:
 Mladý člen řádu Šedých svědků z generace narozené po Válce se stíny. Vyrůstal na legendách o Kaelenovi a Společenstvu Jizvy. Specializuje se na "léčení krajiny" – diagnostiku a harmonizaci míst s narušenou pamětí nebo emoční rovnováhou. Je tichý, přemýšlivý a empatický, s hlubokým vrozeným citem pro "zdraví" země. Nosí u sebe malou křemennou kouli, kterou používá jako nástroj k soustředění.
@@ -12,6 +12,7 @@ Dějiny:
 - +210 (cca) — Narodil se v Údolí tichých ozvěn.
 - +235 — Je jako "léčitel krajiny" vyslán Mistrem Kaelenem na svou první samostatnou misi do odlehlé osady Stříbrný Brod, která trpí záhadnou ztrátou paměti (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/1.txt).
 - +235 — Po několika dnech cesty na východ, během níž vnímá slábnoucí "píseň" krajiny, dorazí do Stříbrného Brodu. Zde je konfrontován s plným dopadem paměťové anomálie na místní komunitu a setkává se s Elarou, autorkou žádosti o pomoc (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/2.txt).
+- +235 — Společně s Elarou sleduje slabé ozvěny krajiny až k Srdci pramene, kde odhalí dormantní zdroj písně řeky Stříbrnice a první klíč k uzdravení regionu (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/3.txt; Objekty/places/srdce-pramene.txt).
 
 Poznámky:
 Jeho jméno je poctou Rianovi, kartografu pocitů, a odráží jeho podobné, i když jinak zaměřené schopnosti.
