@@ -11,6 +11,7 @@ Malá jeskyně u paty věže Posledního bdění, jejíž stěny nesou vytesaný
 Dějiny:
 +82 — Vytvořena obětí Šedého svědka Liana, který do jejích stěn vytesal svou nejsilnější vzpomínku a zastavil tak Šepot prázdnoty (viz Příběhy/ctvrty-vek/sepot-v-prazdnote.txt).
 +215 (jaro) — Expedice Šedých svědků zjišťuje, že vytesaný příběh v jeskyni byl znetvořen a jeskyně se stala epicentrem anomálie. Je střežena "Vymazanou" bytostí (viz Příběhy/jizva-ticha/1/7.txt).
++215 (léto) — Kaelen, Lyra, Orin a Eamon do jeskyně znovu vstoupí. Eamon se obětuje proti Vymazaným strážcům, zatímco uvnitř se zhmotní centrální projev Hlasu Nicoty v podobě Lyry Beze Jména (viz Příběhy/jizva-ticha/3/4.txt).
 
 Poznámky:
 Jeskyně je nyní jedním z nejnebezpečnějších míst na světě, aktivně přepisuje realitu a paměť.

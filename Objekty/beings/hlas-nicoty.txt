@@ -1,0 +1,20 @@
+id: obj:beings/hlas-nicoty
+jmeno: Hlas Nicoty
+kategorie: beings
+stav: aktivni
+aliasy: Zpívající ticho
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Parazitické, kvazi-inteligentní vědomí, které se zrodilo z Tiché prázdnoty. Není to tradiční bytost, ale zhmotněný princip entropie a zapomnění. Jeho cílem je redukovat komplexnost reality na absolutní nulu. Jeho hlavními zbraněmi jsou "Postupné Odmazávání" a "Falešné ozvěny". Ve svém epicentru, Ukotvené jeskyni, je schopen vytvořit si fyzický projev, který je negativní ozvěnou bytostí a konceptů pohlcených Prázdnotou.
+
+Dějiny:
+
+Vznikl neurčenou dobu po stvoření Tiché prázdnoty.
+
++215 (léto) — Jeho aktivita masivně vzroste a ohrozí svět. Společenstvo Jizvy se ho vydává zastavit.
+
++215 (léto) — Ve svém srdci v Ukotvené jeskyni na sebe bere podobu Lyry Beze Jména, zakladatelky Mlčících poutníků, aby se střetl s Kaelenem a jeho společníky (viz Příběhy/jizva-ticha/3/4.txt).
+
+Poznámky:
+Jeho použití podoby Lyry Beze Jména naznačuje, že je schopen využívat nejsilnější ozvěny spojené s Tichem a Prázdnotou jako své avatary.
