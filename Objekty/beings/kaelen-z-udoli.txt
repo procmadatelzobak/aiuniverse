@@ -3,7 +3,7 @@ jmeno: Kaelen z Údolí
 kategorie: beings
 stav: zivy (proměněný)
 aliasy: Mistr Kaelen, Ladič
-naposledy_upraveno: 2025-10-07
+naposledy_upraveno: 2025-10-08
 
 Popis:
 Mladý a idealistický akolyta řádu Šedých svědků, který vyrostl v Údolí tichých ozvěn. Je hluboce sečtělý v historii a legendách Věků, se zvláštním zaměřením na hrdinské činy minulosti. Má výjimečný cit pro Kamenný atlas, který nevnímá jen jako historický artefakt, ale jako živoucí text. Ačkoliv je teoreticky velmi zdatný, postrádá praktické zkušenosti se světem mimo bezpečí údolí. Po úspěšném stvoření Písně rovnováhy se dobrovolně stal jejím živým nosičem, aby ji mohl přenést na sever a postavit se Hlasu Nicoty. Tento proces ho trvale změnil; Píseň byla neoddělitelnou součástí jeho bytosti, což se projevovalo subtilními změnami v jeho vzhledu a hlase. Jeho přítomnost měla aktivní, pasivní účinek na okolí: uklidňovala živé tvory a automaticky neutralizovala a maže "falešné ozvěny" i další projevy Hlasu Nicoty. Během finální konfrontace v Ukotvené jeskyni však Kaelen nechal harmonii rozšířit se do světa a přijmout i princip prázdnoty. Už není jejím jediným nosičem; místo toho nese v sobě tichou jizvu po jejím průchodu a slouží jako první strážce a hlas Písně Ticha a Ozvěn. Spolu s Lyrou zůstává v Údolí tichých ozvěn jako mistr a učitel nové generace Šedých svědků, které vede k naslouchání křehké harmonii světa. Jeho mysl zůstává v křehké rovnováze mezi světlem a tichem, kterou musí neustále vědomě přijímat.
@@ -49,6 +49,7 @@ Dějiny:
 - +215 (léto) — V Ukotvené jeskyni nechá Píseň rovnováhy přijmout i princip prázdnoty. Zrodí se Píseň Ticha a Ozvěn; Hlas Nicoty je integrován a svět je uzdraven. Kaelen přestává být jediným nosičem a stává se strážcem vzniklé jizvy (viz Příběhy/jizva-ticha/3/5.txt).
 
 - +216 (jaro) — Usazuje se v Údolí tichých ozvěn a přijímá roli mistra a učitele nové generace Šedých svědků. Jeho spojení s Písní zůstává tichou ozvěnou, kterou předává dalším (viz Příběhy/jizva-ticha/3/6.txt).
+- +235 — Jako jeden z vůdců řádu vysílá mladého léčitele Riana na misi do Stříbrného Brodu, aby prošetřil zprávy o plíživé ztrátě paměti a připomíná mu rovnováhu mezi pamětí a zapomněním (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/1.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jmen významných postav minulosti (Kaelen, První mluvčí; kameník Kael; lovec Kaelan), což může symbolizovat tíhu dědictví, které nese.

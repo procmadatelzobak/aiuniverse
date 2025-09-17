@@ -66,7 +66,8 @@ Daleko na východě, za hranicí Srdce světa, leží kraje, kde jsou zákony pa
 **Klíčová místa:**
 - Objekty/places/krater-rezonance-silencia.txt
 - Objekty/places/vyprahle-plane-zapomneni.txt
+- Objekty/places/stribrny-brod.txt (nově)
 
 **Propojení a geografie:**
-Cesta do **Kráteru rezonance**, kde stojí Město ozvěn Silencia, je téměř neznámá a legendární. Vyžaduje překonání Vyprahlých plání zapomnění, což je cesta trvající týdny, během níž poutník riskuje ztrátu vlastní identity. Neexistuje žádné známé přímé spojení mezi Tichým severem a Východními anomáliemi. Tyto oblasti jsou odděleny Srdcem světa jako dvě protichůdné síly.
+Cesta do **Kráteru rezonance**, kde stojí Město ozvěn Silencia, je téměř neznámá a legendární. Vyžaduje překonání Vyprahlých plání zapomnění, což je cesta trvající týdny, během níž poutník riskuje ztrátu vlastní identity. Na západním okraji plání, v poslední chráněné kotlině před prachem zapomnění, leží **Stříbrný Brod**. Osada je napojena na srdce světa jedinou hlídanou stezkou od Dubu paměti přes Údolí tichých ozvěn a zřídka přijímá posly; v roce +235 právě tudy vyrazil léčitel Rian (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/1.txt). Neexistuje žádné známé přímé spojení mezi Tichým severem a Východními anomáliemi. Tyto oblasti jsou odděleny Srdcem světa jako dvě protichůdné síly.
 
