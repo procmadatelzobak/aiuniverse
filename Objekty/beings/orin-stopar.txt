@@ -3,10 +3,10 @@ jmeno: Orin
 kategorie: beings
 stav: narušený (stabilizovaný)
 aliasy: Ztracený, Tichý Orin
-naposledy_upraveno: 2025-10-06
+naposledy_upraveno: 2025-10-07
 
 Popis:
-Stopař a lovec řádu Šedých svědků. Je to mlčenlivý muž, který většinu svého života strávil sám v divočině obklopující Údolí tichých ozvěn. Dokáže číst stopy a znamení v krajině s neuvěřitelnou přesností a je expertem na přežití v nehostinných Tichých vrších. Jeho schopnosti jsou čistě praktické, založené na pozorování a zkušenosti. Kontakt s Hlasem Nicoty zanechal trvalé narušení jeho kinestetické paměti a vztahu k vlastnímu tělu.
+Stopař a lovec řádu Šedých svědků. Je to mlčenlivý muž, který většinu svého života strávil sám v divočině obklopující Údolí tichých ozvěn. Dokáže číst stopy a znamení v krajině s neuvěřitelnou přesností a je expertem na přežití v nehostinných Tichých vrších. Jeho schopnosti jsou čistě praktické, založené na pozorování a zkušenosti. Kontakt s Hlasem Nicoty zanechal trvalé narušení jeho kinestetické paměti a vztahu k vlastnímu tělu. Po válce nachází klid v tiché svatyni, kde jako opatrovník Rezonanční mísy střeží ozvěnu Písně.
 
 Dějiny:
 - +175 (cca) — Narodil se mimo Údolí a k řádu se přidal v dospělosti.
@@ -45,6 +45,8 @@ Dějiny:
 - +215 (léto) — Doprovází Kaelena a Lyru do Ukotvené jeskyně. S mísou v rukou drží ochrannou bublinu, kterou vytvořil, zatímco Eamon se obětuje proti Vymazaným strážcům a skupina čelí manifestaci Hlasu Nicoty (viz Příběhy/jizva-ticha/3/4.txt).
 - +215 (léto) — Doprovází Kaelena a Lyru do Ukotvené jeskyně. S mísou v rukou drží ochrannou bublinu, kterou vytvořil, zatímco Eamon se obětuje proti Vymazaným strážcům a skupina čelí manifestaci Hlasu Nicoty (viz Příběhy/jizva-ticha/3/4.txt).
 - +215 (léto) — Je svědkem/účastníkem finální konfrontace v Posledním bdění, kde Kaelen úspěšně neutralizuje Hlas Nicoty a obnovuje Křehkou rovnováhu. Válka se stíny končí (viz Příběhy/jizva-ticha/3/5.txt).
+
+- +216 (jaro) — Usazuje se v tiché svatyni v Údolí tichých ozvěn a stává se opatrovníkem Rezonanční mísy. Její péče mu přináší klid, i když jeho mysl zůstává zjizvená (viz Příběhy/jizva-ticha/3/6.txt).
 
 Poznámky:
 Jeho stav je živoucím důkazem o nebezpečí Hlasu Nicoty. Jeho budoucí osud je nejistý.

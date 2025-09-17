@@ -3,10 +3,10 @@ jmeno: Starý Alyn
 kategorie: beings
 stav: zivy
 aliasy: Otec Ticha
-naposledy_upraveno: 2025-10-06
+naposledy_upraveno: 2025-10-07
 
 Popis:
-Starý a respektovaný vůdce komunity Dětí Ticha v roce +215. Je to muž zocelený drsným životem v Tichých vrších, hluboce oddaný filozofii svých předků. Původně nedůvěřivý k cizincům, po setkání s Kaelenem a mocí Písně rovnováhy přehodnotí staletou izolaci svého lidu a stane se klíčovým spojencem ve válce proti Hlasu Nicoty.
+Starý a respektovaný vůdce komunity Dětí Ticha v roce +215. Je to muž zocelený drsným životem v Tichých vrších, hluboce oddaný filozofii svých předků. Původně nedůvěřivý k cizincům, po setkání s Kaelenem a mocí Písně rovnováhy přehodnotí staletou izolaci svého lidu a stane se klíčovým spojencem ve válce proti Hlasu Nicoty. Po uzdravení jizvy přijímá úkol trvale střežit sever a naslouchat tichu, aby zůstalo čisté.
 
 Dějiny:
 - +145 (cca) — Narodil se v Osadě tichého stínu.
@@ -18,6 +18,8 @@ Dějiny:
 - +215 (léto) — Před Posledním bděním stáhne Děti Ticha do obranného perimetru. Jeho lid drží zadní linii a brání ozvěnám proniknout za Kaelena, zatímco Eamon vede malou skupinu do Ukotvené jeskyně (viz Příběhy/jizva-ticha/3/4.txt).
 - +215 (léto) — Před Posledním bděním stáhne Děti Ticha do obranného perimetru. Jeho lid drží zadní linii a brání ozvěnám proniknout za Kaelena, zatímco Eamon vede malou skupinu do Ukotvené jeskyně (viz Příběhy/jizva-ticha/3/4.txt).
 - +215 (léto) — Je svědkem finální konfrontace v Posledním bdění, kde Kaelen úspěšně neutralizuje Hlas Nicoty a obnovuje Křehkou rovnováhu. Přijímá úlohu strážce nové jizvy jménem svého lidu (viz Příběhy/jizva-ticha/3/5.txt).
+
+- +216 (jaro) — Zůstává u Průsmyku bezejmenných jako nový strážce Tichých vrchů. Vede svůj lid v roli ochránců jizvy a koordinuje kontakt s Údolím prostřednictvím Lyry (viz Příběhy/jizva-ticha/3/6.txt).
 
 Poznámky:
 Představuje transformaci Dětí Ticha z pasivních izolacionistů na aktivní účastníky boje za záchranu světa.

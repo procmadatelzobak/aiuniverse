@@ -3,10 +3,10 @@ jmeno: Lyra z Tichých vrchů
 kategorie: beings
 stav: ziva
 aliasy: Dítě Ticha
-naposledy_upraveno: 2025-10-06
+naposledy_upraveno: 2025-10-07
 
 Popis:
-Mladá lovkyně a stopařka z izolované komunity potomků Mlčících poutníků, kteří žijí v Tichých vrších. Nese v sobě dědictví a vinu svých předků. Je tichá, nedůvěřivá a pragmatická. Má vrozenou a jedinečnou schopnost vnímat anomálie spojené s Tichem a Prázdnotou – "slyší" Hlas Nicoty jako falešný, rušivý tón v harmonii světa a dokáže vycítit místa, kde byla realita "odmazána".
+Mladá lovkyně a stopařka z izolované komunity potomků Mlčících poutníků, kteří žijí v Tichých vrších. Nese v sobě dědictví a vinu svých předků. Je tichá, nedůvěřivá a pragmatická. Má vrozenou a jedinečnou schopnost vnímat anomálie spojené s Tichem a Prázdnotou – "slyší" Hlas Nicoty jako falešný, rušivý tón v harmonii světa a dokáže vycítit místa, kde byla realita "odmazána". Po konci války se stává mostem mezi Údolím tichých ozvěn a svým lidem; jako velvyslankyně Dětí Ticha cestuje mezi oběma komunitami a střeží křehkou rovnováhu.
 
 Dějiny:
 - +194 (cca) — Narodila se v Osadě tichého stínu v Tichých vrších.
@@ -44,6 +44,8 @@ Dějiny:
 - +215 (léto) — V Posledním bdění doprovází Kaelena do Ukotvené jeskyně po Eamonově oběti. Čelí centrálnímu projevu Hlasu Nicoty, který na sebe bere podobu její prapředkyně Lyry Beze Jména, a zůstává Kaelenovou nezbytnou kotvou (viz Příběhy/jizva-ticha/3/4.txt).
 - +215 (léto) — V Posledním bdění doprovází Kaelena do Ukotvené jeskyně po Eamonově oběti. Čelí centrálnímu projevu Hlasu Nicoty, který na sebe bere podobu její prapředkyně Lyry Beze Jména, a zůstává Kaelenovou nezbytnou kotvou (viz Příběhy/jizva-ticha/3/4.txt).
 - +215 (léto) — Je svědkem/účastníkem finální konfrontace v Posledním bdění, kde Kaelen úspěšně neutralizuje Hlas Nicoty a obnovuje Křehkou rovnováhu. Válka se stíny končí (viz Příběhy/jizva-ticha/3/5.txt).
+
+- +216 (jaro) — Zůstává v Údolí tichých ozvěn s Kaelenem, ale slouží jako velvyslankyně mezi Šedými svědky a svým lidem, Dětmi Ticha. Pomáhá zacelit staletou propast mezi oběma kulturami (viz Příběhy/jizva-ticha/3/6.txt).
 
 Poznámky:
 Její jméno je další v řadě jmen "Lyra", což může symbolizovat archetypální roli, kterou tyto postavy v různých érách hrají. Její schopnosti jsou přímým protikladem Kaelenových, založených na paměti a ozvěnách.
