@@ -3,7 +3,7 @@ jmeno: Jizva Ticha (Trilogie)
 kategorie: meta
 stav: probiha
 aliasy: —
-naposledy_upraveno: 2025-09-30
+naposledy_upraveno: 2025-10-01
 
 Popis:
 Epická trilogie popisující události Čtvrtého věku, konkrétně krizi spojenou se sílící hrozbou z Tiché prázdnoty a zrodem Hlasu Nicoty. Děj sleduje putování nesourodé skupiny hrdinů, kteří se snaží pochopit a zastavit tuto novou formu "odmazávání" reality.
@@ -17,7 +17,6 @@ Kniha Druhá: Sestup — Sleduje pokus novodobých Ladičů proniknout do srdce 
 Kniha Třetí: Píseň rovnováhy (plánováno)
 
 Dějiny:
-
 - +215 (jaro) — Kniha První, Kapitola 12: Skupina dorazí k Dubu paměti, kde získá klíčové informace a nasměrování k Jezeru odrazu. Tím končí první velká fáze jejich cesty – útěk – a začíná fáze aktivního hledání řešení (viz Příběhy/jizva-ticha/1/12.txt).
 - +215 (jaro) — Kniha První, Kapitola 13: Společenstvo dorazí k Jezeru odrazu a je konfrontováno s jeho chaotickou mentální přítomností, což představuje novou výzvu pro jejich misi (viz Příběhy/jizva-ticha/1/13.txt).
 - +215 (jaro) — Kniha První, Kapitola 14: Eamon učí družinu první lekci mentální disciplíny u Jezera odrazu. Společně zaslechnou krátký, čistý tón – první fragment Písně rovnováhy po staletích, což potvrzuje, že jejich cíl je dosažitelný (viz Příběhy/jizva-ticha/1/14.txt).
@@ -30,6 +29,7 @@ Dějiny:
 - +215 (jaro) — Kniha Druhá, Kapitola 6: Po týdnu hledání v Lomu tichých vzdechů Vorin a Eamon, s pomocí Kaelenova vhledu, společně identifikují a vylomí dokonalý blok kamene pro novou Rezonanční mísu. Tím je úspěšně završena první fáze výroby nástroje (viz Příběhy/jizva-ticha/2/6.txt).
 - +215 (jaro) — Kniha Druhá, Kapitola 7: Ve staré ovčárně ve Vřesové stráni Ladiči spojí Vorinovu technologii se symboly Strážců jezera. Kaelen navrhne využít rezonanci samotného ticha, Lyra se stane živým senzorem a Vorin s Joricem připraví rezonanční fokusátor pro tvarování kamene (viz Příběhy/jizva-ticha/2/7.txt).
 - +215 (jaro) — Kniha Druhá, Kapitola 8: Vorinův rezonanční fokusátor, Lyřina schopnost naslouchat tichu a Kaelenův překlad vytvoří první synchronizaci mezi strojem a kamenem. Tvarování Rezonanční mísy začíná a zároveň se prohlubuje pouto mezi Kaelenem a Lyrou (viz Příběhy/jizva-ticha/2/8.txt).
+- +215 (jaro/léto) — Kniha Druhá, Kapitola 9: Po týdnech práce je Rezonanční mísa dokončena. Její první aktivace vyšle vlnu mentálního ticha, která potvrdí úspěch a připraví skupinu na návrat k Jezeru odrazu (viz Příběhy/jizva-ticha/2/9.txt).
 
 Poznámky:
 Tento meta objekt slouží ke sledování hlavního dějového oblouku trilogie.

@@ -3,7 +3,7 @@ jmeno: Vorin ze Silencie
 kategorie: beings
 stav: zivy
 aliasy: Archivář
-naposledy_upraveno: 2025-09-30
+naposledy_upraveno: 2025-10-01
 
 Popis:
 Historik, archivář a vědec z města Silencia. Je členem reformovaného řádu Naslouchačů. Je to chladný pragmatik a skeptik, který věří v data, měření a zaznamenaná fakta. Hrozbu z Tiché prázdnoty nevnímá mysticky, ale jako "informační anomálii" nebo "logickou korupci", která ohrožuje integritu zaznamenané historie. K řešení problémů přistupuje analyticky a spoléhá se na technologii a znalosti svých předků.
@@ -29,6 +29,7 @@ Dějiny:
 - +215 (jaro) — V Lomu tichých vzdechů se zpočátku střetává jeho vědecký přístup s Eamonovou intuicí. Nakonec jsou nuceni spolupracovat a úspěšně nacházejí a získávají surový blok kamene pro Rezonanční mísu, čímž položí základ pro svou budoucí spolupráci (viz Příběhy/jizva-ticha/2/6.txt).
 - +215 (jaro) — Ve staré ovčárně ve Vřesové stráni přijme Kaelenův návrh na "rezonanci ticha" a s Joricem začne sestrojovat rezonanční fokusátor, který se bude ladit podle Lyřina živého senzoru, zatímco Eamon vyznačuje symbolické linie nové mísy (viz Příběhy/jizva-ticha/2/7.txt).
 - +215 (jaro) — Při prvním spuštění fokusátoru ladí frekvence podle Lyřiných vjemů, zaznamenává reakce kamene a čelí disharmonické vlně, když Lyra ztratí kontakt s tichem. Událost ho přiměje uznat, že data musí být podřízena živému senzoru (viz Příběhy/jizva-ticha/2/8.txt; Objekty/things/rezonancni-fokusator.txt).
+- +215 (jaro/léto) — Fascinován korelací Lyřiny únavy s čistotou rezonance, vede detailní záznamy a po probuzení mísy přijímá, že data a duše mohou sdílet jeden výsledek (viz Příběhy/jizva-ticha/2/9.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jména Vorina, zakladatele Silencie, což odráží jeho hluboké spojení s historií a dědictvím města.
