@@ -12,6 +12,7 @@ Dějiny:
 - +140 (cca) — Narodila se ve Vřesové stráni.
 - +215 (jaro) — Setkává se se skupinou novodobých Ladičů a po pragmatickém vyjednávání s Vorinem a Eamonem jim poskytne starou ovčárnu jako útočiště a povolí práci v Lomu tichých vzdechů výměnou za silenské jehly a hedvábí (viz Příběhy/jizva-ticha/2/5.txt; Objekty/places/osada-vresova-stran.txt).
 - +215 (jaro/léto) — Pravidelně navštěvuje ovčárnu, uzná řemeslnou kvalitu vznikající mísy a stane se svědkyní jejího dokončení i probuzení vlnou ticha (viz Příběhy/jizva-ticha/2/9.txt).
+- +215 (léto) — Po dokončení Rezonanční mísy se loučí se skupinou. Jako projev tichého uznání a prozíravosti jim daruje teplé vlněné pláště pro nadcházející cestu (viz Příběhy/jizva-ticha/2/10.txt).
 
 Poznámky:
 Ztělesňuje ducha Osady Vřesová stráň. Její jméno "Elara" je další ukázkou opakujících se jmen-archetypů ve světě.
