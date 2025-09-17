@@ -3,7 +3,7 @@ jmeno: Jizva Ticha (Trilogie)
 kategorie: meta
 stav: probiha
 aliasy: —
-naposledy_upraveno: 2025-10-02
+naposledy_upraveno: 2025-10-05
 
 Popis:
 Epická trilogie popisující události Čtvrtého věku, konkrétně krizi spojenou se sílící hrozbou z Tiché prázdnoty a zrodem Hlasu Nicoty. Děj sleduje putování nesourodé skupiny hrdinů, kteří se snaží pochopit a zastavit tuto novou formu "odmazávání" reality.
@@ -38,6 +38,7 @@ Dějiny:
 - +215 (léto) — Kniha Druhá, Kapitola 15: Lyra konfrontuje nevyváženého Kaelena a pomocí druhého pramene Písně (chaosu země) mu pomůže obnovit vnitřní rovnováhu. Skupina si plně uvědomuje, že Píseň nelze použít jako zbraň bez katastrofálních následků pro jejího nosiče. Tím končí druhá kniha trilogie, *Atlas duše* (viz Příběhy/jizva-ticha/2/15.txt).
 
 - +215 (léto) — Kniha Třetí, Kapitola 1: Společenstvo Jizvy Ticha přijímá Děti Ticha jako průzkumníky a ochránce. Vydávají se na poslední pochod k Poslednímu bdění, zatímco Hlas Nicoty přepisuje realitu, aby jim zabránil v postupu (viz Příběhy/jizva-ticha/3/1.txt).
+- +215 (léto) — Kniha Třetí, Kapitola 2: Hlas Nicoty vytvoří dokonalou mentální iluzi Údolí tichých ozvěn, aby lapil skupinu, zejména Děti Ticha. Iluze je prolomena kombinací Lyřiny "písně reality" (ukolébavky z jejího dětství) a Kaelenova pasivního zesílení reality pomocí Písně rovnováhy (viz Příběhy/jizva-ticha/3/2.txt).
 
 Poznámky:
 Tento meta objekt slouží ke sledování hlavního dějového oblouku trilogie.

@@ -3,7 +3,7 @@ jmeno: Vorin ze Silencie
 kategorie: beings
 stav: zivy
 aliasy: Archivář
-naposledy_upraveno: 2025-10-02
+naposledy_upraveno: 2025-10-05
 
 Popis:
 Historik, archivář a vědec z města Silencia. Je členem reformovaného řádu Naslouchačů. Je to chladný pragmatik a skeptik, který věří v data, měření a zaznamenaná fakta. Hrozbu z Tiché prázdnoty nevnímá mysticky, ale jako "informační anomálii" nebo "logickou korupci", která ohrožuje integritu zaznamenané historie. K řešení problémů přistupuje analyticky a spoléhá se na technologii a znalosti svých předků.
@@ -38,6 +38,7 @@ Dějiny:
 - +215 (léto) — Je svědkem Kaelenova pádu do nerovnováhy a následné záchrany Lyrou. Plně si uvědomuje křehkost jejich "zbraně" a nebezpečí, které představuje cesta k Poslednímu bdění (viz Příběhy/jizva-ticha/2/15.txt).
 
 - +215 (léto) — Vede analytické záznamy o přepisování reality Hlasem Nicoty během pochodu "Tiché armády" k Poslednímu bdění. Dokumentuje anomálie jako řeku tekoucí do kopce či kameny měnící tvar (viz Příběhy/jizva-ticha/3/1.txt).
+- +215 (léto) — Stává se obětí masivní mentální iluze stvořené Hlasem Nicoty. Je osvobozen díky spojenému úsilí Lyry a Kaelena a zaznamenává, že pravdivá píseň může fungovat jako měřitelná obrana proti kognitivní korupci (viz Příběhy/jizva-ticha/3/2.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jména Vorina, zakladatele Silencie, což odráží jeho hluboké spojení s historií a dědictvím města.
