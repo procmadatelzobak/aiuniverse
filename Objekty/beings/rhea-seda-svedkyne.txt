@@ -3,7 +3,7 @@ jmeno: Rhea (Šedá svědkyně)
 kategorie: beings
 stav: ziva
 aliasy: Rhea Hraničářka
-naposledy_upraveno: 2025-10-05
+naposledy_upraveno: 2025-10-06
 
 Popis:
 Zkušená členka řádu Šedých svědků a bývalá velitelka stráží na hranici s Tichou prázdnotou. Je to pragmatická a strohá žena, zvyklá na drsné podmínky a neustálý psychický tlak. Má hluboké, praktické znalosti o projevech Prázdnoty, ale postrádá Kaelenovu teoretickou a filozofickou hloubku. Její přístup je založen na přežití a zadržování hrozby, ne na jejím pochopení.
@@ -46,6 +46,8 @@ Dějiny:
 - +215 (léto) — Stává se obětí masivní mentální iluze stvořené Hlasem Nicoty. Je osvobozena díky spojenému úsilí Lyry a Kaelena, což prohlubuje její důvěru v jejich vzájemnou závislost (viz Příběhy/jizva-ticha/3/2.txt).
 - +215 (léto) — Stává se svědkem Kaelenova vyčerpání a následného objevu Orinovy schopnosti aktivovat Rezonanční mísu. Tato nová strategie jim umožní pokračovat v cestě (viz Příběhy/jizva-ticha/3/3.txt).
 - +215 (léto) — Dorazí k Poslednímu bdění, kde přijme Eamonův rozkaz zůstat venku s Vorinem, Joricem a Dětmi Ticha. Slouží jako zadní voj, který má za úkol ochránit záznamy a varování, zatímco Kaelen, Lyra a Orin sestupují do Ukotvené jeskyně (viz Příběhy/jizva-ticha/3/4.txt).
+- +215 (léto) — Dorazí k Poslednímu bdění, kde přijme Eamonův rozkaz zůstat venku s Vorinem, Joricem a Dětmi Ticha. Slouží jako zadní voj, který má za úkol ochránit záznamy a varování, zatímco Kaelen, Lyra a Orin sestupují do Ukotvené jeskyně (viz Příběhy/jizva-ticha/3/4.txt).
+- +215 (léto) — Je svědkem/účastníkem finální konfrontace v Posledním bdění, kde Kaelen úspěšně neutralizuje Hlas Nicoty a obnovuje Křehkou rovnováhu. Válka se stíny končí (viz Příběhy/jizva-ticha/3/5.txt).
 
 Poznámky:
 Její jméno je ozvěnou jmen jiných postav (Rhea, pomocnice Eliana ze Silencie; Rhea, vůdkyně přeživších v Posledním bdění v příběhu o Lianovi), což může být tradice v řádu nebo ozvěna samotného světa.

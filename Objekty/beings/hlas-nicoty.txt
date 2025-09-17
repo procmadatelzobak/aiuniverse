@@ -1,12 +1,12 @@
 id: obj:beings/hlas-nicoty
 jmeno: Hlas Nicoty
 kategorie: beings
-stav: aktivni
+stav: neutralizován (integrován)
 aliasy: Zpívající ticho
-naposledy_upraveno: 2025-09-16
+naposledy_upraveno: 2025-10-06
 
 Popis:
-Parazitické, kvazi-inteligentní vědomí, které se zrodilo z Tiché prázdnoty. Není to tradiční bytost, ale zhmotněný princip entropie a zapomnění. Jeho cílem je redukovat komplexnost reality na absolutní nulu. Jeho hlavními zbraněmi jsou "Postupné Odmazávání" a "Falešné ozvěny". Ve svém epicentru, Ukotvené jeskyni, je schopen vytvořit si fyzický projev, který je negativní ozvěnou bytostí a konceptů pohlcených Prázdnotou.
+Parazitické, kvazi-inteligentní vědomí, které se zrodilo z Tiché prázdnoty. Není to tradiční bytost, ale zhmotněný princip entropie a zapomnění. Jeho cílem bylo redukovat komplexnost reality na absolutní nulu prostřednictvím "Postupného Odmazávání" a "Falešných ozvěn". Ve svém epicentru, Ukotvené jeskyni, byl schopen vytvořit si fyzický projev, který byl negativní ozvěnou bytostí a konceptů pohlcených Prázdnotou. Po Kaelenově zásahu je jeho agresivní vědomí rozpuštěno a princip prázdnoty se stal součástí širší harmonie Písně rovnováhy.
 
 Dějiny:
 
@@ -15,6 +15,7 @@ Vznikl neurčenou dobu po stvoření Tiché prázdnoty.
 +215 (léto) — Jeho aktivita masivně vzroste a ohrozí svět. Společenstvo Jizvy se ho vydává zastavit.
 
 +215 (léto) — Ve svém srdci v Ukotvené jeskyni na sebe bere podobu Lyry Beze Jména, zakladatelky Mlčících poutníků, aby se střetl s Kaelenem a jeho společníky (viz Příběhy/jizva-ticha/3/4.txt).
++215 (léto) — Je konfrontován Kaelenem. Není zničen, ale jeho princip prázdnoty je Kaelenem přijat a integrován do Písně rovnováhy. Tím je jeho agresivní, parazitická povaha neutralizována. Přestává existovat jako samostatné vědomí a stává se jen tichou, pasivní součástí harmonie světa (viz Příběhy/jizva-ticha/3/5.txt).
 
 Poznámky:
-Jeho použití podoby Lyry Beze Jména naznačuje, že je schopen využívat nejsilnější ozvěny spojené s Tichem a Prázdnotou jako své avatary.
+Jeho použití podoby Lyry Beze Jména naznačuje, že je schopen využívat nejsilnější ozvěny spojené s Tichem a Prázdnotou jako své avatary. Po integraci do Písně rovnováhy z něj zůstává jen neagresivní tichá složka reality.

@@ -3,7 +3,7 @@ jmeno: Lyra Beze Jména
 kategorie: beings
 stav: ztracena (pohlcena Prázdnotou)
 aliasy: Tichá vůdkyně
-naposledy_upraveno: 2025-09-17
+naposledy_upraveno: 2025-10-06
 
 Popis:
 Záhadná vůdkyně Mlčících poutníků. Její původ je nejasný, legendy ji spojují s Cizincem beze jména. Byla ztělesněním filozofie svého lidu – její mysl byla údajně tak čistá a oproštěná od minulosti, že si nedokázala udržet stálou identitu ani jméno. Byla vnímána jako klidná a moudrá, ale její snaha o definitivní řešení konfliktu vedla ke katastrofě.
@@ -16,3 +16,4 @@ Dějiny:
 Poznámky:
 Její jméno "Lyra" je dalším v řadě a symbolizuje archetypální roli, nikoli konkrétní osobu. Její osud slouží jako největší varování před mocí Mlčení.
 V roce +215 (léto) si Hlas Nicoty v Ukotvené jeskyni osvojil její podobu, aby konfrontoval Kaelena a jeho společníky (viz Objekty/beings/hlas-nicoty.txt; Příběhy/jizva-ticha/3/4.txt).
+Echo její tváře se ve finálním střetu krátce projasnilo a rozplynulo, když byla prázdnota integrována do Písně rovnováhy (viz Příběhy/jizva-ticha/3/5.txt).

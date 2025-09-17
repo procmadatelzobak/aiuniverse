@@ -1,9 +1,9 @@
 id: obj:beings/eamon-z-brehu
 jmeno: Eamon z Břehů
 kategorie: beings
-stav: osud neznámý
+stav: zivy (těžce zraněný)
 aliasy: Strážce, Lovec
-naposledy_upraveno: 2025-10-05
+naposledy_upraveno: 2025-10-06
 
 Popis:
 Drsný samotář a poslední známý potomek prastarého rodu Strážců jezera. Nežije v žádné osadě, ale putuje Srdcem starého světa jako tichý ochránce divokých a zapomenutých míst. Má hluboké, instinktivní spojení se zemí a jejími tvory. Je mistrem přežití, stopování a tichého boje. Ačkoliv není oficiálním členem Šedých svědků, udržuje s jejich vedením volný kontakt a občas pro ně plní úkoly v divočině.
@@ -36,7 +36,8 @@ Dějiny:
 - +215 (léto) — Stává se svědkem masivní mentální iluze stvořené Hlasem Nicoty. Spoléhá na Lyřinu píseň a Kaelenovo zesílení reality, aby zlomil vlastní touhu po klidu a udržel strategické vedení družiny (viz Příběhy/jizva-ticha/3/2.txt).
 - +215 (léto) — Stává se svědkem masivní mentální iluze stvořené Hlasem Nicoty. Spoléhá na Lyřinu píseň a Kaelenovo zesílení reality, aby zlomil vlastní touhu po klidu a udržel strategické vedení družiny (viz Příběhy/jizva-ticha/3/2.txt).
 - +215 (léto) — Stává se svědkem Kaelenova vyčerpání a následného objevu Orinovy schopnosti aktivovat Rezonanční mísu. Okamžitě přizpůsobuje strategii pochodu novému rytmu střídání ochrany a postupu (viz Příběhy/jizva-ticha/3/3.txt).
-- +215 (léto) — Vede finální útok na Poslední bdění. Obětuje se v boji s Vymazanými strážci, aby Kaelen, Lyra a Orin mohli vstoupit do Ukotvené jeskyně. Jeho další osud je neznámý (viz Příběhy/jizva-ticha/3/4.txt).
+- +215 (léto) — Vede finální útok na Poslední bdění. Obětuje se v boji s Vymazanými strážci, aby Kaelen, Lyra a Orin mohli vstoupit do Ukotvené jeskyně (viz Příběhy/jizva-ticha/3/4.txt).
+- +215 (léto) — Přežije svůj sebevražedný útok na Vymazané, ačkoliv je těžce zraněn. Je svědkem konečného vítězství a uzdravení světa (viz Příběhy/jizva-ticha/3/5.txt).
 
 Poznámky:
 Jeho jméno je poctou Eamonovi, legendárnímu Strážci jezera, který stvořil Píseň rovnováhy. Představuje čtvrtého klíčového člena "Společenstva Jizvy".

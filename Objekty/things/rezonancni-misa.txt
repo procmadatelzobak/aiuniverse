@@ -3,10 +3,10 @@ jmeno: Rezonanční mísa
 kategorie: things
 stav: vytvorena
 aliasy: Ladička duše, Mísa z Vřesové stráně
-naposledy_upraveno: 2025-10-01
+naposledy_upraveno: 2025-10-06
 
 Popis:
-Unikátní artefakt, jehož původní verze byla ztracena spolu s Eamonem Strážcem. Nová mísa byla vytvořena Společenstvem Jizvy v Osadě Vřesová stráň. Je vyrobena z jediného bloku kamene z Lomu tichých vzdechů, materiálu, který pohlcuje cizí ozvěny. Mísa při úderu nevydává slyšitelný zvuk, ale tvoří hlubokou, mentální vibraci dokonalého ticha. Tato rezonance funguje jako mentální kotva a filtr, která dokáže v mysli uživatele vytvořit "ostrov ticha" a ochránit ho před pohlcením chaotickými ozvěnami. Je klíčovým nástrojem pro druhý pokus o rekonstrukci Písně rovnováhy.
+Unikátní artefakt, jehož původní verze byla ztracena spolu s Eamonem Strážcem. Nová mísa byla vytvořena Společenstvem Jizvy v Osadě Vřesová stráň. Je vyrobena z jediného bloku kamene z Lomu tichých vzdechů, materiálu, který pohlcuje cizí ozvěny. Mísa při úderu nevydává slyšitelný zvuk, ale tvoří hlubokou, mentální vibraci dokonalého ticha. Tato rezonance funguje jako mentální kotva a filtr, která dokáže v mysli uživatele vytvořit "ostrov ticha" a ochránit ho před pohlcením chaotickými ozvěnami. Je klíčovým nástrojem pro druhý pokus o rekonstrukci Písně rovnováhy a ve finální konfrontaci umožnila Písni přijmout i princip prázdnoty bez destrukce reality.
 
 Dějiny:
 - -4451 (cca) — Vytvořena Eamonem po roce studia kamene v Lomu tichých vzdechů.
@@ -23,6 +23,7 @@ Dějiny:
 - +215 (léto) — Při rituálu, během něhož se Kaelen stává živým nosičem Písně rovnováhy, funguje jako fokusátor, který nasměruje harmonii jezera do jeho mysli a uzamkne ji v jediném nosiči (viz Příběhy/jizva-ticha/2/12.txt).
 - +215 (léto) — Je použita jako "štít" k ochraně Kaelena před smrtelným vyčerpáním. Je objeveno, že Orinova zlomená mysl dokáže mísu aktivovat a vytvořit dočasnou ochrannou zónu, což z ní činí flexibilní nástroj s více způsoby použití (viz Příběhy/jizva-ticha/3/3.txt).
 - +215 (léto) — Během finálního sestupu do Ukotvené jeskyně ji Orin drží aktivovanou, aby udržel ochrannou bublinu kolem Kaelena a Lyry. Její ticho umožní Eamonovu oběť a konfrontaci s manifestací Hlasu Nicoty (viz Příběhy/jizva-ticha/3/4.txt).
+- +215 (léto) — Při finálním střetu Kaelena s Hlasem Nicoty vytvoří Rezonanční mísa ostrov čistého ticha, díky němuž může Píseň přijmout prázdnotu bez destrukce. Stává se klíčovým nástrojem při zrodu Písně Ticha a Ozvěn (viz Příběhy/jizva-ticha/3/5.txt).
 
 Poznámky:
 Nová mísa je produktem spolupráce dvou zcela odlišných filozofií (vědy a intuice), což symbolizuje cíl celé mise.
