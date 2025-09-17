@@ -3,10 +3,10 @@ jmeno: Děti Ticha
 kategorie: concepts
 stav: aktivni (spojenci)
 aliasy: —
-naposledy_upraveno: 2025-10-06
+naposledy_upraveno: 2025-10-07
 
 Popis:
-Malá, izolovaná komunita žijící v odlehlých částech Tichých vrchů. Jsou to potomci přeživších, umírněných Mlčících poutníků, kteří nepodlehli pohlcení Tichou prázdnotou. Jejich filozofie je stále založena na hledání vnitřního ticha a oproštění se od minulosti, ale je méně radikální. Žijí v ústraní, vyhýbají se kontaktu s vnějším světem, který považují za "hlučný", a nesou hluboký pocit viny a odpovědnosti za katastrofu, kterou způsobili jejich předci.
+Malá, izolovaná komunita žijící v odlehlých částech Tichých vrchů. Jsou to potomci přeživších, umírněných Mlčících poutníků, kteří nepodlehli pohlcení Tichou prázdnotou. Jejich filozofie je stále založena na hledání vnitřního ticha a oproštění se od minulosti, ale je méně radikální. Žijí v ústraní, vyhýbají se kontaktu s vnějším světem, který považují za "hlučný", a nesou hluboký pocit viny a odpovědnosti za katastrofu, kterou způsobili jejich předci. Po uzdravení jizvy přijímají roli strážců severu a skrze Lyru obnovují vazby s Údolím tichých ozvěn.
 
 Dějiny:
 0 — Vznikli z trosek řádu Mlčících poutníků po Tichém úsvitu. Odmítli se připojit k Šedým svědkům a stáhli se do izolace.
@@ -18,6 +18,8 @@ Dějiny:
 +215 (léto) — Přizpůsobují pochod novému rytmu: dvojice nosičů nese Rezonanční mísu těsně za Kaelenem, aby tlumili jeho vyzařování, a spolupracují s Orinem na udržení lokální kapsy klidu, která skupině otevírá cestu dál (viz Příběhy/jizva-ticha/3/3.txt).
 +215 (léto) — U Posledního bdění zůstávají mimo kotlinu a vytvářejí zadní obrannou linii. Brání pronikání ozvěn, zatímco Kaelen, Lyra, Orin a Eamon sestupují do Ukotvené jeskyně (viz Příběhy/jizva-ticha/3/4.txt).
 +215 (léto) — Jsou svědky finální konfrontace v Posledním bdění, kde Kaelen úspěšně neutralizuje Hlas Nicoty. Přijímají novou úlohu strážců uzdravené jizvy a stávají se ochránci obnovené rovnováhy (viz Příběhy/jizva-ticha/3/5.txt).
+
++216 (jaro) — Zůstávají na severu jako strážci stabilizované Tiché prázdnoty a skrze Lyru udržují pravidelný kontakt s Údolím tichých ozvěn (viz Příběhy/jizva-ticha/3/6.txt).
 
 Poznámky:
 Jejich sídlo, Osada tichého stínu, je pravděpodobně postaveno tak, aby minimalizovalo svou "ozvěnu" v krajině.

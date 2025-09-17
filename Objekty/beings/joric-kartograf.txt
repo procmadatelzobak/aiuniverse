@@ -3,10 +3,10 @@ jmeno: Joric
 kategorie: beings
 stav: zivy (traumatizovaný)
 aliasy: —
-naposledy_upraveno: 2025-10-06
+naposledy_upraveno: 2025-10-07
 
 Popis:
-Mladý, ale velmi talentovaný kartograf řádu Šedých svědků. Specializuje se na 'křehkou kartografii' – mapování oblastí s nestabilní realitou, kde se klasické mapy stávají bezcennými. Jeho úkolem je zaznamenávat projevy 'odmazávání' a pokusit se zmapovat hranice a šíření nové anomálie.
+Mladý, ale velmi talentovaný kartograf řádu Šedých svědků. Specializuje se na 'křehkou kartografii' – mapování oblastí s nestabilní realitou, kde se klasické mapy stávají bezcennými. Jeho úkolem je zaznamenávat projevy 'odmazávání' a pokusit se zmapovat hranice a šíření nové anomálie. Po ukončení války se snaží rozšířit svou práci o mapování "nálad" a "zdraví" krajiny, aby zachytil i neviditelnou rovnováhu světa.
 
 Dějiny:
 - +190 (cca) — Narodil se.
@@ -47,6 +47,8 @@ Dějiny:
 - +215 (léto) — U Posledního bdění zůstává po Eamonově rozkazu na hřebeni spolu s Rhey a Vorinem. Mapuje ticho kotliny a připravuje se zachovat záznamy, zatímco Kaelen, Lyra a Orin sestupují do Ukotvené jeskyně (viz Příběhy/jizva-ticha/3/4.txt).
 - +215 (léto) — U Posledního bdění zůstává po Eamonově rozkazu na hřebeni spolu s Rhey a Vorinem. Mapuje ticho kotliny a připravuje se zachovat záznamy, zatímco Kaelen, Lyra a Orin sestupují do Ukotvené jeskyně (viz Příběhy/jizva-ticha/3/4.txt).
 - +215 (léto) — Je svědkem/účastníkem finální konfrontace v Posledním bdění, kde Kaelen úspěšně neutralizuje Hlas Nicoty a obnovuje Křehkou rovnováhu. Válka se stíny končí (viz Příběhy/jizva-ticha/3/5.txt).
+
+- +216 (jaro) — Vrací se ke svým mapám a zahajuje pokusy zaznamenávat "náladu" a "zdraví" krajiny, aby lépe zachytil křehkou rovnováhu uzdraveného světa (viz Příběhy/jizva-ticha/3/6.txt).
 
 Poznámky:
 Jeho zkušenost z něj činí klíčového svědka pro pochopení mechanismu 'přepisování' reality.

@@ -3,10 +3,10 @@ jmeno: Eamon z Břehů
 kategorie: beings
 stav: zivy (těžce zraněný)
 aliasy: Strážce, Lovec
-naposledy_upraveno: 2025-10-06
+naposledy_upraveno: 2025-10-07
 
 Popis:
-Drsný samotář a poslední známý potomek prastarého rodu Strážců jezera. Nežije v žádné osadě, ale putuje Srdcem starého světa jako tichý ochránce divokých a zapomenutých míst. Má hluboké, instinktivní spojení se zemí a jejími tvory. Je mistrem přežití, stopování a tichého boje. Ačkoliv není oficiálním členem Šedých svědků, udržuje s jejich vedením volný kontakt a občas pro ně plní úkoly v divočině.
+Drsný samotář a poslední známý potomek prastarého rodu Strážců jezera. Nežije v žádné osadě, ale putuje Srdcem starého světa jako tichý ochránce divokých a zapomenutých míst. Má hluboké, instinktivní spojení se zemí a jejími tvory. Je mistrem přežití, stopování a tichého boje. Ačkoliv není oficiálním členem Šedých svědků, udržuje s jejich vedením volný kontakt a občas pro ně plní úkoly v divočině. Po válce se stáhne zpět do divočiny, ale zanechává za sebou drobné dary a stopy péče, aby připomněl, že stále bdí.
 
 Dějiny:
 - +160 (cca) — Narodil se na březích Jezera odrazu, kde byl vychován v tradicích svých předků.
@@ -38,6 +38,8 @@ Dějiny:
 - +215 (léto) — Stává se svědkem Kaelenova vyčerpání a následného objevu Orinovy schopnosti aktivovat Rezonanční mísu. Okamžitě přizpůsobuje strategii pochodu novému rytmu střídání ochrany a postupu (viz Příběhy/jizva-ticha/3/3.txt).
 - +215 (léto) — Vede finální útok na Poslední bdění. Obětuje se v boji s Vymazanými strážci, aby Kaelen, Lyra a Orin mohli vstoupit do Ukotvené jeskyně (viz Příběhy/jizva-ticha/3/4.txt).
 - +215 (léto) — Přežije svůj sebevražedný útok na Vymazané, ačkoliv je těžce zraněn. Je svědkem konečného vítězství a uzdravení světa (viz Příběhy/jizva-ticha/3/5.txt).
+
+- +216 (jaro) — Mizí zpět do divočiny, ale nechává u Dubu paměti dary a léčivé byliny, čímž dává najevo, že stále chrání Srdce starého světa (viz Příběhy/jizva-ticha/3/6.txt).
 
 Poznámky:
 Jeho jméno je poctou Eamonovi, legendárnímu Strážci jezera, který stvořil Píseň rovnováhy. Představuje čtvrtého klíčového člena "Společenstva Jizvy".
