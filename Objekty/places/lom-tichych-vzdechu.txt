@@ -3,16 +3,18 @@ jmeno: Lom tichých vzdechů
 kategorie: places
 stav: opusteny
 aliasy: Jizva
-naposledy_upraveno: 2025-09-15
+naposledy_upraveno: 2025-09-28
 
 Popis:
 Starý, opuštěný lom, který je víc než jen jizvou v krajině; je to místo s hluboce zakořeněnou pamětí ztráty. Kámen zde po staletí absorboval tichý žal země nad vyrvanou ránou a ozvěny námahy a zapomnění. Tato koncentrovaná esence ticha a smutku není agresivní, ale má schopnost pohlcovat a neutralizovat jiné, chaotické myšlenky. Právě proto si ho Eamon vybral jako zdroj materiálu pro Rezonanční mísu. Pro Riana se v dětství stal klíčovým místem, které ho naučilo, že i neživá místa mají svou duši a paměť.
 
 Dějiny:
 - -4451 (cca) — Posloužil jako zdroj materiálu pro Eamona, který z jeho kamene vytesal Rezonanční mísu. Ticho lomu bylo klíčem k utišení chaosu Jezera odrazu (viz Příběhy/prvni-vek/jezerni-hlubina.txt).
-- -1540 (cca) — Rian v dětství často navštěvoval lom a vnímal jeho melancholickou atmosféru, což formovalo jeho chápání "paměti" míst (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
+- -1540 (cca) — Rian v dětství často navštěvoval lom a vnímal jeho melancholickou atmosféru, což formovalo jeho chápání „paměti“ míst (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
 - +215 (jaro) — Po neúspěchu u Jezera odrazu se lom stává novým cílem novodobých Ladičů, kteří doufají, že zde najdou materiál pro vytvoření nové Rezonanční mísy (viz Příběhy/jizva-ticha/2/2.txt).
+- +215 (jaro) — Družina vedená Kaelenem dorazí k lomu skrze vedení Kamenného potoka. Zjišťují, že kámen stále pohlcuje ozvěny a nabízí Kaelenovi dočasný mentální klid, čímž potvrzují vhodnost místa pro obnovu nástroje Strážců (viz Příběhy/jizva-ticha/2/4.txt).
+- +215 (jaro) — Po týdnu kombinování Vorinových měření a Eamonovy intuice, z Kaelenovy iniciativy, Ladiči identifikují a společnou prací vylomí dokonalý blok kamene určený pro novou Rezonanční mísu; těžba potvrdí, že lom stále skrývá jedinečný materiál (viz Příběhy/jizva-ticha/2/6.txt).
 
 Poznámky:
-Pojmenování "Lom tichých vzdechů" pochází od Riana a odráží jeho vnímání místa. Místní obyvatelé ho znají pouze pod pragmatickým názvem "Jizva".
+Pojmenování „Lom tichých vzdechů“ pochází od Riana a odráží jeho vnímání místa. Místní obyvatelé ho znají pouze pod pragmatickým názvem „Jizva“.
 Melancholie tohoto místa je přímým projevem Sochaře, truchlícího nad zraněním země.

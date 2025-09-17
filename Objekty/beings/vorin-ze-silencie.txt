@@ -3,7 +3,7 @@ jmeno: Vorin ze Silencie
 kategorie: beings
 stav: zivy
 aliasy: Archivář
-naposledy_upraveno: 2025-09-26
+naposledy_upraveno: 2025-10-01
 
 Popis:
 Historik, archivář a vědec z města Silencia. Je členem reformovaného řádu Naslouchačů. Je to chladný pragmatik a skeptik, který věří v data, měření a zaznamenaná fakta. Hrozbu z Tiché prázdnoty nevnímá mysticky, ale jako "informační anomálii" nebo "logickou korupci", která ohrožuje integritu zaznamenané historie. K řešení problémů přistupuje analyticky a spoléhá se na technologii a znalosti svých předků.
@@ -23,6 +23,13 @@ Dějiny:
 - +215 (jaro) — Na březích Jezera odrazu přijímá specifickou roli v rámci plánu na rekonstrukci Písně rovnováhy, čímž se formálně stává jedním z novodobých "Ladičů". Tímto rozhodnutím končí první fáze jejich cesty (viz Příběhy/jizva-ticha/1/15.txt).
 - +215 (jaro) — Při prvním pokusu Ladičů o rekonstrukci Písně rovnováhy izoluje pomocí krystalů čistý logický vzorec Hvězdné mysli. Střet s pramenem paměti Země však téměř zabije Kaelena a donutí Vorina přehodnotit, jak má jeho data sloužit lidskému mostu (viz Příběhy/jizva-ticha/2/1.txt).
 - +215 (jaro) — První pokus o rekonstrukci Písně je násilně přerušen. Dozvídá se o existenci Rezonanční mísy a přijímá nový cíl cesty k Lomu tichých vzdechů (viz Příběhy/jizva-ticha/2/2.txt).
+- +215 (jaro) — Spoléhá na vedení Kaelena a jeho unikátní metodu navigace podle Kamenného atlasu během cesty k Lomu tichých vzdechů (viz Příběhy/jizva-ticha/2/3.txt).
+- +215 (jaro) — V Lomu tichých vzdechů pozoruje, že jeho přístroje téměř mlčí, a formuluje teorii kamene jako dokonalého mentálního filtru; v Osadě Vřesová stráň začíná plánovat, jak jeho poznatky využít pro stavbu nové Rezonanční mísy (viz Příběhy/jizva-ticha/2/4.txt).
+- +215 (jaro) — Vystupuje jako vyjednavač s Elarou, nabízí silenské jehly i techniky tvarování kamene a spolu s Eamonem definuje postup, jak spojit jejich tradice do nové Rezonanční mísy (viz Příběhy/jizva-ticha/2/5.txt).
+- +215 (jaro) — V Lomu tichých vzdechů se zpočátku střetává jeho vědecký přístup s Eamonovou intuicí. Nakonec jsou nuceni spolupracovat a úspěšně nacházejí a získávají surový blok kamene pro Rezonanční mísu, čímž položí základ pro svou budoucí spolupráci (viz Příběhy/jizva-ticha/2/6.txt).
+- +215 (jaro) — Ve staré ovčárně ve Vřesové stráni přijme Kaelenův návrh na "rezonanci ticha" a s Joricem začne sestrojovat rezonanční fokusátor, který se bude ladit podle Lyřina živého senzoru, zatímco Eamon vyznačuje symbolické linie nové mísy (viz Příběhy/jizva-ticha/2/7.txt).
+- +215 (jaro) — Při prvním spuštění fokusátoru ladí frekvence podle Lyřiných vjemů, zaznamenává reakce kamene a čelí disharmonické vlně, když Lyra ztratí kontakt s tichem. Událost ho přiměje uznat, že data musí být podřízena živému senzoru (viz Příběhy/jizva-ticha/2/8.txt; Objekty/things/rezonancni-fokusator.txt).
+- +215 (jaro/léto) — Fascinován korelací Lyřiny únavy s čistotou rezonance, vede detailní záznamy a po probuzení mísy přijímá, že data a duše mohou sdílet jeden výsledek (viz Příběhy/jizva-ticha/2/9.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jména Vorina, zakladatele Silencie, což odráží jeho hluboké spojení s historií a dědictvím města.

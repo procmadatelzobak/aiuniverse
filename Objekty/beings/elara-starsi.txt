@@ -1,0 +1,17 @@
+id: obj:beings/elara-starsi
+jmeno: Stará Elara
+kategorie: beings
+stav: ziva
+aliasy: Elara z Vřesové stráně
+naposledy_upraveno: 2025-10-01
+
+Popis:
+Stařešina a neformální vůdkyně Osady Vřesová stráň v roce +215. Je to tvrdá, pragmatická a nedůvěřivá žena, jejíž hlavní prioritou je přežití a prosperita její komunity. O svět za hranicemi svého kraje se zajímá jen tehdy, když přináší hmatatelnou hodnotu; víc než slibům rozumí výměně práce a zboží. Pamatuje si legendy o "bláznivém chlapci Rianovi" a vnímá jeho odkaz jako varování před nebezpečným sněním.
+
+Dějiny:
+- +140 (cca) — Narodila se ve Vřesové stráni.
+- +215 (jaro) — Setkává se se skupinou novodobých Ladičů a po pragmatickém vyjednávání s Vorinem a Eamonem jim poskytne starou ovčárnu jako útočiště a povolí práci v Lomu tichých vzdechů výměnou za silenské jehly a hedvábí (viz Příběhy/jizva-ticha/2/5.txt; Objekty/places/osada-vresova-stran.txt).
+- +215 (jaro/léto) — Pravidelně navštěvuje ovčárnu, uzná řemeslnou kvalitu vznikající mísy a stane se svědkyní jejího dokončení i probuzení vlnou ticha (viz Příběhy/jizva-ticha/2/9.txt).
+
+Poznámky:
+Ztělesňuje ducha Osady Vřesová stráň. Její jméno "Elara" je další ukázkou opakujících se jmen-archetypů ve světě.
