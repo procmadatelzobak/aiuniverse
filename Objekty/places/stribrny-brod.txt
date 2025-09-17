@@ -3,14 +3,15 @@ jmeno: Stříbrný Brod
 kategorie: places
 stav: obydlena (ohrožena)
 aliasy: —
-naposledy_upraveno: 2025-10-08
+naposledy_upraveno: 2025-10-09
 
 Popis:
-Malá a velmi izolovaná osada ležící ve východním podhůří, na samé hranici s Vyprahlými pláněmi zapomnění. Po staletí byla téměř odříznuta od zbytku světa. Její obyvatelé jsou soběstační a jejich kultura je založena na silné ústní tradici.
+Malá a velmi izolovaná osada ležící ve východním podhůří, na samé hranici s Vyprahlými pláněmi zapomnění. Po staletí byla téměř odříznuta od zbytku světa. Její obyvatelé jsou soběstační a jejich kultura je založena na silné ústní tradici, kterou však ničí plíživá ztráta kolektivní i osobní paměti. Dominantou osady je starý kamenný most přes řeku Stříbrnici.
 
 Dějiny:
 - Neznámo — Založena v Druhém nebo Třetím věku.
 - +235 — Osada trpí záhadnou, plíživou ztrátou kolektivní paměti. Vyšle zoufalou prosbu o pomoc do Údolí tichých ozvěn (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/1.txt).
+- +235 — Léčitel krajiny Rian dorazí do osady a potvrzuje kritický stav komunity. Stává se prvním zásahem z vnějšího světa po mnoha letech (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/2.txt).
 
 Poznámky:
 Blízkost Vyprahlých plání je pravděpodobnou příčinou jejího stavu.
