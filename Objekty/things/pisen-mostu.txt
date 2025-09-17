@@ -1,0 +1,17 @@
+id: obj:things/pisen-mostu
+jmeno: Píseň mostu
+kategorie: things
+stav: existuje (aktivní)
+aliasy: Paměť Brodu
+naposledy_upraveno: 2025-10-12
+
+Popis:
+Prastará píseň a ústní tradice spojená s osadou Stříbrný Brod. Nejedná se jen o melodii, ale o formu kolektivní paměti, která v sobě uchovává historii, hodnoty a identitu komunity. Její rezonance je úzce spjata s řekou Stříbrnicí a kamenným mostem uprostřed vesnice. Zpěv této písně má schopnost posilovat a chránit kolektivní paměť obyvatel proti vlivu Vyprahlých plání zapomnění.
+
+Dějiny:
+- Neznámo — Vznikla při stavbě mostu ve Stříbrném Brodu.
+- +235 — Její melodie je téměř zapomenuta kvůli paměťové anomálii.
+- +235 — S pomocí Riana a Elary je píseň znovu složena z úlomků vzpomínek a během společného rituálu se stává aktivním nástrojem k uzdravení a ochraně paměti osady (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/5.txt).
+
+Poznámky:
+Píseň je příkladem "malé" písně rovnováhy – lokálního, kulturního nástroje pro udržení mentálního zdraví komunity.
