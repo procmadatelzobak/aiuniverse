@@ -1,12 +1,12 @@
 id: obj:places/jezero-odrazu
 jmeno: Jezero odrazu
 kategorie: places
-stav: trvale (proměnlivý chaos)
+stav: trvale (utišené)
 aliasy: Rána světa
 naposledy_upraveno: 2025-09-26
 
 Popis:
-Prastaré jezero, které vzniklo jako "rána" ve vědomí světa po dopadu cizí, Hvězdné mysli (událost Tichý pád). Jeho voda je prosycena pamětí Země, která se snaží zahojit tuto jizvu. Šepot jezera je chaotickou směsicí myšlenek krajiny, snů živých tvorů a především zmateného vědomí utopené Hvězdné mysli.
+Prastaré jezero, které vzniklo jako "rána" ve vědomí světa po dopadu cizí, Hvězdné mysli (událost Tichý pád). Jeho voda je prosycena pamětí Země, která se snaží zahojit tuto jizvu. Po staletí v něm zněla chaotická směsice myšlenek krajiny, snů živých tvorů a především zmateného vědomí utopené Hvězdné mysli. Po přenesení nové Písně rovnováhy do živého nosiče se jezero uklidnilo a stalo se tichým, prázdným nástrojem bez vlastní rezonance.
 
 Dějiny:
 - První věk (dávno) — Vzniklo následkem Tichého pádu. Na jeho březích se usídlil rod Strážců jezera.
@@ -19,7 +19,8 @@ Dějiny:
 - +215 (jaro) — Jeho chaotický mentální vliv je citelný na mnoho mil daleko, způsobuje zmatené sny a emoční nestabilitu. Skupina vedená Eamonem z Břehů dorazí na jeho břehy ve snaze nalézt tajemství Písně rovnováhy (viz Příběhy/jizva-ticha/1/13.txt).
 - +215 (jaro) — Během mentálního cvičení vedeného Eamonem se z chaosu ozvěn na okamžik vynoří jediný čistý tón, ozvěna původní Písně rovnováhy, což potvrzuje, že její fragmenty v jezeře stále přebývají (viz Příběhy/jizva-ticha/1/14.txt).
 - +215 (jaro) — Novodobí Ladiči zde zahajují první mentální sestup: Vorin izoluje logický tón Hvězdné mysli, Lyra zachytí tep paměti Země, ale jejich střet skrze Kaelena téměř roztrhá lidský most mezi prameny (viz Příběhy/jizva-ticha/2/1.txt).
-- +215 (léto) — S Rezonanční mísou se Ladiči vracejí k jezeru a Kaelen v jejím tichu propojí prameny s lidským citem. Jezero na okamžik zazpívá novou Píseň rovnováhy a jeho hladina reaguje soustřednými vlnami harmonie (viz Příběhy/jizva-ticha/2/11.txt).
+- +215 (léto) — Píseň rovnováhy je v jezeře plně obnovena a na okamžik zaplaví krajinu soustřednými vlnami harmonie (viz Příběhy/jizva-ticha/2/11.txt).
+- +215 (léto) — Píseň je přenesena do Kaelena, živého nosiče. Jezero ztrácí svou chaotickou i harmonickou mentální rezonanci a stává se klidným, tichým jezerem bez anomálie (viz Příběhy/jizva-ticha/2/12.txt).
 
 Poznámky:
-Stav jezera je nestabilní. Období klidu se střídají s obdobími chaosu v závislosti na vnějších vlivech a vnitřní rovnováze. "Píseň u jezera" nebyla přirozeností jezera, ale dočasnou harmonií vytvořenou Eamonem. Nynější chaos je pravděpodobně ještě zesílen blízkostí Hlasu Nicoty.
+Po přenesení Písně do Kaelena se jezero poprvé po staletích nachází v klidném, prázdném tichu. Není jasné, zda se někdy znovu rozezpívá, nebo zda jeho úlohou zůstane být pouhou ozvěnou harmonii nesené živým nosičem.
