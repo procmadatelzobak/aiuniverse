@@ -1,7 +1,7 @@
 id: obj:beings/kaelen-z-udoli
 jmeno: Kaelen z Údolí
 kategorie: beings
-stav: zivy (nosič Písně, nestabilní)
+stav: zivy (nosič Písně, vědomě nestabilní)
 aliasy: Nosič písně, Živoucí ladička
 naposledy_upraveno: 2025-10-01
 
@@ -39,6 +39,7 @@ Dějiny:
 - +215 (léto) — Dobrovolně na sebe bere úkol stát se živým nosičem Písně rovnováhy. Během rituálu s Rezonanční mísou internalizuje harmonii, která opouští Jezero odrazu, a stává se součástí jeho duše. Tento akt ho trvale poznamená (viz Příběhy/jizva-ticha/2/12.txt).
 - +215 (léto) — Během cesty na sever se plně projeví důsledky jeho transformace. Jeho přítomnost uklidňuje přírodu a aktivně ruší vliv Hlasu Nicoty. Stává se tak "živoucím protijedem", ale zároveň i majákem, který na sebe upozorňuje nepřítele (viz Příběhy/jizva-ticha/2/13.txt).
 - +215 (léto) — Aby ochránil skupinu a Děti Ticha před vlnou Vymazaných, záměrně použije pouze logický pramen Písně rovnováhy jako zbraň. Útok naruší spojení Vymazaných s Hlasem Nicoty, ale Kaelen přitom ztratí vlastní vnitřní rovnováhu a podlehne chladné logice Hvězdné mysli (viz Příběhy/jizva-ticha/2/14.txt).
+- +215 (léto) — S pomocí Lyry, která proti němu použije chaotický pramen paměti země, je jeho vnitřní rovnováha násilně obnovena. Tato zkušenost ho hluboce traumatizuje, ale zároveň naučí, že Píseň nelze aktivně ovládat, ale musí být pasivně udržována v rovnováze. Jeho úkol se stává neustálým vnitřním bojem (viz Příběhy/jizva-ticha/2/15.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jmen významných postav minulosti (Kaelen, První mluvčí; kameník Kael; lovec Kaelan), což může symbolizovat tíhu dědictví, které nese.

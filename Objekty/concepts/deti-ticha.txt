@@ -12,6 +12,7 @@ Dějiny:
 0 — Vznikli z trosek řádu Mlčících poutníků po Tichém úsvitu. Odmítli se připojit k Šedým svědkům a stáhli se do izolace.
 +215 (jaro) — Konfrontují expedici Šedých svědků. Mladá lovkyně Lyra se rozhodne opustit komunitu a připojit se k expedici (viz Příběhy/jizva-ticha/1/5.txt).
 +215 (léto) — V Tichých vrších se postaví vlně Vymazaných, aby koupili čas pro Kaelena a jeho společníky. Jejich sebevražedný postoj je zachráněn Kaelenovým zásahem, který ochromí Vymazané a odhalí moc Písně rovnováhy (viz Příběhy/jizva-ticha/2/14.txt).
++215 (léto) — Je svědkem Kaelenova pádu do nerovnováhy a následné záchrany Lyrou. Plně si uvědomuje křehkost jejich "zbraně" a nebezpečí, které představuje cesta k Poslednímu bdění (viz Příběhy/jizva-ticha/2/15.txt).
 
 Poznámky:
 Jejich sídlo, Osada tichého stínu, je pravděpodobně postaveno tak, aby minimalizovalo svou "ozvěnu" v krajině.
