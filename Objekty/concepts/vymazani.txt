@@ -10,6 +10,7 @@ Popis:
 
 Dějiny:
 +215 (jaro) — Poprvé se s nimi setkává expedice Šedých svědků v Ukotvené jeskyni u Posledního bdění. Jde o jednoho z bývalých strážců stanice (viz Příběhy/jizva-ticha/1/7.txt).
++215 (léto) — Hlas Nicoty shromáždí stovku Vymazaných v Tichých vrších, aby vytvořili živou bariéru proti Kaelenovi a jeho společníkům. Kaelenův útok naruší jejich spojení a dočasně je probudí, což dokládá zranitelnost jejich vazby (viz Příběhy/jizva-ticha/2/14.txt).
 
 Poznámky:
 Jsou tragickým ztělesněním konečného vítězství Prázdnoty nad existencí. Není známo, zda je jejich stav vratný.
