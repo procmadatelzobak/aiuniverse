@@ -1,18 +1,19 @@
 id: obj:beings/elara-z-brodu
 jmeno: Elara z Brodu
 kategorie: beings
-stav: ziva (ohrožena)
+stav: ziva (uzdravená)
 aliasy: —
-naposledy_upraveno: 2025-10-11
+naposledy_upraveno: 2025-10-12
 
 Popis:
-Mladá žena z osady Stříbrný Brod. V době paměťové anomálie je jednou z mála, kdo si ještě uvědomuje plný rozsah ztráty, která její lid postihuje. Je autorkou svitku, který přivolal pomoc ze Šedých svědků. Je statečná a odhodlaná, ale nese v sobě hluboký smutek a strach ze zapomnění. Je hlavním zdrojem informací a spojencem pro Riana v osadě.
+Mladá žena z osady Stříbrný Brod. V době paměťové anomálie je jednou z mála, kdo si ještě uvědomuje plný rozsah ztráty, která její lid postihuje. Je autorkou svitku, který přivolal pomoc ze Šedých svědků. Je statečná a odhodlaná, ale nese v sobě hluboký smutek a strach ze zapomnění. Po obnovení Písně mostu se stává nositelkou nové naděje a živou pamětí své komunity.
 
 Dějiny:
 - +212 (cca) — Narodila se ve Stříbrném Brodu.
 - +235 — Je autorkou a odesílatelkou svitku s žádostí o pomoc. Po Rianově příchodu se stává jeho průvodkyní a spojenkyní (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/2.txt).
 - +235 — Vede Riana proti proudu Stříbrnice až k Srdci pramene a pomáhá mu rozeznat ozvěny krajiny, které je dovedou k dormantnímu zdroji paměti regionu (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/3.txt; Objekty/places/srdce-pramene.txt).
 - +235 — Slouží jako klíčová paměťová kotva během rituálu v Srdci pramene. Její schopnost udržet útržek prastaré písně umožní Rianovi probudit zdroj paměti řeky Stříbrnice (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/4.txt; Objekty/places/srdce-pramene.txt; Objekty/places/stribrnice.txt).
+- +235 — Přivádí komunitu Stříbrného Brodu k obnově Písně mostu. Zazpívá první útržek melodie a vede vesničany, aby znovu složili jejich společnou paměť během rituálu na mostě (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/5.txt; Objekty/places/stribrny-brod.txt; Objekty/things/pisen-mostu.txt).
 
 Poznámky:
 Její jméno je dalším příkladem opakujícího se archetypu "Elara" – moudré ženy/ochránkyně paměti.

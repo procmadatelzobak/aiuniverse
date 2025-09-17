@@ -1,18 +1,19 @@
 id: obj:places/stribrny-brod
 jmeno: Stříbrný Brod
 kategorie: places
-stav: obydlena (ohrožena)
+stav: obydlena (uzdravená)
 aliasy: —
-naposledy_upraveno: 2025-10-10
+naposledy_upraveno: 2025-10-12
 
 Popis:
-Malá a velmi izolovaná osada ležící ve východním podhůří, na samé hranici s Vyprahlými pláněmi zapomnění. Po staletí byla téměř odříznuta od zbytku světa. Její obyvatelé jsou soběstační a jejich kultura je založena na silné ústní tradici, kterou však ničí plíživá ztráta kolektivní i osobní paměti. Dominantou osady je starý kamenný most přes řeku Stříbrnici.
+Malá a velmi izolovaná osada ležící ve východním podhůří, na samé hranici s Vyprahlými pláněmi zapomnění. Po staletí byla téměř odříznuta od zbytku světa. Její obyvatelé jsou soběstační a jejich kultura je založena na silné ústní tradici, kterou však dlouho ničila plíživá ztráta kolektivní i osobní paměti. Dominantou osady je starý kamenný most přes řeku Stříbrnici, který se stal oporou jejich obnovené identity.
 
 Dějiny:
 - Neznámo — Založena v Druhém nebo Třetím věku.
 - +235 — Osada trpí záhadnou, plíživou ztrátou kolektivní paměti. Vyšle zoufalou prosbu o pomoc do Údolí tichých ozvěn (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/1.txt).
 - +235 — Léčitel krajiny Rian dorazí do osady a potvrzuje kritický stav komunity. Stává se prvním zásahem z vnějšího světa po mnoha letech (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/2.txt).
 - +235 — Rian a Elara opouštějí osadu, aby nalezli Srdce pramene; jejich výprava potvrzuje, že obnova paměti Stříbrného Brodu závisí na probuzení tohoto zdroje řeky (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/3.txt; Objekty/places/srdce-pramene.txt).
+- +235 — Pod Rianovým vedením vesničané provedou rituál společného zpěvu u mostu. Tímto aktem se jim podaří obnovit a posílit svou kolektivní paměť, čímž překonají vliv Plání zapomnění. Osada se začíná vracet k normálnímu životu (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/5.txt; Objekty/things/pisen-mostu.txt).
 
 Poznámky:
 Blízkost Vyprahlých plání je pravděpodobnou příčinou jejího stavu.
