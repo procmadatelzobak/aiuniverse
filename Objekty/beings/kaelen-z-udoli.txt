@@ -6,7 +6,7 @@ aliasy: Nosič písně, Živoucí ladička
 naposledy_upraveno: 2025-10-01
 
 Popis:
-Mladý a idealistický akolyta řádu Šedých svědků, který vyrostl v Údolí tichých ozvěn. Je hluboce sečtělý v historii a legendách Věků, se zvláštním zaměřením na hrdinské činy minulosti. Má výjimečný cit pro Kamenný atlas, který nevnímá jen jako historický artefakt, ale jako živoucí text. Ačkoliv je teoreticky velmi zdatný, postrádá praktické zkušenosti se světem mimo bezpečí údolí. Po úspěšném stvoření Písně rovnováhy se dobrovolně stal jejím živým nosičem, aby ji mohl přenést na sever a postavit se Hlasu Nicoty. Tento proces ho trvale změnil; Píseň je nyní neoddělitelnou součástí jeho bytosti, což se projevuje subtilními změnami v jeho vzhledu a hlase. Jeho mysl je neustále v křehké rovnováze, kterou musí aktivně udržovat.
+Mladý a idealistický akolyta řádu Šedých svědků, který vyrostl v Údolí tichých ozvěn. Je hluboce sečtělý v historii a legendách Věků, se zvláštním zaměřením na hrdinské činy minulosti. Má výjimečný cit pro Kamenný atlas, který nevnímá jen jako historický artefakt, ale jako živoucí text. Ačkoliv je teoreticky velmi zdatný, postrádá praktické zkušenosti se světem mimo bezpečí údolí. Po úspěšném stvoření Písně rovnováhy se dobrovolně stal jejím živým nosičem, aby ji mohl přenést na sever a postavit se Hlasu Nicoty. Tento proces ho trvale změnil; Píseň je nyní neoddělitelnou součástí jeho bytosti, což se projevuje subtilními změnami v jeho vzhledu a hlase. Jeho přítomnost má aktivní, pasivní účinek na okolí: uklidňuje živé tvory a automaticky neutralizuje a maže "falešné ozvěny" a další projevy Hlasu Nicoty. Jeho mysl je neustále v křehké rovnováze, kterou musí aktivně udržovat.
 
 Dějiny:
 - cca +195 — Narodil se v Údolí tichých ozvěn.
@@ -37,6 +37,7 @@ Dějiny:
 - +215 (léto) — Na cestě zpět k Jezeru odrazu kráčí po boku nosítek Rezonanční mísy, dotykem s jejím rámem stabilizuje úlomky cizích vědomí ve své mysli a přijímá aktivnější vedení společenstva (viz Příběhy/jizva-ticha/2/10.txt).
 - +215 (léto) — S pomocí Rezonanční mísy, která vytvoří bezpečný most mezi prameny, se Kaelenovi podaří znovu propojit Hvězdnou mysl, paměť země a lidský cit. Stává se tak hlavním "dirigentem" a středobodem nové Písně rovnováhy (viz Příběhy/jizva-ticha/2/11.txt).
 - +215 (léto) — Dobrovolně na sebe bere úkol stát se živým nosičem Písně rovnováhy. Během rituálu s Rezonanční mísou internalizuje harmonii, která opouští Jezero odrazu, a stává se součástí jeho duše. Tento akt ho trvale poznamená (viz Příběhy/jizva-ticha/2/12.txt).
+- +215 (léto) — Během cesty na sever se plně projeví důsledky jeho transformace. Jeho přítomnost uklidňuje přírodu a aktivně ruší vliv Hlasu Nicoty. Stává se tak "živoucím protijedem", ale zároveň i majákem, který na sebe upozorňuje nepřítele (viz Příběhy/jizva-ticha/2/13.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jmen významných postav minulosti (Kaelen, První mluvčí; kameník Kael; lovec Kaelan), což může symbolizovat tíhu dědictví, které nese.
