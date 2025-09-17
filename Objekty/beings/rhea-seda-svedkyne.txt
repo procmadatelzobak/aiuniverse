@@ -43,6 +43,8 @@ Dějiny:
 
 - +215 (léto) — Přijímá spojenectví s Dětmi Ticha a vede ochranný štít kolem Nosiče písně během pochodu k Poslednímu bdění. Hlas Nicoty aktivně přepisuje realitu a Rhea koordinuje odpověď "Tiché armády" (viz Příběhy/jizva-ticha/3/1.txt).
 - +215 (léto) — Stává se obětí masivní mentální iluze stvořené Hlasem Nicoty. Je osvobozena díky spojenému úsilí Lyry a Kaelena, což prohlubuje její důvěru v jejich vzájemnou závislost (viz Příběhy/jizva-ticha/3/2.txt).
+- +215 (léto) — Stává se obětí masivní mentální iluze stvořené Hlasem Nicoty. Je osvobozena díky spojenému úsilí Lyry a Kaelena, což prohlubuje její důvěru v jejich vzájemnou závislost (viz Příběhy/jizva-ticha/3/2.txt).
+- +215 (léto) — Stává se svědkem Kaelenova vyčerpání a následného objevu Orinovy schopnosti aktivovat Rezonanční mísu. Tato nová strategie jim umožní pokračovat v cestě (viz Příběhy/jizva-ticha/3/3.txt).
 
 Poznámky:
 Její jméno je ozvěnou jmen jiných postav (Rhea, pomocnice Eliana ze Silencie; Rhea, vůdkyně přeživších v Posledním bdění v příběhu o Lianovi), což může být tradice v řádu nebo ozvěna samotného světa.
