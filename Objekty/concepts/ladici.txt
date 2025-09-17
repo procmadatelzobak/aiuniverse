@@ -28,6 +28,8 @@ Vorin je určen jako "ucho pro hvězdy", Lyra jako "ucho pro zemi" a Kaelen jako
 
 +215 (jaro) — Zahajují první rezonanční tvarování kamene. Lyra, Kaelen a Vorin synchronizují fokusátor s "dobrou prázdnotou" bloku a potvrzují, že metoda novodobých Ladičů dokáže kámen přesvědčit, aby se tvaroval sám (viz Příběhy/jizva-ticha/2/8.txt; Objekty/things/rezonancni-fokusator.txt).
 
++215 (léto) — S dokončenou Rezonanční mísou se vracejí k Jezeru odrazu a pod vedením Eamona provádějí druhý sestup. Kaelen v tichem chráněném prostoru spojí prameny s lidským citem a zrodí novou Píseň rovnováhy, která se stává jejich zbraní i posláním (viz Příběhy/jizva-ticha/2/9.txt; Příběhy/jizva-ticha/2/10.txt; Příběhy/jizva-ticha/2/11.txt).
+
 Poznámky:
 Jejich pokus je nesmírně nebezpečný a jeho výsledek nejistý. Představuje první
 aktivní, ofenzivní krok proti hrozbě z Tiché prázdnoty.
