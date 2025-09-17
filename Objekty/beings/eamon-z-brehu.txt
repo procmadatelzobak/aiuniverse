@@ -3,7 +3,7 @@ jmeno: Eamon z Břehů
 kategorie: beings
 stav: zivy
 aliasy: Strážce, Lovec
-naposledy_upraveno: 2025-09-29
+naposledy_upraveno: 2025-09-30
 
 Popis:
 Drsný samotář a poslední známý potomek prastarého rodu Strážců jezera. Nežije v žádné osadě, ale putuje Srdcem starého světa jako tichý ochránce divokých a zapomenutých míst. Má hluboké, instinktivní spojení se zemí a jejími tvory. Je mistrem přežití, stopování a tichého boje. Ačkoliv není oficiálním členem Šedých svědků, udržuje s jejich vedením volný kontakt a občas pro ně plní úkoly v divočině.
@@ -23,6 +23,7 @@ Dějiny:
 - +215 (jaro) — Ve staré ovčárně sdílí symboly a tvary Strážců jezera, které musí mít Rezonanční mísa, aby léčivě zpívala; spolu s Vorinem přijímá plán spojit jejich tradice do nového nástroje (viz Příběhy/jizva-ticha/2/5.txt).
 - +215 (jaro) — Jeho intuitivní znalost země se zpočátku střetává s Vorinovým pragmatismem. Díky Kaelenovi najdou společnou řeč a jejich spojené síly vedou k nalezení a vylomení dokonalého kamene pro Rezonanční mísu (viz Příběhy/jizva-ticha/2/6.txt).
 - +215 (jaro) — Ve staré ovčárně ve Vřesové stráni brání duchovní tradice Strážců jezera, kreslí na kámen vodicí symboly a přijímá Kaelenův kompromis: Lyra naslouchá tichu kamene, zatímco Vorinův fokusátor kopíruje jeho rezonanci (viz Příběhy/jizva-ticha/2/7.txt).
+- +215 (jaro) — Při prvním tvarování sedí po boku Rhey u vchodu, sleduje Lyřinu námahu a připomíná Kaelenovi i Lyeře klid Lomu. Jeho rituální linie určují, kde se kámen začíná sám odlučovat (viz Příběhy/jizva-ticha/2/8.txt).
 
 Poznámky:
 Jeho jméno je poctou Eamonovi, legendárnímu Strážci jezera, který stvořil Píseň rovnováhy. Představuje čtvrtého klíčového člena "Společenstva Jizvy".

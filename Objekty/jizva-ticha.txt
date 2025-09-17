@@ -3,7 +3,7 @@ jmeno: Jizva Ticha (Trilogie)
 kategorie: meta
 stav: probiha
 aliasy: —
-naposledy_upraveno: 2025-09-29
+naposledy_upraveno: 2025-09-30
 
 Popis:
 Epická trilogie popisující události Čtvrtého věku, konkrétně krizi spojenou se sílící hrozbou z Tiché prázdnoty a zrodem Hlasu Nicoty. Děj sleduje putování nesourodé skupiny hrdinů, kteří se snaží pochopit a zastavit tuto novou formu "odmazávání" reality.
@@ -29,6 +29,7 @@ Dějiny:
 - +215 (jaro) — Kniha Druhá, Kapitola 5: Ve Vřesové stráni vyjednají Ladiči s Elarou útočiště ve staré ovčárně, obchodují silenské jehly za zásoby a plánují vytvoření nové Rezonanční mísy spojením Vorinových znalostí Silencie a Eamonova dědictví Strážců jezera (viz Příběhy/jizva-ticha/2/5.txt).
 - +215 (jaro) — Kniha Druhá, Kapitola 6: Po týdnu hledání v Lomu tichých vzdechů Vorin a Eamon, s pomocí Kaelenova vhledu, společně identifikují a vylomí dokonalý blok kamene pro novou Rezonanční mísu. Tím je úspěšně završena první fáze výroby nástroje (viz Příběhy/jizva-ticha/2/6.txt).
 - +215 (jaro) — Kniha Druhá, Kapitola 7: Ve staré ovčárně ve Vřesové stráni Ladiči spojí Vorinovu technologii se symboly Strážců jezera. Kaelen navrhne využít rezonanci samotného ticha, Lyra se stane živým senzorem a Vorin s Joricem připraví rezonanční fokusátor pro tvarování kamene (viz Příběhy/jizva-ticha/2/7.txt).
+- +215 (jaro) — Kniha Druhá, Kapitola 8: Vorinův rezonanční fokusátor, Lyřina schopnost naslouchat tichu a Kaelenův překlad vytvoří první synchronizaci mezi strojem a kamenem. Tvarování Rezonanční mísy začíná a zároveň se prohlubuje pouto mezi Kaelenem a Lyrou (viz Příběhy/jizva-ticha/2/8.txt).
 
 Poznámky:
 Tento meta objekt slouží ke sledování hlavního dějového oblouku trilogie.

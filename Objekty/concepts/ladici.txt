@@ -3,7 +3,7 @@ jmeno: Ladiči (novodobí)
 kategorie: concepts
 stav: formuje se
 aliasy: Společenstvo Jizvy
-naposledy_upraveno: 2025-09-29
+naposledy_upraveno: 2025-09-30
 
 Popis:
 Neformální označení pro skupinu hrdinů (Kaelen, Lyra, Vorin, Eamon, Rhea, Joric,
@@ -25,6 +25,8 @@ Vorin je určen jako "ucho pro hvězdy", Lyra jako "ucho pro zemi" a Kaelen jako
 +215 (jaro) — Pod Kaelenovým vedením sledují Kamenný atlas k Lomu tichých vzdechů, kde Lyra stabilizuje jejich mysl, Eamon zajišťuje alianci s Osadou Vřesová stráň a skupina získává surový blok kamene pro novou Rezonanční mísu (viz Příběhy/jizva-ticha/2/3.txt; Příběhy/jizva-ticha/2/4.txt; Příběhy/jizva-ticha/2/5.txt; Příběhy/jizva-ticha/2/6.txt).
 
 +215 (jaro) — Ve staré ovčárně ve Vřesové stráni přijímají Kaelenovu syntézu techniky Silencie a symboliky Strážců jezera: Vorin a Joric staví rezonanční fokusátor, Lyra se stává živým senzorem a Eamon vyznačuje vodicí linie pro tvarování kamene (viz Příběhy/jizva-ticha/2/7.txt).
+
++215 (jaro) — Zahajují první rezonanční tvarování kamene. Lyra, Kaelen a Vorin synchronizují fokusátor s "dobrou prázdnotou" bloku a potvrzují, že metoda novodobých Ladičů dokáže kámen přesvědčit, aby se tvaroval sám (viz Příběhy/jizva-ticha/2/8.txt; Objekty/things/rezonancni-fokusator.txt).
 
 Poznámky:
 Jejich pokus je nesmírně nebezpečný a jeho výsledek nejistý. Představuje první
