@@ -1,16 +1,17 @@
 id: obj:places/srdce-pramene
 jmeno: Srdce pramene
 kategorie: places
-stav: trvaly (oslabené)
+stav: probuzené
 aliasy: Jeskyně písně
-naposledy_upraveno: 2025-10-10
+naposledy_upraveno: 2025-10-11
 
 Popis:
-Malá jeskynní prostota v kopcích poblíž Vyprahlých plání zapomnění, kde pramení řeka Stříbrnice. Stěny jeskyně jsou pokryty nedokonalými paměťovými krystaly. Voda zde prosakuje přímo ze skalní stěny. Místo je zdrojem "písně" neboli paměťové rezonance řeky a přilehlé oblasti. Vlivem Plání zapomnění je tato rezonance extrémně oslabená, "spící", což způsobuje paměťovou anomálii v celém regionu.
+Malá jeskynní prostota v kopcích poblíž Vyprahlých plání zapomnění, kde pramení řeka Stříbrnice. Stěny jeskyně jsou pokryty nedokonalými paměťovými krystaly a voda zde prosakuje přímo ze skalní stěny. Místo je zdrojem "písně" neboli paměťové rezonance řeky a přilehlé oblasti. Dlouho bylo utlumené vlivem Plání zapomnění, po rituálu Riana a Elary se však rezonance znovu probudila a začala posilovat paměť krajiny.
 
 Dějiny:
 - Pradávno — Vzniklo jako geologická a metafyzická anomálie.
 - +235 — Rian, léčitel krajiny, a Elara z Brodu sem dorazí na své pouti. Rian zde objeví spící ozvěnu písně, která je klíčem k uzdravení Stříbrného Brodu (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/3.txt).
+- +235 — Píseň místa je úspěšně probuzena rituálem, který provedl Rian. Jeskyně se opět stává aktivním zdrojem harmonické paměťové rezonance, která začíná proudit do řeky Stříbrnice (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/4.txt).
 
 Poznámky:
-Je to místo s vysokou koncentrací paměti, ale v pasivním, dormantním stavu. K jeho "probuzení" je nutný vnější katalyzátor.
+Probuzena rezonance je citlivá na rušení z Plání zapomnění a vyžaduje pravidelné ladění, aby zůstala stabilní.

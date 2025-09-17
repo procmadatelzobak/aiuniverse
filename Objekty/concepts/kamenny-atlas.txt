@@ -3,7 +3,7 @@ jmeno: Kamenný atlas
 kategorie: concepts
 stav: trvaly
 aliasy: Atlas duše světa
-naposledy_upraveno: 2025-09-28
+naposledy_upraveno: 2025-10-11
 
 Popis:
 Monumentální dílo kartografa Riana, vytesané do skalní stěny v Údolí tichých ozvěn.
@@ -21,6 +21,7 @@ Dějiny:
 - 0 — Stal se místem uzavření Tichého úsvitu, který zahájil Čtvrtý věk (viz Příběhy/ctvrty-vek/tichy-usvit.txt).
 - +215 (jaro) — Kreslená kopie Atlasu, kterou u sebe nosí Kaelen, se stává klíčovým navigačním nástrojem pro nalezení cesty k Lomu tichých vzdechů. Kaelenova narušená mysl se dokáže napojit na Rianovy zaznamenané emoce a použít je k vedení skupiny (viz Příběhy/jizva-ticha/2/3.txt).
 - +215 (jaro) — Kaelen z Atlasu cituje symbol "klid, který má sílu" a díky němu sladí Vorinovo hledání dokonalé funkce s Eamonovým citem pro živé ticho, což vede k nalezení vhodného kamene pro Rezonanční mísu (viz Příběhy/jizva-ticha/2/6.txt).
+- +235 — Paměťové jádro Atlasu vryté v Rianově mysli poslouží jako silná ozvěna při rituálu v Srdci pramene. Rian propojí Elarin útržek písně s pocitem "klidu, který má sílu" a probudí zdroj řeky Stříbrnice (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/4.txt; Objekty/places/srdce-pramene.txt; Objekty/places/stribrnice.txt; Objekty/beings/rian-lecitel.txt).
 
 Poznámky:
 Atlas je pro běžné lidi nesrozumitelný. Pro bytosti citlivé na hlas země však slouží jako kronika a zdroj hlubokého porozumění.
