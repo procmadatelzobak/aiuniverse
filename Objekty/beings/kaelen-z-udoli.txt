@@ -3,7 +3,7 @@ jmeno: Kaelen z Údolí
 kategorie: beings
 stav: zivy (nosič Písně, vědomě nestabilní)
 aliasy: Nosič písně, Živoucí ladička
-naposledy_upraveno: 2025-10-01
+naposledy_upraveno: 2025-10-02
 
 Popis:
 Mladý a idealistický akolyta řádu Šedých svědků, který vyrostl v Údolí tichých ozvěn. Je hluboce sečtělý v historii a legendách Věků, se zvláštním zaměřením na hrdinské činy minulosti. Má výjimečný cit pro Kamenný atlas, který nevnímá jen jako historický artefakt, ale jako živoucí text. Ačkoliv je teoreticky velmi zdatný, postrádá praktické zkušenosti se světem mimo bezpečí údolí. Po úspěšném stvoření Písně rovnováhy se dobrovolně stal jejím živým nosičem, aby ji mohl přenést na sever a postavit se Hlasu Nicoty. Tento proces ho trvale změnil; Píseň je nyní neoddělitelnou součástí jeho bytosti, což se projevuje subtilními změnami v jeho vzhledu a hlase. Jeho přítomnost má aktivní, pasivní účinek na okolí: uklidňuje živé tvory a automaticky neutralizuje a maže "falešné ozvěny" a další projevy Hlasu Nicoty. Jeho mysl je neustále v křehké rovnováze, kterou musí aktivně udržovat.
@@ -40,6 +40,8 @@ Dějiny:
 - +215 (léto) — Během cesty na sever se plně projeví důsledky jeho transformace. Jeho přítomnost uklidňuje přírodu a aktivně ruší vliv Hlasu Nicoty. Stává se tak "živoucím protijedem", ale zároveň i majákem, který na sebe upozorňuje nepřítele (viz Příběhy/jizva-ticha/2/13.txt).
 - +215 (léto) — Aby ochránil skupinu a Děti Ticha před vlnou Vymazaných, záměrně použije pouze logický pramen Písně rovnováhy jako zbraň. Útok naruší spojení Vymazaných s Hlasem Nicoty, ale Kaelen přitom ztratí vlastní vnitřní rovnováhu a podlehne chladné logice Hvězdné mysli (viz Příběhy/jizva-ticha/2/14.txt).
 - +215 (léto) — S pomocí Lyry, která proti němu použije chaotický pramen paměti země, je jeho vnitřní rovnováha násilně obnovena. Tato zkušenost ho hluboce traumatizuje, ale zároveň naučí, že Píseň nelze aktivně ovládat, ale musí být pasivně udržována v rovnováze. Jeho úkol se stává neustálým vnitřním bojem (viz Příběhy/jizva-ticha/2/15.txt).
+
+- +215 (léto) — Stává se součástí "Tiché armády" vedené Dětmi Ticha. Vydává se na finální pochod k Poslednímu bdění a čelí aktivnímu odporu Hlasu Nicoty, který přepisuje realitu, aby mu zabránil doručit Píseň rovnováhy (viz Příběhy/jizva-ticha/3/1.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jmen významných postav minulosti (Kaelen, První mluvčí; kameník Kael; lovec Kaelan), což může symbolizovat tíhu dědictví, které nese.
