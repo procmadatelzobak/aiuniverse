@@ -1,0 +1,16 @@
+id: obj:things/rezonancni-fokusator
+jmeno: Rezonanční fokusátor
+kategorie: things
+stav: funkcni (primitivní)
+aliasy: Ladička
+naposledy_upraveno: 2025-09-30
+
+Popis:
+Primitivní, ale funkční zařízení sestavené Vorinem ze Silencie ze zbytků jeho přístrojů a místních materiálů. Skládá se z měděných cívek, fokusované krystalové čočky a hrotu. Zařízení je schopno vysílat vysoce soustředěné zvukové vlny o proměnlivé frekvenci a amplitudě. Jeho primárním účelem je "rezonanční tvarování" – odlamování materiálu ne hrubou silou, ale naladěním se na jeho vnitřní rezonanci. K jeho přesnému ovládání je však nutný externí "senzor", schopný vnímat tuto rezonanci.
+
+Dějiny:
+- +215 (jaro) — Sestrojeno Vorinem a Joricem v Osadě Vřesová stráň za účelem vytvoření nové Rezonanční mísy (viz Příběhy/jizva-ticha/2/7.txt).
+- +215 (jaro) — Poprvé úspěšně použito v symbióze s Lyrou jako živým senzorem. Proces tvarování kamene započal (viz Příběhy/jizva-ticha/2/8.txt).
+
+Poznámky:
+Zařízení je příkladem spojení technologie Rezonujících s mystikou a intuicí. Jeho úspěch je plně závislý na spolupráci operátora (Vorina) a senzoru (Lyry).
