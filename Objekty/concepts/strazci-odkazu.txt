@@ -1,0 +1,16 @@
+id: obj:concepts/strazci-odkazu
+jmeno: Strážci Odkazu
+kategorie: concepts
+stav: aktivni (skrytá)
+aliasy: Neorezonující
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Tajná a izolovaná frakce, která se ideologicky hlásí k odkazu Rezonujících z Třetího věku. Na rozdíl od svých předků, kteří chtěli archivovat veškerou paměť, Strážci Odkazu se snaží paměť a emoce aktivně formovat. Věří, že Křehká rovnováha je omyl a že jedinou cestou k trvalému míru je vytvoření společnosti, kde jsou negativní a konfliktní emoce potlačeny a nahrazeny kolektivní harmonií. K dosažení svých cílů používají modifikovanou rezonanční technologii.
+
+Dějiny:
+- 0 — Pravděpodobně založena malou skupinou přeživších Rezonujících, kteří odmítli Tichý úsvit a odešli do ústraní.
+- +255 — Jejich existence a metody jsou odhaleny v Kamenném Mostě. Jejich vliv se pravděpodobně omezuje jen na několik izolovaných komunit (viz Příběhy/krehka-rovnovaha/pisen-zkreslena/1.txt).
+
+Poznámky:
+Nejsou motivováni touhou po moci, ale zvráceným, utopickým ideálem. Považují se za spasitele, nikoli za tyrany.
