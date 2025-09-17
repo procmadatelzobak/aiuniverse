@@ -18,6 +18,7 @@ Dějiny:
 - +215 (jaro) — Zahájena první fáze rezonančního tvarování. Lyra slouží jako živý senzor Vorinova fokusátoru, Kaelen překládá její vjemy a kámen se začíná sám odlučovat podél Eamonových linií, čímž potvrzuje funkčnost jejich metody (viz Příběhy/jizva-ticha/2/8.txt; Objekty/things/rezonancni-fokusator.txt).
 - +215 (jaro/léto) — Po téměř měsíci práce ve Vřesové stráni je nová Rezonanční mísa dokončena spojeným úsilím Vorinovy technologie, Eamonovy tradice, Lyřiných schopností a Kaelenovy vize (viz Příběhy/jizva-ticha/2/9.txt).
 - +215 (léto) — Kaelen ji poprvé "probudí" úderem. Mísa vydá vlnu čistého mentálního ticha, čímž potvrdí svou funkčnost (viz Příběhy/jizva-ticha/2/9.txt).
+- +215 (léto) — Během návratu z Vřesové stráně je nesena na speciálních nosítkách, vytváří kolem družiny pohyblivou kapsu ticha a chrání jejich mysl před okolními ozvěnami (viz Příběhy/jizva-ticha/2/10.txt).
 
 Poznámky:
 Nová mísa je produktem spolupráce dvou zcela odlišných filozofií (vědy a intuice), což symbolizuje cíl celé mise.

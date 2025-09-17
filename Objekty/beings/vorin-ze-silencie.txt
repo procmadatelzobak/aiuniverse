@@ -30,6 +30,7 @@ Dějiny:
 - +215 (jaro) — Ve staré ovčárně ve Vřesové stráni přijme Kaelenův návrh na "rezonanci ticha" a s Joricem začne sestrojovat rezonanční fokusátor, který se bude ladit podle Lyřina živého senzoru, zatímco Eamon vyznačuje symbolické linie nové mísy (viz Příběhy/jizva-ticha/2/7.txt).
 - +215 (jaro) — Při prvním spuštění fokusátoru ladí frekvence podle Lyřiných vjemů, zaznamenává reakce kamene a čelí disharmonické vlně, když Lyra ztratí kontakt s tichem. Událost ho přiměje uznat, že data musí být podřízena živému senzoru (viz Příběhy/jizva-ticha/2/8.txt; Objekty/things/rezonancni-fokusator.txt).
 - +215 (jaro/léto) — Fascinován korelací Lyřiny únavy s čistotou rezonance, vede detailní záznamy a po probuzení mísy přijímá, že data a duše mohou sdílet jeden výsledek (viz Příběhy/jizva-ticha/2/9.txt).
+- +215 (léto) — Během cesty zpět k Jezeru odrazu spolu s Eamonem nese Rezonanční mísu na speciálních nosítkách a analyzuje její ticho jako ochranný filtr, který stabilizuje mysl družiny (viz Příběhy/jizva-ticha/2/10.txt).
 
 Poznámky:
 Jeho jméno je ozvěnou jména Vorina, zakladatele Silencie, což odráží jeho hluboké spojení s historií a dědictvím města.
