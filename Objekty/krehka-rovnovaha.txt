@@ -1,0 +1,18 @@
+id: obj:krehka-rovnovaha
+jmeno: Křehká rovnováha (Příběhy)
+kategorie: meta
+stav: probiha
+aliasy: —
+naposledy_upraveno: 2025-10-10
+
+Popis:
+Meta-objekt pro sledování hlavních dějových linií, které se odehrávají v éře Křehké rovnováhy (Čtvrtý věk), po událostech trilogie "Jizva Ticha".
+
+Příběhy:
+- Ozvěna v Mlze: Příběh mladého léčitele krajiny Riana, který je vyslán do Stříbrného Brodu, aby se vypořádal s plíživou ztrátou paměti způsobenou Vyprahlými pláněmi.
+
+Dějiny:
+- +235 — Příběh "Ozvěna v Mlze", Kapitola 3: Rian a Elara dorazí k Srdci pramene, zdroji písně řeky Stříbrnice. Objeví zde spící ozvěnu písně, což je první krok k možnému uzdravení kraje (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/3.txt).
+
+Poznámky:
+—
