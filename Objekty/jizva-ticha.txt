@@ -3,7 +3,7 @@ jmeno: Jizva Ticha (Trilogie)
 kategorie: meta
 stav: probiha
 aliasy: —
-naposledy_upraveno: 2025-10-01
+naposledy_upraveno: 2025-10-02
 
 Popis:
 Epická trilogie popisující události Čtvrtého věku, konkrétně krizi spojenou se sílící hrozbou z Tiché prázdnoty a zrodem Hlasu Nicoty. Děj sleduje putování nesourodé skupiny hrdinů, kteří se snaží pochopit a zastavit tuto novou formu "odmazávání" reality.
@@ -14,7 +14,7 @@ Kniha První: Šepot na hranici — Popisuje odhalení hrozby, sestavení spole�
 
 Kniha Druhá: Sestup — Sleduje pokus novodobých Ladičů proniknout do srdce Jezera odrazu a znovu sladit tři prameny Písně rovnováhy.
 
-Kniha Třetí: Píseň rovnováhy (plánováno)
+Kniha Třetí: Píseň rovnováhy — Sleduje finální pochod Nosiče písně k Poslednímu bdění a zápas o uzdravení Ukotvené jeskyně.
 
 Dějiny:
 - +215 (jaro) — Kniha První, Kapitola 12: Skupina dorazí k Dubu paměti, kde získá klíčové informace a nasměrování k Jezeru odrazu. Tím končí první velká fáze jejich cesty – útěk – a začíná fáze aktivního hledání řešení (viz Příběhy/jizva-ticha/1/12.txt).
@@ -36,6 +36,8 @@ Dějiny:
 - +215 (léto) — Kniha Druhá, Kapitola 13: Skupina pokračuje na sever a zjistí, že Kaelenova přítomnost jako nosiče Písně pasivně neutralizuje vliv Hlasu Nicoty. Tím se stává živoucím "protijedem" i majákem, který na sebe přitahuje pozornost nepřítele (viz Příběhy/jizva-ticha/2/13.txt).
 - +215 (léto) — Kniha Druhá, Kapitola 14: V Tichých vrších je skupina konfrontována obrovskou vlnou Vymazaných, kterou zastaví oběť Dětí Ticha a Kaelenův útok využívající pouze logický pramen Písně. Vymazaní jsou dočasně ochromeni, ale Kaelen přitom vážně naruší vlastní vnitřní rovnováhu (viz Příběhy/jizva-ticha/2/14.txt).
 - +215 (léto) — Kniha Druhá, Kapitola 15: Lyra konfrontuje nevyváženého Kaelena a pomocí druhého pramene Písně (chaosu země) mu pomůže obnovit vnitřní rovnováhu. Skupina si plně uvědomuje, že Píseň nelze použít jako zbraň bez katastrofálních následků pro jejího nosiče. Tím končí druhá kniha trilogie, *Atlas duše* (viz Příběhy/jizva-ticha/2/15.txt).
+
+- +215 (léto) — Kniha Třetí, Kapitola 1: Společenstvo Jizvy Ticha přijímá Děti Ticha jako průzkumníky a ochránce. Vydávají se na poslední pochod k Poslednímu bdění, zatímco Hlas Nicoty přepisuje realitu, aby jim zabránil v postupu (viz Příběhy/jizva-ticha/3/1.txt).
 
 Poznámky:
 Tento meta objekt slouží ke sledování hlavního dějového oblouku trilogie.

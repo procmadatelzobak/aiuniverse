@@ -3,7 +3,7 @@ jmeno: Rhea (Šedá svědkyně)
 kategorie: beings
 stav: ziva
 aliasy: Rhea Hraničářka
-naposledy_upraveno: 2025-10-01
+naposledy_upraveno: 2025-10-02
 
 Popis:
 Zkušená členka řádu Šedých svědků a bývalá velitelka stráží na hranici s Tichou prázdnotou. Je to pragmatická a strohá žena, zvyklá na drsné podmínky a neustálý psychický tlak. Má hluboké, praktické znalosti o projevech Prázdnoty, ale postrádá Kaelenovu teoretickou a filozofickou hloubku. Její přístup je založen na přežití a zadržování hrozby, ne na jejím pochopení.
@@ -40,6 +40,8 @@ Dějiny:
 - +215 (léto) — Během cesty na sever je svědkem Kaelenovy nové schopnosti pasivně neutralizovat vliv Hlasu Nicoty. Uvědomuje si, že jejich mise se změnila z průzkumné na doprovodnou s cílem ochránit Kaelena za každou cenu (viz Příběhy/jizva-ticha/2/13.txt).
 - +215 (léto) — V Tichých vrších přihlíží připravené oběti Dětí Ticha a Kaelenovu riskantnímu útoku na spojení Vymazaných. Získává důkaz o útočném potenciálu Písně i o ceně za jeho zneužití, což posílí její rozhodnutí chránit Kaelena před sebou samým i před nepřítelem (viz Příběhy/jizva-ticha/2/14.txt).
 - +215 (léto) — Je svědkem Kaelenova pádu do nerovnováhy a následné záchrany Lyrou. Plně si uvědomuje křehkost jejich "zbraně" a nebezpečí, které představuje cesta k Poslednímu bdění (viz Příběhy/jizva-ticha/2/15.txt).
+
+- +215 (léto) — Přijímá spojenectví s Dětmi Ticha a vede ochranný štít kolem Nosiče písně během pochodu k Poslednímu bdění. Hlas Nicoty aktivně přepisuje realitu a Rhea koordinuje odpověď "Tiché armády" (viz Příběhy/jizva-ticha/3/1.txt).
 
 Poznámky:
 Její jméno je ozvěnou jmen jiných postav (Rhea, pomocnice Eliana ze Silencie; Rhea, vůdkyně přeživších v Posledním bdění v příběhu o Lianovi), což může být tradice v řádu nebo ozvěna samotného světa.

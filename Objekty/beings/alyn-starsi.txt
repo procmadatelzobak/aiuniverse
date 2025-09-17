@@ -1,0 +1,17 @@
+id: obj:beings/alyn-starsi
+jmeno: Starý Alyn
+kategorie: beings
+stav: zivy
+aliasy: Otec Ticha
+naposledy_upraveno: 2025-10-02
+
+Popis:
+Starý a respektovaný vůdce komunity Dětí Ticha v roce +215. Je to muž zocelený drsným životem v Tichých vrších, hluboce oddaný filozofii svých předků. Původně nedůvěřivý k cizincům, po setkání s Kaelenem a mocí Písně rovnováhy přehodnotí staletou izolaci svého lidu a stane se klíčovým spojencem ve válce proti Hlasu Nicoty.
+
+Dějiny:
+- +145 (cca) — Narodil se v Osadě tichého stínu.
+- +215 (jaro) — Konfrontuje Společenstvo Jizvy, ale dovolí Lyeře se k nim přidat (viz Příběhy/jizva-ticha/1/5.txt).
+- +215 (léto) — Vede své lidi do sebevražedné obrany proti vlně Vymazaných. Je svědkem Kaelenova činu a moci Písně. Formálně uzavírá spojenectví a stává se velitelem "Tiché armády", která doprovází Nosiče písně (viz Příběhy/jizva-ticha/3/1.txt).
+
+Poznámky:
+Představuje transformaci Dětí Ticha z pasivních izolacionistů na aktivní účastníky boje za záchranu světa.
