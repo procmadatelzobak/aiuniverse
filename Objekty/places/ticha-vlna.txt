@@ -3,7 +3,7 @@ jmeno: Tichá vlna
 kategorie: places
 stav: trvaly
 aliasy: Řeka ticha
-naposledy_upraveno: 2025-09-16
+naposledy_upraveno: 2025-10-09
 
 Popis:
 Hlavní řeka protékající Srdcem starého světa. Pramení v Tichých vrších na severu a její vody jsou charakteristické nezvyklým klidem. Říká se, že nenesou téměř žádné ozvěny a její proud je sotva slyšitelný. Tvoří přirozenou osu regionu.
@@ -11,6 +11,7 @@ Hlavní řeka protékající Srdcem starého světa. Pramení v Tichých vršíc
 Dějiny:
 - Pradávno — Vznikla jako součást geografie světa.
 - +215 (jaro) — Skupina vedená Eamonem z Břehů překračuje řeku při své cestě od Dubu paměti k Jezeru odrazu (viz Příběhy/jizva-ticha/1/13.txt).
+- +235 — Léčitel krajiny Rian sleduje její břehy při cestě na východ a vnímá, že řeka i přilehlá země v Srdci starého světa zůstávají zdravé a harmonické (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/2.txt).
 
 Poznámky:
 Její klid může souviset s blízkostí Tichých vrchů a Údolí tichého strachu, odkud pramení. Mohla by mít uklidňující vliv na krajinu, kterou protéká.

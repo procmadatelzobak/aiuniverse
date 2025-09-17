@@ -1,0 +1,16 @@
+id: obj:places/stribrnice
+jmeno: Stříbrnice
+kategorie: places
+stav: trvaly (nemocná)
+aliasy: Zapomínající řeka
+naposledy_upraveno: 2025-10-09
+
+Popis:
+Středně velká řeka, která pramení v kopcích na jihovýchodě a protéká Stříbrným Brodem, než se ztratí ve Vyprahlých pláních zapomnění. Bývala životodárnou tepnou regionu. Vlivem blízkosti plání je však její "paměť" těžce narušena. Její píseň je chaotická a přerušovaná, ztrácí se v ní řád ročních období. Je ztělesněním nemoci, která postihla celou oblast.
+
+Dějiny:
+- Pradávno — Vznikla jako součást geografie světa.
+- +235 — Její narušený stav je první věcí, kterou léčitel Rian diagnostikuje po příchodu do oblasti Stříbrného Brodu (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/2.txt).
+
+Poznámky:
+"Uzdravení" řeky je pravděpodobně klíčem k uzdravení celé osady.

@@ -1,0 +1,16 @@
+id: obj:beings/elara-z-brodu
+jmeno: Elara z Brodu
+kategorie: beings
+stav: ziva (ohrožena)
+aliasy: —
+naposledy_upraveno: 2025-10-09
+
+Popis:
+Mladá žena z osady Stříbrný Brod. V době paměťové anomálie je jednou z mála, kdo si ještě uvědomuje plný rozsah ztráty, která její lid postihuje. Je autorkou svitku, který přivolal pomoc ze Šedých svědků. Je statečná a odhodlaná, ale nese v sobě hluboký smutek a strach ze zapomnění. Je hlavním zdrojem informací a spojencem pro Riana v osadě.
+
+Dějiny:
+- +212 (cca) — Narodila se ve Stříbrném Brodu.
+- +235 — Je autorkou a odesílatelkou svitku s žádostí o pomoc. Po Rianově příchodu se stává jeho průvodkyní a spojenkyní (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/2.txt).
+
+Poznámky:
+Její jméno je dalším příkladem opakujícího se archetypu "Elara" – moudré ženy/ochránkyně paměti.

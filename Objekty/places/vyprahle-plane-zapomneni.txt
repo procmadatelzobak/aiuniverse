@@ -3,14 +3,14 @@ jmeno: Vyprahlé pláně zapomnění
 kategorie: places
 stav: trvaly
 aliasy: —
-naposledy_upraveno: 2025-10-08
+naposledy_upraveno: 2025-10-09
 
 Popis:
-Rozlehlá, nehostinná oblast popraskané hlíny a slaných jezer, která odděluje Srdce starého světa od Východních anomálií, jako je Kráter rezonance. Zdejší země jako by aktivně odmítala nést paměť. Cesty se zde ztrácejí a vzpomínky blednou.
+Rozlehlá, nehostinná oblast popraskané hlíny a slaných jezer, která odděluje Srdce starého světa od Východních anomálií, jako je Kráter rezonance. Zdejší země jako by aktivně odmítala nést paměť. Cesty se zde ztrácejí a vzpomínky blednou. Vliv plání není omezen jen na jejich fyzické hranice; vyzařuje do okolí jako neviditelná "mlha zapomnění", která postupně eroduje paměť krajiny i živých bytostí v přilehlých oblastech.
 
 Dějiny:
 - Pradávno — Vznikly jako součást geografie světa.
-- +235 — Jejich plíživý vliv oslabuje paměť izolované osady Stříbrný Brod, což přiměje Šedé svědky vyslat léčitele krajiny Riana (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/1.txt; Objekty/places/stribrny-brod.txt; Objekty/beings/rian-lecitel.txt).
+- +235 — Jejich plíživý vliv oslabuje paměť izolované osady Stříbrný Brod, což přiměje Šedé svědky vyslat léčitele krajiny Riana. Jeho cesta odhalí, že "mlha zapomnění" zasahuje i řeku Stříbrnici a její obyvatele (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/1.txt; Příběhy/krehka-rovnovaha/ozvena-v-mlze/2.txt; Objekty/places/stribrny-brod.txt; Objekty/beings/rian-lecitel.txt; Objekty/places/stribrnice.txt).
 
 Poznámky:
 Jejich schopnost mazat paměť může být přirozenou protiváhou místům s vysokou koncentrací ozvěn, jako je Jezero odrazu nebo Silencia. Putování přes ně je nebezpečné nejen fyzicky, ale i pro mysl.
