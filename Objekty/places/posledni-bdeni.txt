@@ -14,6 +14,8 @@ Dějiny:
 - +215 (jaro) — Zprávy ze stanice se stávají nesrozumitelnými a chaotickými, což naznačuje selhávání Lianovy kotvy a novou formu aktivity z Tiché prázdnoty. Rhea vede expedici Šedých svědků (s Orinem a Joricem), aby zjistila příčinu, zatímco akolyta Kaelen se rozhodne skupinu tajně následovat (viz Příběhy/jizva-ticha/1/1.txt; Příběhy/jizva-ticha/1/2.txt; Objekty/beings/rhea-seda-svedkyne.txt; Objekty/beings/orin-stopar.txt; Objekty/beings/joric-kartograf.txt; Objekty/beings/kaelen-z-udoli.txt).
 - +215 (jaro) — Expedice Šedých svědků dorazí na dohled stanice a vizuálně potvrdí, že se stala epicentrem anomálie narušující realitu (viz Příběhy/jizva-ticha/1/6.txt).
 - +215 (jaro) — Expedice proniká do Ukotvené jeskyně na úpatí věže a zjišťuje, že Lianova kotva byla unesena Hlasem Nicoty a proměněna v rezonátor falešných ozvěn. Lokalita je bráněna "Vymazaným" strážcem (viz Příběhy/jizva-ticha/1/7.txt; Objekty/things/ukotvena-jeskyne.txt; Objekty/concepts/vymazani.txt).
+- +215 (jaro) — Expedice proniká do Ukotvené jeskyně na úpatí věže a zjišťuje, že Lianova kotva byla unesena Hlasem Nicoty a proměněna v rezonátor falešných ozvěn. Lokalita je bráněna "Vymazaným" strážcem (viz Příběhy/jizva-ticha/1/7.txt; Objekty/things/ukotvena-jeskyne.txt; Objekty/concepts/vymazani.txt).
+- +215 (léto) — Společenstvo Jizvy a Děti Ticha dorazí k věži v době, kdy je celá kotlina ponořena do lokální Tiché prázdnoty. Eamon vede finální úder proti Vymazaným strážcům, aby Kaelen, Lyra a Orin mohli proniknout do Ukotvené jeskyně, kde se zjeví manifestace Hlasu Nicoty (viz Příběhy/jizva-ticha/3/4.txt).
 
 Poznámky:
 Ukotvená jeskyně, původně kotva vytvořená Lianem, je nyní aktivním zdrojem anomálie; viz Objekty/things/ukotvena-jeskyne.txt.

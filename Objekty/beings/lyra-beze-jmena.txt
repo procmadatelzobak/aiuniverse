@@ -15,3 +15,4 @@ Dějiny:
 
 Poznámky:
 Její jméno "Lyra" je dalším v řadě a symbolizuje archetypální roli, nikoli konkrétní osobu. Její osud slouží jako největší varování před mocí Mlčení.
+V roce +215 (léto) si Hlas Nicoty v Ukotvené jeskyni osvojil její podobu, aby konfrontoval Kaelena a jeho společníky (viz Objekty/beings/hlas-nicoty.txt; Příběhy/jizva-ticha/3/4.txt).
