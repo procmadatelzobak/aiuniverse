@@ -1,12 +1,12 @@
 id: obj:concepts/pisen-rovnovahy
 jmeno: Píseň rovnováhy
 kategorie: concepts
-stav: existuje (internalizovaná)
-aliasy: Trojzvuk
-naposledy_upraveno: 2025-09-26
+stav: existuje (rozptýlená)
+aliasy: Trojzvuk, Píseň Ticha a Ozvěny
+naposledy_upraveno: 2025-10-06
 
 Popis:
-Legendární harmonie stvořená Strážcem Eamonem u Jezera odrazu. Nejedná se o slyšitelnou píseň, ale o dokonalou rezonanci mezi třemi fundamentálními, ale protichůdnými principy: chladnou, sterilní logikou Hvězdné mysli; chaotickou, organickou pamětí Země; a lidským citem (láskou a obětí), který slouží jako most. Tato harmonie dokázala na tisíciletí utišit chaos Jezera odrazu. Původní Píseň již neexistuje, ale její slabá, prchavá ozvěna přetrvávala v hlubinách jezera až do stvoření nové verze, která nyní přebývá v mysli Kaelena jako živého nosiče.
+Legendární harmonie stvořená Strážcem Eamonem u Jezera odrazu. Nejedná se o slyšitelnou píseň, ale o dokonalou rezonanci mezi třemi fundamentálními, ale protichůdnými principy: chladnou, sterilní logikou Hvězdné mysli; chaotickou, organickou pamětí Země; a lidským citem (láskou a obětí), který slouží jako most. Tato harmonie dokázala na tisíciletí utišit chaos Jezera odrazu. Po jejím zániku přetrvávala jen prchavá ozvěna, než novodobí Ladiči stvořili novou verzi, která se nejprve usídlila v Kaelenovi jako živém nosiči. Ve své finální podobě Píseň přijala a harmonizovala i samotný princip prázdnoty a absence, čímž se stala rozprostřenou, stabilní součástí reality, na níž Kaelen již nedohlíží sám, ale působí jako její první strážce.
 
 Dějiny:
 
@@ -17,6 +17,7 @@ Dějiny:
 - +215 (léto) — Novodobí Ladiči s pomocí Rezonanční mísy vytvářejí u Jezera odrazu novou, komplexnější verzi Písně rovnováhy. Její vliv je zatím omezen na jezero a jeho okolí, ale stává se potenciálním nástrojem proti Hlasu Nicoty (viz Příběhy/jizva-ticha/2/11.txt).
 - +215 (léto) — Píseň je pomocí rituálu přenesena z Jezera odrazu a "uložena" do vědomí Kaelena z Údolí, který se stává jejím živým nosičem. Jezero po tomto aktu utichá (viz Příběhy/jizva-ticha/2/12.txt).
 - +215 (léto) — Kaelen se pokusí použít pouze logický pramen Písně jako útočnou zbraň proti Vymazaným. Útok ochromí jejich spojení s Hlasem Nicoty, ale vychýlí harmonii v nosiči, což dokládá nebezpečí selektivního použití Písně (viz Příběhy/jizva-ticha/2/14.txt).
+- +215 (léto) — V Ukotvené jeskyni Kaelen použije Píseň k "uzdravení" Hlasu Nicoty. Píseň do sebe absorbuje a harmonizuje princip prázdnoty a je vypuštěna, aby se stala novou, stabilní součástí reality. Kaelen přestává být jejím jediným nosičem. (viz Příběhy/jizva-ticha/3/5.txt).
 
 Poznámky:
 Píseň není lék, který zničí nerovnováhu, ale harmonie, která jí dává smysl a místo ve struktuře reality. Její vytvoření vyžaduje obrovskou mentální sílu a osobní oběť.

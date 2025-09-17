@@ -1,18 +1,19 @@
 id: obj:things/ukotvena-jeskyne
 jmeno: Ukotvená jeskyně
 kategorie: things
-stav: zkorumpovaná (aktivní zdroj anomálie)
+stav: uzdravená (stabilní jizva)
 aliasy: Lianova jeskyně
-naposledy_upraveno: 2025-09-16
+naposledy_upraveno: 2025-10-06
 
 Popis:
-Malá jeskyně u paty věže Posledního bdění, jejíž stěny nesou vytesaný příběh – obětovanou vzpomínku Šedého svědka Liana. Původně sloužila jako mentální "kotva" a bariéra, která neutralizovala Šepot prázdnoty. Po více než sto letech byla tato kotva přemožena a zkorumpována Hlasem Nicoty. Jeskyně se stala inverzí svého původního účelu: nyní funguje jako rezonátor a zesilovač "falešných ozvěn", který aktivně šíří lživou, přepsanou verzi reality do světa.
+Malá jeskyně u paty věže Posledního bdění, jejíž stěny nesou vytesaný příběh – obětovanou vzpomínku Šedého svědka Liana. Původně sloužila jako mentální "kotva" a bariéra, která neutralizovala Šepot prázdnoty. Po více než sto letech byla tato kotva přemožena a zkorumpována Hlasem Nicoty a jeskyně se stala inverzí svého původního účelu: fungovala jako rezonátor a zesilovač "falešných ozvěn". Kaelenův finální zásah však obnovil pravdivou podobu příběhu; Píseň Ticha a Ozvěn přepsala lež a jeskyně je nyní tichou, stabilní jizvou, která drží prázdnotu v bezpečných mezích.
 
 Dějiny:
 +82 — Vytvořena obětí Šedého svědka Liana, který do jejích stěn vytesal svou nejsilnější vzpomínku a zastavil tak Šepot prázdnoty (viz Příběhy/ctvrty-vek/sepot-v-prazdnote.txt).
 +215 (jaro) — Expedice Šedých svědků zjišťuje, že vytesaný příběh v jeskyni byl znetvořen a jeskyně se stala epicentrem anomálie. Je střežena "Vymazanou" bytostí (viz Příběhy/jizva-ticha/1/7.txt).
 +215 (léto) — Kaelen, Lyra, Orin a Eamon do jeskyně znovu vstoupí. Eamon se obětuje proti Vymazaným strážcům, zatímco uvnitř se zhmotní centrální projev Hlasu Nicoty v podobě Lyry Beze Jména (viz Příběhy/jizva-ticha/3/4.txt).
++215 (léto) — Kaelen otevře Píseň rovnováhy prázdnotě a obnoví původní příběh ve zdech jeskyně. Hlas Nicoty je integrován a jeskyně se stává stabilní jizvou místo aktivního zdroje anomálie (viz Příběhy/jizva-ticha/3/5.txt).
 
 Poznámky:
-Jeskyně je nyní jedním z nejnebezpečnějších míst na světě, aktivně přepisuje realitu a paměť.
+Jeskyně je nyní klidnou, ale křehkou jizvou; vyžaduje trvalou ochranu před novými zásahy Prázdnoty.
 

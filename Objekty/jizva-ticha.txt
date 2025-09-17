@@ -3,7 +3,7 @@ jmeno: Jizva Ticha (Trilogie)
 kategorie: meta
 stav: probiha
 aliasy: —
-naposledy_upraveno: 2025-10-05
+naposledy_upraveno: 2025-10-06
 
 Popis:
 Epická trilogie popisující události Čtvrtého věku, konkrétně krizi spojenou se sílící hrozbou z Tiché prázdnoty a zrodem Hlasu Nicoty. Děj sleduje putování nesourodé skupiny hrdinů, kteří se snaží pochopit a zastavit tuto novou formu "odmazávání" reality.
@@ -41,6 +41,7 @@ Dějiny:
 - +215 (léto) — Kniha Třetí, Kapitola 2: Hlas Nicoty vytvoří dokonalou mentální iluzi Údolí tichých ozvěn, aby lapil skupinu, zejména Děti Ticha. Iluze je prolomena kombinací Lyřiny "písně reality" (ukolébavky z jejího dětství) a Kaelenova pasivního zesílení reality pomocí Písně rovnováhy (viz Příběhy/jizva-ticha/3/2.txt).
 - +215 (léto) — Kniha Třetí, Kapitola 3: Pasivní "uzdravování" krajiny Kaelena smrtelně vyčerpává. Skupina zjistí, že Rezonanční mísa dokáže jeho auru odstínit, ale tím ztratí ochranu. Orin, ve své narušené mysli, instinktivně objeví způsob, jak mísu dočasně "naladit" a vytvořit lokalizovanou zónu klidu, což jim umožní postupovat (viz Příběhy/jizva-ticha/3/3.txt).
 - +215 (léto) — Kniha Třetí, Kapitola 4: Společenstvo dorazí k Poslednímu bdění. Po rozdělení sil se Kaelen, Lyra, Orin a Eamon vydávají na finální sestup. Eamon se obětuje, aby jim umožnil vstup do Ukotvené jeskyně, kde se střetávají s centrálním projevem Hlasu Nicoty, který na sebe vzal podobu Lyry Beze Jména (viz Příběhy/jizva-ticha/3/4.txt).
+- +215 (léto) — Kniha Třetí, Kapitola 5: Finále trilogie. V Ukotvené jeskyni Kaelen, chráněn mísou a kotven Lyrou, provede finální akt. Nezničí Hlas Nicoty, ale „uzdraví“ ho tím, že jeho prázdnotu přijme jako třetí, tichou notu do Písně rovnováhy. Tím je hrozba neutralizována a Tichá prázdnota se stává stabilní, neagresivní jizvou. Svět je zachráněn. (viz Příběhy/jizva-ticha/3/5.txt).
 
 Poznámky:
 Tento meta objekt slouží ke sledování hlavního dějového oblouku trilogie.

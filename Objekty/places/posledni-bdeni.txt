@@ -1,12 +1,12 @@
 id: obj:places/posledni-bdeni
 jmeno: Poslední bdění
 kategorie: places
-stav: epicentrum anomálie (aktivně nepřátelské)
+stav: stabilizovaná jizva (neutralizovaná)
 aliasy: Věž na konci světa, Trhlina
-naposledy_upraveno: 2025-09-16
+naposledy_upraveno: 2025-10-06
 
 Popis:
-Nejizolovanější pozorovací stanice Šedých svědků, umístěná jen půl dne cesty od okraje Tiché prázdnoty. Skládá se z jediné kamenné věže a několika malých obydlí. Místo je charakteristické extrémním chladem, řídkým vzduchem a psychickým tlakem plynoucím z blízkosti Prázdnoty. V současnosti je stanice a její nejbližší okolí ohniskem masivní poruchy reality. Vzduch se zde tetelí, obrysy reality jsou nestabilní a fyzikální zákony, jako je pohyb stínů, jsou narušeny. Je zjevné, že se nejedná jen o místo ovlivněné Prázdnotou, ale o bod, odkud se anomálie aktivně šíří.
+Nejizolovanější pozorovací stanice Šedých svědků, umístěná jen půl dne cesty od okraje Tiché prázdnoty. Skládá se z jediné kamenné věže a několika malých obydlí. Místo je charakteristické extrémním chladem, řídkým vzduchem a psychickým tlakem plynoucím z blízkosti Prázdnoty. Donedávna bylo místo ohniskem masivní poruchy reality. Vzduch se zde tetelil, obrysy reality byly nestabilní a fyzikální zákony, jako je pohyb stínů, byly narušeny. Po Kaelenově uzdravení Ukotvené jeskyně se však stanice proměnila v klidnou jizvu: okolní realita je stabilní, ticho přetrvává, ale už nepohlcuje. Zůstává citlivým místem, které nyní vyžaduje bdělou ochranu namísto nouzové karantény.
 
 Dějiny:
 - cca +20 — Založena řádem Šedých svědků jako součást sítě pozorovatelen.
@@ -16,6 +16,7 @@ Dějiny:
 - +215 (jaro) — Expedice proniká do Ukotvené jeskyně na úpatí věže a zjišťuje, že Lianova kotva byla unesena Hlasem Nicoty a proměněna v rezonátor falešných ozvěn. Lokalita je bráněna "Vymazaným" strážcem (viz Příběhy/jizva-ticha/1/7.txt; Objekty/things/ukotvena-jeskyne.txt; Objekty/concepts/vymazani.txt).
 - +215 (jaro) — Expedice proniká do Ukotvené jeskyně na úpatí věže a zjišťuje, že Lianova kotva byla unesena Hlasem Nicoty a proměněna v rezonátor falešných ozvěn. Lokalita je bráněna "Vymazaným" strážcem (viz Příběhy/jizva-ticha/1/7.txt; Objekty/things/ukotvena-jeskyne.txt; Objekty/concepts/vymazani.txt).
 - +215 (léto) — Společenstvo Jizvy a Děti Ticha dorazí k věži v době, kdy je celá kotlina ponořena do lokální Tiché prázdnoty. Eamon vede finální úder proti Vymazaným strážcům, aby Kaelen, Lyra a Orin mohli proniknout do Ukotvené jeskyně, kde se zjeví manifestace Hlasu Nicoty (viz Příběhy/jizva-ticha/3/4.txt).
+- +215 (léto) — Po Kaelenově integraci Hlasu Nicoty se kotlina uklidní. Poslední bdění se stává stabilizovanou jizvou reality a zůstává pod ochranou Společenstva Jizvy a Dětí Ticha (viz Příběhy/jizva-ticha/3/5.txt).
 
 Poznámky:
-Ukotvená jeskyně, původně kotva vytvořená Lianem, je nyní aktivním zdrojem anomálie; viz Objekty/things/ukotvena-jeskyne.txt.
+Ukotvená jeskyně, původně kotva vytvořená Lianem, byla Kaelenem uzdravena; viz Objekty/things/ukotvena-jeskyne.txt.
