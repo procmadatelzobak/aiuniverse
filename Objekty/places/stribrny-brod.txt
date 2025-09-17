@@ -1,0 +1,16 @@
+id: obj:places/stribrny-brod
+jmeno: Stříbrný Brod
+kategorie: places
+stav: obydlena (ohrožena)
+aliasy: —
+naposledy_upraveno: 2025-10-08
+
+Popis:
+Malá a velmi izolovaná osada ležící ve východním podhůří, na samé hranici s Vyprahlými pláněmi zapomnění. Po staletí byla téměř odříznuta od zbytku světa. Její obyvatelé jsou soběstační a jejich kultura je založena na silné ústní tradici.
+
+Dějiny:
+- Neznámo — Založena v Druhém nebo Třetím věku.
+- +235 — Osada trpí záhadnou, plíživou ztrátou kolektivní paměti. Vyšle zoufalou prosbu o pomoc do Údolí tichých ozvěn (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/1.txt).
+
+Poznámky:
+Blízkost Vyprahlých plání je pravděpodobnou příčinou jejího stavu.

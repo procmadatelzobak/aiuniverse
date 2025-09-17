@@ -3,10 +3,10 @@ jmeno: Šedí svědkové
 kategorie: concepts
 stav: aktivni
 aliasy: Tkalci Vzpomínek (dříve)
-naposledy_upraveno: 2025-09-19
+naposledy_upraveno: 2025-10-08
 
 Popis:
-Řád filozofů, historiků a strážců, který vznikl na počátku Čtvrtého věku jako kompromis mezi extrémy Války Ticha a Ozvěny. Navazuje na tradici Tkalců Vzpomínek a na umírněné frakce Rezonujících i Mlčících poutníků. Jejich ústředním principem je Křehká rovnováha: uznávají nutnost paměti pro poučení a identitu, ale zároveň i potřebu ticha a zapomnění pro odpuštění a uzdravení. Slouží jako neutrální arbitři a strážci, kteří brání opakování extrémů minulosti. Po událostech u Posledního bdění se jejich role rozšířila i na aktivní obranu reality proti existenciálním hrozbám, jako je Šepot prázdnoty. Po více než dvou stoletích relativního klidu čelí řád nové, nepochopené hrozbě z Tiché prázdnoty.
+Řád filozofů, historiků a strážců, který vznikl na počátku Čtvrtého věku jako kompromis mezi extrémy Války Ticha a Ozvěny. Navazuje na tradici Tkalců Vzpomínek a na umírněné frakce Rezonujících i Mlčících poutníků. Jejich ústředním principem je Křehká rovnováha: uznávají nutnost paměti pro poučení a identitu, ale zároveň i potřebu ticha a zapomnění pro odpuštění a uzdravení. Slouží jako neutrální arbitři a strážci, kteří brání opakování extrémů minulosti. Po událostech u Posledního bdění se jejich role rozšířila i na aktivní obranu reality proti existenciálním hrozbám, jako je Šepot prázdnoty. V následujících desetiletích řád rozvíjí specializované větve – například "léčitele krajiny", kteří mapují a harmonizují narušené ozvěny světa. Po více než dvou stoletích relativního klidu čelí řád nové, nepochopené hrozbě z Tiché prázdnoty.
 
 Dějiny:
 - 0 — Formálně vznikli z Tkalců Vzpomínek a umírněných zbytků Rezonujících a Mlčících poutníků během události Tichý úsvit (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt).
@@ -14,6 +14,7 @@ Dějiny:
 - +215 (jaro) — Řád čelí narůstající anomálii na hranicích Tiché prázdnoty, kde Lianova kotva selhává, a rozhoduje o vyslání průzkumné expedice (viz Příběhy/jizva-ticha/1/1.txt).
 - +215 (jaro) — Expedici tvoří Rhea, Orin a Joric; akolyta Kaelen řád neposlechne a vydává se za nimi, aby varoval před falešnou ozvěnou, již odhalil ve zprávách (viz Příběhy/jizva-ticha/1/2.txt; Objekty/beings/rhea-seda-svedkyne.txt; Objekty/beings/orin-stopar.txt; Objekty/beings/joric-kartograf.txt; Objekty/beings/kaelen-z-udoli.txt).
 - +215 (jaro) — Po překonání Průsmyku bezejmenných navazují Šedí svědkové křehké spojenectví s izolovanými Dětmi Ticha a přijímají pomoc archiváře Vorina ze Silencie, čímž rozšiřují svou misi o spolupráci mimo vlastní řád (viz Příběhy/jizva-ticha/1/5.txt; Objekty/concepts/deti-ticha.txt; Objekty/beings/vorin-ze-silencie.txt).
+- +235 — Mistr Kaelen vysílá léčitele krajiny Riana do Stříbrného Brodu, aby stabilizoval obec ohroženou plíživým zapomínáním, čímž potvrzuje novou generaci svědků zaměřených na uzdravování krajiny (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/1.txt; Objekty/beings/kaelen-z-udoli.txt; Objekty/beings/rian-lecitel.txt; Objekty/places/stribrny-brod.txt).
 
 Poznámky:
 Jejich sídlo je v Údolí tichých ozvěn, kde střeží Kamenný atlas, svůj nejposvátnější text.

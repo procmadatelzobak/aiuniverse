@@ -3,7 +3,7 @@ jmeno: Údolí tichých ozvěn
 kategorie: places
 stav: trvale
 aliasy: —
-naposledy_upraveno: 2025-09-18
+naposledy_upraveno: 2025-10-08
 
 Popis:
 Odlehlé, zapomenuté údolí sevřené mezi třemi skalnatými vrcholy. Místo je charakteristické hlubokým klidem a je plné jemných ozvěn dávných událostí a nálad krajiny.
@@ -12,6 +12,7 @@ Dějiny:
 - -1514 — Objeveno Rianem, který si ho zvolil za místo pro své životní dílo.
 - -1514 až -1466 — Stalo se domovem Riana a místem vzniku Kamenného atlasu (viz Příběhy/druhy-vek/kameníkuv-atlas.txt).
 - 0 — U Kamenného atlasu v tomto údolí byl uzavřen Tichý úsvit, čímž začal Čtvrtý věk (viz Příběhy/ctvrty-vek/tichy-usvit.txt).
+- +235 — Slouží jako centrum nové generace Šedých svědků; Mistr Kaelen odsud vysílá léčitele krajiny Riana do Stříbrného Brodu (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/1.txt; Objekty/beings/kaelen-z-udoli.txt; Objekty/beings/rian-lecitel.txt).
 
 Poznámky:
 Po Rianově smrti se údolí a jeho atlas staly cílem tichých poutí pro ty, kteří dokáží vnímat hlas země.
