@@ -1,0 +1,16 @@
+id: obj:things/srdce-spolecenstvi
+jmeno: Srdce Společenství
+kategorie: things
+stav: aktivni
+aliasy: Krystal Harmonie
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Modifikovaný Paměťový krystal používaný Strážci Odkazu jako nástroj pro sociální inženýrství. Na rozdíl od starých krystalů, které jen zaznamenávaly ozvěny, Srdce Společenství aktivně vysílá silnou, monotónní mentální a emoční rezonanci. Tato "píseň harmonie" v širokém okolí potlačuje silné, individuální emoce (hněv, strach, vášeň, hluboký smutek) a nahrazuje je pocitem klidu, spokojenosti a komunitní sounáležitosti. Dlouhodobé vystavení jeho vlivu vede k postupné ztrátě individuality a hlubokých osobních vzpomínek.
+
+Dějiny:
+- Neurčeno — Vyvinuto a instalováno Strážci Odkazu v Kamenném Mostě.
+- +255 — Objeveno Elarou, Ladičkou Srdcí (viz Příběhy/krehka-rovnovaha/pisen-zkreslena/1.txt).
+
+Poznámky:
+Je to zbraň, která nevraždí těla, ale duše. Jeho "útok" je pro většinu obětí vnímán jako příjemný a žádoucí.

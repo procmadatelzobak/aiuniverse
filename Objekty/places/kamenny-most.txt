@@ -1,0 +1,17 @@
+id: obj:places/kamenny-most
+jmeno: Kamenný Most
+kategorie: places
+stav: obydlena (pod vlivem)
+aliasy: Tiché Město
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Středně velké, prosperující obchodní město ležící na křižovatce cest mezi Srdcem světa a východem. Město je známé pro svůj nepřirozený klid a harmonii. Ve skutečnosti je tajně ovládáno frakcí Strážců Odkazu, kteří pomocí rezonančního krystalu "Srdce Společenství" synchronizují a potlačují emoce a vzpomínky obyvatel, aby eliminovali konflikty.
+
+Dějiny:
+- Neznámo — Založeno, pravděpodobně v Druhém věku.
+- Neurčeno — Město se dostává pod kontrolu Strážců Odkazu.
+- +255 — Tajemství města je odhaleno Ladičkou Srdcí Elarou, která z města prchá (viz Příběhy/krehka-rovnovaha/pisen-zkreslena/1.txt).
+
+Poznámky:
+Je příkladem utopické myšlenky Rezonujících dovedené do své logické, totalitní koncovky.

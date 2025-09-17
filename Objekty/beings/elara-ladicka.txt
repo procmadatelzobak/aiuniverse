@@ -1,0 +1,16 @@
+id: obj:beings/elara-ladicka
+jmeno: Elara (Ladička Srdcí)
+kategorie: beings
+stav: ziva
+aliasy: —
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Mladá žena z obchodního města Kamenný Most. Není členkou žádného řádu, ale zdědila tradiční roli "Ladičky Srdcí" – empatické mediátorky, která má vrozenou schopnost vnímat "vnitřní píseň" neboli emoční a paměťový stav druhých lidí. Její dar jí umožňuje pomáhat při řešení sporů tím, že odhaluje skryté pravdy a pocity. Je moudrá, vnímavá a má silný smysl pro individualitu a svobodu duše.
+
+Dějiny:
+- +230 (cca) — Narodila se v Kamenném Mostě.
+- +255 — Odhalí, že zdánlivá harmonie jejího města je uměle vynucována technologií Strážců Odkazu. Stává se uprchlicí a vydává se na cestu do Údolí tichých ozvěn, aby našla pomoc (viz Příběhy/krehka-rovnovaha/pisen-zkreslena/1.txt).
+
+Poznámky:
+Další ztělesnění archetypu "Elara". Na rozdíl od předchozích není spojena s velkými řády nebo mystikou, ale s obyčejnými lidmi.
