@@ -3,7 +3,7 @@ jmeno: Orin
 kategorie: beings
 stav: narušený (stabilizovaný)
 aliasy: Ztracený, Tichý Orin
-naposledy_upraveno: 2025-10-02
+naposledy_upraveno: 2025-10-05
 
 Popis:
 Stopař a lovec řádu Šedých svědků. Je to mlčenlivý muž, který většinu svého života strávil sám v divočině obklopující Údolí tichých ozvěn. Dokáže číst stopy a znamení v krajině s neuvěřitelnou přesností a je expertem na přežití v nehostinných Tichých vrších. Jeho schopnosti jsou čistě praktické, založené na pozorování a zkušenosti. Kontakt s Hlasem Nicoty zanechal trvalé narušení jeho kinestetické paměti a vztahu k vlastnímu tělu.
@@ -40,6 +40,7 @@ Dějiny:
 - +215 (léto) — Je svědkem Kaelenova pádu do nerovnováhy a následné záchrany Lyrou. Plně si uvědomuje křehkost jejich "zbraně" a nebezpečí, které představuje cesta k Poslednímu bdění (viz Příběhy/jizva-ticha/2/15.txt).
 
 - +215 (léto) — V rámci "Tiché armády" se stává duchem družiny. Připomíná ostatním cenu za ztrátu identity a svou bdělostí hledá deformace reality, které Hlas Nicoty klade do cesty (viz Příběhy/jizva-ticha/3/1.txt).
+- +215 (léto) — Stává se obětí masivní mentální iluze stvořené Hlasem Nicoty. Je osvobozen díky spojenému úsilí Lyry a Kaelena a znovu si uvědomuje cenu vlastní identity (viz Příběhy/jizva-ticha/3/2.txt).
 
 Poznámky:
 Jeho stav je živoucím důkazem o nebezpečí Hlasu Nicoty. Jeho budoucí osud je nejistý.

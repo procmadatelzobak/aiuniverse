@@ -3,7 +3,7 @@ jmeno: Děti Ticha
 kategorie: concepts
 stav: aktivni (spojenci)
 aliasy: —
-naposledy_upraveno: 2025-10-02
+naposledy_upraveno: 2025-10-05
 
 Popis:
 Malá, izolovaná komunita žijící v odlehlých částech Tichých vrchů. Jsou to potomci přeživších, umírněných Mlčících poutníků, kteří nepodlehli pohlcení Tichou prázdnotou. Jejich filozofie je stále založena na hledání vnitřního ticha a oproštění se od minulosti, ale je méně radikální. Žijí v ústraní, vyhýbají se kontaktu s vnějším světem, který považují za "hlučný", a nesou hluboký pocit viny a odpovědnosti za katastrofu, kterou způsobili jejich předci.
@@ -14,6 +14,7 @@ Dějiny:
 +215 (léto) — V Tichých vrších se postaví vlně Vymazaných, aby koupili čas pro Kaelena a jeho společníky. Jejich sebevražedný postoj je zachráněn Kaelenovým zásahem, který ochromí Vymazané a odhalí moc Písně rovnováhy (viz Příběhy/jizva-ticha/2/14.txt).
 +215 (léto) — Je svědkem Kaelenova pádu do nerovnováhy a následné záchrany Lyrou. Plně si uvědomuje křehkost jejich "zbraně" a nebezpečí, které představuje cesta k Poslednímu bdění (viz Příběhy/jizva-ticha/2/15.txt).
 +215 (léto) — Vůdce Alyn a zbývající bojovníci uzavírají spojenectví se Společenstvem Jizvy. Přijímají roli průvodců a ochránců Nosiče písně během pochodu k Poslednímu bdění a vytvářejí "Tichou armádu" (viz Příběhy/jizva-ticha/3/1.txt).
+- +215 (léto) — Stávají se cílem masivní mentální iluze stvořené Hlasem Nicoty, která jim nabízí vysněné Údolí. Lyřina ukolébavka a Kaelenovo zesílení reality jim připomenou jejich skutečné poslání a posílí jejich odhodlání (viz Příběhy/jizva-ticha/3/2.txt).
 
 Poznámky:
 Jejich sídlo, Osada tichého stínu, je pravděpodobně postaveno tak, aby minimalizovalo svou "ozvěnu" v krajině.

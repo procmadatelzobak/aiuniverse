@@ -3,7 +3,7 @@ jmeno: Eamon z Břehů
 kategorie: beings
 stav: zivy
 aliasy: Strážce, Lovec
-naposledy_upraveno: 2025-10-02
+naposledy_upraveno: 2025-10-05
 
 Popis:
 Drsný samotář a poslední známý potomek prastarého rodu Strážců jezera. Nežije v žádné osadě, ale putuje Srdcem starého světa jako tichý ochránce divokých a zapomenutých míst. Má hluboké, instinktivní spojení se zemí a jejími tvory. Je mistrem přežití, stopování a tichého boje. Ačkoliv není oficiálním členem Šedých svědků, udržuje s jejich vedením volný kontakt a občas pro ně plní úkoly v divočině.
@@ -33,6 +33,7 @@ Dějiny:
 - +215 (léto) — Je svědkem Kaelenova pádu do nerovnováhy a následné záchrany Lyrou. Plně si uvědomuje křehkost jejich "zbraně" a nebezpečí, které představuje cesta k Poslednímu bdění (viz Příběhy/jizva-ticha/2/15.txt).
 
 - +215 (léto) — S Dětmi Ticha formuje "Tichou armádu" a vede plán pochodu k Poslednímu bdění. Připravuje strategii, jak využít Píseň rovnováhy jako dar k přepsání Ukotvené jeskyně navzdory přepisované krajině (viz Příběhy/jizva-ticha/3/1.txt).
+- +215 (léto) — Stává se svědkem masivní mentální iluze stvořené Hlasem Nicoty. Spoléhá na Lyřinu píseň a Kaelenovo zesílení reality, aby zlomil vlastní touhu po klidu a udržel strategické vedení družiny (viz Příběhy/jizva-ticha/3/2.txt).
 
 Poznámky:
 Jeho jméno je poctou Eamonovi, legendárnímu Strážci jezera, který stvořil Píseň rovnováhy. Představuje čtvrtého klíčového člena "Společenstva Jizvy".
