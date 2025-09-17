@@ -3,7 +3,7 @@ jmeno: Stříbrnice
 kategorie: places
 stav: uzdravující se
 aliasy: Zapomínající řeka
-naposledy_upraveno: 2025-10-11
+naposledy_upraveno: 2025-10-13
 
 Popis:
 Středně velká řeka, která pramení v kopcích na jihovýchodě a protéká Stříbrným Brodem, než se ztratí ve Vyprahlých pláních zapomnění. Bývala životodárnou tepnou regionu. Vlivem blízkosti plání byla její "paměť" těžce narušena: píseň byla chaotická, přerušovaná a ztrácela řád ročních období. Po probuzení Srdce pramene se však do toku vrací koherentní rezonance a řeka se pozvolna hojí.
@@ -13,6 +13,7 @@ Dějiny:
 - +235 — Její narušený stav je první věcí, kterou léčitel Rian diagnostikuje po příchodu do oblasti Stříbrného Brodu (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/2.txt).
 - +235 — U Srdce pramene odhalí Rian se svou průvodkyní Elarou, že původní píseň řeky přetrvává jako oslabená ozvěna, jejíž probuzení může obnovit paměť regionu (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/3.txt; Objekty/places/srdce-pramene.txt).
 - +235 — Poté, co je zdroj paměti v Srdci pramene probuzen, začíná se řeka pomalu uzdravovat. Její píseň se stává silnější a koherentnější, jak uzdravující rezonance proudí po jejím toku (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/4.txt; Objekty/places/srdce-pramene.txt).
+- +235 — Po návratu do Stříbrného Brodu proudí řeka jasně a veselým tónem doprovází každovečerní zpěv vesničanů. Její melodie se stává aktivní oporou proti mlze zapomnění, i když hrozba plání trvá (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/6.txt).
 
 Poznámky:
 "Uzdravení" řeky je pravděpodobně klíčem k uzdravení celé osady.
