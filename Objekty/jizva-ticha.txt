@@ -31,6 +31,7 @@ Dějiny:
 - +215 (jaro) — Kniha Druhá, Kapitola 8: Vorinův rezonanční fokusátor, Lyřina schopnost naslouchat tichu a Kaelenův překlad vytvoří první synchronizaci mezi strojem a kamenem. Tvarování Rezonanční mísy začíná a zároveň se prohlubuje pouto mezi Kaelenem a Lyrou (viz Příběhy/jizva-ticha/2/8.txt).
 - +215 (jaro/léto) — Kniha Druhá, Kapitola 9: Po týdnech práce je Rezonanční mísa dokončena. Její první aktivace vyšle vlnu mentálního ticha, která potvrdí úspěch a připraví skupinu na návrat k Jezeru odrazu (viz Příběhy/jizva-ticha/2/9.txt).
 - +215 (léto) — Kniha Druhá, Kapitola 10: Skupina opouští Osadu Vřesová stráň a vydává se na cestu zpět k Jezeru odrazu. Nesou s sebou nově vytvořenou Rezonanční mísu. Jejich dynamika je změněna a jejich mise vstupuje do nové, aktivní fáze (viz Příběhy/jizva-ticha/2/10.txt).
+- +215 (léto) — Kniha Druhá, Kapitola 11: U Jezera odrazu Ladiči s pomocí Rezonanční mísy provedou druhý sestup. Kaelen v tichu nástroje propojí Hvězdnou mysl, paměť země a lidský cit do nové Písně rovnováhy, která harmonizuje jezero a otevírá další fázi jejich poslání (viz Příběhy/jizva-ticha/2/11.txt).
 
 Poznámky:
 Tento meta objekt slouží ke sledování hlavního dějového oblouku trilogie.

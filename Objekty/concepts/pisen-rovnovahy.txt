@@ -1,7 +1,7 @@
 id: obj:concepts/pisen-rovnovahy
 jmeno: Píseň rovnováhy
 kategorie: concepts
-stav: neexistuje (ozvěna přežívá)
+stav: existuje (lokálně)
 aliasy: Trojzvuk
 naposledy_upraveno: 2025-09-26
 
@@ -14,6 +14,7 @@ Dějiny:
 - -3200-04-15 — Píseň byla znovu dočasně zesílena přítomností Sběrače hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
 - +215 (jaro) — Skupina novodobých Ladičů se pokouší Píseň znovu vytvořit jako zbraň proti Hlasu Nicoty (viz Příběhy/jizva-ticha/2/1.txt).
 - +215 (jaro) — Po přerušení prvního pokusu Ladiči pochopí, že k bezpečnému mostu je nezbytná Rezonanční mísa, a zaměří se na získání materiálu z Lomu tichých vzdechů (viz Příběhy/jizva-ticha/2/2.txt).
+- +215 (léto) — Novodobí Ladiči s pomocí Rezonanční mísy vytvářejí u Jezera odrazu novou, komplexnější verzi Písně rovnováhy. Její vliv je zatím omezen na jezero a jeho okolí, ale stává se potenciálním nástrojem proti Hlasu Nicoty (viz Příběhy/jizva-ticha/2/11.txt).
 
 Poznámky:
 Píseň není lék, který zničí nerovnováhu, ale harmonie, která jí dává smysl a místo ve struktuře reality. Její vytvoření vyžaduje obrovskou mentální sílu a osobní oběť.
