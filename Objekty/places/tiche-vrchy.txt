@@ -3,13 +3,14 @@ jmeno: Tiché vrchy
 kategorie: places
 stav: trvaly
 aliasy: —
-naposledy_upraveno: 2025-09-19
+naposledy_upraveno: 2025-09-20
 
 Popis:
 Strmé a skalnaté pohoří, které tvoří severní hranici známého světa. Jsou téměř neobydlené a vyznačují se hlubokým, tíživým tichem. Pramení zde řeka Tichá vlna a v jejich nitru se skrývají místa jako Údolí tichého strachu.
 
 Dějiny:
 - Pradávno — Vznikly formováním světa.
+- Úsvit času — Pohoří bylo ustáleno Silasem a osázeno prvním lesem Lianora, což předznamenalo budoucí jméno hor (viz Příběhy/koruna-v-troskach/1/1.txt; Objekty/beings/silas-tesar-ticha.txt; Objekty/beings/lianor-pevec-zivota.txt).
 - +215 (jaro) — Expedice Šedých svědků vstupuje do nitra pohoří a setkává se s izolovanými Dětmi Ticha i archivářem Vorinem ze Silencie. Zjišťují, že ticho hor je narušeno falešným tónem šířícím se z Tiché prázdnoty (viz Příběhy/jizva-ticha/1/5.txt; Objekty/concepts/deti-ticha.txt; Objekty/beings/vorin-ze-silencie.txt).
 
 Poznámky:
