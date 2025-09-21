@@ -12,6 +12,7 @@ Dějiny:
 - +245 (cca) — Narodila se v Silencii.
 - +280 (cca) — Začíná psát své klíčové dílo, "Studie o rezonančních fokusorech", které se stane základním textem pro pochopení technologie Rezonujících (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt).
 - +280 (cca) — Publikuje druhou část "Studie o rezonančních fokusorech", v níž katalogizuje hlavní typy přenosných fokusorů a popisuje jejich taktiku (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/2.txt).
+- +280 (cca) — Dokončuje své klíčové dílo třetí částí, která analyzuje selhání fokusorů a vymezuje jejich varovný odkaz pro budoucí generace (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt).
 
 Poznámky:
 Její jméno je kombinací dvou klíčových archetypů ("Elara" – moudrost, "Vorin" – věda), což symbolizuje snahu Čtvrtého věku o syntézu různých pohledů.

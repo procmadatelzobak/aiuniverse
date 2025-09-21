@@ -12,6 +12,7 @@ Dějiny:
 - Bezčasí — Vznikly jako přírodní anomálie spojená s Prvotním mořem myšlí.
 - -1650 (cca) — Staly se základem fungování společnosti v Silencii (viz Příběhy/druhy-vek/mesto-ozven.txt).
 - +280 (cca) — Mistryně Elara Vorinova shrnuje jejich strukturu a funkci v prvním díle své studie o fokusorech (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt).
+- +280 (cca) — Ve třetí části studie připomíná, že po Tichém úsvitu byly přeživší krystaly zapečetěny v trezorech Šedých svědků, aby se předešlo opětovnému zneužití (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt; Objekty/events/velke-ocisteni.txt).
 
 Poznámky:
 Jsou dokonalou, ale neselektivní kronikou. Jejich rezonance je pro většinu lidí zdrojem utrpení.

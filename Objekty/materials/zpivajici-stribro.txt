@@ -12,6 +12,7 @@ Dějiny:
 - Třetí věk — Těžen a hojně využíván Rezonujícími.
 - Konec Třetího věku — Většina známých nalezišť byla vytěžena.
 - Čtvrtý věk — Je považován za téměř vyhynulý materiál. Malé, nezpracované kousky jsou ceněnými artefakty.
+- +280 (cca) — Elara Vorinova ve své studii připomíná, že Šedí svědkové po Tichém úsvitu zapečetili doly a zasypali vstupy, aby zpívající stříbro nemohlo být zneužito k obnově fokusorů (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt; Objekty/events/velke-ocisteni.txt).
 
 Poznámky:
 Nedostupnost zpívajícího stříbra je jedním z hlavních důvodů, proč nelze technologii fokusorů v Čtvrtém věku snadno obnovit.
