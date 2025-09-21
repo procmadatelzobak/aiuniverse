@@ -11,6 +11,7 @@ Divoká a nebezpečná řeka, která protéká hlubokou, skalnatou propastí v m
 Dějiny:
 - Pradávno — Vznikla jako součást geografie světa.
 - cca -2200 — Místo je vybráno pro založení města Kamenný Most (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/1.txt).
+- cca -2180 — Corin v hukotu propasti poprvé rozezná zesílený vliv Šepotu Rozkolu, který se napájí emocemi obyvatel města (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/2.txt; Objekty/concepts/sepot-rozkolu.txt).
 
 Poznámky:
 Po stavbě mostu a umlčení Šepotu se řeka pravděpodobně zklidnila, ale propast zůstala jako jizva v krajině.

@@ -11,3 +11,4 @@ Pragmatický, metodický a talentovaný stavitel, spoluzakladatel Kamenného Mos
 Dějiny:
 - cca -2245 — Narodil se.
 - cca -2200 — Společně se svým bratrem Corinem zakládá město Kamenný Most. Trvá na pevných základech a struktuře jako protiváze bratrovy vize absolutní svobody (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/1.txt).
+- cca -2180 — Rostoucí konflikty ve městě vnímá jako nevyhnutelný důsledek bratrovy naivní víry ve svobodu. Jeho přesvědčení, že jen pevný řád a kontrola mohou zabránit chaosu, sílí. Začíná se odklánět od jejich původního společného snu (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/2.txt).

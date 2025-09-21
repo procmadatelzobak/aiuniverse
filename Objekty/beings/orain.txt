@@ -10,4 +10,4 @@ Poslední archivář města Kamenný Most, který si uchoval alespoň útržkovi
 
 Dějiny:
 - cca -50 — Narodil se v Kamenném Mostě.
-- cca +5 — Sepisuje své deníky, ve kterých zaznamenává ústně předávanou "Legendu o Kamenném Mostě" (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/1.txt).
+- cca +5 — Sepisuje své deníky, ve kterých zaznamenává ústně předávanou "Legendu o Kamenném Mostě" (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/1.txt; Příběhy/druhy-vek/legenda-o-kamennem-mostu/2.txt).
