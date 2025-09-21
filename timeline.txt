@@ -117,5 +117,6 @@
 - **+295**: Agasus zaznamenává legendu „Pouť Tří" od stařešiny Lyry a rekonstruuje tisícileté dějiny Třínohých od stvoření Hledačem po jejich izolaci v Údolí (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/2.txt; Objekty/beings/agasus.txt; Objekty/beings/trinozi.txt; Objekty/beings/lyra-starejsi.txt).
 - **+295**: Agasus popisuje trojpilířovou strukturu společnosti Třínohých – Rodiny, Dílny a Strážce Ticha – a upozorňuje na krizi, již způsobuje rostoucí počet dvounohých dětí (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/3.txt; Objekty/beings/agasus.txt; Objekty/beings/trinozi.txt; Objekty/beings/lyra-starejsi.txt; Objekty/concepts/strazci-ticha.txt).
 - **+296 (jaro)**: Agasus ve svém soukromém deníku přiznává, že se z pozorovatele stal účastníkem dění v Údolí, a navazuje citový vztah s Lyrou Mladší. Slavnost Tří Vod odhaluje střet mezi tradičním Troj-krokem a novým rytmem Dvounohých (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/5.txt; Objekty/beings/agasus.txt; Objekty/beings/lyra-mladsi.txt; Objekty/beings/trinozi.txt).
+- **+310 (cca)**: Mistryně Elara Vorinova ze Silencie vydává "Pojednání o jménu a ozvěně", které syntetizuje vývoj osobních jmen napříč Věky a představuje první systematický seznam jmenných archetypů (viz Příběhy/krehka-rovnovaha/o-jmenu-a-ozvene.txt; Objekty/beings/elara-vorinova.txt; Objekty/concepts/jmena-univerza.txt).
 
 
