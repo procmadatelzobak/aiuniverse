@@ -11,6 +11,7 @@ Tajná a izolovaná frakce, která se ideologicky hlásí k odkazu Rezonujícíc
 Dějiny:
 - 0 — Pravděpodobně založena malou skupinou přeživších Rezonujících, kteří odmítli Tichý úsvit a odešli do ústraní.
 - +255 — Jejich existence a metody jsou odhaleny v Kamenném Mostě. Jejich vliv se pravděpodobně omezuje jen na několik izolovaných komunit (viz Příběhy/krehka-rovnovaha/pisen-zkreslena/1.txt).
+- +280 (cca) — Elara Vorinova ve třetí části své studie ukazuje, že jejich Srdce Společenství představuje extrémní evoluci Harmonického fokusoru a varuje před světem bez skutečné svobody (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt; Objekty/things/srdce-spolecenstvi.txt; Objekty/things/fokusor-harmonicky.txt).
 
 Poznámky:
 Nejsou motivováni touhou po moci, ale zvráceným, utopickým ideálem. Považují se za spasitele, nikoli za tyrany.

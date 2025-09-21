@@ -11,3 +11,4 @@ Specializovaný rezonanční fokusor, který vysílal úzký paprsek čisté, ex
 Dějiny:
 - Třetí věk — Vyvinut a nasazen Rezonujícími; podle legend nesl ozvěnu strachu z Údolí tichého strachu.
 - +280 (cca) — Elara Vorinova zaznamenává jeho přesnost i nebezpečí pro operátory ve druhé části své studie (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/2.txt).
+- +280 (cca) — Ve třetí části studie vysvětluje, proč Fokusor Strachu selhal proti "zónám ticha" Mlčících poutníků: na Vyprahlých pláních zapomnění už nezbyla žádná mysl, kterou by mohl zasít děsem (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt; Objekty/concepts/mlcici-poutnici.txt; Objekty/places/vyprahle-plane-zapomneni.txt).

@@ -13,6 +13,7 @@ Dějiny:
 - +235 — Jejich plíživý vliv oslabuje paměť izolované osady Stříbrný Brod, což přiměje Šedé svědky vyslat léčitele krajiny Riana. Jeho cesta odhalí, že "mlha zapomnění" zasahuje i řeku Stříbrnici a její obyvatele (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/1.txt; Příběhy/krehka-rovnovaha/ozvena-v-mlze/2.txt; Objekty/places/stribrny-brod.txt; Objekty/beings/rian-lecitel.txt; Objekty/places/stribrnice.txt).
 - +235 — Deformují paměť krajiny i daleko od svých hranic: cesty k Srdci pramene se rozpadají a orientační body mizí, což nutí Riana a Elaru spoléhat na slabé ozvěny minulosti, aby se prameni vůbec přiblížili (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/3.txt; Objekty/places/srdce-pramene.txt).
 - +235 — I po uzdravení Stříbrného Brodu zůstává jejich mlha na obzoru. Vesničané však díky obnovené Písni mostu našli způsob, jak se jejímu pomalému nárůstu bránit (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/6.txt; Objekty/things/pisen-mostu.txt).
+- +280 (cca) — Elara Vorinova připomíná, že právě zde se zlomila technologická hegemonie Rezonujících: Bitva na Vyprahlých pláních zapomnění ukázala, že prázdnota plání dokáže pohltit i nejmocnější fokusory (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt).
 
 Poznámky:
 Jejich schopnost mazat paměť může být přirozenou protiváhou místům s vysokou koncentrací ozvěn, jako je Jezero odrazu nebo Silencia. Putování přes ně je nebezpečné nejen fyzicky, ale i pro mysl.

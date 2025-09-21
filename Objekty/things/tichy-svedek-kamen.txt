@@ -15,6 +15,7 @@ Dějiny:
 - 0 — Rael, nyní již Šedý svědek, zanechává kámen ve Velké knihovně v Údolí (viz Příběhy/ctvrty-vek/kamen-a-pisen.txt).
 - 0 až +260 — Kámen leží v knihovně, pomalu absorbuje a harmonizuje moudrost a klid svého okolí (viz Příběhy/ctvrty-vek/kamen-a-pisen.txt).
 - +260 — Je znovuobjeven Mistrem Léčitelem Rianem. Stává se jedním z klíčových nástrojů Léčitelů krajiny pro jemnou harmonizaci zjizvených míst (viz Příběhy/ctvrty-vek/kamen-a-pisen.txt).
+- +280 (cca) — Léčitelé krajiny jej používají k očištění nebezpečných úlomků rezonančních fokusorů, které sbírají ze starých bojišť, jak popisuje Elara Vorinova ve své studii (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt).
 
 Poznámky:
 Příběh kamene je příkladem toho, jak i malé, nenápadné objekty mohou nést historii a časem měnit svou funkci a význam.

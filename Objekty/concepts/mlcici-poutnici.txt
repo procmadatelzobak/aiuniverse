@@ -15,6 +15,7 @@ Dějiny:
 - cca -350 — Zvítězili v Bitvě na Vyprahlých pláních zapomnění díky zesílení přirozené anomálie místa.
 - -1 — Vůdci frakce a jejich nejmocnější členové byli pohlceni při rituálu, který stvořil Tichou prázdnotu (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt).
 - 0 — Většina zbývajících poutníků vedených Elarou podepsala Tichý úsvit u Kamenného atlasu a stala se součástí Šedých svědků, menší odštěpená skupina se stáhla do izolace a položila základ komunity později zvané Děti Ticha (viz Příběhy/ctvrty-vek/tichy-usvit.txt; Objekty/concepts/deti-ticha.txt; Objekty/places/osada-ticheho-stinu.txt).
+- +280 (cca) — Retrospektivní studie Elary Vorinové potvrzuje, že jejich strategie "zón ticha" dokázala zlomit i nejmocnější fokusory Rezonujících a že samotná realita se přiklonila k jejich filozofii prázdnoty (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt).
 
 Poznámky:
 Jejich odkaz je vnímán s velkou opatrností. Dokázali, že snaha o absolutní ticho je stejně nebezpečná jako snaha o absolutní paměť.

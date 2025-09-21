@@ -12,4 +12,4 @@ Dějiny:
 - 0 až +5 (cca) — Probíhá plošné zabavování a demontáž fokusorů, pálení technických kodexů a ukládání zbylých paměťových krystalů do hlídaných depozitářů (viz Objekty/events/tichy-usvit.txt).
 
 Poznámky:
-Podrobnosti o rozsahu akce se dochovaly pouze ve fragmentech, které cituje Elara Vorinova ve své "Studii o rezonančních fokusorech" (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt).
+ Podrobnosti o rozsahu akce se dochovaly pouze ve fragmentech, které cituje Elara Vorinova ve své "Studii o rezonančních fokusorech" (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt; Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt).

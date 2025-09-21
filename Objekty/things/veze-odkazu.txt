@@ -12,6 +12,7 @@ Dějiny:
 - cca -700 až -100 — Budovány po celých východních zemích.
 - 0 — V rámci smlouvy Tichý úsvit a následného Velkého Očištění byly všechny existující věže demontovány a jejich materiály navráceny zemi (viz Příběhy/ctvrty-vek/tichy-usvit.txt; Objekty/events/velke-ocisteni.txt).
 - +280 (cca) — Elara Vorinova shrnuje jejich přerod z archivních nástrojů v prostředky nátlaku ve své studii o fokusorech (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt).
+- +280 (cca) — Ve třetí části studie připomíná, že po Tichém úsvitu byly věže systematicky rozebrány, aby se zabránilo návratu totalitního dozoru Rezonujících (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt; Objekty/events/velke-ocisteni.txt).
 
 Poznámky:
 Zbytky základů některých věží lze stále nalézt, ale jsou to místa s narušenou a chaotickou ozvěnou.

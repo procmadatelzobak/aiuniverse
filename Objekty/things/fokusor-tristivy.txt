@@ -11,3 +11,4 @@ Nejběžnější typ rezonančního fokusoru používaný pěchotou Rezonující
 Dějiny:
 - Třetí věk — Masově vyráběn a používán během Války Ticha a Ozvěny.
 - +280 (cca) — Mistryně Elara Vorinova detailně popisuje jeho konstrukci a taktickou roli ve své studii o fokusorech (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/2.txt).
+- +280 (cca) — Ve třetí části studie dokumentuje, jak se střet s "zónami ticha" Mlčících poutníků stal jeho achillovou patou, když střely v Bitvě na Vyprahlých pláních zapomnění prostě zmizely (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt; Objekty/concepts/mlcici-poutnici.txt; Objekty/places/vyprahle-plane-zapomneni.txt).

@@ -11,3 +11,4 @@ Nebojový typ rezonančního fokusoru sloužící jako polní záznamové zaří
 Dějiny:
 - Třetí věk — Používán důstojníky a historiky Rezonujících, aby uchovali živé záznamy bitev.
 - +280 (cca) — Elara Vorinova popisuje jeho roli při budování Velkého archivu ve své studii o fokusorech (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/2.txt).
+- +280 (cca) — Ve třetí části studie zaznamenává, že během Bitvy na Vyprahlých pláních zapomnění dokázal Kronikář zachytit už jen prázdnotu, protože samotné místo mazalo vzpomínky (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt; Objekty/places/vyprahle-plane-zapomneni.txt).

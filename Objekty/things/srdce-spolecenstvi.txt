@@ -11,6 +11,7 @@ Modifikovaný Paměťový krystal používaný Strážci Odkazu jako nástroj pr
 Dějiny:
 - Neurčeno — Vyvinuto a instalováno Strážci Odkazu v Kamenném Mostě.
 - +255 — Objeveno Elarou, Ladičkou Srdcí (viz Příběhy/krehka-rovnovaha/pisen-zkreslena/1.txt).
+- +280 (cca) — Elara Vorinova ve své studii označuje krystal za konečný vývoj Harmonického fokusoru a varuje, že jeho monotónní píseň klidu nahrazuje obyvatelům Kamenného Mostu skutečné emoce (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt; Objekty/things/fokusor-harmonicky.txt).
 
 Poznámky:
 Je to zbraň, která nevraždí těla, ale duše. Jeho "útok" je pro většinu obětí vnímán jako příjemný a žádoucí.
