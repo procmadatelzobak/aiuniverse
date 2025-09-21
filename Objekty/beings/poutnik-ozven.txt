@@ -3,13 +3,14 @@ jmeno: Poutník Ozvěn
 kategorie: beings
 stav: nezvěstný (pravděpodobně zaniklý)
 aliasy: Rybář, Sběrač emocí
-naposledy_upraveno: 2025-09-16
+naposledy_upraveno: 2025-09-26
 
 Popis:
-Anomální, nehmotná bytost, která po staletí sídlila u Jezera odrazu. Měla podobu vysoké, mlžné postavy na člunu, která pomocí světelného "vlasce" lovila z chaotických vod jezera čisté, silné emoční ozvěny. Těmito ozvěnami se pravděpodobně živila. Nebyla vnímána jako zlá, ale její činnost způsobovala u lidí v okolí specifické, cílené ztráty paměti.
+Anomální, nehmotná bytost, která po staletí sídlila u Jezera odrazu. Měla podobu vysoké, mlžné postavy na člunu, která pomocí světelného "vlasce" lovila z chaotických vod jezera čisté, silné emoční ozvěny. Těmito ozvěnami se pravděpodobně živila. Nebyla vnímána jako zlá, ale její činnost způsobovala u lidí v okolí specifické, cílené ztráty paměti. Konfrontace s mentální logikou stavitele Alwina ukázala, že rigidně strukturované myšlení je pro bytost nestravitelným jedem.
 
 Dějiny:
 - Cca polovina Druhého věku — Poprvé se objevuje u Jezera odrazu, pravděpodobně přilákán emočními otřesy té doby.
+- -2810 (cca) — Je konfrontován mentálním "útokem" logiky a řádu od stavitele Alwina. V reakci na tento pro něj nestravitelný mentální podnět upustí právě "ulovenou" ozvěnu – fragment agónie Hvězdné mysli – která zasáhne Alwina. Poté mizí (viz Příběhy/druhy-vek/svedectvi-brena.txt).
 - Druhý a začátek Třetího věku — Existuje v symbióze s chaosem Jezera, stává se součástí místního folkloru.
 - Během Války Ticha a Ozvěny — Jeho "potrava" je zamořena umělými, agresivními ozvěnami Rezonujících a prázdnotou Mlčících poutníků.
 - Cca -350 — Poslední pozorování; bytost, oslabená a vyhladovělá, opouští Jezero odrazu a mizí.

@@ -1,0 +1,16 @@
+id: obj:beings/bren
+jmeno: Bren
+kategorie: beings
+stav: mrtvy
+aliasy: Bren Kameník
+naposledy_upraveno: 2025-09-26
+
+Popis:
+Kameník a učeň stavitele Alwina, který ho doprovázel během sběru materiálu pro Sluneční hodiny šepotů. Bren byl přímým svědkem Alwinova katastrofálního setkání s Poutníkem Ozvěn u Jezera odrazu. Po rozpadu komunity na Větrném vrchu se vrátil k prostému životu kameníka a jeho písemné svědectví se stalo jediným zdrojem informací o této události.
+
+Dějiny:
+- -2810 (cca) — Jako učeň je svědkem Alwinovy konfrontace s Poutníkem Ozvěn a následného mentálního kolapsu a proměny svého mistra (viz Příběhy/druhy-vek/svedectvi-brena.txt).
+- -2790 až -2200 (cca) — Žil v osadě na Větrném vrchu, kterou později opustil.
+
+Poznámky:
+Jeho záznam poskytuje klíčový vhled do psychologie Alwina a skutečného původu moci Slunečních hodin.

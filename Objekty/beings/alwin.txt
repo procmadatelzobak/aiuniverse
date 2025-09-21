@@ -3,13 +3,14 @@ jmeno: Alwin
 kategorie: beings
 stav: mrtvy
 aliasy: Stavitel hodin
-naposledy_upraveno: 2025-09-15
+naposledy_upraveno: 2025-09-26
 
 Popis:
-Stavitel a hvězdář z raného Druhého věku, hluboce znepokojený pomíjivostí lidské paměti a ohebností pravdy. Jeho životním cílem bylo stvořit nástroj, který by do světa plného neuchopitelných pocitů vnesl absolutní, neměnný řád. Tato touha ho vedla ke stavbě Slunečních hodin šepotů na Větrném vrchu. Ačkoliv byl mistrem řádu, nepochopil, že některé pravdy jsou příliš kruté a že jeho vynález, stvořený pro harmonii, přinese do komunity rozkol a strach.
+Stavitel a hvězdář z raného Druhého věku, hluboce znepokojený pomíjivostí lidské paměti a ohebností pravdy. Byl posedlý řádem a nesnášel chaos a nejednoznačnost, což ho nakonec vedlo ke konfrontaci s Poutníkem Ozvěn u Jezera odrazu. Trauma ze syrové ozvěny Hvězdné mysli, které tam zažil, proměnilo jeho vizi: Sluneční hodiny šepotů se staly nejen nástrojem odhalování pravdy, ale i barikádou logiky proti děsu, do něhož nahlédl.
 
 Dějiny:
+- -2810 (cca) — Během hledání kamene pro gnómon u Jezera odrazu se mentálně střetne s Poutníkem Ozvěn. Je zasažen syrovou, chaotickou ozvěnou Hvězdné mysli, kterou Poutník "upustil". Tato zkušenost ho hluboce traumatizuje a změní, ale zároveň mu odhalí kámen, který se stane srdcem jeho díla (viz Příběhy/druhy-vek/svedectvi-brena.txt).
 - -2800 (cca) — Dokončil své životní dílo, Sluneční hodiny šepotů, na Větrném vrchu (viz Příběhy/druhy-vek/hodiny-sepotu.txt).
 
 Poznámky:
-Jeho touha po absolutní pravdě vedla ke stvoření mocného, ale nebezpečného artefaktu.
+Jeho touha po absolutní pravdě, živená traumatickým zážitkem s absolutním chaosem, vedla ke stvoření mocného, ale nebezpečného artefaktu.
