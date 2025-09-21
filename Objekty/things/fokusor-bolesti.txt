@@ -2,7 +2,7 @@ id: obj:things/fokusor-bolesti
 jmeno: Fokusor bolesti
 kategorie: things
 stav: zanikly (technologie ztracena)
-aliasy: Ozvěna agónie
+aliasy: Ozvěna agónie, Agon
 naposledy_upraveno: 2025-10-18
 
 Popis:
@@ -12,7 +12,7 @@ Dějiny:
 - Třetí věk — Vyvinuto a používáno radikálními frakcemi Rezonujících.
 - cca -420 — Účinnost fokusoru byla neutralizována aurou pohlcující ozvěny, kterou vyzařoval kámen z Lomu tichých vzdechů (viz Příběhy/treti-vek/tichy-svedek.txt; Objekty/places/lom-tichych-vzdechu.txt).
 - 0 až +1 — Po Tichém úsvitu a v průběhu Velkého Očištění byla tato technologie, stejně jako ostatní zbraně Rezonujících, zničena a zakázána (viz Objekty/events/velke-ocisteni.txt).
-- +280 (cca) — Elara Vorinova ho uvádí jako extrémní příklad zneužití fokusorů ve své studii (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt).
+- +280 (cca) — Elara Vorinova ho ve své studii zmiňuje jako extrémní příklad zneužití fokusorů a popisuje jeho taktiku i dopady na operátory (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt; Příběhy/krehka-rovnovaha/studie-o-fokusorech/2.txt).
 
 Poznámky:
 Příklad zneužití technologie paměti pro účely mučení a kontroly.

@@ -22,6 +22,7 @@ Dějiny:
 - +235 — Příběh "Ozvěna v Mlze", Kapitola 6 (Epilog): Rian opouští uzdravující se Stříbrný Brod. Vesničané udržují Píseň mostu a příběh "Ozvěna v Mlze" je uzavřen (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/6.txt).
 - +255 — Začíná příběh "Píseň Zkreslená". Ladička Srdcí Elara v městečku Kamenný Most odhalí, že klid komunity je uměle udržován pomocí skrytého rezonančního krystalu, který potlačuje individualitu. Rozhodne se uprchnout a hledat pomoc u Šedých svědků (viz Příběhy/krehka-rovnovaha/pisen-zkreslena/1.txt).
 - +280 (cca) — Elara Vorinova zveřejňuje první část své "Studie o rezonančních fokusorech", aby zdokumentovala původ a zneužití fokusorů Třetího věku (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt).
+- +280 (cca) — Mistryně Elara Vorinova sepisuje druhou část své studie, kde detailně katalogizuje a popisuje pět hlavních typů rezonančních fokusorů používaných ve Válce Ticha a Ozvěny a jejich taktické využití (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/2.txt).
 
 Poznámky:
 —
