@@ -3,7 +3,7 @@ jmeno: Války Ticha a Ozvěny
 kategorie: events
 stav: ukonceny
 aliasy: —
-naposledy_upraveno: 2025-09-15
+naposledy_upraveno: 2025-10-16
 
 Popis:
 Dlouhý konflikt Třetího věku mezi Rezonujícími, kteří chtěli uchovat každou vzpomínku, a Mlčícími poutníky, hledajícími osvobození od minulosti. Válka zasáhla většinu známého světa a vyvrcholila vytvořením Tiché prázdnoty.
@@ -12,4 +12,4 @@ Dějiny:
 - -950 až -1 — Střety obou filozofií od obléhání Dubu paměti přes bitvu na Vyprahlých pláních až po rituál, který stvořil Tichou prázdnotu (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt; Objekty/concepts/rezonujici.txt; Objekty/concepts/mlcici-poutnici.txt; Objekty/things/veze-odkazu.txt; Objekty/places/ticha-prazdnota.txt).
 
 Poznámky:
-Válka skončila Tichým úsvitem a nastolením éry Křehké rovnováhy.
+Válka skončila Tichým úsvitem a nastolením éry Křehké rovnováhy. Během konfliktu se objevila i anomální postava Třínohého Edgara, který bojoval na obou stranách a jehož původ zůstával záhadou (viz Příběhy/treti-vek/legenda-o-edgarovi.txt; Objekty/beings/edgar-trinohy.txt).

@@ -48,7 +48,9 @@
 - **-510 (cca)**: Obléhání Dubu paměti; střet mezi Rezonujícími a Mlčícími poutníky. Otevřený začátek Války Ticha a Ozvěny (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt; Objekty/events/valky-ticha-a-ozveny.txt).
 - **-420 (cca)**: Lom tichých vzdechů skryl bylinkářku Lyru před hlídkou Rezonujících; aura kamene utišila fokusor bolesti a umožnila záchranu vůdce Mlčících poutníků (viz Příběhy/treti-vek/tichy-svedek.txt; Objekty/places/lom-tichych-vzdechu.txt; Objekty/beings/lyra-tichy-svedek.txt; Objekty/things/fokusor-bolesti.txt; Objekty/beings/vorin-hlidka-rezonujicich.txt).
 - **-400 (cca)** — Mlčící poutník Rael přebírá Kámen Tichého svědka po Lyře a s jeho pomocí přečká závěrečné střety Války Ticha a Ozvěny, včetně vzniku Tiché prázdnoty (viz Příběhy/ctvrty-vek/kamen-a-pisen.txt; Objekty/beings/rael.txt; Objekty/things/tichy-svedek-kamen.txt).
+- **-370 (cca)**: Třínohý Edgar se poprvé objevuje mezi žoldnéři na pomezí Srdce světa a Vyprahlých plání; jeho oportunismus a stabilita z něj činí legendu válečných kronik (viz Příběhy/treti-vek/legenda-o-edgarovi.txt; Objekty/beings/edgar-trinohy.txt).
 - **-350 (cca)**: Bitva na Vyprahlých pláních zapomnění. Expedice Rezonujících je zničena zesílenou anomálií plání (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt).
+- **-350 (cca)**: Chaos bitvy umožní Třínohému Edgarovi odolávajícímu vlně zapomnění vykrást Kaelenovu pokladnici a zmizet z kronik (viz Příběhy/treti-vek/legenda-o-edgarovi.txt; Objekty/beings/edgar-trinohy.txt; Objekty/beings/kaelen-prvni-mluvci.txt).
 - **-1**: Rituál Mlčících poutníků stvořil Tichou prázdnotu, která pohltila západní Tiché vrchy a vůdce poutníků. Konec Války Ticha a Ozvěny (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt; Objekty/events/valky-ticha-a-ozveny.txt; Objekty/places/ticha-prazdnota.txt).
 
 ## Čtvrtý věk
