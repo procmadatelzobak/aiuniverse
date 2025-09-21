@@ -1,0 +1,25 @@
+id: st:koruna-v-troskach
+jmeno: Koruna v Troskách (Trilogie)
+kategorie: meta
+stav: probiha
+aliasy: Epos Úsvitu
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Epická trilogie z úsvitu Prvního věku, která popisuje příčiny, průběh a
+následky Tichého pádu. Zaměřuje se na příběh dvou Prvorozených, Lianora a Silase,
+a rozpad dokonalé harmonie Sedmi.
+
+Knihy:
+
+Kniha První: Píseň úsvitu
+
+Kniha Druhá: Pád tichého slunce (plánováno)
+
+Kniha Třetí: Jezero ozvěn (plánováno)
+
+Dějiny:
+- Počátek Prvního věku — Kniha První, Kapitola 2: Lianor a Silas navštěvují Srdce
+Světa, centrální rezonátor harmonie, a obnovují své síly. Je popsána podstata
+dokonalé rovnováhy, která vládla světu před Pádem (viz
+Příběhy/koruna-v-troskach/1/2.txt).

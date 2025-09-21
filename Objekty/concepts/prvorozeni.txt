@@ -11,6 +11,7 @@ První a nejmocnější bytosti, které se zrodily na počátku Prvního věku. 
 Dějiny:
 - Úsvit času — Zrozeni z Prvotního moře myšlí krátce po zformování Sedmi.
 - Počátek Prvního věku — Aktivně se podílejí na finálním formování světa, jak je popsáno v eposu "Koruna v Troskách" (viz Příběhy/koruna-v-troskach/1/1.txt).
+- Počátek Prvního věku — Prvorození pravidelně navštěvují Srdce Světa, aby znovu sjednotili své tóny v Písni Stvoření a udrželi dokonalou rovnováhu reality (viz Příběhy/koruna-v-troskach/1/2.txt; Objekty/concepts/srdce-sveta.txt; Objekty/concepts/pisen-stvoreni.txt).
 
 Poznámky:
 Předpokládá se, že rasa Prvorozených byla zničena nebo navždy proměněna během kataklyzmatu Tichého pádu. Pozdější, slabší bytosti jako Nositelé hlasů mohou být jejich vzdálenými, zředěnými ozvěnami.

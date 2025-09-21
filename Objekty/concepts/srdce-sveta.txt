@@ -1,0 +1,26 @@
+id: obj:concepts/srdce-sveta
+jmeno: Srdce Světa
+kategorie: concepts
+stav: zničeno
+aliasy: Rezonátor Harmonie
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Prastarý, napůl fyzický a napůl metafyzický artefakt, který existoval na počátku
+Prvního věku. Měl podobu obrovského, pomalu rotujícího krystalu/objektu utkaného
+z čisté harmonie, který se vznášel v centrální jeskyni světa. Srdce Světa sloužilo
+jako ohnisko a rezonátor pro spojenou moc Sedmi. Přijímalo jejich jednotlivé
+"myšlenky" a splétalo je do jediné, dokonalé "Písně Stvoření", která udržovala celý
+svět v absolutní rovnováze. Bylo zdrojem veškeré stability a magie ve Věku Mýtů.
+
+Dějiny:
+- Úsvit času — Vzniklo současně se Sedmi jako ztělesnění jejich jednoty.
+- Počátek Prvního věku — Sloužilo jako místo obnovy a komunikace pro Prvorozené,
+  jako byli Lianor a Silas (viz Příběhy/koruna-v-troskach/1/2.txt).
+- Tichý pád — Bylo zničeno při pokusu absorbovat a harmonizovat cizí realitu
+  Hvězdné mysli. Jeho zničení způsobilo rozpad harmonie Sedmi a roztříštění jeho
+  esence do mocných artefaktů a míst (např. Dub paměti, Tři slzy).
+
+Poznámky:
+Jeho zničení je klíčovou událostí, která ukončila Věk Mýtů a odstartovala věky
+nedokonalosti a boje, které následovaly.
