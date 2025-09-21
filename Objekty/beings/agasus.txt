@@ -1,0 +1,16 @@
+id: obj:beings/agasus
+jmeno: Agasus
+kategorie: beings
+stav: zivy
+aliasy: Agasus Kartograf
+naposledy_upraveno: 2025-10-16
+
+Popis:
+Kartograf, objevitel a dobrodruh z konce třetího století Čtvrtého věku, volně spjatý s řádem Šedých svědků. Na rozdíl od Léčitelů krajiny, kteří zkoumají "duši" světa, je Agasus fascinován jeho fyzickými hranicemi a neprobádanými oblastmi. Je známý svou odvahou, houževnatostí a pedantským přístupem k dokumentaci svých objevů.
+
+Dějiny:
+- +265 (cca) — Narodil se.
+- +295 — Během expedice do bezejmenných hor na jihovýchodě náhodou objeví vstup do izolovaného Údolí a naváže první kontakt s jeho obyvateli, Třínozími. Jeho první zpráva do Údolí tichých ozvěn odhaluje existenci této zapomenuté komunity (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/1.txt).
+
+Poznámky:
+—

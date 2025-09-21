@@ -1,0 +1,17 @@
+id: obj:beings/trinozi
+jmeno: Třínozí
+kategorie: beings
+stav: zivi (v proměně)
+aliasy: Lid z Údolí
+naposledy_upraveno: 2025-10-16
+
+Popis:
+Lid humanoidního vzhledu, jehož unikátním znakem jsou tři dolní končetiny, které jim poskytují výjimečnou stabilitu. Byli stvořeni Hledačem na počátku Druhého věku jako experiment s různými formami života. Jejich kultura je hluboce ovlivněna číslem tři, což se projevuje v jejich sociální struktuře, umění i filozofii. Jsou to klidní, mírní lidé, jejichž dlouhá izolace je uchránila před většinou konfliktů světa.
+
+Dějiny:
+- Počátek Druhého věku — Stvořeni Hledačem.
+- cca -2500 — Po staletích nomádského života a pronásledování se usazují ve skrytém Údolí.
+- +295 — Jsou objeveni vnějším světem kartografem Agasusem. Komunita si uvědomuje, že se rodí stále více dětí se dvěma nohama, což naznačuje proměnu jejich původní formy (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/1.txt; Objekty/beings/agasus.txt; Objekty/places/udoli-trinohych.txt).
+
+Poznámky:
+Přirozený životní rytmus Třínohých je sladěn s trojčlennými vzorci, které v Údolí utvářejí i krajinu a architekturu.

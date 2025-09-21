@@ -1,0 +1,33 @@
+id: st:krehka-rovnovaha/zprava-o-udoli/1
+nazev: První zpráva o Údolí
+era: ctvrty-vek
+casovy_rah: +295
+autor: Agasus, kartograf a poutník
+nemenny: ano
+
+Obsah:
+
+Zápis určený pro archivy Šedých svědků v Údolí tichých ozvěn. Autor: Agasus, kartograf.
+Datováno: Podzim roku 295 Čtvrtého věku.
+
+Mistři,
+píši vám z místa, které není na žádné z našich map. Místa, jehož existence se zdá být v rozporu s mnohým, co víme o historii našeho světa. Píši vám z Údolí.
+
+Jak víte, má mise mě zavedla daleko na jihovýchod, za Vyprahlé pláně, do neprobádaných a bezejmenných hor. Hledal jsem původ anomálních větrů, které v posledních letech mění počasí v pohraničí. Místo toho jsem našel... kapsu reality, která jako by usnula na úsvitu věků a teprve nyní se probouzí.
+
+Údolí, jak mu říkají jeho obyvatelé, je sevřeno mezi třemi nepřekročitelnými, žiletkově ostrými hřebeny. Vstup do něj je jediný – úzká soutěska, tak dokonale skrytá přírodními útvary, že jsem ji našel jen díky náhodě a zhroucení skalní stěny, které odhalilo její ústí. Vzduch zde není nemocný jako u Plání; je jen... jiný. Starší. Rezonuje klidem tak hlubokým, že se zdá být starší než samotné hory. Mám podezření, že Údolí samotné je dílem jednoho ze Sedmi, pravděpodobně Sochaře, který zde v Prvním věku zamýšlel vytvořit dokonalou, symetrickou krajinu, ale svůj projekt z neznámých důvodů opustil. A dílo, nedokončené, bylo ponecháno svému osudu, skryto za závojem geologického ticha.
+
+Největším objevem však nejsou hory, ale lidé. Nazývají se Třínozí, a tento název je prostým popisem skutečnosti. Jsou to bytosti humanoidního vzhledu, ale od pasu dolů mají tři štíhlé, silné končetiny, uspořádané do trojúhelníkového postoje. To jim dává neuvěřitelnou stabilitu na nerovném terénu a jejich pohyb není chůzí, ale plynulým, rytmickým "troj-krokem", který je podivně ladný.
+
+Mluvil jsem s jejich stařešinou, ženou jménem Lyra (opět to jméno, jako by bylo vetkáno do samotné podstaty světa!). Z jejího vyprávění, plného mýtů a metafor, jsem sestavil útržkovitou historii. Jejich lid nebyl stvořen v Údolí. Byli stvořeni na počátku Druhého věku jako experiment Hledače, který zkoumal různé formy života a pohybu. Žili jako nomádi v širém světě, ale jejich odlišnost je činila terčem strachu a nedůvěry. Po několika staletích pronásledování je prý vedl hlas na obloze – Hledačova lítost? – na tajnou stezku, která je zavedla do tohoto skrytého Údolí, jež pro ně bylo připraveno jako útočiště. Zde žijí v naprosté izolaci po více než dva tisíce let.
+
+Jejich společnost je fascinující. Není zde žádná velká architektura, jejich domy jsou napůl vrostlé do svahů. Jejich technologie je na úrovni doby bronzové. Ale jejich sociální struktura... je postavena na rovnováze. Jejich trojnohý postoj se odráží ve všem: v radě tří starších, v rodinách o třech generacích, dokonce i v jejich písních, které jsou vždy trojhlasé.
+
+Velké události světa se jich dotkly jen jako vzdálené, nepochopitelné ozvěny. Vzpomínají na "dobu velkého křiku", kdy obloha na několik let ztratila barvu (zjevně Války Ticha a Ozvěny). A pamatují si i "den, kdy svět zatajil dech" – náhlé, absolutní ticho následované jemným, stříbřitým světlem na severním obzoru, které trvalo několik týdnů (bezpochyby Kaelenův čin a následné usazení Písně rovnováhy). Ale nikdy nepochopili, co tyto jevy znamenaly. Byli jen pasivními svědky počasí v duši světa.
+
+Nyní se však jejich izolace chýlí ke konci. Mé objevení je prvním znamením. A co je znepokojivější, jejich nejmladší generace je jiná. Stařešina Lyra mi s obavami sdělila, že se rodí stále více dětí jen se dvěma nohama. Zdá se, že dlouhý spánek Hledače, nebo možná nová rovnováha světa po Válce se stíny, pomalu přepisuje jejich prapůvodní formu. Jejich jedinečnost, která je kdysi definovala, se pomalu vytrácí.
+
+Zůstanu zde ještě několik týdnů, abych dokončil své mapy a záznamy. Toto je jen první zpráva. Údolí je pokladnicí zapomenuté historie a nečekaných pohledů na dílo Sedmi. Je to živoucí důkaz toho, že náš svět je mnohem starší, podivnější a plnější skrytých příběhů, než jsme si kdy dokázali představit.
+
+S úctou,
+Agasus.
