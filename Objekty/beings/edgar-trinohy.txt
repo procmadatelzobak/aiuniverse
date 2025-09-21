@@ -1,0 +1,18 @@
+id: obj:beings/edgar-trinohy
+jmeno: Edgar Třínohý
+kategorie: beings
+stav: mrtvy
+aliasy: Podvodník z Plání
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Jediný známý Třínohý, který v zaznamenané historii opustil skryté Údolí a žil ve vnějším světě. Působil jako žoldnéř a podvodník během Války Ticha a Ozvěny. Edgar byl amorální, oportunistický a zcela bez ideologie, což mu paradoxně umožnilo přežít v éře fanatismu. Svůj původ držel v naprosté tajnosti. Je známý pro svou neuvěřitelnou fyzickou stabilitu a pro legendární krádež pokladnice Rezonujících během Bitvy na Vyprahlých pláních zapomnění.
+
+Dějiny:
+- cca -390 — Narodil se v Údolí. V mládí z neznámých důvodů opustil svou komunitu.
+- cca -370 — Poprvé se objevuje v záznamech jako žoldnéř.
+- -350 — Zúčastní se Bitvy na Vyprahlých pláních zapomnění, kde jako jeden z mála odolá vlně zapomnění a využije chaosu k okradení velení Rezonujících (viz Příběhy/treti-vek/legenda-o-edgarovi.txt; Objekty/events/valky-ticha-a-ozveny.txt; Objekty/beings/kaelen-prvni-mluvci.txt).
+- Po -350 — Mizí z historických záznamů. Jeho další osud je neznámý.
+
+Poznámky:
+Je důkazem, že i v harmonické a izolované společnosti Třínohých se může zrodit jedinec s touhou po chaosu a dobrodružství. Jeho existence byla pro vnější svět naprostou záhadou až do Agasusových objevů o téměř 650 let později.
