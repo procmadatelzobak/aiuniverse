@@ -3,14 +3,15 @@ jmeno: Věže Odkazu
 kategorie: things
 stav: znicene (demontované)
 aliasy: Rezonanční věže
-naposledy_upraveno: 2025-09-18
+naposledy_upraveno: 2025-10-18
 
 Popis:
 Monumentální stavby vytvořené Rezonujícími během Třetího věku. Byly postaveny z Paměťových krystalů a kamene s vysokou rezonancí. Jejich účelem bylo aktivně shromažďovat, zesilovat a ukládat všechny ozvěny v jejich dosahu, čímž vytvářely permanentní archiv dané oblasti. Vedlejším účinkem byla silná psychická interference, která v okolí věží znemožňovala soukromí myšlenek.
 
 Dějiny:
 - cca -700 až -100 — Budovány po celých východních zemích.
-- 0 — V rámci smlouvy Tichý úsvit byly všechny existující věže demontovány a jejich materiály navráceny zemi (viz Příběhy/ctvrty-vek/tichy-usvit.txt).
+- 0 — V rámci smlouvy Tichý úsvit a následného Velkého Očištění byly všechny existující věže demontovány a jejich materiály navráceny zemi (viz Příběhy/ctvrty-vek/tichy-usvit.txt; Objekty/events/velke-ocisteni.txt).
+- +280 (cca) — Elara Vorinova shrnuje jejich přerod z archivních nástrojů v prostředky nátlaku ve své studii o fokusorech (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt).
 
 Poznámky:
 Zbytky základů některých věží lze stále nalézt, ale jsou to místa s narušenou a chaotickou ozvěnou.

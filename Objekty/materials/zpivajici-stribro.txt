@@ -1,0 +1,17 @@
+id: obj:materials/zpivajici-stribro
+jmeno: Zpívající stříbro
+kategorie: materials
+stav: extrémně vzácné
+aliasy: —
+naposledy_upraveno: 2025-10-18
+
+Popis:
+Vzácný kov, který se nacházel v hlubinných žilách v okolí Kráteru rezonance. Má unikátní vlastnost: nereaguje na teplo, ale silně rezonuje s mentálními a zvukovými frekvencemi, což z něj činí dokonalý zesilovač a vodič pro ozvěny. Byl klíčovou a nenahraditelnou součástí těl rezonančních fokusorů.
+
+Dějiny:
+- Třetí věk — Těžen a hojně využíván Rezonujícími.
+- Konec Třetího věku — Většina známých nalezišť byla vytěžena.
+- Čtvrtý věk — Je považován za téměř vyhynulý materiál. Malé, nezpracované kousky jsou ceněnými artefakty.
+
+Poznámky:
+Nedostupnost zpívajícího stříbra je jedním z hlavních důvodů, proč nelze technologii fokusorů v Čtvrtém věku snadno obnovit.

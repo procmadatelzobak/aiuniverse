@@ -1,0 +1,19 @@
+id: obj:things/fokusor-rezonancni
+jmeno: Rezonanční fokusor (obecný)
+kategorie: things
+stav: zanikly (technologie ztracena)
+aliasy: Archeofon
+naposledy_upraveno: 2025-10-18
+
+Popis:
+Obecný termín pro zařízení vyvinutá Rezonujícími v Třetím věku, která umožňovala manipulaci s ozvěnami. Základní fokusor se skládal ze tří částí: Paměťového krystalu (zdroj ozvěny), těla ze "zpívajícího stříbra" (zesilovač) a mentálního propojení s operátorem (zdroj vůle a energie). Umožňoval vybrat, zesílit a "vyslat" konkrétní zaznamenanou ozvěnu (vzpomínku, emoci) do okolí nebo na cíl.
+
+Dějiny:
+- Počátek Třetího věku — Vyvinuty první verze jako nástroje pro historiky a léčitele.
+- cca -700 — Technologie je militarizována a zdokonalena pod vedením Kaelena, Prvního mluvčího.
+- Během Války Ticha a Ozvěny — Stávají se standardní "zbraní" Rezonujících (např. Fokusor bolesti).
+- 0 až +1 — Po Tichém úsvitu a během Velkého Očištění je technologie zakázána a téměř všechny existující fokusory jsou zničeny (viz Objekty/events/velke-ocisteni.txt). Znalost výroby je ztracena.
+- +280 (cca) — Jejich princip a historie jsou detailně popsány Mistryní Elarou Vorinovou (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt).
+
+Poznámky:
+Vorinův primitivní "Rezonanční fokusátor" z doby Války se stíny byl jen slabou, improvizovanou ozvěnou této mocné a nebezpečné technologie.
