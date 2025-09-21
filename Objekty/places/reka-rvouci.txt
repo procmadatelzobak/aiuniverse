@@ -1,0 +1,16 @@
+id: obj:places/reka-rvouci
+jmeno: Řvoucí
+kategorie: places
+stav: trvaly
+aliasy: Propast Šepotů
+naposledy_upraveno: 2025-09-21
+
+Popis:
+Divoká a nebezpečná řeka, která protéká hlubokou, skalnatou propastí v místě, kde bylo později založeno město Kamenný Most. Její proud je silný a hlučný. V hlubinách propasti, kterou řeka vyhloubila, sídlila prastará entita známá jako Šepot Rozkolu.
+
+Dějiny:
+- Pradávno — Vznikla jako součást geografie světa.
+- cca -2200 — Místo je vybráno pro založení města Kamenný Most (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/1.txt).
+
+Poznámky:
+Po stavbě mostu a umlčení Šepotu se řeka pravděpodobně zklidnila, ale propast zůstala jako jizva v krajině.

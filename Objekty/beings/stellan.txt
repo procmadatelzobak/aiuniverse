@@ -1,0 +1,13 @@
+id: obj:beings/stellan
+jmeno: Stellan
+kategorie: beings
+stav: mrtvy
+aliasy: Stellan Stavitel
+naposledy_upraveno: 2025-09-21
+
+Popis:
+Pragmatický, metodický a talentovaný stavitel, spoluzakladatel Kamenného Mostu a mladší bratr Corina. Byl hluboce ovlivněn příběhy svých předků o chaosu a pádu Silencie. Jeho hlavní životní hodnotou byla stabilita, řád a bezpečnost. Ačkoliv miloval svého bratra, jeho idealismus považoval za nebezpečný.
+
+Dějiny:
+- cca -2245 — Narodil se.
+- cca -2200 — Společně se svým bratrem Corinem zakládá město Kamenný Most. Trvá na pevných základech a struktuře jako protiváze bratrovy vize absolutní svobody (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/1.txt).

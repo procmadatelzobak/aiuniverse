@@ -1,0 +1,16 @@
+id: obj:beings/sepot-rozkolu
+jmeno: Šepot Rozkolu
+kategorie: beings
+stav: neznamy
+aliasy: Hloubka rozštěpu
+naposledy_upraveno: 2025-09-21
+
+Popis:
+Prastará nehmotná entita svázaná s propastí, kterou vyhloubila řeka Řvoucí. Její přítomnost rozsévá nedůvěru a polarizuje vůle těch, kdo se ocitnou na křižovatce cest. Odráží se v ozvěnách strachu a nesouladu, které rezonují mezi ideály svobody a touhou po řádu.
+
+Dějiny:
+- Pradávno — Usazuje se v hlubinách propasti Řvoucí a živí se konfliktem mezi cestovateli, kteří se odváží k přechodu.
+- cca -2200 — Její šeptání provokuje rozkol mezi bratry Corinem a Stellanem, kteří chtějí vybudovat město Kamenný Most a musí najít způsob, jak hlas entity umlčet (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/1.txt).
+
+Poznámky:
+Pozdější kroniky naznačují, že při stavbě mostu došlo k jejímu umlčení, ale přesný rituál ani cena nejsou zatím zaznamenány.
