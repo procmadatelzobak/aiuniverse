@@ -13,7 +13,7 @@
 - **-3200-04-16**: Sběrač hlasů zmizel (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
 
 ## Druhý věk
-- **-2810 (cca)** — Alwin nasbíral kameny u Jezera odrazu pro budoucí Sluneční hodiny šepotů (viz Příběhy/druhy-vek/hodiny-sepotu.txt; Objekty/beings/alwin.txt; Objekty/things/slunecni-hodiny-sepotu.txt; Objekty/places/jezero-odrazu.txt).
+- **-2810 (cca)** — Alwin nasbíral kameny u Jezera odrazu pro budoucí Sluneční hodiny šepotů, ale jeho mentální střet s Poutníkem Ozvěn a zásah fragmentem agónie Hvězdné mysli zásadně přetvořily jeho dílo (viz Příběhy/druhy-vek/svedectvi-brena.txt; Příběhy/druhy-vek/hodiny-sepotu.txt; Objekty/beings/alwin.txt; Objekty/beings/poutnik-ozven.txt; Objekty/beings/bren.txt; Objekty/things/slunecni-hodiny-sepotu.txt; Objekty/places/jezero-odrazu.txt).
 - **-2800 (cca)** — Alwin postavil Sluneční hodiny šepotů na Větrném vrchu z kamene jezera (viz Příběhy/druhy-vek/hodiny-sepotu.txt; Objekty/beings/alwin.txt; Objekty/things/slunecni-hodiny-sepotu.txt; Objekty/places/vetrny-vrch.txt).
 - **-2750 (cca)** — Hodiny odhalily nevěru Kaelana, což vedlo k rozkolu v osadě na Větrném vrchu (viz Příběhy/druhy-vek/hodiny-sepotu.txt; Objekty/things/slunecni-hodiny-sepotu.txt; Objekty/beings/lyra-z-vetrneho-vrchu.txt; Objekty/beings/kaelan.txt; Objekty/places/vetrny-vrch.txt).
 - **-2200 (cca)** — Sluneční hodiny šepotů upadly v zapomnění a osada na Větrném vrchu zanikla (viz Příběhy/druhy-vek/hodiny-sepotu.txt; Objekty/things/slunecni-hodiny-sepotu.txt; Objekty/places/vetrny-vrch.txt).
