@@ -1,0 +1,13 @@
+id: obj:things/fokusor-tristivy
+jmeno: Fokusor Tříštivý
+kategorie: things
+stav: zanikly
+aliasy: Tříštič
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Nejběžnější typ rezonančního fokusoru používaný pěchotou Rezonujících. Jeho jádro bylo naplněno chaotickou směsí stovek různých ozvěn, které po aktivaci vytvořily mentální "šrapnel" schopný ochromit soustředění každého, koho zasáhl.
+
+Dějiny:
+- Třetí věk — Masově vyráběn a používán během Války Ticha a Ozvěny.
+- +280 (cca) — Mistryně Elara Vorinova detailně popisuje jeho konstrukci a taktickou roli ve své studii o fokusorech (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/2.txt).

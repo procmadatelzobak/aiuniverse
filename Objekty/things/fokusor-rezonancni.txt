@@ -13,7 +13,7 @@ Dějiny:
 - cca -700 — Technologie je militarizována a zdokonalena pod vedením Kaelena, Prvního mluvčího.
 - Během Války Ticha a Ozvěny — Stávají se standardní "zbraní" Rezonujících (např. Fokusor bolesti).
 - 0 až +1 — Po Tichém úsvitu a během Velkého Očištění je technologie zakázána a téměř všechny existující fokusory jsou zničeny (viz Objekty/events/velke-ocisteni.txt). Znalost výroby je ztracena.
-- +280 (cca) — Jejich princip a historie jsou detailně popsány Mistryní Elarou Vorinovou (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt).
+- +280 (cca) — Jejich princip, historie i specializované typy jsou detailně popsány Mistryní Elarou Vorinovou (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt; Příběhy/krehka-rovnovaha/studie-o-fokusorech/2.txt).
 
 Poznámky:
 Vorinův primitivní "Rezonanční fokusátor" z doby Války se stíny byl jen slabou, improvizovanou ozvěnou této mocné a nebezpečné technologie.

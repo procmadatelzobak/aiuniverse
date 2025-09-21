@@ -1,0 +1,13 @@
+id: obj:things/fokusor-odkazu
+jmeno: Fokusor Odkazu
+kategorie: things
+stav: zanikly
+aliasy: Kronikář
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Nebojový typ rezonančního fokusoru sloužící jako polní záznamové zařízení. Absorboval a ukládal okolní ozvěny – zvuky, emoce i myšlenky – do prázdného Paměťového krystalu pro pozdější archivaci ve Věžích Odkazu.
+
+Dějiny:
+- Třetí věk — Používán důstojníky a historiky Rezonujících, aby uchovali živé záznamy bitev.
+- +280 (cca) — Elara Vorinova popisuje jeho roli při budování Velkého archivu ve své studii o fokusorech (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/2.txt).

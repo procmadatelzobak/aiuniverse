@@ -1,0 +1,13 @@
+id: obj:things/fokusor-strachu
+jmeno: Fokusor Strachu
+kategorie: things
+stav: zanikly
+aliasy: Děs
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Specializovaný rezonanční fokusor, který vysílal úzký paprsek čisté, existenciální hrůzy. Byl navržen pro odstřelovače Rezonujících, aby psychologicky eliminovali klíčové cíle.
+
+Dějiny:
+- Třetí věk — Vyvinut a nasazen Rezonujícími; podle legend nesl ozvěnu strachu z Údolí tichého strachu.
+- +280 (cca) — Elara Vorinova zaznamenává jeho přesnost i nebezpečí pro operátory ve druhé části své studie (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/2.txt).

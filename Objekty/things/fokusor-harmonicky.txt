@@ -1,0 +1,13 @@
+id: obj:things/fokusor-harmonicky
+jmeno: Fokusor Harmonický
+kategorie: things
+stav: zanikly
+aliasy: Vůdce
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Vzácný a komplexní rezonanční fokusor, který vysílal plošné vlny pozitivních emocí – odvahy, loajality, bratrství a naděje – aby posílil morálku jednotek Rezonujících.
+
+Dějiny:
+- Třetí věk — Vyhrazen nejvyšším velitelům Rezonujících pro koordinaci legií během Války Ticha a Ozvěny.
+- +280 (cca) — Elara Vorinova jej řadí mezi pět hlavních typů fokusorů a rozebírá jeho omezení ve své studii (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/2.txt).
