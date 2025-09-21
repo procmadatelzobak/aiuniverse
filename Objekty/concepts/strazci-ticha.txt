@@ -1,0 +1,18 @@
+id: obj:concepts/strazci-ticha
+jmeno: Strážci Ticha
+kategorie: concepts
+stav: aktivni (v Údolí)
+aliasy: Vyrovnávači
+naposledy_upraveno: 2025-09-21
+
+Popis:
+Jeden ze tří pilířů společnosti Třínohých. Nejedná se o vládnoucí třídu, ale o radu moudrých jedinců s darem empatie a naslouchání. Jejich rolí je mediace a udržování sociální harmonie. V případě sporů nehledají kompromis, ale vedou obě strany k nalezení "třetí cesty" – nového, syntetického řešení. Jejich autorita je založena na respektu, nikoli na moci.
+
+Dějiny:
+
+Druhý věk (cca -2500) — Koncept se pravděpodobně vyvinul krátce po usazení Třínohých v Údolí.
+
++295 — Jejich funkce a role ve společnosti je popsána Agasusem. Nejstarší Strážkyní je stařešina Lyra (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/3.txt).
+
+Poznámky:
+Navzdory podobnému názvu nemají žádnou spojitost s Mlčícími poutníky. Jejich "ticho" je tichem naslouchání, ne tichem prázdnoty.

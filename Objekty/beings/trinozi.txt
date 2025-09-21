@@ -6,13 +6,14 @@ aliasy: Lid z Údolí
 naposledy_upraveno: 2025-09-21
 
 Popis:
-Lid humanoidního vzhledu, jehož unikátním znakem jsou tři dolní končetiny, které jim poskytují výjimečnou stabilitu. Byli stvořeni Hledačem na počátku Druhého věku jako experiment s různými formami života. Jejich mytologie tvrdí, že byli "vyzpíváni z myšlenky" jako živoucí paradox rovnováhy v klidu a nutnosti neustálé nerovnováhy v pohybu. Jejich kultura je hluboce ovlivněna číslem tři, což se projevuje v jejich sociální struktuře, umění i filozofii. Jsou to klidní, mírní lidé, jejichž dlouhá izolace je uchránila před většinou konfliktů světa.
+Lid humanoidního vzhledu, jehož unikátním znakem jsou tři dolní končetiny, které jim poskytují výjimečnou stabilitu. Byli stvořeni Hledačem na počátku Druhého věku jako experiment s různými formami života. Jejich mytologie tvrdí, že byli "vyzpíváni z myšlenky" jako živoucí paradox rovnováhy v klidu a nutnosti neustálé nerovnováhy v pohybu. Jejich kultura je hluboce ovlivněna číslem tři, což se projevuje v jejich sociální struktuře, umění i filozofii: základní jednotkou jsou troj-generační rodiny, hospodářství se organizuje v Dílnách vedených triádou mistr–tovaryš–učeň a rovnováhu ve společenství udržují Strážci Ticha hledající "třetí cestu" při řešení sporů. Jsou to klidní, mírní lidé, jejichž dlouhá izolace je uchránila před většinou konfliktů světa.
 
 Dějiny:
 - Počátek Druhého věku — Stvořeni Hledačem na pláních středního světa; následuje několik staletí nomádského „Dlouhého kroku" a konfliktů s ranými lidskými kmeny „Dvounohých".
 - cca -2500 — Vedeni „hvězdou" (pravděpodobně zásahem Hledače) opouštějí vnější svět a usazují se ve skrytém Údolí. Začíná jejich éra izolace.
 - +295 — Jsou objeveni vnějším světem kartografem Agasusem. Komunita si uvědomuje, že se rodí stále více dětí se dvěma nohama, což naznačuje proměnu jejich původní formy (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/1.txt; Objekty/beings/agasus.txt; Objekty/places/udoli-trinohych.txt).
 - +295 — Stařešina Lyra prostřednictvím Agasuse zapisuje legendu „Pouť Tří", která shrnuje jejich stvoření Hledačem, období nomádského putování a cestu do Údolí (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/2.txt).
+- +295 — Agasus popisuje jejich současnou společnost založenou na trojpilířích Rodin, Dílen a Strážců Ticha a upozorňuje na krizi vyvolanou narozením dvounohých dětí, která narušuje tradiční rovnováhu Údolí (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/3.txt; Objekty/concepts/strazci-ticha.txt).
 
 Poznámky:
 Přirozený životní rytmus Třínohých je sladěn s trojčlennými vzorci, které v Údolí utvářejí i krajinu a architekturu.
