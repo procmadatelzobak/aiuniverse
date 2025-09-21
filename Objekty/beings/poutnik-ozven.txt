@@ -1,0 +1,18 @@
+id: obj:beings/poutnik-ozven
+jmeno: Poutník Ozvěn
+kategorie: beings
+stav: nezvěstný (pravděpodobně zaniklý)
+aliasy: Rybář, Sběrač emocí
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Anomální, nehmotná bytost, která po staletí sídlila u Jezera odrazu. Měla podobu vysoké, mlžné postavy na člunu, která pomocí světelného "vlasce" lovila z chaotických vod jezera čisté, silné emoční ozvěny. Těmito ozvěnami se pravděpodobně živila. Nebyla vnímána jako zlá, ale její činnost způsobovala u lidí v okolí specifické, cílené ztráty paměti.
+
+Dějiny:
+- Cca polovina Druhého věku — Poprvé se objevuje u Jezera odrazu, pravděpodobně přilákán emočními otřesy té doby.
+- Druhý a začátek Třetího věku — Existuje v symbióze s chaosem Jezera, stává se součástí místního folkloru.
+- Během Války Ticha a Ozvěny — Jeho "potrava" je zamořena umělými, agresivními ozvěnami Rezonujících a prázdnotou Mlčících poutníků.
+- Cca -350 — Poslední pozorování; bytost, oslabená a vyhladovělá, opouští Jezero odrazu a mizí.
+
+Poznámky:
+Příběh Poutníka je klasickým příkladem neutrální entity, jejíž existence byla zničena konfliktem extrémů.

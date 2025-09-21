@@ -15,6 +15,7 @@ Dějiny:
 - -3200-04-15 — Píseň rovnováhy znovu zazněla, když ji svou přítomností zesílil Sběrač hlasů (viz Příběhy/prvni-vek/pisen-u-jezera.txt).
 - -2810 (cca) — Stavitel Alwin zde nasbíral kameny pro stavbu Slunečních hodin šepotů.
 - -1521 (podzim) — Poutník Rian zde zažil přetížení svých smyslů.
+- +35 (cca) — Vorin ze Silencie dokumentuje, že během Druhého a Třetího věku bylo jezero domovem anomální bytosti známé jako Poutník Ozvěn a že jeho mentální "ekosystém" byl během Války Ticha a Ozvěny zamořen ideologickými zbraněmi obou stran (viz Příběhy/krehka-rovnovaha/poutnik-ozven.txt).
 - +215 (jaro) — Družina spojená Jizvou Ticha míří k jezeru, aby nalezla původní odpověď, již zde kdysi vytvořil Eamon, a obnovila Píseň rovnováhy (viz Příběhy/jizva-ticha/1/12.txt).
 - +215 (jaro) — Jeho chaotický mentální vliv je citelný na mnoho mil daleko, způsobuje zmatené sny a emoční nestabilitu. Skupina vedená Eamonem z Břehů dorazí na jeho břehy ve snaze nalézt tajemství Písně rovnováhy (viz Příběhy/jizva-ticha/1/13.txt).
 - +215 (jaro) — Během mentálního cvičení vedeného Eamonem se z chaosu ozvěn na okamžik vynoří jediný čistý tón, ozvěna původní Písně rovnováhy, což potvrzuje, že její fragmenty v jezeře stále přebývají (viz Příběhy/jizva-ticha/1/14.txt).
