@@ -3,7 +3,7 @@ jmeno: Agasus
 kategorie: beings
 stav: zivy
 aliasy: Agasus Kartograf
-naposledy_upraveno: 2025-09-21
+naposledy_upraveno: 2025-10-21
 
 Popis:
 Kartograf, objevitel a dobrodruh z konce třetího století Čtvrtého věku, volně spjatý s řádem Šedých svědků. Na rozdíl od Léčitelů krajiny, kteří zkoumají "duši" světa, je Agasus fascinován jeho fyzickými hranicemi a neprobádanými oblastmi. Je známý svou odvahou, houževnatostí a pedantským přístupem k dokumentaci svých objevů.
@@ -13,6 +13,7 @@ Dějiny:
 - +295 — Během expedice do bezejmenných hor na jihovýchodě náhodou objeví vstup do izolovaného Údolí a naváže první kontakt s jeho obyvateli, Třínozími. Jeho první zpráva do Údolí tichých ozvěn odhaluje existenci této zapomenuté komunity (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/1.txt).
 - +295 — Sepisuje druhou zprávu, ve které na základě ústní tradice Třínohých rekonstruuje jejich mytologii a historii: od stvoření Hledačem, přes staletí nomádského života, až po jejich příchod do Údolí (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/2.txt).
 - +295 — Vytváří třetí zprávu, v níž analyzuje současnou společnost Třínohých: troj-generační rodiny, řemeslné Dílny a Strážce Ticha coby pilíře kultury, i hrozbu, kterou představují novorozené dvounohé děti (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/3.txt).
+- +296 (jaro) — Ve svém osobním deníku přiznává, že jeho původně vědecká mise se změnila. Navázal hluboký osobní vztah s Lyrou Mladší, vnučkou stařešiny, a stojí před rozhodnutím, zda Údolí opustit, nebo v něm zůstat (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/5.txt).
 
 Poznámky:
 —

@@ -1,0 +1,17 @@
+id: obj:beings/lyra-mladsi
+jmeno: Lyra Mladší
+kategorie: beings
+stav: ziva
+aliasy: Lyra Dvounohá
+naposledy_upraveno: 2025-10-21
+
+Popis:
+Mladá žena z lidu Třínohých, vnučka stařešiny Lyry. Patří k nové, rostoucí generaci, která se narodila jen se dvěma nohama, což představuje pro jejich tradiční společnost zásadní změnu a výzvu. Je inteligentní, zvědavá a otevřená vnějšímu světu, ale zároveň cítí bolest z toho, že plně nenáleží do starých tradic svého lidu.
+
+Dějiny:
+- +275 (cca) — Narodila se v Údolí jako jedna z prvních Dvounohých.
+- +295 — Je pověřena, aby se starala o Agasuse během jeho pobytu.
+- +296 (jaro) — Naváže s Agasusem hluboký citový vztah. Skrze něj se učí o vnějším světě a zároveň se stává symbolem nevyhnutelného propojení Údolí s ním (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/5.txt).
+
+Poznámky:
+Její postava ztělesňuje krizi a zároveň naději Třínohých. Je mostem mezi starou izolací a novou budoucností.
