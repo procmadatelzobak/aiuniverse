@@ -3,7 +3,7 @@ jmeno: Křehká rovnováha (Příběhy)
 kategorie: meta
 stav: probiha
 aliasy: —
-naposledy_upraveno: 2025-10-17
+naposledy_upraveno: 2025-10-18
 
 Popis:
 Meta-objekt pro sledování hlavních dějových linií, které se odehrávají v éře Křehké rovnováhy (Čtvrtý věk), po událostech trilogie "Jizva Ticha".
@@ -12,6 +12,7 @@ Příběhy:
 - Ozvěna v Mlze: Příběh mladého léčitele krajiny Riana, který je vyslán do Stříbrného Brodu, aby se vypořádal s plíživou ztrátou paměti způsobenou Vyprahlými pláněmi.
 - Píseň Zkreslená: Příběh o skryté komunitě "Strážců Odkazu", potomků Rezonujících, kteří se snaží vytvořit dokonalou společnost pomocí technologie na ovládání emocí. Ladička Srdcí Elara odhalí jejich tajemství a vydá se hledat pomoc.
 - Poutník Ozvěn: Sbírka fragmentů a legend o záhadné bytosti, která sídlila u Jezera odrazu a zmizela během Války Ticha a Ozvěny, sepsaná historikem Vorinem ze Silencie.
+- Studie o rezonančních fokusorech: Akademické pojednání Mistryně Elary Vorinové, které analyzuje principy, historii a etické dopady rezonančních fokusorů zakázaných po Tichém úsvitu.
 
 Dějiny:
 - +35 (cca) — Vorin ze Silencie sepisuje "Fragmenty o Poutníku Ozvěn" jako součást svého většího díla, "Atlas duše", čímž dokumentuje historii a osud této zapomenuté bytosti (viz Příběhy/krehka-rovnovaha/poutnik-ozven.txt).
@@ -20,6 +21,7 @@ Dějiny:
 - +235 — Příběh "Ozvěna v Mlze", Kapitola 5: Rian s Elarou se vrací do Stříbrného Brodu. Zde vedou vesničany ve společném rituálu u starého mostu. Jejich kolektivní zpěv, posílený uzdravenou řekou, znovu "utká" a upevní jejich ztracenou kolektivní paměť. Osada je uzdravena (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/5.txt).
 - +235 — Příběh "Ozvěna v Mlze", Kapitola 6 (Epilog): Rian opouští uzdravující se Stříbrný Brod. Vesničané udržují Píseň mostu a příběh "Ozvěna v Mlze" je uzavřen (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/6.txt).
 - +255 — Začíná příběh "Píseň Zkreslená". Ladička Srdcí Elara v městečku Kamenný Most odhalí, že klid komunity je uměle udržován pomocí skrytého rezonančního krystalu, který potlačuje individualitu. Rozhodne se uprchnout a hledat pomoc u Šedých svědků (viz Příběhy/krehka-rovnovaha/pisen-zkreslena/1.txt).
+- +280 (cca) — Elara Vorinova zveřejňuje první část své "Studie o rezonančních fokusorech", aby zdokumentovala původ a zneužití fokusorů Třetího věku (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt).
 
 Poznámky:
 —

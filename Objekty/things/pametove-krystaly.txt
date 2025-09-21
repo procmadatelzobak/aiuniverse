@@ -3,7 +3,7 @@ jmeno: Paměťové krystaly
 kategorie: things
 stav: trvaly
 aliasy: —
-naposledy_upraveno: 2025-09-15
+naposledy_upraveno: 2025-10-18
 
 Popis:
 Mléčně bílé, duté krystaly pokrývající stěny Kráteru rezonance. Mají přirozenou schopnost zachytit a donekonečna opakovat nejen zvukové vlny, ale i mentální a emoční otisky událostí.
@@ -11,6 +11,7 @@ Mléčně bílé, duté krystaly pokrývající stěny Kráteru rezonance. Mají
 Dějiny:
 - Bezčasí — Vznikly jako přírodní anomálie spojená s Prvotním mořem myšlí.
 - -1650 (cca) — Staly se základem fungování společnosti v Silencii (viz Příběhy/druhy-vek/mesto-ozven.txt).
+- +280 (cca) — Mistryně Elara Vorinova shrnuje jejich strukturu a funkci v prvním díle své studie o fokusorech (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt).
 
 Poznámky:
 Jsou dokonalou, ale neselektivní kronikou. Jejich rezonance je pro většinu lidí zdrojem utrpení.

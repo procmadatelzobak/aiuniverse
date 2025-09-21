@@ -1,0 +1,15 @@
+id: obj:events/velke-ocisteni
+jmeno: Velké Očištění
+kategorie: events
+stav: uskutecneno
+aliasy: Očištění ozvěn
+naposledy_upraveno: 2025-10-18
+
+Popis:
+Poválečná kampaň, při níž Šedí svědkové a nově ustavená rada Silencie systematicky likvidovali rezonanční fokusory, krystalové archivy a technické záznamy Rezonujících, aby zabránili opakování zneužití paměťové technologie.
+
+Dějiny:
+- 0 až +5 (cca) — Probíhá plošné zabavování a demontáž fokusorů, pálení technických kodexů a ukládání zbylých paměťových krystalů do hlídaných depozitářů (viz Objekty/events/tichy-usvit.txt).
+
+Poznámky:
+Podrobnosti o rozsahu akce se dochovaly pouze ve fragmentech, které cituje Elara Vorinova ve své "Studii o rezonančních fokusorech" (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt).

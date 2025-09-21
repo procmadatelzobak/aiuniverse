@@ -3,7 +3,7 @@ jmeno: Tichý úsvit
 kategorie: events
 stav: uskutecneny
 aliasy: Smlouva Tichého úsvitu
-naposledy_upraveno: 2025-09-18
+naposledy_upraveno: 2025-10-18
 
 Popis:
 Symbolická mírová dohoda uzavřená u Kamenného atlasu na počátku Čtvrtého věku, která ukončila Války Ticha a Ozvěny. Nebyla to psaná smlouva, ale tichý akt porozumění mezi Kaelenem (Rezonující), Elarou (přeživší Mlčících) a Rianem (Tkalci Vzpomínek). Událost definovala novou filozofii Křehké rovnováhy a dala vzniknout řádu Šedých svědků.
@@ -12,4 +12,4 @@ Dějiny:
 - 0 — Uskutečnila se v Údolí tichých ozvěn, čímž formálně ukončila Třetí věk a zahájila Čtvrtý (viz Příběhy/ctvrty-vek/tichy-usvit.txt).
 
 Poznámky:
-Je považována za nejdůležitější politickou a filozofickou událost moderní historie.
+Je považována za nejdůležitější politickou a filozofickou událost moderní historie. Bezprostředně po ní následovalo Velké Očištění, které odstranilo většinu rezonančních zbraní (viz Objekty/events/velke-ocisteni.txt).

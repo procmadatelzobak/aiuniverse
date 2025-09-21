@@ -1,0 +1,16 @@
+id: obj:beings/elara-vorinova
+jmeno: Mistryně Elara Vorinova
+kategorie: beings
+stav: ziva
+aliasy: Elara ze Silencie, Archivářka Fokusorů
+naposledy_upraveno: 2025-10-18
+
+Popis:
+Historička, vědkyně a technoložka ze Silencie, žijící ve druhé polovině třetího století Čtvrtého věku. Je prapravnučkou Vorina, člena Společenstva Jizvy, a zdědila jeho analytickou mysl a posedlost historií. Je největší žijící expertkou na rezonanční technologii Třetího věku, ačkoliv se ji nesnaží obnovit, ale pouze pochopit a katalogizovat, aby se zabránilo opakování minulých chyb.
+
+Dějiny:
+- +245 (cca) — Narodila se v Silencii.
+- +280 (cca) — Začíná psát své klíčové dílo, "Studie o rezonančních fokusorech", které se stane základním textem pro pochopení technologie Rezonujících (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt).
+
+Poznámky:
+Její jméno je kombinací dvou klíčových archetypů ("Elara" – moudrost, "Vorin" – věda), což symbolizuje snahu Čtvrtého věku o syntézu různých pohledů.
