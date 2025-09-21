@@ -1,0 +1,41 @@
+id: obj:concepts/jmena-univerza
+jmeno: Seznam jmen univerza
+kategorie: concepts
+stav: aktivni (doplňován)
+aliasy: Jmenný kánon
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Lingvisticko-historický seznam jmen typických pro jednotlivé Věky světa. Slouží jako zdroj pro tvorbu nových postav a k pochopení kulturních a historických trendů. Tento seznam byl sestaven Mistryní Elarou Vorinovou na základě studia historických pramenů.
+
+První věk:
+
+Mužská: Lianor, Silas, Eamon, Lorin, Orin, Faelan, Gaelan, Aerion, Laelon, Valen, Caelus, Finian, Galen, Riel, Taranis, Orrin, Elian, Morvan.
+
+Ženská: Elara, Rhea, Lyra, Brina, Maeve, Sirel, Nuala, Fiana, Iona, Deira, Morwen, Aerin, Briallen, Seren, Isolde, Geneva, Rielle, Sorcha.
+
+Druhý věk:
+
+Mužská: Alwin, Bren, Kael, Kaelan, Kaelen, Rian, Jorn, Vorin, Garek, Borin, Darek, Torin, Edan, Malak, Fenris, Stellan, Gregor, Ulric, Rothgar, Haden, Brom, Torvin, Erlan, Corbin.
+
+Ženská: Lyra, Rhea, Brida, Thea, Kyla, Tira, Marna, Elora, Gilda, Runa, Nessa, Sela, Varda, Signe, Astrid, Inga, Helga, Rona, Tora, Bera, Frida, Dagmar, Sigrid.
+
+Třetí věk:
+
+Mlčící poutníci (Mužská): Ash, Sten, Raen, Tor, Jax, Finn, Cole, Rook, Quill, Jett, Ronan, Orin, Leif.
+
+Mlčící poutníci (Ženská): Lyra (Beze Jména), Elara (První svědek), Bryn, Shae, Mara, Vren, Rue, Lark, Fawn, Wynn, Tess, Relle.
+
+Rezonující: Jména z Druhého věku, často s tituly a jmény rodů.
+
+Ostatní: Edgar, Bor, Joric, Falk, Torvin, Grigg, Vargo, Harl, Roric, Kaden, Bram.
+
+Čtvrtý věk:
+
+Mužská: Kaelen, Lian, Rian, Orin, Joric, Vorin, Eamon, Silas, Alyn, Torvin, Finn, Raen, Agasus, Galen, Elian, Torin, Ronan, Sten, Faelan, Valen.
+
+Ženská: Elara, Rhea, Lyra, Brida, Nessa, Kyla, Shae, Iona, Varda, Sela, Seren, Runa, Fiana, Maeve, Wynn, Sorcha, Tira, Sigrid.
+
+Dějiny:
+
++310 (cca) — Seznam je sestaven a publikován Mistryní Elarou Vorinovou jako součást jejího díla "Pojednání o jménu a ozvěně" (viz Příběhy/krehka-rovnovaha/o-jmenu-a-ozvene.txt).

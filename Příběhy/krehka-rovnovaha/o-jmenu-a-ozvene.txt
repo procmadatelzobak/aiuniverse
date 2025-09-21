@@ -1,0 +1,60 @@
+id: st:krehka-rovnovaha/o-jmenu-a-ozvene
+nazev: Pojednání o jménu a ozvěně: lingvistická studie historických jmen
+era: ctvrty-vek
+casovy_rah: +310 (cca)
+autor: Mistryně Elara Vorinova ze Silencie
+nemenny: ano
+
+Obsah:
+
+Úvodní poznámka autorky:
+
+Po dokončení mé studie o rezonančních fokusorech jsem obrátila svou pozornost k subtilnější, avšak neméně důležité formě ozvěny – ke jménům. Jméno není jen náhodná sbírka zvuků; je to nejmenší a nejintimnější příběh. Je to ozvěna rodiny, kultury a doby. Během svého výzkumu v archivech Šedých svědků i v hlubinách Paměťových krystalů mého domova jsem sestavila předběžný seznam jmen, která se opakují napříč Věky. Tento seznam není v žádném případě úplný, ale ukazuje fascinující trendy v tom, jak se naši předkové vnímali a jak se toto vnímání měnilo s tepem světa.
+
+Jména Prvního věku (Věk Mýtů)
+
+Jména z této éry jsou vzácná, často spojená spíše s archetypy a Prvorozenými než s obyčejnými lidmi. Mají silný, melodický a přírodní charakter. Odrážejí svět, kde hranice mezi osobou a přírodním jevem byla tenká. Často obsahují dlouhé samohlásky a znělé souhlásky (l, n, r, m, v). Znějí jako samotná píseň země, plynulá a stará.
+
+Mužská jména: Lianor, Silas, Eamon, Lorin, Orin, Faelan, Gaelan, Aerion, Laelon, Valen, Caelus, Finian, Galen, Riel, Taranis, Orrin, Elian, Morvan.
+
+Ženská jména: Elara, Rhea, Lyra, Brina, Maeve, Sirel, Nuala, Fiana, Iona, Deira, Morwen, Aerin, Briallen, Seren, Isolde, Geneva, Rielle, Sorcha.
+
+Poznámka: Je zjevné, že některá z těchto "mýtických" jmen (Eamon, Lorin, Elara, Rhea, Lyra) se stala "jmény-archetypy" a byla znovu a znovu používána v pozdějších Věcích, často jako pocta legendárním postavám.
+
+Jména Druhého věku (Věk Smrtelníků)
+
+Druhý věk byl dobou stavitelů, řemeslníků a prvních velkých lidských společenství. Jména se stávají kratšími, tvrdšími a praktičtějšími. Odrážejí svět definovaný kamenem, kovem a lidskou prací. Častěji se objevují ostré souhlásky (k, t, d, b, g) a kratší samohlásky. Zní jako úder kladiva o kovadlinu.
+
+Mužská jména: Alwin, Bren, Kael, Kaelan, Kaelen, Rian, Jorn, Vorin, Garek, Borin, Darek, Torin, Edan, Malak, Fenris, Stellan, Gregor, Ulric, Rothgar, Haden, Brom, Torvin, Erlan, Corbin.
+
+Ženská jména: Lyra, Rhea, Brida, Thea, Kyla, Tira, Marna, Elora, Gilda, Runa, Nessa, Sela, Varda, Signe, Astrid, Inga, Helga, Rona, Tora, Bera, Frida, Dagmar, Sigrid.
+
+Poznámka: Zde vidíme největší koncentraci jmen "Kael/Kaelan/Kaelen", což může naznačovat společný lingvistický kořen nebo popularitu hrdiny z raného období tohoto věku. Jméno "Lyra" se v této éře stává téměř epidemií, objevuje se v různých, zcela nesouvisejících komunitách (Větrný vrch, Silencia, Zahrada ticha), což může svědčit o jeho hlubokém archetypálním významu spojeném s krásou a tragédií.
+
+Jména Třetího věku (Věk Rozkolu)
+
+Věk ideologického boje se jasně odráží i ve jménech. Jména se stávají buď velmi prostými a strohými (u Mlčících poutníků, kteří se snažili zbavit individuality), nebo naopak komplexními a formálními (u Rezonujících, kteří si potrpěli na tituly a odkaz).
+
+Jména typická pro Mlčící poutníky: Často používali prostá, jednoslabičná nebo přírodně znějící jména. Mnohá byla pravděpodobně přijatá, nikoli rodná, aby symbolizovala opuštění staré identity.
+
+Mužská: Ash, Sten, Raen, Tor, Jax, Finn, Cole, Rook, Quill, Jett, Ronan, Orin, Leif.
+
+Ženská: Lyra (Beze Jména), Elara (První svědek), Bryn, Shae, Mara, Vren, Rue, Lark, Fawn, Wynn, Tess, Relle.
+
+Jména typická pro Rezonující: Běžně se používala jména z Druhého věku, aby se zdůraznil jejich odkaz na slavnou minulost stavitelů a řádu. Jejich plné jméno však téměř vždy obsahovalo titul, jméno rodu nebo místo původu (např. Vorin z rodu Naslouchačů). Samotný jmenný fond byl konzervativní.
+
+Jména "mimo konflikt" (žoldnéři, obyčejní lidé): Tato jména jsou drsná a funkční, často odvozená z řemesel nebo charakteristických rysů.
+
+Mužská: Edgar, Bor, Joric, Falk, Torvin, Grigg, Vargo, Harl, Roric, Kaden, Bram.
+
+Jména Čtvrtého věku (Věk Křehké rovnováhy)
+
+Naše současná doba je charakterizována syntézou a reflexí. Jména jsou často poctou hrdinům z Války se stíny a starším legendám. Je zde patrná snaha o kombinaci melodie Prvního věku s praktičností Druhého. Objevuje se nový zvyk dávat dětem jména hrdinů z jiných kultur, aby se posílil pocit jednoty. Mnohá stará jména zažívají renesanci.
+
+Mužská jména: Kaelen, Lian, Rian, Orin, Joric, Vorin, Eamon, Silas, Alyn, Torvin, Finn, Raen, Agasus, Galen, Elian, Torin, Ronan, Sten, Faelan, Valen.
+
+Ženská jména: Elara, Rhea, Lyra, Brida, Nessa, Kyla, Shae, Iona, Varda, Sela, Seren, Runa, Fiana, Maeve, Wynn, Sorcha, Tira, Sigrid.
+
+Závěr:
+
+Jméno je ozvěna. Nese v sobě píseň doby, ve které vzniklo. Analýzou těchto vzorců můžeme slyšet příběh našeho světa – od mýtické písně úsvitu, přes tvrdý rytmus práce a boje, až po dnešní tichou, opatrnou a snad i nadějnou melodii. Je to historie vytesaná ne do kamene, ale do dechu samotných lidí.

@@ -3,7 +3,7 @@ jmeno: Křehká rovnováha (Příběhy)
 kategorie: meta
 stav: probiha
 aliasy: —
-naposledy_upraveno: 2025-10-18
+naposledy_upraveno: 2025-10-21
 
 Popis:
 Meta-objekt pro sledování hlavních dějových linií, které se odehrávají v éře Křehké rovnováhy (Čtvrtý věk), po událostech trilogie "Jizva Ticha".
@@ -14,6 +14,7 @@ Příběhy:
 - Poutník Ozvěn: Sbírka fragmentů a legend o záhadné bytosti, která sídlila u Jezera odrazu a zmizela během Války Ticha a Ozvěny, sepsaná historikem Vorinem ze Silencie.
 - Zpráva o Údolí: První expedice kartografa Agasuse za Vyprahlé pláně, která odhaluje izolované Skryté Údolí a lid Třínohých stojících na prahu proměny.
 - Studie o rezonančních fokusorech: Akademické pojednání Mistryně Elary Vorinové, které analyzuje principy, historii a etické dopady rezonančních fokusorů zakázaných po Tichém úsvitu.
+- Pojednání o jménu a ozvěně: Lingvistická studie Mistryně Elary Vorinové mapující archetypy osobních jmen napříč Věky a shrnující kulturní trendy Čtvrtého věku.
 
 Dějiny:
 - +35 (cca) — Vorin ze Silencie sepisuje "Fragmenty o Poutníku Ozvěn" jako součást svého většího díla, "Atlas duše", čímž dokumentuje historii a osud této zapomenuté bytosti (viz Příběhy/krehka-rovnovaha/poutnik-ozven.txt).
@@ -26,6 +27,7 @@ Dějiny:
 - +280 (cca) — Mistryně Elara Vorinova sepisuje druhou část své studie, kde detailně katalogizuje a popisuje pět hlavních typů rezonančních fokusorů používaných ve Válce Ticha a Ozvěny a jejich taktické využití (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/2.txt).
 - +280 (cca) — Mistryně Elara Vorinova dokončuje svou "Studii o rezonančních fokusorech" třetí částí, kde analyzuje strategické a filozofické důvody selhání technologie Rezonujících a popisuje její nepatrný, ale nebezpečný odkaz v Čtvrtém věku (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt).
 - +295 — Příběh "Zpráva o Údolí": Kartograf Agasus popisuje skryté útočiště Třínohých, zaznamenává jejich první kontakt se světem po tisíciletích a hrozící proměnu jejich lidu (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/1.txt; Objekty/beings/agasus.txt; Objekty/beings/trinozi.txt; Objekty/beings/lyra-starejsi.txt; Objekty/places/udoli-trinohych.txt).
+- +310 (cca) — Příběh "Pojednání o jménu a ozvěně": Elara Vorinova zveřejňuje syntézu historických jmen a stanovuje základ Jmenného kánonu Čtvrtého věku (viz Příběhy/krehka-rovnovaha/o-jmenu-a-ozvene.txt; Objekty/beings/elara-vorinova.txt; Objekty/concepts/jmena-univerza.txt).
 
 Poznámky:
 —
