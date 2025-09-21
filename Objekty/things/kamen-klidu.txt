@@ -1,0 +1,17 @@
+id: obj:things/kamen-klidu
+jmeno: Kámen Klidu
+kategorie: things
+stav: ztracen (uzavřen v mostě)
+aliasy: Srdce Ticha
+naposledy_upraveno: 2025-10-14
+
+Popis:
+Unikátní geologický artefakt, velký blok nerezonujícího kamene s aktivními harmonizačními vlastnostmi. Nejenže pohlcuje negativní a chaotické emoční ozvěny, ale zároveň aktivně vyzařuje silnou auru hlubokého mentálního klidu a míru. Je považován za přímý, nezkažený projev principu Mlčícího.
+
+Dějiny:
+- Pradávno — Vznikl jako přírodní anomálie.
+- cca -2175 — Na základě starých textů Naslouchačů je nalezen a získán Stellanem, spoluzakladatelem Kamenného Mostu (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/4.txt).
+- Později v Druhém věku — Stává se základem pro "Srdce Společenství", když je jeho přirozená moc zesílena a zneužita pomocí rezonanční technologie. Je uzavřen do centrálního klenáku Kamenného mostu, čímž je pro vnější svět ztracen (viz Objekty/things/srdce-spolecenstvi.txt).
+
+Poznámky:
+Jeho přirozená moc je uklidňující a léčivá. Teprve Stellanova modifikace z něj udělala nástroj kontroly.

@@ -3,7 +3,7 @@ jmeno: Kamenný Most
 kategorie: places
 stav: obydlena (pod vlivem)
 aliasy: Tiché Město
-naposledy_upraveno: 2025-09-27
+naposledy_upraveno: 2025-10-14
 
 Popis:
 Středně velké, prosperující obchodní město ležící na křižovatce cest mezi Srdcem světa a východem. Zrodilo se ze spolupráce bratřů Corina a Stellana, kteří spojili sen o svobodě s pragmatickým řádem. Město je známé pro svůj nepřirozený klid a harmonii. Ve skutečnosti je tajně ovládáno frakcí Strážců Odkazu, kteří pomocí rezonančního krystalu "Srdce Společenství" synchronizují a potlačují emoce a vzpomínky obyvatel, aby eliminovali konflikty.
@@ -12,6 +12,7 @@ Dějiny:
 - cca -2200 — Město je založeno dvěma bratry, Corinem a Stellanem, na principu kompromisu mezi svobodou (Corin) a řádem (Stellan). Jejich společným dílem se má stát velký kamenný most přes řeku (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/1.txt).
 - cca -2180 — Po dvaceti letech prosperity se ve městě začínají objevovat nevysvětlitelné a hluboké sociální konflikty. Původní harmonie se rozpadá pod vlivem neznámé síly, která podněcuje paranoiu a nenávist (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/2.txt).
 - cca -2179 — První vražda otřese městem a Corin sestoupí do propasti, kde přímo čelí Šepotu Rozkolu. Vize totální zkázy jej přiměje přijmout Stellanův plán tvrdého řádu (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/3.txt).
+- cca -2175 — Obyvatelé zpívají Corinovu "Píseň Mostu", aby udrželi jednotu, zatímco Stellan přináší z tajné výpravy Kámen Klidu. Město poprvé okusí uklidňující, ale nebezpečně závislé ticho artefaktu (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/4.txt; Objekty/things/pisen-mostu.txt; Objekty/things/kamen-klidu.txt).
 - Neurčeno — Město se dostává pod kontrolu Strážců Odkazu.
 - +255 — Tajemství města je odhaleno Ladičkou Srdcí Elarou, která z města prchá (viz Příběhy/krehka-rovnovaha/pisen-zkreslena/1.txt).
 
