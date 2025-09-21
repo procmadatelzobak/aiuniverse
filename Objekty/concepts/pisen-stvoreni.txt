@@ -1,0 +1,26 @@
+id: obj:concepts/pisen-stvoreni
+jmeno: Píseň Stvoření
+kategorie: concepts
+stav: zanikla (fragmenty přežívají)
+aliasy: Harmonie Sedmi
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Permanentní, celosvětová rezonance, která existovala na počátku Prvního věku.
+Byla generována a udržována Srdcem Světa a představovala dokonalou, harmonickou
+souhru myšlenek všech Sedmi. Tato "píseň" nebyla slyšitelná, ale byla základní
+vibrací reality, která zajišťovala, že všechny aspekty světa (život, forma, čas,
+emoce) spolupracovaly v dokonalé rovnováze. Každá bytost a každý prvek světa byl
+notou v této symfonii.
+
+Dějiny:
+- Počátek Prvního věku — Její existence definuje Věk Mýtů a umožňuje Prvorozeným
+  konat jejich dílo (viz Příběhy/koruna-v-troskach/1/2.txt).
+- Tichý pád — Po zničení Srdce Světa se Píseň Stvoření rozpadla. Její jednotlivé,
+  izolované "tóny" (myšlenky Sedmi) stále existují, ale již netvoří soudržnou
+  harmonii. Píseň rovnováhy je pozdějším, nedokonalým pokusem tuto původní
+  harmonii alespoň částečně napodobit.
+
+Poznámky:
+Ztráta Písně Stvoření je největší tragédií světa. Celá pozdější historie je v
+podstatě příběhem o tom, jak se svět snaží vyrovnat s tichem, které po ní zůstalo.

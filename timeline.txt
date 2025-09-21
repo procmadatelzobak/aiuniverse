@@ -2,6 +2,7 @@
 
 ## První věk
 - **Neurčeno (Úsvit Věku Mýtů)** — Lianor a Silas probouzejí lesy a stabilizují první hory během harmonie Prvorozených (viz Příběhy/koruna-v-troskach/1/1.txt; Objekty/beings/lianor-pevec-zivota.txt; Objekty/beings/silas-tesar-ticha.txt; Objekty/concepts/prvorozeni.txt).
+- **Neurčeno (Úsvit Věku Mýtů)** — Lianor a Silas navštěvují Srdce Světa, aby znovu sladili své role s Písní Stvoření; je popsána struktura dokonalé harmonie Sedmi (viz Příběhy/koruna-v-troskach/1/2.txt; Objekty/beings/lianor-pevec-zivota.txt; Objekty/beings/silas-tesar-ticha.txt; Objekty/concepts/srdce-sveta.txt; Objekty/concepts/pisen-stvoreni.txt).
 - **-8500 (přibližně)**: Do země dopadly tři zkrystalizované emoce z Prvotního moře myšlí, které vytvořily základ budoucí Vesnice U tří kamenů (viz Příběhy/prvni-vek/pad-trech-slz.txt; Objekty/events/pad-trech-slz.txt; Objekty/places/vesnice-u-tri-kamenu.txt).
 - **-4500 (cca)** — Tichý pád cizí Hvězdné mysli vytvořil Jezero odrazu (viz Příběhy/prvni-vek/jezerni-hlubina.txt; Objekty/events/tichy-pad.txt; Objekty/places/jezero-odrazu.txt; Objekty/concepts/hvezdna-mysl.txt).
 - **-4470 (cca)** — Strážce Lorin se pokusil jezero vyléčit, ale jeho mysl byla pohlcena (viz Příběhy/prvni-vek/jezerni-hlubina.txt; Objekty/beings/lorin.txt; Objekty/places/jezero-odrazu.txt).
