@@ -3,7 +3,7 @@ jmeno: Rian (Léčitel krajiny)
 kategorie: beings
 stav: zivy
 aliasy: —
-naposledy_upraveno: 2025-10-13
+naposledy_upraveno: 2025-10-14
 
 Popis:
 Mladý člen řádu Šedých svědků z generace narozené po Válce se stíny. Vyrůstal na legendách o Kaelenovi a Společenstvu Jizvy. Specializuje se na "léčení krajiny" – diagnostiku a harmonizaci míst s narušenou pamětí nebo emoční rovnováhou. Je tichý, přemýšlivý a empatický, s hlubokým vrozeným citem pro "zdraví" země. Nosí u sebe malou křemennou kouli, kterou používá jako nástroj k soustředění.
@@ -16,6 +16,7 @@ Dějiny:
 - +235 — Úspěšně provede rituál k probuzení spící písně v Srdci pramene. Spojí Elarinu útržkovitou vzpomínku s vlastní silnou ozvěnou z Kamenného atlasu a vytvoří katalyzátor pro uzdravení řeky Stříbrnice (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/4.txt; Objekty/places/srdce-pramene.txt; Objekty/places/stribrnice.txt; Objekty/concepts/kamenny-atlas.txt).
 - +235 — Vede vesničany Stříbrného Brodu v rituálu společného zpěvu u kamenného mostu. Zesílením Písně mostu propojí uzdravenou řeku, most a kolektivní paměť komunity, čímž stabilizuje jejich uzdravení (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/5.txt; Objekty/places/stribrny-brod.txt; Objekty/things/pisen-mostu.txt).
 - +235 — Po týdnu pozorování opouští Stříbrný Brod s hlubším pochopením Křehké rovnováhy – ne jako stavu, ale jako neustálého procesu. Jeho první mise je úspěšně dokončena (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/6.txt).
+- +260 — Nyní již jako Mistr Léčitel objevuje ve Velké knihovně Kámen Tichého svědka, zapomenutý artefakt s harmonizačními schopnostmi. Zařazuje ho mezi oficiální nástroje Léčitelů krajiny (viz Příběhy/ctvrty-vek/kamen-a-pisen.txt; Objekty/things/tichy-svedek-kamen.txt).
 
 Poznámky:
 Jeho jméno je poctou Rianovi, kartografu pocitů, a odráží jeho podobné, i když jinak zaměřené schopnosti.

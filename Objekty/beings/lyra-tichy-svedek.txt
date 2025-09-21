@@ -3,7 +3,7 @@ jmeno: Lyra (Tichý svědek)
 kategorie: beings
 stav: mrtva
 aliasy: Lyra z Lomu
-naposledy_upraveno: 2025-09-21
+naposledy_upraveno: 2025-10-14
 
 Popis:
 Mladá bylinkářka z Třetího věku, jejíž vesnice byla zničena Rezonujícími. Není spojena s řádem Mlčících poutníků, ale stala se jejich dočasnou spojenkyní. Je známá svým jedinečným hrdinským činem, při kterém využila přirozené vlastnosti kamene z Lomu tichých vzdechů, aby neutralizovala technologii Rezonujících a umožnila záchranu zajatého vůdce Poutníků.
@@ -12,6 +12,7 @@ Dějiny:
 - cca -440 — Narodila se.
 - cca -420 — Uprchla před hlídkou Rezonujících a nalezla útočiště v Lomu tichých vzdechů. Objevila jeho schopnost pohlcovat mentální a emoční ozvěny (viz Příběhy/treti-vek/tichy-svedek.txt).
 - cca -420 — Pomocí kamene z lomu sabotovala výslech vůdce Mlčících poutníků a umožnila jeho záchranu, čímž si vysloužila své přízvisko (viz Příběhy/treti-vek/tichy-svedek.txt).
+- cca -400 — Zemřela stářím v komunitě Mlčících poutníků, která ji pohřbila bez relikvií; její kámen později převzal poutník Rael (viz Příběhy/ctvrty-vek/kamen-a-pisen.txt; Objekty/beings/rael.txt; Objekty/things/tichy-svedek-kamen.txt).
 
 Poznámky:
 Její příběh je v řádu Šedých svědků předáván jako příklad toho, jak i zdánlivě pasivní a negativní principy (ticho, žal) mohou být použity jako zbraň pro záchranu. Další příklad archetypu "Lyra".
