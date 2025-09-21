@@ -3,12 +3,13 @@ jmeno: Srdce Společenství
 kategorie: things
 stav: aktivni
 aliasy: Krystal Harmonie
-naposledy_upraveno: 2025-09-16
+naposledy_upraveno: 2025-10-14
 
 Popis:
-Modifikovaný Paměťový krystal používaný Strážci Odkazu jako nástroj pro sociální inženýrství. Na rozdíl od starých krystalů, které jen zaznamenávaly ozvěny, Srdce Společenství aktivně vysílá silnou, monotónní mentální a emoční rezonanci. Tato "píseň harmonie" v širokém okolí potlačuje silné, individuální emoce (hněv, strach, vášeň, hluboký smutek) a nahrazuje je pocitem klidu, spokojenosti a komunitní sounáležitosti. Dlouhodobé vystavení jeho vlivu vede k postupné ztrátě individuality a hlubokých osobních vzpomínek.
+Modifikovaný Paměťový krystal používaný Strážci Odkazu jako nástroj pro sociální inženýrství. Jeho jádrem se stal Kámen Klidu obalený rezonančními vodiči a posílený zesilovači. Na rozdíl od starých krystalů, které jen zaznamenávaly ozvěny, Srdce Společenství aktivně vysílá silnou, monotónní mentální a emoční rezonanci. Tato "píseň harmonie" v širokém okolí potlačuje silné, individuální emoce (hněv, strach, vášeň, hluboký smutek) a nahrazuje je pocitem klidu, spokojenosti a komunitní sounáležitosti. Dlouhodobé vystavení jeho vlivu vede k postupné ztrátě individuality a hlubokých osobních vzpomínek.
 
 Dějiny:
+- Později v Druhém věku — Strážci Odkazu zabaví Kámen Klidu a přebudují jej na Srdce Společenství, které uzavřou do centrálního klenáku Kamenného mostu (viz Objekty/things/kamen-klidu.txt; Objekty/places/kamenny-most.txt).
 - Neurčeno — Vyvinuto a instalováno Strážci Odkazu v Kamenném Mostě.
 - +255 — Objeveno Elarou, Ladičkou Srdcí (viz Příběhy/krehka-rovnovaha/pisen-zkreslena/1.txt).
 - +280 (cca) — Elara Vorinova ve své studii označuje krystal za konečný vývoj Harmonického fokusoru a varuje, že jeho monotónní píseň klidu nahrazuje obyvatelům Kamenného Mostu skutečné emoce (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt; Objekty/things/fokusor-harmonicky.txt).

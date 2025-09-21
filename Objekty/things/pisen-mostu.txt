@@ -3,13 +3,14 @@ jmeno: Píseň mostu
 kategorie: things
 stav: existuje (aktivní)
 aliasy: Paměť Brodu
-naposledy_upraveno: 2025-10-13
+naposledy_upraveno: 2025-10-14
 
 Popis:
-Prastará píseň a ústní tradice spojená s osadou Stříbrný Brod. Nejedná se jen o melodii, ale o formu kolektivní paměti, která v sobě uchovává historii, hodnoty a identitu komunity. Její rezonance je úzce spjata s řekou Stříbrnicí a kamenným mostem uprostřed vesnice. Zpěv této písně má schopnost posilovat a chránit kolektivní paměť obyvatel proti vlivu Vyprahlých plání zapomnění.
+Epická balada o stavbě mostu, jejímž autorem je Corin, spoluzakladatel Kamenného Mostu. Původně sloužila jako kolektivní rytmus práce i mentální štít proti Šepotu Rozkolu. Její harmonie posiluje sdílenou identitu, dokud je zpívána společně. Po tragédii Kamenného Mostu přežila pouze ve fragmentech, které se generace poutníků snažily uchovat. Ve Stříbrném Brodě byla znovuobjevena jako rituální píseň, která drží komunitu pohromadě a chrání její paměť.
 
 Dějiny:
-- Neznámo — Vznikla při stavbě mostu ve Stříbrném Brodu.
+- cca -2175 — Corin skládá píseň, aby sjednotil obyvatele Kamenného Mostu při dokončování monumentální stavby a oslabil vliv Šepotu Rozkolu (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/4.txt; Objekty/beings/corin.txt).
+- Po pádu Kamenného Mostu — Píseň se šíří ústním podáním mezi uprchlíky a časem se mění v zamlženou legendu.
 - +235 — Její melodie je téměř zapomenuta kvůli paměťové anomálii.
 - +235 — S pomocí Riana a Elary je píseň znovu složena z úlomků vzpomínek a během společného rituálu se stává aktivním nástrojem k uzdravení a ochraně paměti osady (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/5.txt).
 - +235 — Po uzdravení mostu se stává každovečerním rituálem celé komunity. Pravidelný zpěv udržuje paměť Stříbrného Brodu bdělou a odráží útoky mlhy zapomnění (viz Příběhy/krehka-rovnovaha/ozvena-v-mlze/6.txt).
