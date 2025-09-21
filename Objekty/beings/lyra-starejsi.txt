@@ -1,0 +1,16 @@
+id: obj:beings/lyra-starejsi
+jmeno: Lyra (Stařešina)
+kategorie: beings
+stav: ziva
+aliasy: —
+naposledy_upraveno: 2025-10-16
+
+Popis:
+Stařešina a vůdkyně lidu Třínohých v době jejich objevení Agasusem. Je moudrá a rozvážná, nese v sobě tíhu ústně předávané historie a zodpovědnost za budoucnost svého lidu. S obavami sleduje změny, které se v její komunitě začínají dít, a je si vědoma, že příchod cizince znamená konec jedné éry.
+
+Dějiny:
+- +220 (cca) — Narodila se v Údolí.
+- +295 — Je první z Třínohých, kdo oficiálně komunikuje s vnějším světem skrze kartografa Agasuse, a poskytuje mu první vhled do historie svého lidu (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/1.txt; Objekty/beings/agasus.txt; Objekty/places/udoli-trinohych.txt).
+
+Poznámky:
+Další nositelka jména-archetypu "Lyra", tentokrát v roli strážkyně izolované komunity.

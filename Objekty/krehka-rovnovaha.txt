@@ -12,6 +12,7 @@ Příběhy:
 - Ozvěna v Mlze: Příběh mladého léčitele krajiny Riana, který je vyslán do Stříbrného Brodu, aby se vypořádal s plíživou ztrátou paměti způsobenou Vyprahlými pláněmi.
 - Píseň Zkreslená: Příběh o skryté komunitě "Strážců Odkazu", potomků Rezonujících, kteří se snaží vytvořit dokonalou společnost pomocí technologie na ovládání emocí. Ladička Srdcí Elara odhalí jejich tajemství a vydá se hledat pomoc.
 - Poutník Ozvěn: Sbírka fragmentů a legend o záhadné bytosti, která sídlila u Jezera odrazu a zmizela během Války Ticha a Ozvěny, sepsaná historikem Vorinem ze Silencie.
+- Zpráva o Údolí: První expedice kartografa Agasuse za Vyprahlé pláně, která odhaluje izolované Skryté Údolí a lid Třínohých stojících na prahu proměny.
 - Studie o rezonančních fokusorech: Akademické pojednání Mistryně Elary Vorinové, které analyzuje principy, historii a etické dopady rezonančních fokusorů zakázaných po Tichém úsvitu.
 
 Dějiny:
@@ -24,6 +25,7 @@ Dějiny:
 - +280 (cca) — Elara Vorinova zveřejňuje první část své "Studie o rezonančních fokusorech", aby zdokumentovala původ a zneužití fokusorů Třetího věku (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/1.txt).
 - +280 (cca) — Mistryně Elara Vorinova sepisuje druhou část své studie, kde detailně katalogizuje a popisuje pět hlavních typů rezonančních fokusorů používaných ve Válce Ticha a Ozvěny a jejich taktické využití (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/2.txt).
 - +280 (cca) — Mistryně Elara Vorinova dokončuje svou "Studii o rezonančních fokusorech" třetí částí, kde analyzuje strategické a filozofické důvody selhání technologie Rezonujících a popisuje její nepatrný, ale nebezpečný odkaz v Čtvrtém věku (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt).
+- +295 — Příběh "Zpráva o Údolí": Kartograf Agasus popisuje skryté útočiště Třínohých, zaznamenává jejich první kontakt se světem po tisíciletích a hrozící proměnu jejich lidu (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/1.txt; Objekty/beings/agasus.txt; Objekty/beings/trinozi.txt; Objekty/beings/lyra-starejsi.txt; Objekty/places/udoli-trinohych.txt).
 
 Poznámky:
 —
