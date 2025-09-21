@@ -6,12 +6,13 @@ aliasy: —
 naposledy_upraveno: 2025-09-21
 
 Popis:
-Stařešina a vůdkyně lidu Třínohých v době jejich objevení Agasusem. Je moudrá a rozvážná, nese v sobě tíhu trojhlasých legend včetně posvátné „Poutě Tří" a zodpovědnost za budoucnost svého lidu. S obavami sleduje změny, které se v její komunitě začínají dít, a je si vědoma, že příchod cizince znamená konec jedné éry.
+Stařešina a vůdkyně lidu Třínohých v době jejich objevení Agasusem. Je nejstarší Strážkyní Ticha, jejíž dar naslouchání a hledání "třetí cesty" drží komunitu v rovnováze. Je moudrá a rozvážná, nese v sobě tíhu trojhlasých legend včetně posvátné „Poutě Tří" a zodpovědnost za budoucnost svého lidu. S obavami sleduje změny, které se v její komunitě začínají dít, a je si vědoma, že příchod cizince znamená konec jedné éry.
 
 Dějiny:
 - +220 (cca) — Narodila se v Údolí.
 - +295 — Je první z Třínohých, kdo oficiálně komunikuje s vnějším světem skrze kartografa Agasuse, a poskytuje mu první vhled do historie svého lidu (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/1.txt; Objekty/beings/agasus.txt; Objekty/places/udoli-trinohych.txt).
 - +295 — Umožní Agasusovi vyslechnout a zaznamenat legendu „Pouť Tří", aby v archivech Šedých svědků nezanikla paměť na původ Třínohých a jejich cestu do Údolí (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/2.txt).
+- +295 — Jako Strážkyně Ticha vede rozhovory mezi Rodinami a Dílnami, aby čelily rodící se krizi způsobené dvounohými dětmi, a sdílí s Agasusem filozofii trojité rovnováhy svého lidu (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/3.txt; Objekty/concepts/strazci-ticha.txt).
 
 Poznámky:
 Další nositelka jména-archetypu "Lyra", tentokrát v roli strážkyně izolované komunity.

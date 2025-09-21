@@ -12,6 +12,7 @@ Dějiny:
 - +265 (cca) — Narodil se.
 - +295 — Během expedice do bezejmenných hor na jihovýchodě náhodou objeví vstup do izolovaného Údolí a naváže první kontakt s jeho obyvateli, Třínozími. Jeho první zpráva do Údolí tichých ozvěn odhaluje existenci této zapomenuté komunity (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/1.txt).
 - +295 — Sepisuje druhou zprávu, ve které na základě ústní tradice Třínohých rekonstruuje jejich mytologii a historii: od stvoření Hledačem, přes staletí nomádského života, až po jejich příchod do Údolí (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/2.txt).
+- +295 — Vytváří třetí zprávu, v níž analyzuje současnou společnost Třínohých: troj-generační rodiny, řemeslné Dílny a Strážce Ticha coby pilíře kultury, i hrozbu, kterou představují novorozené dvounohé děti (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/3.txt).
 
 Poznámky:
 —
