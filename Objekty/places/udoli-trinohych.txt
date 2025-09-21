@@ -3,14 +3,14 @@ jmeno: Údolí
 kategorie: places
 stav: obydleno (izolované)
 aliasy: Skryté Údolí; Hledačův Azyl
-naposledy_upraveno: 2025-10-16
+naposledy_upraveno: 2025-09-21
 
 Popis:
 Malé, extrémně izolované a úrodné údolí ukryté hluboko v bezejmenných horách na jihovýchodě. Je obklopeno téměř nepřekročitelnými hřebeny a vstup do něj je možný jen jedinou, skrytou soutěskou. Vzniklo v Prvním věku pravděpodobně jako nedokončený projekt Sochaře. Od Druhého věku je domovem Třínohých, unikátního lidu, který zde nalezl útočiště.
 
 Dějiny:
 - První věk — Vytvořeno jedním ze Sedmi (pravděpodobně Sochařem), ale ponecháno svému osudu, skryté před světem.
-- Druhý věk (cca -2500) — Stává se domovem a útočištěm pro lid Třínohých.
+- Druhý věk (cca -2500) — Z hvězdného znamení Hledače jsou Třínozí dovedeni ke skryté soutěsce; skály se podle legendy otevřou a údolí se stává jejich domovem a útočištěm (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/2.txt).
 - Až do +295 — Zůstává v naprosté izolaci, jen nepřímo zasaženo globálními událostmi.
 - +295 — Je objeveno kartografem Agasusem, čímž končí jeho tisíciletá izolace. První kontakt odhaluje, že nově narozené děti Třínohých se stále častěji rodí jen se dvěma nohama (viz Příběhy/krehka-rovnovaha/zprava-o-udoli/1.txt).
 
