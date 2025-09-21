@@ -1,0 +1,19 @@
+id: obj:beings/rael
+jmeno: Rael
+kategorie: beings
+stav: mrtvy
+aliasy: Rael Tichý
+naposledy_upraveno: 2025-10-14
+
+Popis:
+Mlčící poutník, který přežil Války Ticha a Ozvěny a stal se jedním z prvních Šedých svědků. Po smrti Lyry, Tichého svědka, se stal nositelem jejího kamene z Lomu, který mu pomohl přežít nejhorší události konce Třetího věku, včetně stvoření Tiché prázdnoty. V Čtvrtém věku žil a zemřel jako respektovaný, i když velmi tichý, člen řádu v Údolí.
+
+Dějiny:
+
+- cca -430 — Narodil se v komunitě Mlčících poutníků, která ho vychovala v tradici odloučení a meditace (viz Příběhy/ctvrty-vek/kamen-a-pisen.txt).
+- cca -400 — Stává se nositelem Kamene Tichého svědka a používá ho k ochraně své mysli během kataklyzmatických událostí konce Třetího věku (viz Příběhy/ctvrty-vek/kamen-a-pisen.txt).
+- 0 — Stává se jedním z prvních Šedých svědků a zanechává kámen ve Velké knihovně Údolí tichých ozvěn (viz Příběhy/ctvrty-vek/kamen-a-pisen.txt).
+- cca +50 — Umírá stářím v Údolí tichých ozvěn, kde je pohřben bez relikvií podle tradice Mlčících poutníků (viz Příběhy/ctvrty-vek/kamen-a-pisen.txt).
+
+Poznámky:
+Časové údaje vycházejí z ústní tradice Šedých svědků a mohou být nepřesné.

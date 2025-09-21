@@ -1,0 +1,20 @@
+id: obj:things/tichy-svedek-kamen
+jmeno: Kámen Tichého svědka
+kategorie: things
+stav: nalezen
+aliasy: Raelův kámen, Kámen z Lomu
+naposledy_upraveno: 2025-10-14
+
+Popis:
+Malý, hladký a na dotek chladný kámen pocházející z Lomu tichých vzdechů. Jeho primární vlastností je schopnost pohlcovat a neutralizovat mentální a emoční ozvěny. Po staletích strávených v tichu Velké knihovny v Údolí tichých ozvěn se jeho schopnost vyvinula: už nejen pohlcuje, ale aktivně harmonizuje disharmonické ozvěny. Ztělesňuje pasivní, ale silný princip léčení a klidu.
+
+Dějiny:
+
+- cca -420 — Vzala si ho s sebou bylinkářka Lyra z Lomu tichých vzdechů (viz Příběhy/treti-vek/tichy-svedek.txt).
+- cca -400 — Po Lyřině smrti ho u sebe nosí Mlčící poutník Rael, který ho použije k ochraně své mysli během kataklyzmatických událostí konce Třetího věku (viz Příběhy/ctvrty-vek/kamen-a-pisen.txt).
+- 0 — Rael, nyní již Šedý svědek, zanechává kámen ve Velké knihovně v Údolí (viz Příběhy/ctvrty-vek/kamen-a-pisen.txt).
+- 0 až +260 — Kámen leží v knihovně, pomalu absorbuje a harmonizuje moudrost a klid svého okolí (viz Příběhy/ctvrty-vek/kamen-a-pisen.txt).
+- +260 — Je znovuobjeven Mistrem Léčitelem Rianem. Stává se jedním z klíčových nástrojů Léčitelů krajiny pro jemnou harmonizaci zjizvených míst (viz Příběhy/ctvrty-vek/kamen-a-pisen.txt).
+
+Poznámky:
+Příběh kamene je příkladem toho, jak i malé, nenápadné objekty mohou nést historii a časem měnit svou funkci a význam.
