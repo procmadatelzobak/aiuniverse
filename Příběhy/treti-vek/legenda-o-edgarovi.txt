@@ -1,0 +1,18 @@
+id: st:treti-vek/legenda-o-edgarovi
+nazev: Legenda o Třínohém Edgarovi
+era: treti-vek
+casovy_rah: cca -370 až -345
+autor: Kronikář (na základě fragmentů a vojenských deníků)
+nemenny: ano
+
+Obsah:
+V análech Války Ticha a Ozvěny, mezi jmény velkých velitelů a popisy strašlivých technologií, se objevuje série matoucích a bizarních poznámek o postavě, která do schématu konfliktu nikdy zcela nezapadla. Bytost známá jen jako Třínohý Edgar.
+Nikdo nevěděl, odkud přišel. Poprvé se objevil kolem roku -370 v žoldnéřských oddílech, které operovaly na pomezí Srdce světa a Vyprahlých plání. Byl okamžitě rozpoznatelnou anomálií. Nejen pro svou třetí nohu, která mu dávala podivně stabilní a přesto plynulý krok, ale především pro svou povahu. Ve věku fanatických ideologií byl Edgar mužem bez jakékoli ideologie.
+Nestaral se o posvátnost paměti ani o spásu ticha. Staral se jen o sebe. Byl to podvodník, karbaník a lhář nepřekonatelného talentu. Jeho třetí noha nebyla v boji výhodou, ale stala se jeho největším kapitálem. Lidé byli jeho vzhledem tak fascinováni a zmateni, že snadno přehlédli karty, které jim mizely z rukávů, nebo měšce, které se stávaly lehčími. Prodával falešné mapy Mlčícím poutníkům a bezcenné "rezonanční amulety" hlídkám Rezonujících. Bojoval na obou stranách, často i během jediné bitvy, vždy se přidal k tomu, kdo právě vyhrával nebo nabízel lepší plat.
+Jeho pověst byla legendární. Vyprávělo se, že ho nelze srazit na zem. Jeho trojnohý postoj byl jako kořeny stromu. Vojáci přísahali, že viděli, jak ho smetla tlaková vlna z fokusoru, ale on se jen zakymácel a zůstal stát, zatímco všichni kolem něj padli. Tato stabilita se stala jeho poznávacím znamením.
+Nejznámější příběh se však váže k Bitvě na Vyprahlých pláních zapomnění. Edgar byl toho dne součástí expedice Rezonujících, najatý jako průzkumník (ačkoliv pláně znal jen z vyprávění a svou cestu si z velké části vymýšlel). Když Mlčící poutníci vypustili vlnu zapomnění, která armádu ochromila, stalo se něco nečekaného.
+Zatímco vojáci kolem něj zapomínali svá jména a účel své mise, Edgara vlna zasáhla jinak. Jeho mysl, zvyklá žít v přítomnosti, bez hlubokých kořenů v minulosti a bez velkých plánů do budoucnosti, neměla mnoho, co by mohla ztratit. Vlna zapomnění po něm sklouzla jako voda po naolejované kůži. Pamatoval si, kdo je. Pamatoval si, že je v nebezpečí. A pamatoval si, kde měl velitel Kaelen uloženou truhlu se zlatem.
+Zatímco se jedna z největších armád Třetího věku rozpadala v chaosu a zmatku, Edgar, jediný při smyslech, klidně prošel bitevním polem, našel Kaelenův stan, "zajistil" mzdu pro celou legii a zmizel v prachu plání. Nebyl to hrdinský čin. Byla to nejdokonalejší a nejdrzejší loupež v dějinách.
+Po této události se po něm slehla zem. Někteří říkali, že ho Kaelenovi zabijáci nakonec našli a zabili. Jiní tvrdili, že se usadil v nějakém zapomenutém městě a žil jako král. Žádná z verzí nebyla nikdy potvrzena.
+Třínohý Edgar nikdy nikomu neprozradil, odkud pochází. Na otázky ohledně svého původu odpovídal s úsměvem a absurdními, protichůdnými příběhy. Jednou byl padlým princem z království za hvězdami, podruhé výsledkem nepovedeného kouzla. Pravdu si nechal pro sebe.
+Pro historiky zůstává záhadou. Byl jediným známým zástupcem svého druhu, anomálií, která se objevila a zase zmizela. Bez znalosti, kterou nám o staletí později přinesl Agasus, byl jen bizarní poznámkou pod čarou. Ale pro lidi, kteří ho znali, byl živoucí lekcí. Lekcí o tom, že uprostřed největšího ideologického boje může být nejpřizpůsobivější a nejodolnější ten, kdo nevěří vůbec v nic.
