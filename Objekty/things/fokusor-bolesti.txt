@@ -1,0 +1,17 @@
+id: obj:things/fokusor-bolesti
+jmeno: Fokusor bolesti
+kategorie: things
+stav: zanikly (technologie ztracena)
+aliasy: Ozvěna agónie
+naposledy_upraveno: 2025-09-21
+
+Popis:
+Malé, přenosné zařízení používané specializovanými hlídkami Rezonujících během Války Ticha a Ozvěny. Skládalo se z fokusovaného krystalu a mentálního zesilovače. Umožňovalo operátorovi "naladit se" na mentální otisk oběti, najít její nejbolestivější nebo nejtraumatičtější vzpomínku a tuto ozvěnu zesílit do nesnesitelné míry, což vedlo k ochromení nebo mentálnímu kolapsu.
+
+Dějiny:
+- Třetí věk — Vyvinuto a používáno radikálními frakcemi Rezonujících.
+- cca -420 — Účinnost fokusoru byla neutralizována aurou pohlcující ozvěny, kterou vyzařoval kámen z Lomu tichých vzdechů (viz Příběhy/treti-vek/tichy-svedek.txt; Objekty/places/lom-tichych-vzdechu.txt).
+- 0 — Po Tichém úsvitu byla tato technologie, stejně jako ostatní zbraně Rezonujících, zničena a zakázána.
+
+Poznámky:
+Příklad zneužití technologie paměti pro účely mučení a kontroly.

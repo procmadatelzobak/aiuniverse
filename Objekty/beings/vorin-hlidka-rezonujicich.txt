@@ -1,0 +1,16 @@
+id: obj:beings/vorin-hlidka-rezonujicich
+jmeno: Vorin (hlídka Rezonujících)
+kategorie: beings
+stav: neznamy
+aliasy: Lovec bolestných ozvěn
+naposledy_upraveno: 2025-09-21
+
+Popis:
+Velitel tříčlenné hlídky Rezonujících, známý krutou efektivitou a specializací na fokusory bolesti. Patřil k frakci, která během Války Ticha a Ozvěny hlídala odlehlé oblasti Srdce světa a lovila odpůrce archivace paměti. Upřednostňoval psychické mučení před přímým bojem.
+
+Dějiny:
+- cca -420 — Pronásledoval přeživší vesnice v okolí Srdce světa a vedl zásah proti bylinkářce Lyře. V Lomu tichých vzdechů jeho fokusor bolesti selhal vlivem pohlcujícího ticha a Lyra unikla (viz Příběhy/treti-vek/tichy-svedek.txt; Objekty/things/fokusor-bolesti.txt; Objekty/places/lom-tichych-vzdechu.txt).
+- cca -420 — Pokusil se využít fokusor bolesti při výslechu vůdce Mlčících poutníků, ale aura ticha vytvořená Lyrou z kamene lomu zařízení vyřadila a zajatec byl osvobozen (viz Příběhy/treti-vek/tichy-svedek.txt; Objekty/things/fokusor-bolesti.txt).
+
+Poznámky:
+Jméno Vorin bylo v řádu Rezonujících běžné; není známo, zda měl přímý vztah k Vorinovi ze Silencie ani jak skončil po Tichém úsvitu.

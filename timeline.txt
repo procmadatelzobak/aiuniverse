@@ -46,6 +46,7 @@
 - **-700 (cca)**: Kaelen se stává Prvním mluvčím Rezonujících a zahajuje stavbu Věží Odkazu (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt; Objekty/beings/kaelen-prvni-mluvci.txt; Objekty/things/veze-odkazu.txt).
 - **-650 (cca)**: Lyra Beze Jména sjednocuje Mlčící poutníky (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt; Objekty/beings/lyra-beze-jmena.txt).
 - **-510 (cca)**: Obléhání Dubu paměti; střet mezi Rezonujícími a Mlčícími poutníky. Otevřený začátek Války Ticha a Ozvěny (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt; Objekty/events/valky-ticha-a-ozveny.txt).
+- **-420 (cca)**: Lom tichých vzdechů skryl bylinkářku Lyru před hlídkou Rezonujících; aura kamene utišila fokusor bolesti a umožnila záchranu vůdce Mlčících poutníků (viz Příběhy/treti-vek/tichy-svedek.txt; Objekty/places/lom-tichych-vzdechu.txt; Objekty/beings/lyra-tichy-svedek.txt; Objekty/things/fokusor-bolesti.txt; Objekty/beings/vorin-hlidka-rezonujicich.txt).
 - **-350 (cca)**: Bitva na Vyprahlých pláních zapomnění. Expedice Rezonujících je zničena zesílenou anomálií plání (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt).
 - **-1**: Rituál Mlčících poutníků stvořil Tichou prázdnotu, která pohltila západní Tiché vrchy a vůdce poutníků. Konec Války Ticha a Ozvěny (viz Příběhy/treti-vek/valky-ticha-a-ozveny.txt; Objekty/events/valky-ticha-a-ozveny.txt; Objekty/places/ticha-prazdnota.txt).
 
