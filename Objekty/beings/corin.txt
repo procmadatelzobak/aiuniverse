@@ -11,3 +11,4 @@ Idealistický a charismatický spoluzakladatel města Kamenný Most. Starší br
 Dějiny:
 - cca -2250 — Narodil se.
 - cca -2200 — Společně se svým bratrem Stellanem a skupinou následovníků zakládá na strategické křižovatce město Kamenný Most, postavené na kompromisu mezi svobodou a řádem (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/1.txt).
+- cca -2180 — S narůstajícími spory ve městě si jako první uvědomuje přítomnost cizí, zhoubné síly, která otravuje mysl obyvatel. Jeho idealistická vize se začíná hroutit tváří v tvář nevysvětlitelné paranoie a nenávisti (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/2.txt).

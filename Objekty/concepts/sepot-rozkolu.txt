@@ -1,0 +1,17 @@
+id: obj:concepts/sepot-rozkolu
+jmeno: Šepot Rozkolu
+kategorie: concepts
+stav: neutralizován
+aliasy: Šeptající Chřtán
+naposledy_upraveno: 2025-09-16
+
+Popis:
+Prastará, nehmotná entita vázaná na hlubokou propast pod Kamenným Mostem. Nebyla to bytost v pravém slova smyslu, ale spíše mentální a emoční parazit. Živila se negativními emocemi (závist, hněv, nedůvěra). Její modus operandi byl pasivní, ale zhoubný: zachytávala slabé negativní myšlenky a pocity z okolí, zesilovala je a "šeptala" je zpět jejich původcům i ostatním, čímž vytvářela spirálu paranoie a nenávisti, která nakonec vedla k sebezničení komunity.
+
+Dějiny:
+- Pradávno — Zrodila se v temnotě propasti, pravděpodobně jako pokřivená ozvěna Mlčícího.
+- cca -2180 — Její vliv se začíná projevovat v nově založeném městě Kamenný Most, kde způsobuje rozpad sociální struktury. Poprvé ji identifikuje Corin (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/2.txt).
+- Později v Druhém věku — Je umlčena a neutralizována aktivací Srdce Společenství.
+
+Poznámky:
+Není fyzicky nebezpečná, její síla je čistě psychologická a manipulativní.
