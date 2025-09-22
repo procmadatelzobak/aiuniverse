@@ -1,0 +1,14 @@
+id: obj:beings/corrado-architekt
+jmeno: Mistr Corrado
+kategorie: beings
+stav: mrtvy
+aliasy: Corrado Stavitel
+naposledy_upraveno: 2025-09-22
+
+Popis:
+Významný architekt a inženýr v řádu Rezonujících během Třetího věku. Byl jedním z hlavních projektantů několika Věží Odkazu a blízkým spolupracovníkem Prvního mluvčího Kaelena. Hluboce věřil v ideály Rezonujících a ve spásnou moc technologie a řádu. Jeho osobní deníky jsou jedním z mála dochovaných zdrojů, které detailně popisují stavbu a účel Věží.
+
+Dějiny:
+- cca -700 — Narodil se v Silencii.
+- -652 až -648 — Vede stavbu a je přítomen spuštění Stanice Sedm v Solné pustině (viz Příběhy/treti-vek/stanice-sedm.txt; Objekty/things/stanice-sedm.txt; Objekty/places/solna-pustina.txt).
+- -350 — Pravděpodobně zemřel během Bitvy na Vyprahlých pláních zapomnění.

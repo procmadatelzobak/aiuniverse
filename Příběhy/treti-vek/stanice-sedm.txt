@@ -1,0 +1,26 @@
+id: st:treti-vek/stanice-sedm
+nazev: Zápisky mistra Corrada, architekta Stanice Sedm
+era: treti-vek
+casovy_rah: -652 až -648
+autor: Mistr Corrado, architekt Rezonujících
+nemenny: ano
+
+Obsah:
+Úvodní záznam:
+Jmenuji se Corrado, jsem mistrem architektem v řádu Rezonujících, a toto je můj osobní deník, vedený během stavby Rezonanční Stanice Sedm. Píši jej, aby ti, kdo přijdou po nás, pochopili nejen jak jsme stavěli, ale především proč.
+Rok -652: Výběr místa
+Rozkaz přišel přímo od Prvního mluvčího Kaelena. Naším úkolem bylo "zakotvit paměť" v Solné pustině, nehostinné a prázdné oblasti na hranicích Vyprahlých plání. Moji kolegové to považovali za mrhání zdroji. Proč stavět monument paměti na místě, které nemá žádnou historii? Ale já jsem rozuměl Kaelenově vizi. Nebylo to o archivaci minulosti. Bylo to o stvoření budoucnosti. Stanice v pustině neměla naslouchat, měla vysílat. Měla vysílat signál řádu a smyslu do míst, která byla prázdnotou definována. Měla být hrází proti blížící se nákaze zapomnění z Vyprahlých plání.
+Jako místo jsem zvolil osamocený skalní monolit, který se zvedal ze solné pláně jako prst ukazující k nebi. Byla to dokonalá přirozená anténa.
+Rok -651 až -649: Stavba
+Stavba trvala tři roky. Tři roky boje se sluncem, větrem a samotnou zemí, která jako by odmítala přijmout naše dílo. Pracovali jsme ve směnách, stovky dělníků a řemeslníků. Kámen jsme lámali v dalekých horách a transportovali ho na hřbetech zvířat. Ale srdcem věže byly materiály z mé domoviny, ze Silencie.
+Stovky dokonale vybroušených Paměťových krystalů, každý velký jako lidská hlava, byly dopraveny v karavanách. Byly prázdné, tiché, čekající. A nejdůležitější byla slitina – zpívající stříbro. Měli jsme ho sotva dostatek na vytvoření centrálního rezonančního jádra a sítě vodičů, které se jako nervová soustava vinuly celou stavbou.
+Stanice samotná byla architektonický zázrak. Nebyla to hrubá pevnost. Byla štíhlá, elegantní, spirálovitě se stáčela k nebi do výšky tří set stop. Nebyla plná. V jejím středu byla otevřená šachta, od základů až po vrchol, kde bylo v komplexní soustavě zavěšeno jádro ze zpívajícího stříbra a největší z Paměťových krystalů – Srdce Stanice. Celá struktura byla navržena jako gigantický hudební nástroj. Vítr, který proudil šachtou, měl rozechvívat jádro a neustále ho udržovat v latentním stavu rezonance.
+Rok -648: Probuzení
+Den spuštění byl slavnostní. První mluvčí Kaelen přijel osobně. Stál se mnou na vrcholu věže, ve velitelské místnosti obložené menšími krystaly, které sloužily jako ovládací rozhraní. Pod námi se třpytila solná pláň.
+Kaelen byl hlavním operátorem. On měl provést první "naladění". Já, jako architekt, jsem měl za úkol monitorovat integritu struktury. Srdce Stanice bylo prázdné. Aby mohlo začít "zpívat", muselo mu být dáno téma. Základní píseň. Kaelen si pro tento účel přivezl malý, ale neuvěřitelně mocný fokusor, jehož jádro obsahovalo jedinou ozvěnu: tu nejsilnější a nejčistší vzpomínku na založení Silencie – ne na Vorinův zločin, ale na idealistický sen o dokonalé společnosti, který mu předcházel. Ozvěnu čisté naděje.
+Kaelen položil ruce na ovládací krystaly. Zavřel oči. Cítil jsem, jak se struktura věže napjala. Zpívající stříbro v jejích stěnách se rozezpívalo tichým, vysokým tónem. A pak Kaelen vypustil ozvěnu naděje do Srdce Stanice.
+Okamžik, kdy se Srdce probudilo, nikdy nezapomenu.
+Nebyl to zvuk. Byla to vlna. Vlna čistého, nezpochybnitelného smyslu, která se přelila pustinou. Solná pláň pod námi přestala být jen prázdnotou. V jediném okamžiku jako by získala historii a budoucnost. Vzduch, dříve prázdný, se naplnil pocitem očekávání. Byla to píseň tak dokonalá, tak plná řádu a naděje, že se mi do očí draly slzy.
+Stanice Sedm začala zpívat. Její píseň nebyla slyšet ušima. Byla to stálá, tichá mentální rezonance, která se šířila na míle daleko. Měla za úkol posilovat paměť, dávat smysl chaosu a vytvářet hráz proti zapomnění.
+Když jsme večer sestupovali, viděl jsem v Kaelenových očích triumf. "Vidíš, Corrado?" řekl. "Přinesli jsme paměť tam, kde žádná nebyla. Vyléčili jsme prázdnotu. Tohle je budoucnost."
+Tehdy jsem mu věřil. Tehdy jsem byl hrdý na své dílo. Netušil jsem, že náš maják naděje se stane jednou z příčin nejtemnější války. Netušil jsem, že píseň, kterou jsme stvořili, aby léčila, se stane zbraní, která bude nutit svět tančit v jediném, námi určeném rytmu. Ale to je příběh na jindy. V ten den, v srdci solné pustiny, jsme věřili, že jsme se dotkli dokonalosti.

@@ -1,0 +1,12 @@
+id: obj:places/solna-pustina
+jmeno: Solná pustina
+kategorie: places
+stav: trvaly
+aliasy: —
+naposledy_upraveno: 2025-09-22
+
+Popis:
+Nehostinná a převážně rovinatá oblast slanisek a popraskané hlíny, která tvoří nárazníkovou zónu mezi východním okrajem Srdce světa a Vyprahlými pláněmi zapomnění. Místo je téměř bez života a bez vlastní historie či silných ozvěn.
+
+Dějiny:
+- -652 — Vybrána Rezonujícími jako strategické místo pro stavbu Stanice Sedm, která měla čelit vlivu blízkých Vyprahlých plání (viz Příběhy/treti-vek/stanice-sedm.txt; Objekty/things/stanice-sedm.txt; Objekty/things/veze-odkazu.txt).

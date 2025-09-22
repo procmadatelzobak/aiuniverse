@@ -3,13 +3,14 @@ jmeno: Zpívající stříbro
 kategorie: materials
 stav: extrémně vzácné
 aliasy: —
-naposledy_upraveno: 2025-09-21
+naposledy_upraveno: 2025-09-22
 
 Popis:
 Vzácný kov, který se nacházel v hlubinných žilách v okolí Kráteru rezonance. Má unikátní vlastnost: nereaguje na teplo, ale silně rezonuje s mentálními a zvukovými frekvencemi, což z něj činí dokonalý zesilovač a vodič pro ozvěny. Byl klíčovou a nenahraditelnou součástí těl rezonančních fokusorů.
 
 Dějiny:
 - Třetí věk — Těžen a hojně využíván Rezonujícími.
+- -652 až -648 — Mistr Corrado z něj vytváří rezonanční jádro a vodiče Stanice Sedm, aby mohla vysílat píseň řádu do Solné pustiny (viz Příběhy/treti-vek/stanice-sedm.txt; Objekty/things/stanice-sedm.txt).
 - Konec Třetího věku — Většina známých nalezišť byla vytěžena.
 - cca -2170 — Stellan Stavitel z Kamenného Mostu použije skryté drátky a amulety ze zpívajícího stříbra, aby izoloval své spojence od Šepotu Rozkolu a aktivoval přetvořený Kámen Klidu (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/6.txt; Objekty/beings/stellan.txt).
 - Čtvrtý věk — Je považován za téměř vyhynulý materiál. Malé, nezpracované kousky jsou ceněnými artefakty.
