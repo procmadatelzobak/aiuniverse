@@ -10,6 +10,7 @@ Tajná a izolovaná frakce, která se ideologicky hlásí k odkazu Rezonujícíc
 
 Dějiny:
 - cca -2170 — Frakce je de facto založena Stellanem a jeho nejvěrnějšími následovníky v okamžiku, kdy aktivují Srdce Společenství a převezmou tichou kontrolu nad Kamenným Mostem (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/6.txt; Objekty/things/srdce-spolecenstvi.txt; Objekty/beings/stellan.txt).
+- cca -2170 — Okamžitě upevňují dědičnou vládu nad městem, přepisují oficiální legendy o mostu a skrývají Corinův odchod, aby udrželi iluzi společného vítězství a ochránili tajemství Srdce Společenství (viz Příběhy/druhy-vek/legenda-o-kamennem-mostu/7.txt; Objekty/beings/stellan.txt; Objekty/beings/corin.txt).
 - 0 — Pozdější legendy datují vznik skupiny do počátku Čtvrtého věku a připisují jej přeživším Rezonujícím; jde o vědomě šířený mýtus, který má zakrýt jejich skutečný původ (viz Objekty/things/srdce-spolecenstvi.txt).
 - +255 — Jejich existence a metody jsou odhaleny v Kamenném Mostě. Jejich vliv se pravděpodobně omezuje jen na několik izolovaných komunit (viz Příběhy/krehka-rovnovaha/pisen-zkreslena/1.txt).
 - +280 (cca) — Elara Vorinova ve třetí části své studie ukazuje, že jejich Srdce Společenství představuje extrémní evoluci Harmonického fokusoru a varuje před světem bez skutečné svobody (viz Příběhy/krehka-rovnovaha/studie-o-fokusorech/3.txt; Objekty/things/srdce-spolecenstvi.txt; Objekty/things/fokusor-harmonicky.txt).
