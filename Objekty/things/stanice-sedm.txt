@@ -1,0 +1,18 @@
+id: obj:things/stanice-sedm
+jmeno: Rezonanční Stanice Sedm
+kategorie: things
+stav: znicena
+aliasy: Sedmá věž
+naposledy_upraveno: 2025-09-22
+
+Popis:
+Sedmá a technicky nejpokročilejší z Věží Odkazu postavených Rezonujícími. Byla postavena v Solné pustině, nehostinné oblasti na okraji Vyprahlých plání. Na rozdíl od jiných věží, které primárně archivovaly existující ozvěny, jejím hlavním úkolem bylo aktivně vysílat "píseň řádu a paměti", aby čelila vlivu zapomnění a "civilizovala" prázdnotu. Byla považována za vrchol architektonického a rezonančního inženýrství své doby.
+
+Dějiny:
+- -652 až -649 — Stavěna pod vedením mistra architekta Corrada na základě rozkazu Prvního mluvčího Kaelena (viz Příběhy/treti-vek/stanice-sedm.txt; Objekty/beings/corrado-architekt.txt; Objekty/beings/kaelen-prvni-mluvci.txt).
+- -648 — Věž je slavnostně aktivována ("probuzena"). Její Srdce (centrální Paměťový krystal) je "naladěno" ozvěnou idealistického snu o založení Silencie (viz Příběhy/treti-vek/stanice-sedm.txt; Objekty/things/pametove-krystaly.txt; Objekty/materials/zpivajici-stribro.txt).
+- Třetí věk — Slouží jako klíčová strategická a ideologická bašta Rezonujících na východní frontě Války Ticha a Ozvěny (viz Objekty/events/valky-ticha-a-ozveny.txt).
+- 0 — Demontována v rámci smlouvy Tichý úsvit (viz Příběhy/ctvrty-vek/tichy-usvit.txt; Objekty/events/velke-ocisteni.txt).
+
+Poznámky:
+Její příběh ilustruje posun ve filozofii Rezonujících od pasivní archivace k aktivnímu formování a vnucování paměti.
