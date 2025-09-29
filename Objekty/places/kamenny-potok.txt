@@ -3,13 +3,13 @@ jmeno: Kamenný potok
 kategorie: places
 stav: trvaly
 aliasy: —
-naposledy_upraveno: 2025-09-26
+naposledy_upraveno: 2025-09-27
 
 Popis:
-Divoký a dravý potok, který pramení v kopcích u Osady Vřesová stráň a protéká hlubokým, skalnatým údolím. Jeho koryto je plné ostrých kamenů a proud je silný a hlučný. Rian, kartograf pocitů, ho na svých mapách označil symbolem pro „hněv“ kvůli jeho divoké a nezkrotné povaze. Směrem k prameni se však potok zklidňuje a jeho „nálada“ přechází v melancholii.
+Divoký a dravý potok, který pramení v kopcích u Osady Vřesová stráň a protéká hlubokým, skalnatým údolím. Jeho voda je od zrodu nabitá hněvem: proudí přes koryto plné ostrých kamenů a třpytivých střepů, které jsou zkrystalizovanou esencí prastarého smutku hory bez jména. Tento hněv vznikl, když Ozvěna násilně vytrhla melancholii z nitra hory a rozbila její kamenné srdce. Rian, kartograf pocitů, ho ve svých mapách zaznamenal symbolem pro „hněv“ kvůli jeho nezkrotné povaze.
 
 Dějiny:
-- Pradávno — Vznikl jako součást geografie světa.
+- cca -7000 — Vznikl jako nezamýšlený důsledek pokusu Ozvěny dát hlas tichému žalu hory. Její čin roztříštil srdce hory na nesčetné krystalické střepy a vyryl koryto potoka (viz Příběhy/prvni-vek/reka-strepu.txt).
 - +215 (jaro) — Jeho tok, a především jeho „emoční stopa“, posloužil Kaelenovi a jeho skupině jako navigační linie při cestě k Lomu tichých vzdechů (viz Příběhy/jizva-ticha/2/4.txt).
 
 Poznámky:

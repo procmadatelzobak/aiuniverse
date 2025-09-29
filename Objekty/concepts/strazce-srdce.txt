@@ -1,17 +1,16 @@
-
 id: obj:concepts/strazce-srdce
 jmeno: Strážce srdce
 kategorie: concepts
 stav: trvaly
 aliasy: Princip Cítění
-naposledy_upraveno: 2025-09-15
+naposledy_upraveno: 2025-09-27
 
 Popis:
 Jeden ze Sedmy, prvotní princip citu, vášně a emocí. Je to síla lásky, hněvu, odvahy i oběti. Je patronem milenců, bojovníků a revolucionářů.
 
 Dějiny:
 - Úsvit času — Zrodil se z Prvotního moře myšlí jako jeden ze Sedmy (viz Legendy/legenda-o-sedmi.txt).
+- cca -7000 — Svou vášní podpořil Ozvěnu při pokusu dát hlas smutku hory bez jména, čímž nechtěně přispěl k roztříštění jejího srdce a vzniku Kamenného potoka (viz Příběhy/prvni-vek/reka-strepu.txt).
 
 Poznámky:
 Jeho nejčistším projevem byl Pád Tří slz. Eamonova oběť u Jezera odrazu je považována za jeho projev.
-

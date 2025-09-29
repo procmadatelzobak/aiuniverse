@@ -3,15 +3,10 @@ jmeno: Rian
 kategorie: beings
 stav: mrtvy
 aliasy: Kartograf pocitů
-naposledy_upraveno: 2025-09-15
+naposledy_upraveno: 2025-09-27
 
 Popis:
-Kartograf a poutník z Druhého věku, obdařený vzácnou a tíživou schopností vnímat nálady a emoce
-krajiny. Pro Riana nebyl svět souborem fyzických míst, ale živoucí tapiserií pocitů – hněvu horských
-bystřin, smutku opuštěných lomů či tichého strachu prázdných údolí. Ostatními považován za podivína,
-opustil společnost, aby se pokusil zmapovat "duši" světa. Jeho cesta ho zavedla k hranicím vnímání u
-Jezera odrazu a k pochopení u Dubu paměti. Jeho životním dílem se stal Kamenný atlas, pokus přeložit
-pomíjivé pocity do věčného jazyka kamene, čímž se sám stal trvalou ozvěnou v paměti světa.
+Kartograf a poutník z Druhého věku, obdařený vzácnou a tíživou schopností vnímat nálady a emoce krajiny. Pro Riana nebyl svět souborem fyzických míst, ale živoucí tapiserií pocitů – hněvu horských bystřin, smutku opuštěných lomů či tichého strachu prázdných údolí. Ostatními považován za podivína, opustil společnost, aby se pokusil zmapovat "duši" světa. Jeho cesta ho zavedla k hranicím vnímání u Jezera odrazu a k pochopení u Dubu paměti. Jeho životním dílem se stal Kamenný atlas, pokus přeložit pomíjivé pocity do věčného jazyka kamene, čímž se sám stal trvalou ozvěnou v paměti světa.
 
 Dějiny:
 - -1550-03-12 — Narodil se v Osadě Vřesová stráň.
@@ -27,3 +22,4 @@ Dějiny:
 Poznámky:
 Jeho Kamenný atlas se stal trvalou součástí paměti světa, čitelnou pro jiné bytosti citlivé na hlas země.
 Jeho výjimečná schopnost cítit zemi je považována za dar od Sochaře.
+Ve svých mapách zaznamenal Kamenný potok symbolem „hněvu“, čímž nepřímo potvrdil legendu o jeho násilném zrodu (viz Příběhy/prvni-vek/reka-strepu.txt; Objekty/places/kamenny-potok.txt).

@@ -1,0 +1,16 @@
+id: obj:beings/kael-tvarovac
+jmeno: Kael Tvářovač
+kategorie: beings
+stav: nezvěstný (pravděpodobně ztracený)
+aliasy: Kael Kamenný
+naposledy_upraveno: 2025-09-27
+
+Popis:
+Jeden z Prvorozených, zrozený z myšlenek Sochaře na úsvitu věků. Byl mistrem formy a rozuměl řeči kamene a neživé hmoty. Na rozdíl od svého „bratrance“ Silase se nezajímal jen o velká geologická díla, ale i o jemné, vnitřní pocity a napětí ve skalách.
+
+Dějiny:
+- Úsvit času — Zrozen z myšlenky Sochaře.
+- cca -7000 — Byl přímým svědkem katastrofického zrození Kamenného potoka, které pramenilo ze sporu mezi Sochařem a Ozvěnou. Tato zkušenost hluboce formovala jeho chápání rovnováhy mezi tichem a výrazem (viz Příběhy/prvni-vek/reka-strepu.txt).
+
+Poznámky:
+Jeho osud po Tichém pádu je neznámý.
